@@ -42,7 +42,7 @@ var MAIN_SHEET_NAME           = 'offchain asset location';
 var SHIPMENT_LEDGER_LISTING   = 'Shipment Ledger Listing';
 var CURRENCIES_SHEET_NAME     = 'Currencies';
 
-var SCHEMA_VERSION = 1;
+var SCHEMA_VERSION = 2;
 var LOCK_TIMEOUT_MS = 30000;
 
 // ---------- Script property helpers ----------
@@ -203,6 +203,8 @@ function buildSnapshot_(trigger) {
           amount: amount,
           ledger: 'Main Ledger'
         };
+        var mainMeta = currenciesMap[currency] || {};
+        if (mainMeta.unit_weight_g != null) mgrEntry.unit_weight_g = mainMeta.unit_weight_g;
         var uc = parseFloat(unitCostRaw);
         if (!isNaN(uc)) mgrEntry.unit_cost_usd = uc;
         var tv = parseFloat(totalValRaw);
@@ -261,6 +263,8 @@ function buildSnapshot_(trigger) {
             amount: quantity,
             ledger: config.ledger_name
           };
+          var aglMeta = currenciesMap[prefixedName] || currenciesMap[assetName] || {};
+          if (aglMeta.unit_weight_g != null) mgrEntry.unit_weight_g = aglMeta.unit_weight_g;
           if (unitCost != null) {
             mgrEntry.unit_cost_usd = unitCost;
             mgrEntry.total_value_usd = round2_(quantity * unitCost);

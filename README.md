@@ -25,14 +25,14 @@ The authoritative data lives in Google Sheets:
 
 If this JSON looks wrong, the Sheets are authoritative. Regenerate by calling the publisher webhook (see [`gas/treasury-cache-publisher/README.md`](gas/treasury-cache-publisher/README.md)) — do **not** edit the JSON directly; the next run will overwrite your change.
 
-## JSON schema (v1)
+## JSON schema (v2)
 
 ```json
 {
   "generated_at": "2026-04-21T19:56:10Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
-  "schema_version": 1,
+  "schema_version": 2,
 
   "items": [
     {
@@ -57,9 +57,10 @@ If this JSON looks wrong, the Sheets are authoritative. Regenerate by calling th
         {
           "currency": "[AGL14] Oscar Bahia Ceremonial Cacao 200g",
           "amount": 40,
+          "ledger": "AGL14",
+          "unit_weight_g": 200,
           "unit_cost_usd": 7.12,
-          "total_value_usd": 284.80,
-          "ledger": "AGL14"
+          "total_value_usd": 284.80
         }
       ]
     }
@@ -73,10 +74,16 @@ If this JSON looks wrong, the Sheets are authoritative. Regenerate by calling th
     "item_types": 42,
     "total_units": 1234,
     "total_value_usd": 9876.54,
-    "ledgers_processed": 15
+    "ledgers_processed": 15,
+    "managers_count": 38
   }
 }
 ```
+
+### Changelog
+
+- **v2 (2026-04-21)** — added `unit_weight_g` to `managers[].items[]` (needed by `shipping_planner.html` → `get_inventory` compat). `schema_version` bumped. Additive only; v1 consumers keep working.
+- **v1 (2026-04-21)** — initial release.
 
 ### Field notes
 
