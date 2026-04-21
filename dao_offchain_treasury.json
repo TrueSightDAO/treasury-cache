@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-21T22:48:36.450Z",
+  "generated_at": "2026-04-21T23:48:34.490Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 2,
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2307.5165,
+      "unit_cost_usd": 2324.1409000000003,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1138,7 +1138,9 @@
         {
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 2324.1409000000003,
+          "total_value_usd": 1.1043394308309174e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1167,7 +1169,9 @@
         {
           "currency": "USDT",
           "amount": 66.9280758999999,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 66.9280758999999
         },
         {
           "currency": "[SEF1] USD",
@@ -1352,7 +1356,9 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
           "amount": 15,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200
+          "unit_weight_g": 200,
+          "unit_cost_usd": 2.4043643608428553,
+          "total_value_usd": 36.06546541264283
         }
       ]
     },
@@ -1471,7 +1477,9 @@
         {
           "currency": "Label Maker",
           "amount": 1,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 44.99,
+          "total_value_usd": 44.99
         },
         {
           "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
@@ -1708,7 +1716,9 @@
         {
           "currency": "USD",
           "amount": 34,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 34
         }
       ]
     },
@@ -2036,7 +2046,9 @@
         {
           "currency": "CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027",
           "amount": 1,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 162.37,
+          "total_value_usd": 162.37
         },
         {
           "currency": "Cacao Nibs Kraft Pouch",
@@ -2077,7 +2089,9 @@
         {
           "currency": "Winnowing and Cracking Machine from Rusty",
           "amount": 1,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 400,
+          "total_value_usd": 400
         }
       ]
     },
