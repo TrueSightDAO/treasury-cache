@@ -426,12 +426,12 @@ function renderMarkdown_(snapshot) {
   lines.push('| Managers | ' + snapshot.totals.managers_count + ' |');
   lines.push('');
 
-  // Top items table
-  lines.push('## Items (top 50 by total quantity)');
+  // Full items table, sorted by total quantity desc
+  lines.push('## Items (' + snapshot.items.length + ', sorted by total quantity)');
   lines.push('');
   lines.push('| Currency | Units | Unit cost USD | Total value USD | Ledgers |');
   lines.push('|---|---:|---:|---:|---|');
-  snapshot.items.slice(0, 50).forEach(function(it) {
+  snapshot.items.forEach(function(it) {
     var cost = it.unit_cost_usd != null ? '$' + it.unit_cost_usd.toFixed(2) : '—';
     var tv = it.total_value_usd != null ? '$' + it.total_value_usd.toFixed(2) : '—';
     var ledgerStr = Object.keys(it.ledgers).sort().map(function(k) {
@@ -439,10 +439,6 @@ function renderMarkdown_(snapshot) {
     }).join(', ');
     lines.push('| ' + escapePipes_(it.currency) + ' | ' + it.total_quantity + ' | ' + cost + ' | ' + tv + ' | ' + escapePipes_(ledgerStr) + ' |');
   });
-  if (snapshot.items.length > 50) {
-    lines.push('');
-    lines.push('_… ' + (snapshot.items.length - 50) + ' more item types in `dao_offchain_treasury.json`._');
-  }
   lines.push('');
 
   // Per-ledger unit totals
