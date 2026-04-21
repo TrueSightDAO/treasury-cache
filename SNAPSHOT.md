@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-21T19:40:00.430Z` |
+| Generated at | `2026-04-21T19:45:24.705Z` |
 | Trigger | `manual` |
 | Schema version | `1` |
 | Item types | 82 |
@@ -14,7 +14,7 @@
 | Ledgers processed | 13 |
 | Managers | 38 |
 
-## Items (top 50 by total quantity)
+## Items (82, sorted by total quantity)
 
 | Currency | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---:|---:|---:|---|
@@ -68,8 +68,38 @@
 | 8 Ounce Package Kraft Pouch - AGL6 | 9 | $9.21 | $82.93 | AGL6: 9 |
 | 8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags | 7 | $8.34 | $58.41 | Main Ledger: 7 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 7 | $23.98 | $167.83 | Main Ledger: 7 |
-
-_… 32 more item types in `dao_offchain_treasury.json`._
+| 8 Ounce Package Kraft Pouch - AGL2 + V2 bags | 5 | $7.49 | $37.47 | Main Ledger: 5 |
+| Large Cardboard Box for Moving Packaging 60x40x50 | 5 | $2.65 | $13.27 | Main Ledger: 5 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8 | 5 | $9.18 | $45.88 | AGL8: 5 |
+| Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409) | 4 | $10.45 | $41.81 | Main Ledger: 4 |
+| Cacao Mass Bar (40grams) CP340993869BR - AGL8 | 3.75 | $1.90 | $7.11 | AGL8: 3.75 |
+| 8 Ounce Package Kraft Pouch QN226716310BR - FounderHaus Brazil | 3 | $8.59 | $25.78 | Main Ledger: 3 |
+| Cacao Husk Bag (weight unknown) | 3 | — | — | Main Ledger: 3 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251107 \| San Francisco - AGL8 | 3 | $8.32 | $24.95 | Main Ledger: 3 |
+| Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | 3 | $5.19 | $15.56 | Main Ledger: 3 |
+| Cacao Almonds KG - Organic | 2.3025149999999996 | $100.89 | $232.29 | Main Ledger: 2.3025149999999996 |
+| Cacao Molasses 250ml + 74 4476 6210 San Francisco | 2 | $12.14 | $24.29 | Main Ledger: 2 |
+| Foam container box - 120 kraft pouches capacity | 2 | $24.11 | $48.22 | Main Ledger: 2 |
+| Label Maker | 2 | $44.99 | $89.98 | Main Ledger: 2 |
+| 22 Litres Insulated Box | 1 | $6.26 | $6.26 | Main Ledger: 1 |
+| Agroverse Retractable Banner | 1 | $72.57 | $72.57 | Main Ledger: 1 |
+| Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600) | 1 | $9.17 | $9.17 | Main Ledger: 1 |
+| ATOLOMOTOR Coffee Bean Roaster | 1 | $86.89 | $86.89 | Main Ledger: 1 |
+| Cacao Mass Bar CP340992687BR (500grams) | 1 | $21.54 | $21.54 | Main Ledger: 1 |
+| Canopy 4ft X 6ft with 2 years warranty | 1 | $62.93 | $62.93 | Main Ledger: 1 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + Cacao Mass Bar CP340993299BR  San Francisco | 1 | $9.08 | $9.08 | Main Ledger: 1 |
+| Chocolate Wrapper Die Cutter from Rusty | 1 | $0.00 | $0.00 | Main Ledger: 1 |
+| Collapsible Foldable Wagon Beach Cart | 1 | $54.30 | $54.30 | Main Ledger: 1 |
+| CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027 | 1 | $162.37 | $162.37 | Main Ledger: 1 |
+| Hastings Serving Kettle Black - 1.5L | 1 | $47.99 | $47.99 | Main Ledger: 1 |
+| Hastings Serving Kettle White - 1.5L | 1 | $47.99 | $47.99 | Main Ledger: 1 |
+| Heat Sealer for Kraft Pouch | 1 | $28.11 | $28.11 | Main Ledger: 1 |
+| Heat Sealer for Kraft Pouch - Brazil | 1 | $24.70 | $24.70 | Main Ledger: 1 |
+| Label Maker - Brazil | 1 | $35.03 | $35.03 | Main Ledger: 1 |
+| Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
+| Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
+| Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
+| ETH | 4.751602757091522e-14 | $2300.75 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
