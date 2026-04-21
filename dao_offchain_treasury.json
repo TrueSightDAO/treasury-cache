@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-04-21T20:48:37.934Z",
+  "generated_at": "2026-04-21T21:15:12.533Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "manual",
   "schema_version": 1,
   "items": [
     {
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2317.8677000000002,
+      "unit_cost_usd": 2312.4204,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
