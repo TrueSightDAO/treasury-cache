@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:28:08.827Z",
+  "generated_at": "2026-04-22T21:35:28.929Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -393,6 +393,16 @@
       }
     },
     {
+      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.315440379611111,
+      "total_quantity": 17,
+      "total_value_usd": 141.36,
+      "ledgers": {
+        "Main Ledger": 17
+      }
+    },
+    {
       "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + CP340993838BR - Zurich",
       "unit_weight_g": null,
       "unit_cost_usd": 9.45,
@@ -400,16 +410,6 @@
       "total_value_usd": 151.2,
       "ledgers": {
         "Main Ledger": 16
-      }
-    },
-    {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.315440379611111,
-      "total_quantity": 15,
-      "total_value_usd": 124.73,
-      "ledgers": {
-        "Main Ledger": 15
       }
     },
     {
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2397.3919,
+      "unit_cost_usd": 2398.1574,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1116,8 +1116,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2397.3919,
-          "total_value_usd": 1.1391453961868882e-10
+          "unit_cost_usd": 2398.1574,
+          "total_value_usd": 1.1395091313779437e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1802,10 +1802,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
-          "amount": 15,
+          "amount": 17,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.315440379611111,
-          "total_value_usd": 124.73160569416666
+          "total_value_usd": 141.3624864533889
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
@@ -2097,8 +2097,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 29696.626972040754,
-    "total_value_usd": 38368.36,
+    "total_units": 29698.626972040754,
+    "total_value_usd": 38384.99,
     "ledgers_processed": 13,
     "managers_count": 38
   }
