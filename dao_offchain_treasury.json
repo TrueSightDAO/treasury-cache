@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T21:35:28.929Z",
+  "generated_at": "2026-04-22T21:36:00.118Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -987,13 +987,6 @@
           "total_value_usd": 9.21
         },
         {
-          "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
-          "amount": 1,
-          "ledger": "AGL6",
-          "unit_cost_usd": 8.517187353,
-          "total_value_usd": 8.52
-        },
-        {
           "currency": "[AGL6] USD",
           "amount": 1287.5853362811577,
           "ledger": "AGL6",
@@ -1793,6 +1786,13 @@
       "manager_name": "Secrets of the Garden - Kirstin",
       "manager_key": "Secrets%20of%20the%20Garden%20-%20Kirstin",
       "items": [
+        {
+          "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
+          "amount": 1,
+          "ledger": "AGL6",
+          "unit_cost_usd": 8.517187353,
+          "total_value_usd": 8.52
+        },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 2,
