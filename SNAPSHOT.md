@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-22T21:27:33.614Z` |
+| Generated at | `2026-04-22T21:28:08.827Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 82 |
-| Total units | 29695.626972040754 |
-| Total value USD | $38360.05 |
+| Total units | 29696.626972040754 |
+| Total value USD | $38368.36 |
 | Ledgers processed | 13 |
 | Managers | 38 |
 
@@ -57,9 +57,9 @@
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | 20 | $8.38 | $167.51 | Main Ledger: 20 |
 | 81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco | 17 | $2.05 | $34.87 | Main Ledger: 17 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 16 | $9.45 | $151.20 | Main Ledger: 16 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | 15 | $8.32 | $124.73 | Main Ledger: 15 |
 | Cacao Almonds KG from Vivi's farm - AGL13 | 15 | $7.87 | $118.05 | AGL13: 15 |
 | Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | 14.6802 | $0.00 | $0.00 | AGL8: 14.6802 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | 14 | $8.32 | $116.42 | Main Ledger: 14 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | 12 | $8.09 | $97.02 | AGL10: 12 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | 11 | $8.52 | $93.69 | AGL6: 11 |
 | 8 Ounce Package Kraft Pouch CP340992687BR | 10 | $8.88 | $88.79 | Main Ledger: 10 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2394.80 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2397.39 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -112,7 +112,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1332.5853362811577 |
 | AGL8 | 7 | 1225.3613227979984 |
-| Main Ledger | 67 | 11264.492800497605 |
+| Main Ledger | 67 | 11265.492800497605 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -126,7 +126,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 30 | 11484.47433677876 |
+| Gary Teh | 29 | 11483.47433677876 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
 | HackerDojo | 1 | 5 |
@@ -147,7 +147,7 @@
 | Rune Shields | 2 | 5 |
 | Sacred Earth Farms | 3 | 316 |
 | Sammi Whitchurch | 1 | 5 |
-| Secrets of the Garden - Kirstin | 4 | 20 |
+| Secrets of the Garden - Kirstin | 4 | 22 |
 | Shannon Barlow - Ponderosa | 2 | 6 |
 | Shuar Design Boutique | 2 | 30 |
 | SunMint Tree Planting Contract - agl4 | 1 | 176 |
