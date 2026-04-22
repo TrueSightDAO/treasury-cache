@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T22:42:56.818Z",
+  "generated_at": "2026-04-22T22:43:26.299Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -1093,10 +1093,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 12,
+          "amount": 11,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 101.92559764341169
+          "total_value_usd": 93.43179783979406
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
@@ -1115,9 +1115,7 @@
         {
           "currency": "Heat Sealer for Kraft Pouch",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 28.11,
-          "total_value_usd": 28.11
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Label Maker",
@@ -1214,9 +1212,7 @@
         {
           "currency": "USD",
           "amount": 66,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 66
+          "ledger": "Main Ledger"
         }
       ]
     },
@@ -1421,7 +1417,9 @@
         {
           "currency": "Hastings Serving Kettle White - 1.5L",
           "amount": 1,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 47.99,
+          "total_value_usd": 47.99
         },
         {
           "currency": "Label Maker",
@@ -1456,6 +1454,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.315440379611111,
           "total_value_usd": 16.630880759222222
+        },
+        {
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 8.493799803617641,
+          "total_value_usd": 8.493799803617641
         }
       ]
     },
@@ -1567,9 +1572,7 @@
         {
           "currency": "Foam container box - 120 kraft pouches capacity",
           "amount": 2,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 24.109726042075938,
-          "total_value_usd": 48.219452084151875
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
@@ -1598,9 +1601,7 @@
         {
           "currency": "Mercado Libre 80Kg Hand Truck",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 38.35,
-          "total_value_usd": 38.35
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409)",
@@ -1817,9 +1818,7 @@
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 8.375283531111112,
-          "total_value_usd": 8.375283531111112
+          "ledger": "Main Ledger"
         }
       ]
     },
@@ -1974,7 +1973,9 @@
         {
           "currency": "CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027",
           "amount": 1,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 162.37,
+          "total_value_usd": 162.37
         },
         {
           "currency": "Cacao Nibs Kraft Pouch",
