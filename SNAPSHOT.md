@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-22T21:36:20.121Z` |
-| Trigger | `movement` |
-| Schema version | `1` |
+| Generated at | `2026-04-22T21:48:35.736Z` |
+| Trigger | `cron` |
+| Schema version | `2` |
 | Item types | 82 |
-| Total units | 29698.626972040754 |
-| Total value USD | $38384.99 |
+| Total units | 29700.626972040754 |
+| Total value USD | $38402.02 |
 | Ledgers processed | 13 |
 | Managers | 38 |
 
@@ -60,8 +60,8 @@
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 16 | $9.45 | $151.20 | Main Ledger: 16 |
 | Cacao Almonds KG from Vivi's farm - AGL13 | 15 | $7.87 | $118.05 | AGL13: 15 |
 | Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | 14.6802 | $0.00 | $0.00 | AGL8: 14.6802 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | 13 | $8.52 | $110.72 | AGL6: 13 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | 12 | $8.09 | $97.02 | AGL10: 12 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | 11 | $8.52 | $93.69 | AGL6: 11 |
 | 8 Ounce Package Kraft Pouch CP340992687BR | 10 | $8.88 | $88.79 | Main Ledger: 10 |
 | Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409) | 10 | $0.93 | $9.29 | Main Ledger: 10 |
 | SunMint Tree Planting Pledge - QR Code | 10 | $0.00 | $0.00 | PP1: 10 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2398.75 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2405.32 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -110,7 +110,7 @@
 | AGL14 | 1 | 40 |
 | AGL15 | 1 | 6095.84 |
 | AGL4 | 1 | 9036.347512464 |
-| AGL6 | 3 | 1332.5853362811577 |
+| AGL6 | 3 | 1334.5853362811577 |
 | AGL8 | 7 | 1225.3613227979984 |
 | Main Ledger | 67 | 11267.492800497605 |
 | PP1 | 1 | 10 |
@@ -147,7 +147,7 @@
 | Rune Shields | 2 | 5 |
 | Sacred Earth Farms | 3 | 316 |
 | Sammi Whitchurch | 1 | 5 |
-| Secrets of the Garden - Kirstin | 5 | 25 |
+| Secrets of the Garden - Kirstin | 5 | 27 |
 | Shannon Barlow - Ponderosa | 2 | 6 |
 | Shuar Design Boutique | 2 | 30 |
 | SunMint Tree Planting Contract - agl4 | 1 | 176 |
