@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-04-22T06:24:55.363Z",
-  "schema_version": 1,
+  "generated_at": "2026-04-22T06:42:32.168Z",
+  "schema_version": 2,
   "source": "dao_members_cache_publisher",
   "trigger": "manual",
   "counts": {
     "contributors": 11,
     "active_public_keys": 41
+  },
+  "dao_totals": {
+    "voting_rights_circulated": 2341222.105540399,
+    "total_assets": 15086.57866,
+    "asset_per_circulated_voting_right": 0.00644,
+    "usd_provisions_for_cash_out": 32.41528
   },
   "contributors": [
     {
