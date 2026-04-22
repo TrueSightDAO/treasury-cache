@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22T22:48:34.797Z",
+  "generated_at": "2026-04-22T23:48:41.346Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 2,
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2397.0884,
+      "unit_cost_usd": 2376.972,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1123,8 +1123,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2397.0884,
-          "total_value_usd": 1.1390011850432105e-10
+          "unit_cost_usd": 2376.972,
+          "total_value_usd": 1.1294426708729351e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
