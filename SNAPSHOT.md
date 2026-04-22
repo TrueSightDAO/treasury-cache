@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-22T22:43:41.501Z` |
+| Generated at | `2026-04-22T22:43:56.893Z` |
 | Trigger | `expense_processing` |
 | Schema version | `1` |
 | Item types | 82 |
@@ -126,7 +126,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 28 | 11361.01433677876 |
+| Gary Teh | 28 | 11359.01433677876 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
 | HackerDojo | 1 | 5 |
@@ -136,7 +136,7 @@
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
 | Kirsten Ritschel | 18 | 1262 |
-| Lumin Earth Apothecary - Summer and Sierra | 3 | 4 |
+| Lumin Earth Apothecary - Summer and Sierra | 3 | 6 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
 | Miss Tomato - Asad | 1 | 10 |
