@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-22T22:43:26.299Z` |
-| Trigger | `movement` |
+| Generated at | `2026-04-22T22:43:41.501Z` |
+| Trigger | `expense_processing` |
 | Schema version | `1` |
 | Item types | 82 |
 | Total units | 29580.166972040755 |
