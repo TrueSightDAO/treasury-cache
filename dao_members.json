@@ -1,0 +1,335 @@
+{
+  "generated_at": "2026-04-22T06:24:55.363Z",
+  "schema_version": 1,
+  "source": "dao_members_cache_publisher",
+  "trigger": "manual",
+  "counts": {
+    "contributors": 11,
+    "active_public_keys": 41
+  },
+  "contributors": [
+    {
+      "name": "Alexandre Fernandes",
+      "voting_rights": 400,
+      "total_voting_power_pct": "0.00017085094107620872",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-08-27T16:02:14.000Z",
+          "last_active_at": "20250904 18:50:38"
+        }
+      ]
+    },
+    {
+      "name": "Elizabeth Wong",
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu+WcdQ80UGc07EoCBuONfVs7yo53qwPrFCUFTx4uafMe8pA7uth0v/99yYg2rqvd2ax65PzbIE49b8xpZNvP6BiYhARWU8fQlhIeDDzgZ/ebLBQv58ViwZB4vb7tJTjmmOE88vyqu24puT4k8zZt9Trgoe148TrRyPwI3uciC1rFE1KFduea1D8DYAxpyqD6jMfO7rUx+QUMeVJ6Pt/ZdP+czIr4m5sPWxpXbkZX2gFiYiSg2Q4nyCBbDjmiev3eCrnahvUubtGZ5Uz1RNFt77NoF6MuzGrYYIe42bNZFoYM6/0tpaS59MFqsuP2byhGAeHadb7WnYIU5VI74qqijwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-21T10:16:17.000Z",
+          "last_active_at": "2026-04-21T10:17:54.000Z"
+        }
+      ]
+    },
+    {
+      "name": "Francine Cabral",
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035579708479120464",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwG3Aju3ccffgmXcyLRHf85KXdi0aS3Piq8yiacsX8WNG1cxh6ucxdtbymFXBB8+TgAww+9UOj+heth4ovsdgWGm4ceDRmERdEvBazV+VtQE4xlVAZJ+CVCcJ0nHwsw126SJZNySE7YRls2l7h421My5qS2sNtxzsRRgO3sNBBSCb4X1FSR8O0F/mQHSIewCzqsotfNwIaI0eBNxkTjwtpqgqjsMAUYg3Nwn0ASxqUFIR8lLYUvnz45CY/5G0Vu56bZa7pbz12OZv3XGlmXZZ0Yy6TNrvRIW5AonueGE0IYVkoEDhWCW87EgxB+yiVA7NzYcY+pJXpPTy4pIrJL47OwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20250917 12:16:59"
+        }
+      ]
+    },
+    {
+      "name": "Garis Pang",
+      "voting_rights": 67653.33,
+      "total_voting_power_pct": "0.028896587743598257",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz0o7Op4N8eyBeDJe6+PZqXQNuOZTyZLCQW20em/Mfx6WS8lO12/mlL2JCysDaLQsrXKklJ+OshBKdHf5S0UhxyQQNzi0XuakuZiaGEO6WUfycDBtFx+9R145vTsdtyxmwbhaWPZS6WI5eMLWYGEk9HYJEf2s/kgAndirOW2Vi9XaPsfcbxo6YkOBW+B5huzBJllYg6+akT1Bv2au21GD13ykRA8Lk4b7vxy8NYMKT3C+2ludwwx/LKIdt6zi1UXUEJCz1y4GRFIUP6XTGQfwn/EJfqR/oMviwvhve3Yi9z7jiCXTrnsueObGHVO9KMjlz6vHumKS0byC0DukKmdHOQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-02-14T19:07:11.000Z",
+          "last_active_at": "20260305 00:46:06"
+        }
+      ]
+    },
+    {
+      "name": "Gary Teh",
+      "voting_rights": 955414.0606520539,
+      "total_voting_power_pct": "0.4080834784496134",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvqRyznTL3PdBJcdY3gLiSk+ZotZd5ZB19sPEB1HYlQQFSmxl/mCSy+mJ8l0cVJD9Rr8oej0Catp8ChVlsTs7oWnd/3Kwi4Pdu54NKlcI8d3UXsnhI3kGINqnW7QPk22rGri6hhvIOyjwRxy2aYCPdqZdkiIRIvRS+nc4fSTNbtvfm8qazse8f8WJRivws85JbuhEvES0Yp5aBMpm41HFLJQd+IvT8PQznshpSL8io7dsKn1/rhsVE9Ng8aPI1BaDAMzIGzhMfJD6FvVxOkl9VtSPI8a7uJypuDj6pxC5QwXcciVAkvVfvjLrOFt88wyT7rMzhKomXBRYSfZiL9eYdQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20250706 15:50:30"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6NGsJ+3Z5xiHMvVhNBVoDDv9Orxfvz4g8dbLxUSvSmv0cTea6464L6wHWnyiu4B4PTkLn2s1KjNbr6SLDaxojatlVuJ6NGbu0lnk95Y9yKSOjdIyEn5KeloZW4bsBGwGaPLOFB5+eZj86petdgT5uSqavvQK3obCt7q6Cu5/ajPtdDyLlwZAmnxq1AIiruX9UASowc8U+piRWs5PBHBdcaSEuEVkJJOWb5HKWMcXPnPHcfyjAlwOwAdmr7evR5NLtSut6IIztV03trRk8vXzcCvq1xoRNBh8AKfN56WoFZnzVlX+h4FCnA1KcWuDuTiAA8/s2laEuFSrRNxZVQu6aQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20250706 15:50:56"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6NGsJ+3Z5xiHMvVhNBVoDDv9Orxfvz4g8dbLxUSvSmv0cTea6464L6wHWnyiu4B4PTkLn2s1KjNbr6SLDaxojatlVuJ6NGbu0lnk95Y9yKSOjdIyEn5KeloZW4bsBGwGaPLOFB5+eZj86petdgT5uSqavvQK3obCt7q6Cu5/ajPtdDyLlwZAmnxq1AIiruX9UASowc8U+piRWs5PBHBdcaSEuEVkJJOWb5HKWMcXPnPHcfyjAlwOwAdmr7evR5NLtSut6IIztV03trRk8vXzcCvq1xoRNBh8AKfN56WoFZnzVlX+h4FCnA1KcWuDuTiAA8/s2laEuFSrRNxZVQu6aQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": ""
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuEFYA91EyDGo+1POPNh6VrLgYGtLdY/7F3SKGFrWCEzTDEwRu443r1J91TcZpJkj1eJrdMC/9mmTuK+3CgZ90KxEYuWWWbG128yNnSQ9isr0F2sTQXXEjEWuawalVb/b/qrCK2PDIz1CfvFN3+O0kGwtEEcEqOWuNUlJl8wLBO4TZC/05Fd1JRDkXD4YRN+wr2DrhjazHqZmxRP8NcQmswW4kBCHzAdraM5c/MGPMwolwUaz3MJzi5wk2mAAeFlaQyGInsi8V4L5teNfmFWGKvlfToCbzpbjNZmLK+HklPjIf/n5WuHSSWS+2d+0bicpqsaxysgPbS8lYJyyQtllMwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-06T23:54:32.000Z",
+          "last_active_at": "20250706 17:14:52"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0D70xOu3BmuhnWJ5sAXdmJyglssswFUqcjjESrwdEeygjXkQaMcckbW4dt4Q6CmlHUKPshMDfy8Zrp+hVvr6WE6oC4cZe/faL20xNCmS0wos8w+USdvoGbvEC6yMop6XGR3r29fDwK1JohrXXrMpPYT3KYM6NlVvBnjOEejvOg0H1tWxwVXSMPwxfrPDJbfpY7oI+mK+lPbVsnuilKH7GCMTQMG1wlwo69nan5uIahtYl5WYCt7SuOYe91ziryNtJSweZK+9Vxv6k5oyopPxTZ+r5EMIneT0jsOZR7svp5rpSuEOP+1KSZ2dpHqgKw+OoGUXHbs0ANJwriV8erOAywIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-07T00:24:37.000Z",
+          "last_active_at": "20260416 19:06:02"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtIsKqiUUFFsNS5djisbJ3Zf9XNMMZ9cmFabn2grfEmJlDLEHcdNbPqgwq40iLntHXnGgSr/4QsG6J46MGnc9D7lWBWfp0kFC4vLPOtxJP4RScwEZuVculnGaslZ3+BgItuT9mLVvPBJEvggOMegK85sHXyH6YKhZURqAlXpW1WUXOaRkMw5peBsGziNzJV0E5J1530qIs8EaUwx3JzBcqjsUB2rnycOucS+hjHe2wRE6GU9bVBv4hRZ4j98rN65JdLPh5PVkrFnG8Z57IEsaYAWkkRHZ19aep2E0TJTuUxL8bDdG3WGJec9cFMsBDOsr/soUOIeG7Ro0MT68wdL/WwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-07T01:07:19.000Z",
+          "last_active_at": "20250706 18:08:21"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-07T01:07:19.000Z",
+          "last_active_at": "20250815 13:25:18"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAm6HCeMCY3dqsjqllsT5a9qDtqO1yHbqmhjjwrOrt9DkrTX+1fLxmkAINdaEicwCs9hKf2KDtv7gsFCwiaTgMhzt/fvObxhFOngRGQMcw2OzdlwdhLCKHKwJ3oNB9H90Gj4bmlwgXWPBPiNxukvBnIfiAKyN/UqfIhPFYrK+QwIm47JBZ9S/iGzSkpUpClThyityEzX1DwZtu9IBdllhM3S0Bj7j1OdVJsqCgY8PjpYG+ZgW9AD2BebYL/ZMIXsatKak/fLHBpYss/Yl/NudTp8IuGweHWXpd+0vUxaI8CNYT16ejtZNZVjcQSwAMxIzz5ZTwIrpvTEq8RcTaVwM3EwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-07T01:07:19.000Z",
+          "last_active_at": "20250706 20:02:33"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA27CL2T7+75YfGbuYnwRubSfjYOxAQdBvzxsjJ+W4a5iPF1r8nR4+Ekwth/dhe4tfr7ESwDxY40sYWC6CzHF271g9tvwu2x0JSfy0zwYj2M4TsmM93oKv2JJr9hFoDq5ofnDcyLmtBWB8Q5PPhqCqTuSNsbUQtrJlreFXM+QQ2kzi5CeGk5IgeRB5IFnVDkKJ1xMJwLEIoRX9Z8Z1CA2mu2dHmEnyYfZHNLojvxz7VBq/tnCDYjJDCQfz5N61zzDftLp/B4intR4yKUgHp4csx0HNsl3z744SdkjHepHSLJdOBVL/7QYpIed5pRpqkT6Lxs8griF0e7nBxidVoVsQWwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-07T22:26:21.000Z",
+          "last_active_at": "20250815 11:33:28"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-07T22:56:20.000Z",
+          "last_active_at": "20260421 21:27:12"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjkm4wLOoEBIwiyd2WNYbA+BabPyao+N54ml/qfL5P6zJ+5k70/5TTs1ciCWEU9YqpB2L1oBFu677Eb3IcE2gBlPc4S6P9w59lea8tgXRoIWT72gjq5NsBJ3A4lYFqlQ1+ZJj+P4WOsC+0Ckm4ZFOd3lMWZx4SFOCBJcdc0m2xZwmeWQkZsaNR34XgshC5wzl+Ufcp45LOVnKHUGDYhmsiUr0GMK6F6lk8ginWIwJgxMYKioKSZYS+MZzmJ1699yvc1YP/86bO/07InBVJMmMXcASf18hW4q9jrdgRf0If5j5SD54gWaJsi6cb2vDm5Ri5fLXQtp+JNtcfu84UX2clwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-08T07:56:21.000Z",
+          "last_active_at": "2025-07-08T07:56:21.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1fm6l6JpB0w2JJ1S6r+83u0rLR7vRldsJuwdzRZycqNoqCtOOej3RuXkco9vw70E1mhtUAkTm5lpHQDDw4kD4qbOrzC8NIufpXkleqEDzJhnD/6xKYpskKI6z8VIQf4cVqi/mOhc2Bjt76MobXF+916QoEJoBdG5ycmQTWrNcFAU7flzBXSmLA/1uxY0OKLkUrkr6Tpg6h49ewGyOWwI73mDbuhS0JoDd1o2oYvcfBSpIuEig4wspRFL1z4BJuB4xH45j8DZ4UxtuYHswHuA6evujaUqscyYVKJxIh4X07YL0JCmdE8Y2xAew0bmtmA1T+EnglLs8lsQMA4ZcIYnWwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-14T23:33:53.000Z",
+          "last_active_at": "2025-07-14T23:33:53.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnKJi6nFF57toqHrf7KdEN8vZyrIFl7ZodcqxReWVkv12MIz/1ShxavbHyxgtJ7Mk6cGsB2UuoFj381jSNofYA3i2PDhTJFvyRsrSTg2Ikp7SwGszWPpJxKB0nqZxvPCCtuLl6eqk87yeDG9/unHYr/OZkZORBWMv6k3MTUAtLSccifCaOpzD60qTINltsU+YqgfpawHDWjnRD70hdgBY4jqxVb910Xmih9+I+xwMyg8P5xVmTqrbvcElEL3cvCOThBhTkH+cKr2FnNGSSX7MRksE2fKut5PT8+y5PizxG4oiN3UoAU+awS2DkRZJp9jZLPa1gzJ1mIZ9GKxgitERLQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-15T00:12:19.000Z",
+          "last_active_at": "20250808 17:37:18"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwXBLccSjWOqD9RygcD3ND98DqnPN3AV0WmmkOCottm7dcpCD9N73oKtQPTjy66WM6GOAUpXYUI1R/Hvk7pQVnQu/LZf1Lk1cL7J9Urm8P3fTqKG6gy//ZnT5evHAUmHhkBiLpVDoDR1J3fxi+NUO6PFlH7oQO4fnhBmD5KQsp+/evpGI9heYSX01BIZeUjmWffTr5xSUJ/+LWcvvSET7ZjhbUcnULu/MK+grGmpbfrlMkk8Wel/5h0xJvYjGHPI6SNeLV9dnH8cPEeiVUVVn5bh+F6k1GQH7TwVgqYtPuLEhnswDofpMmGBzKZpraGF0YER0qJ8oSyXbYaxAtjqHywIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-15T00:12:22.000Z",
+          "last_active_at": "2025-07-15T00:12:22.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4Ciel5ZL6N3folHeTIcWcjkTL3/L7CzlOFcQmA94i3U1OND0OBpQrQXt6++8d2ULa4BWNwoo6CSlMTZ4G0TCv29qSJXIbByeTuRcnQoVnZsTtLYt4ri8Pm23Lzdl5csIwYO8PTPFvucM46AluGER6mCf33VNLzfFDU8hO9GVL66shc1mC5UZBvaXW4RKzKWYz1V1f9wFaYfGXRndgPZU3IUE5e6bQ5h+nha+AA2F7y2XdoiYS8mDUs+wnf1x4vLERx5oI8SXb1v6K6j+gOatRKUsGIt1CTY1+bqHvHxLUBnBr5oHWsJCGRBS8ZJmRsKfynup8jTlTKedpvXTvQsNiwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-15T00:46:44.000Z",
+          "last_active_at": "20250715 05:29:31"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyNj3jduSzJb19ZfmSvkecij+s+vVLNaCnptho+sfK2lmdyDGTk4m+DWS1GbGFuuvlpQkpSjrZwuemCB/uMmhv0fRO9pONEbDcl+li4UTq4iQMhM/c/6nPoH5BXTG6buBRlEkbNxxfpOOFlYUY137bFmoM6E0Xo41Hrpx+4BQkI+k0ZMETqEqHeiz8y0ikBM2RoF1oaUAeNKeUxrfWEGtg9M0xd7MvPw0MfxfR502MjWkukmISe2NYDPwfOlThfBQiCQVQp4RFpFsviJq1Mre+9V/PLgQrY4SriiH9NmoVUl6pY5iHVP6uqqCc94QGSaG5mErqqhsHoJ2o3gslhWewQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20250809 11:58:20"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20260421 15:56:21"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20250915 07:11:04"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20260416 23:10:41"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzxcTlwzjiiTKlaiAqnDTRgaCGcu0lHvft7vwMA7lTGmlu4GaLx6j/I5PiLf4gPPEPx/zQ0J4AlTpSofV+BQy9iVSJpFWp7OGlAFwIkIR3se72axZq/l8rkp7dN40DL1psu+AicgaRrThHZIHln83VkVNYNVtnzz4XK+Jn4y1J3O2oqWQhtxQuDUaZ3kLXA9WyrLdoyoNBb5qXrC/XrG962Mg0KuJPX2b0BjlAPMSl0BgRWXMl3Ak3cGt9q96XctUVdR/jYvuKQMzXIz3UcoZsk/eAJHrgDLilwxeEi9GGl8WYLKc2GpM1JOdd5GR1XvyEtPWwJ43LoXvCulc34JvcwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-16T07:06:36.000Z",
+          "last_active_at": "20260415 17:07:12"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAv+QA2eSfs1j8xLvAl/3af+lyJ4iLnGwwUanSOHwfjaxQeU4LzaK3vnwKUGGHY2F9/pqfJEB7CyIniwn9I9V1rLJrkdFSlqdrWKVZRM8PbOT7TDpJcYPMAY7qw45mPNVwGPs04qHgZfrF1w2blG2KmbS45xUAEPivQivqEvB4wNnaUkhjDjiMatuwXaBWPFZs6rBHuXeNAIjeHCZqbm7fPeQD01KdGjYmjiOfYG6K6h7osx368TWY7WDoGqdSlFQUgSjKaqb1IixvSYgd4vwgdW5e/65cLIlXo7j6TTduNslSJd69fse0yDxL6KtQ1WraYgXwNIvGkWQNliPBQto+OwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-16T07:26:22.000Z",
+          "last_active_at": "2026-04-16T07:28:08.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr2+BGC75vnIPg7xEaVYOYCUr+NjFVMBxZXjLUyKsXBAxsVmjsP7qtO0DQ+AzfY1OA7By9TxhC9GarysBZxZYLtjZp3x7k5rUgUL9xMzJ2n2mpqkXGy9Ju6q0KEE1fpa3ZG5IC/hj1fA+PvvTepRcTEpdBO+3f6p1FEh4QknYymWPAeqBmS6+Fj8ABTn81rLYbhgzmC2PI9rM5x68jfasjerj5PbVItHDcRBH8jpcm2SOrp5UI7hZIi6oxg/BociCOizATGodCho0Cc27ir/Uf86lrdzatOKfv/bpeiSxAxDDH20uvtUeFyxAeGJl1ZKEZ+6i8tNKN37Z++pBmiXUXQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-16T07:30:08.000Z",
+          "last_active_at": "2026-04-16T07:30:45.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkun3h99k8p/EKgDiZR8irNnFXaSTwNHmoHAnC+35v/+52ocGyw+/IPJ07dT3OVUMDIKtYUYDZbfmN83A/Ay+MEIfJlsbWmKrT15Wk/CbpwFqI+jl1f4dDllrmHIjh9NCFaQshVW9mJnDy0mboKdJ0b5mkC/uP41Tzf9LMJ2k6tLxnK7dwWv9sGDkfnUypHZ8kCDnChTjlR2plORNaXQiFDWfjaznyhou4w7Gv6qTWBOQVTuBbF99vXXqb+OEBWXay9PMiXyqs2KiL5H0JfK0VhupeXqAxwYIDftsIET0py9Af1gb68oZkf8CGpcU1GVIT+9EyvBITo2uEZPEWTuZ7QIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-16T08:22:59.000Z",
+          "last_active_at": "20260415 18:24:12"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvAPB5S11ORBm47JeoimSjK8xPxcEaTjEq8qLaWr7zNQ0DZoDnoBUEENtAI9/8QGeATiIxSI7yK8nPErTif0o+LJ8QH7WsmN6JQzcQ2AlGZVnU+0JZArJSm7XLeAkY3+A9UB/3/A1tB7KwGw5tPl+4NMFVRJbLs5jGZAiOCt3cX3FM1+vN2kgT0TyF1SMPLzkaI5dxLrhGxzKjHNBHqrqkHm4BVUAG994v0uZ1FwEWHXP4XMoPryV75TL2THX4EAGpHov++jBKMqM7Q8IctNW75goF7Mxi7JZWnEJ4WP7XJ1wkUz4aleyKFn4Oq9jT67/jV1guIqRDTPZp8LAWM9+zwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-17T05:14:25.000Z",
+          "last_active_at": "20260419 13:51:20"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArrtzywqiJAevBvRzHqEGcjXW8VHoNMR8ZXNffosRmVQTYlL/mHpLg8jAZhmdAYMBF+x6y/dY7CLxb35yohZWIMCwyFvWXQLHUTfLqYNxNbdX10Edem46xOSl09ZIu9VafmGDsly72HseNm6ZhFK5maD2ZKcF+0X8iy3xP31rudO3aDFybpx++RaNW2E7t5b3PvvUr/B+PhePv6YscltmOMiLGYywXs4smfRIubZs3hD4ZonDYDm4dTdgec3hIm7brlst9NnrMwqaGyrLh/Ie5s+YWknt6uq2Y6G6Q1DbCHfP/f/jng1a4joQ48XlW+tnJ0gWEv+7UOMbKDLqifKlqwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-17T05:19:19.000Z",
+          "last_active_at": "20260416 15:19:36"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+CLpdqoO1JQKXNJIWuQfbGv4fkHVulzFlpVTmx5MSRHBaMiA07bouboU7p5j8/KR8tslZ08J88eJV3oRjTLgbdHcDtAERmv/5FSPP36NSYbBMJ30L0Cz4jc0s/hN8aOiyq711cY0aeKyUhZiryx0VkrC25O/lhJAGburnrUrq6MSPMBen45xeV6OxDhWdKtZdkh+tYcg/Oe+jl7AszrVa954N99PjYy0MGYgnoMh9cddrD5BcjXexLP21SILkjgzZYfTAMnw/MeJEryyuc7g7vwsWSin2KB+/nY/E+RNDSHLZMqRkh3mI2ovNXCbnc659gAlQBmYnQvn0IN7Iu+EDQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-19T10:30:06.000Z",
+          "last_active_at": "20260421 12:14:40"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo63vlkhbi1A+H1J7DpmZ/gSw2TED17pt+blzNHknALDUWDcb2gAmpbIexL03KWeJ2ieBoVn5m/YmvssVZFxoJnrlhCsD1A/MbJ3bTqPLh3cD5boAmgtYOqtzbGcgdioMi5BhetwH4Ludvvh26VTCaHDcLAavVygx8sXoniACJpwY42T+KGz8rJ7Z4uiZDPbfvCv8rTkt5rIJMUtDTvtspUE1W0mdJe+UzKdCxZfcnadOQKcEBzgkTOAbdacaFEpMcB09mVgmetDrfQHhaCZMtox58mQur89Hxg6RGfD6l7wmz7wXJjnE5+OH/M99C8tJamfe+w5uxhJ0I88q0ynqRwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-22T03:26:30.000Z",
+          "last_active_at": "20260421 16:06:57"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvN4eInWIprua9s3AkbBabArFllfrK4dM4WKSPHva8bN0U5UIsytnM4C8OOEV4d+2i+O7vN3uKLrTf7WwWKUPzyIuXm4W9dQgrahwF3y7kaQXuuVT/GB9/sKbQdo6aKQNk2Wy05fxknW8eR4gM63ZRygQvmgZSL60/zXFZ7+If846MSocsuAsWSb93SrPy53YjJgFB2tiBknZla7CBRO+l36t7xkfk/1h9dQf7/siBm4olXG4pCPCsbh38CzIuk5iqc2oUdpOIkk8lpYzyZKaAziLWPt1t9/81IT3axnzjdpE9yH1ymFpUamsdnf2tsFd2wLIk8UuYV30hbxP4jayuQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-22T04:05:09.000Z",
+          "last_active_at": "20260421 14:40:19"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-04-22T04:32:53.000Z",
+          "last_active_at": "20260421 23:07:14"
+        }
+      ]
+    },
+    {
+      "name": "Irene Hsu",
+      "voting_rights": 216.67000000000002,
+      "total_voting_power_pct": "0.00009254568350745536",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqyl4/zsmqguaLuxVh5U1qE9VW60WHL3w3pCoPHagHyKSrVc3AeDpkwEVQ/IzVYSnObJ4aTSEKNjk05HmKuAbdR25BlLo/CSelPWCDq60RpQ0HdufrkU3/icV2mBQu/eD5WUTKyTn4JK4cuv3OUWme2cb2bMUatD9b4yZMBR/377TPFV4mlv4w6kAx1fXq96eN96vGpHlN2I+Xe3nuUwy6Hh2oyTK+MFWpkCrpjyEZZvbDU0/p75Lh3UvViJeXHwml2VlZUULZafTEb/dnz+TU4KP2/Bbm2YQcovrTK0aRqJJ0IXYluMSo00UhYzP943MMCQ1GZzaLItmo1tDqhlM2wIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": ""
+        }
+      ]
+    },
+    {
+      "name": "Kirsten Ritschel",
+      "voting_rights": 18574.049999999996,
+      "total_voting_power_pct": "0.007933484805241385",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-17T22:47:12.000Z",
+          "last_active_at": "20260421 08:35:08"
+        }
+      ]
+    },
+    {
+      "name": "Marta Lopes",
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.00002135636763452609",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtauVtN8jJ/bf8tyS9aoICRtmyxhE5+h6VaVyNZmeCnwnBGt2WdTaqGqcFM+ydNKN2tRDNa79kbcRHz2uNWiDA8EU+k9+9qwVCYRSmyZK/EB3DWWiELghgNfLnImaIA6EiqekTT1UuJAkjv7kfuiK9wWDwcnA+9CGaGc5z3YDjB8JlTrqCPJa7XyWP0kim9KIeTyqsyy3LQxEUuuD4Hpu2A+DJl5JGpzf/D07hk+4LiddH7chqJ7y+s+DWG+1LlH3l/66hCGoQ0dCAr4uv8u6atqpizulnFwneR8xPpo5D6O80szkrg0LUC3pUuLtFPrrBQzUIjty/QzQqGuAwyhjmQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": ""
+        }
+      ]
+    },
+    {
+      "name": "Matheus Reis",
+      "voting_rights": 29692.86289420004,
+      "total_voting_power_pct": "0.012682633921802288",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6ZczaX6AGlJ+M46Oa+ehrqYNp45cPfU3OKbU9kjVr1w5iA8/7H3qLxCnzRiyyCdBaebSwGBXMlKgzLx4AIvWJX+5/VvLbP1eoyAH5NoYlm9VGlNh6ILlCUalTHbGWS1W1kiV7qIpkMSYgZ6sUrMpB7DZDTqH0LZHBRqXsRewRaQcwVYb4dR6/FtqgQvCP0R+bMo6gFnAv1OZF/6sW1RSXftNpHov4r1R1yJY7zuz34AParz1SHo2S8Lfx9x6LKG0WHG5pZ9OUkIKQYguUEo+kDBfUx8ZQbxETmFGqbrx+eUOQWrDyePXRo5k+8YnfOoBuMahZLqkseHovqXjMWu8EQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20250930 19:55:25"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5V6+6uFE2PK315ClTo2nMK6nk+rD93P4Y7UJqhPvvpYbDDAscTTg6cG17b3q5quNdCLYv1zS0aIZaN52G0e314v3j78Hji+cLdvXemST9SkasmlMpSNeDcAWFuRUcUwT2RBO1Zp8wNAGahLv8zbBob6cIfzZtE7YYYG63w6rXfaLVtE8jFKizb/FtSvCqaHWvsT9lJJ62fgDR3TxKo+DctTiDOagtPVLjlrKMkgQxs9RsNfsEM0CGAXAVS6EqAt6xZ9RM1gYTutf96MIhR9YwM5TYCHXq3LaME5REAPTY2VQm99JwZW040Set/QSd24cOQdD05gX7xXMHceepAIaDwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20260401 11:39:49"
+        }
+      ]
+    },
+    {
+      "name": "Maurillo Gomes",
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqmvBaw2dg1joG6gWhXAn32zCE+qAgRMLgvDYD5Wz+wz9UhByBZuCREVNK5oHv1ovHjC/5CRdirF0sFE56rE3GvPlx6mskEMy7uroHgtgDaosvj/zKJweBsaIJv2+GhdKFZ7dV3QkAl5+UiGeTNP5Kq2Fq8V0PzOvifgPSfAwxYdjwRxWnvBWv3oU1SMwSStyxmS6yAw8pqzW9x4qBICN9j0BcU4nHOL0NlkjjRaaMsQmy2E6kcRVuAKJ4Zq0gCdvlgFHUr/ZDwg3p4Yw2q1JdSZO/Jfw5UuuUS5F4wq9p41rKcb5LqZxVFuTAMau4iDV1P/bVJyWeEnhOTZ98wEnYQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-07-31T05:17:11.000Z",
+          "last_active_at": "20250731 07:25:17"
+        }
+      ]
+    },
+    {
+      "name": "Sacred Earth Farms",
+      "voting_rights": 166.67000000000002,
+      "total_voting_power_pct": "0.00007118931587292927",
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkUqth1W3tAA95M3tscNvGrNcdE5ElIHpwLF+FvRZnUEtEgt3ICamtU6cNKmf+eb+MKJldt5+w3FHbbjRuZkUiqztr2nF5uK62Hoi0raFuKkekrE64Nk9JKu7fnHps8w6VIVoshKpe+E+pse6NjBY9vEgawrw1EkJWTNtsXg8MBiiLj+TiawOBc0EQJTT4z7oNU4N5bxhtMYqIBPQ/Q75JFOByT2KC8zHR9KesCV4qzi8o26w/lOL25ozfxPGuKMGVOptgvFWKcUBuVpyC/+YCQzyJ9KvHJg93pghVAUduc6ruMRIlsoKkvUy96/912vlJqSWRe+926KKg+AZVpo5BwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2025-08-19T21:42:14.000Z",
+          "last_active_at": "20250822 16:27:54"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnzvUC+J4EJ2/sKzW5aw8a9yDaLZKNzVs+Z1DlJv/o3YxV+JMZDYuDKYLClzFvdHb+2ixw9D/AYHP1Uud6h6rlNgxh7a3tQI9JbvjM3pJEksmG3PV50VNYXW5BXHlCQfcz+2L2J85GW4WdOYobQOICUFVLBYq7EBEIa8cN+WuvMII42M+CeuOhzOzNPbAfYumMZBIu2oO6Q5OKOurIpWJeYdu3CJVREoK0PBo2BgE+auRM2syy9wJtikJ+L6qvABEc3iW4l8S9gwbeNRLFB7DQOXaGM12+pOq3ekudCky4cRbZ4GXZWm4K+Sd0XEOSgp7WXWoLdPixqPgcHtLHqxqMQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "",
+          "last_active_at": "20251012 13:07:32"
+        }
+      ]
+    }
+  ]
+}
