@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-23T02:17:24.953Z` |
-| Trigger | `expense_processing` |
+| Generated at | `2026-04-23T02:38:37.581Z` |
+| Trigger | `process_sales` |
 | Schema version | `1` |
 | Item types | 82 |
-| Total units | 29609.166972040755 |
-| Total value USD | $38253.25 |
+| Total units | 29608.166972040755 |
+| Total value USD | $38244.94 |
 | Ledgers processed | 13 |
 | Managers | 38 |
 
@@ -78,7 +78,6 @@
 | Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | 3 | $5.19 | $15.56 | Main Ledger: 3 |
 | Cacao Almonds KG - Organic | 2.3025149999999996 | $100.89 | $232.29 | Main Ledger: 2.3025149999999996 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | 2 | $12.14 | $24.29 | Main Ledger: 2 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251107 \| San Francisco - AGL8 | 2 | $8.32 | $16.63 | Main Ledger: 2 |
 | Foam container box - 120 kraft pouches capacity | 2 | $24.11 | $48.22 | Main Ledger: 2 |
 | Label Maker | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | 1 | $6.26 | $6.26 | Main Ledger: 1 |
@@ -87,6 +86,7 @@
 | ATOLOMOTOR Coffee Bean Roaster | 1 | $86.89 | $86.89 | Main Ledger: 1 |
 | Cacao Mass Bar CP340992687BR (500grams) | 1 | $21.54 | $21.54 | Main Ledger: 1 |
 | Canopy 4ft X 6ft with 2 years warranty | 1 | $62.93 | $62.93 | Main Ledger: 1 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251107 \| San Francisco - AGL8 | 1 | $8.32 | $8.32 | Main Ledger: 1 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + Cacao Mass Bar CP340993299BR  San Francisco | 1 | $9.08 | $9.08 | Main Ledger: 1 |
 | Chocolate Wrapper Die Cutter from Rusty | 1 | $0.00 | $0.00 | Main Ledger: 1 |
 | Collapsible Foldable Wagon Beach Cart | 1 | $54.30 | $54.30 | Main Ledger: 1 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2364.45 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2355.61 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -112,7 +112,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1332.5853362811577 |
 | AGL8 | 7 | 1225.3613227979984 |
-| Main Ledger | 67 | 11298.492800497605 |
+| Main Ledger | 67 | 11297.492800497605 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -136,7 +136,7 @@
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
 | Kirsten Ritschel | 18 | 1262 |
-| Lumin Earth Apothecary - Summer and Sierra | 2 | 6 |
+| Lumin Earth Apothecary - Summer and Sierra | 1 | 5 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
 | Miss Tomato - Asad | 1 | 10 |
