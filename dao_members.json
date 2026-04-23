@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-04-22T06:42:32.168Z",
+  "generated_at": "2026-04-23T03:25:04.126Z",
   "schema_version": 2,
   "source": "dao_members_cache_publisher",
-  "trigger": "manual",
+  "trigger": "cron",
   "counts": {
     "contributors": 11,
     "active_public_keys": 41
   },
   "dao_totals": {
     "voting_rights_circulated": 2341222.105540399,
-    "total_assets": 15086.57866,
-    "asset_per_circulated_voting_right": 0.00644,
+    "total_assets": 15177.96364,
+    "asset_per_circulated_voting_right": 0.00648,
     "usd_provisions_for_cash_out": 32.41528
   },
   "contributors": [
@@ -23,7 +23,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20250904 18:50:38"
+          "last_active_at": "20260421 23:42:06"
         }
       ]
     },
@@ -129,7 +129,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-07-07T22:56:20.000Z",
-          "last_active_at": "20260421 21:27:12"
+          "last_active_at": "20260422 20:18:23"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjkm4wLOoEBIwiyd2WNYbA+BabPyao+N54ml/qfL5P6zJ+5k70/5TTs1ciCWEU9YqpB2L1oBFu677Eb3IcE2gBlPc4S6P9w59lea8tgXRoIWT72gjq5NsBJ3A4lYFqlQ1+ZJj+P4WOsC+0Ckm4ZFOd3lMWZx4SFOCBJcdc0m2xZwmeWQkZsaNR34XgshC5wzl+Ufcp45LOVnKHUGDYhmsiUr0GMK6F6lk8ginWIwJgxMYKioKSZYS+MZzmJ1699yvc1YP/86bO/07InBVJMmMXcASf18hW4q9jrdgRf0If5j5SD54gWaJsi6cb2vDm5Ri5fLXQtp+JNtcfu84UX2clwIDAQAB",
@@ -171,7 +171,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
           "status": "ACTIVE",
           "created_at": "",
-          "last_active_at": "20260421 15:56:21"
+          "last_active_at": "20260422 20:01:11"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB",
@@ -237,13 +237,13 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvN4eInWIprua9s3AkbBabArFllfrK4dM4WKSPHva8bN0U5UIsytnM4C8OOEV4d+2i+O7vN3uKLrTf7WwWKUPzyIuXm4W9dQgrahwF3y7kaQXuuVT/GB9/sKbQdo6aKQNk2Wy05fxknW8eR4gM63ZRygQvmgZSL60/zXFZ7+If846MSocsuAsWSb93SrPy53YjJgFB2tiBknZla7CBRO+l36t7xkfk/1h9dQf7/siBm4olXG4pCPCsbh38CzIuk5iqc2oUdpOIkk8lpYzyZKaAziLWPt1t9/81IT3axnzjdpE9yH1ymFpUamsdnf2tsFd2wLIk8UuYV30hbxP4jayuQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-04-22T04:05:09.000Z",
-          "last_active_at": "20260421 14:40:19"
+          "last_active_at": "20260422 20:08:19"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-04-22T04:32:53.000Z",
-          "last_active_at": "20260421 23:07:14"
+          "last_active_at": "20260422 20:02:11"
         }
       ]
     },
@@ -301,7 +301,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5V6+6uFE2PK315ClTo2nMK6nk+rD93P4Y7UJqhPvvpYbDDAscTTg6cG17b3q5quNdCLYv1zS0aIZaN52G0e314v3j78Hji+cLdvXemST9SkasmlMpSNeDcAWFuRUcUwT2RBO1Zp8wNAGahLv8zbBob6cIfzZtE7YYYG63w6rXfaLVtE8jFKizb/FtSvCqaHWvsT9lJJ62fgDR3TxKo+DctTiDOagtPVLjlrKMkgQxs9RsNfsEM0CGAXAVS6EqAt6xZ9RM1gYTutf96MIhR9YwM5TYCHXq3LaME5REAPTY2VQm99JwZW040Set/QSd24cOQdD05gX7xXMHceepAIaDwIDAQAB",
           "status": "ACTIVE",
           "created_at": "",
-          "last_active_at": "20260401 11:39:49"
+          "last_active_at": "20260422 10:47:13"
         }
       ]
     },
