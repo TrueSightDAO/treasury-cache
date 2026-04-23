@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-23T02:44:41.754Z",
+  "generated_at": "2026-04-23T02:45:18.953Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "process_sales",
   "schema_version": 1,
   "items": [
     {
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19503.96578238565,
-      "total_value_usd": 19503.97,
+      "total_quantity": 19520.96578238565,
+      "total_value_usd": 19520.97,
       "ledgers": {
-        "Main Ledger": 2415.876933640491,
+        "Main Ledger": 2432.876933640491,
         "AGL6": 1312.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -126,10 +126,10 @@
       "currency": "Cacao Tree To Be Planted",
       "unit_weight_g": null,
       "unit_cost_usd": -1.5,
-      "total_quantity": 187,
-      "total_value_usd": -280.5,
+      "total_quantity": 188,
+      "total_value_usd": -282,
       "ledgers": {
-        "Main Ledger": 187
+        "Main Ledger": 188
       }
     },
     {
@@ -483,16 +483,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.315440379611111,
-      "total_quantity": 8,
-      "total_value_usd": 66.52,
-      "ledgers": {
-        "Main Ledger": 8
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags",
       "unit_weight_g": null,
       "unit_cost_usd": 8.343880378,
@@ -508,6 +498,16 @@
       "unit_cost_usd": 23.975485300000003,
       "total_quantity": 7,
       "total_value_usd": 167.83,
+      "ledgers": {
+        "Main Ledger": 7
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.315440379611111,
+      "total_quantity": 7,
+      "total_value_usd": 58.21,
       "ledgers": {
         "Main Ledger": 7
       }
@@ -1128,10 +1128,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2266.786933640491,
+          "amount": 2283.786933640491,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2266.786933640491
+          "total_value_usd": 2283.786933640491
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1817,10 +1817,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
-          "amount": 8,
+          "amount": 7,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.315440379611111,
-          "total_value_usd": 66.52352303688889
+          "total_value_usd": 58.20808265727778
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
@@ -1884,10 +1884,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 187,
+          "amount": 188,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -280.5
+          "total_value_usd": -282
         }
       ]
     },
@@ -2124,8 +2124,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 29761.166972040755,
-    "total_value_usd": 38309.41,
+    "total_units": 29778.166972040755,
+    "total_value_usd": 38316.6,
     "ledgers_processed": 13,
     "managers_count": 38
   }
