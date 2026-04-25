@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-25T02:48:38.988Z` |
+| Generated at | `2026-04-25T03:48:33.026Z` |
 | Trigger | `cron` |
 | Schema version | `2` |
 | Item types | 82 |
@@ -18,7 +18,7 @@
 
 | Currency | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---:|---:|---:|---|
-| USD | 19559.191331339814 | $1.00 | $19559.19 | AGL10: 228.82999999999998, AGL15: 5955.84, AGL4: 9036.347512464, AGL6: 1312.5853362811577, AGL8: 518.946, Main Ledger: 2490.6424825946556, SEF1: 16 |
+| USD | 19559.083294903918 | $1.00 | $19559.08 | AGL10: 228.82999999999998, AGL15: 5955.84, AGL4: 9036.347512464, AGL6: 1312.5853362811577, AGL8: 518.946, Main Ledger: 2490.53444615876, SEF1: 16 |
 | Brazilian Reis | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
 | Cacao Nibs Kraft Pouch - V2 | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -43,7 +43,7 @@
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | 39 | $15.70 | $612.11 | Main Ledger: 39 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260330 | 35 | $8.57 | $300.05 | Main Ledger: 35 |
 | 1 Gallon Zip Loc Bags | 34 | $0.14 | $4.78 | Main Ledger: 34 |
-| USD - provisions for voting rights cash out | 32.61972700294903 | $1.00 | $32.62 | Main Ledger: 32.61972700294903 |
+| USD - provisions for voting rights cash out | 32.72776343884439 | $1.00 | $32.73 | Main Ledger: 32.72776343884439 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 28 | $8.49 | $237.83 | Main Ledger: 28 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | 28 | $8.38 | $234.51 | Main Ledger: 28 |
 | 8 Ounce Package Kraft Pouch  CP340992735BR | 27 | $8.51 | $229.75 | Main Ledger: 27 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2318.38 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2317.96 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -126,7 +126,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 28 | 11575.474336778761 |
+| Gary Teh | 28 | 11575.47433677876 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
 | HackerDojo | 1 | 5 |
