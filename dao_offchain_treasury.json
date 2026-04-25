@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-04-25T17:48:35.842Z",
+  "generated_at": "2026-04-25T18:39:02.091Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
-  "schema_version": 2,
+  "trigger": "movement",
+  "schema_version": 1,
   "items": [
     {
       "currency": "USD",
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2312.1305,
+      "unit_cost_usd": 2313.7135000000003,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -842,7 +842,6 @@
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland",
           "amount": 20,
           "ledger": "Main Ledger",
-          "unit_weight_g": 500,
           "unit_cost_usd": 26.872991926635226,
           "total_value_usd": 537.4598385327046
         }
@@ -863,7 +862,6 @@
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich",
           "amount": 7,
           "ledger": "Main Ledger",
-          "unit_weight_g": 500,
           "unit_cost_usd": 23.975485300000003,
           "total_value_usd": 167.82839710000002
         },
@@ -871,7 +869,6 @@
           "currency": "Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich",
           "amount": 200,
           "ledger": "Main Ledger",
-          "unit_weight_g": 1,
           "unit_cost_usd": 0.047950970600000004,
           "total_value_usd": 9.590194120000001
         }
@@ -898,7 +895,6 @@
           "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
           "amount": 1,
           "ledger": "AGL6",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
         },
@@ -953,7 +949,6 @@
           "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
           "amount": 4,
           "ledger": "AGL6",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 34.07
         }
@@ -967,7 +962,6 @@
           "currency": "[AGL10] Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10",
           "amount": 0.17,
           "ledger": "AGL10",
-          "unit_weight_g": 1000,
           "unit_cost_usd": 36.7492,
           "total_value_usd": 6.25
         },
@@ -1010,7 +1004,6 @@
           "currency": "[AGL8] Cacao Mass Bar (40grams) CP340993869BR - AGL8",
           "amount": 3.75,
           "ledger": "AGL8",
-          "unit_weight_g": 40,
           "unit_cost_usd": 1.896747446,
           "total_value_usd": 7.11
         },
@@ -1018,7 +1011,6 @@
           "currency": "[AGL8] Cacao Tea - 20250219006 | Cacao Tea | Kilogram | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
           "amount": 2.1802,
           "ledger": "AGL8",
-          "unit_weight_g": 1,
           "unit_cost_usd": 0,
           "total_value_usd": 0
         },
@@ -1061,7 +1053,6 @@
           "currency": "Cacao Almonds KG - Organic",
           "amount": 2.3025149999999996,
           "ledger": "Main Ledger",
-          "unit_weight_g": 1000,
           "unit_cost_usd": 100.886,
           "total_value_usd": 232.29152828999995
         },
@@ -1069,7 +1060,6 @@
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 500,
           "unit_cost_usd": 15.695100595,
           "total_value_usd": 15.695100595
         },
@@ -1077,7 +1067,6 @@
           "currency": "Cacao Molasses 250ml + 74 4476 6210 San Francisco",
           "amount": 2,
           "ledger": "Main Ledger",
-          "unit_weight_g": 250,
           "unit_cost_usd": 12.143,
           "total_value_usd": 24.286
         },
@@ -1099,7 +1088,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251107 | San Francisco - AGL8",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.315440379611111,
           "total_value_usd": 8.315440379611111
         },
@@ -1107,7 +1095,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
           "amount": 7,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 59.45659862532349
         },
@@ -1115,7 +1102,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
           "amount": 2,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 16.750567062222224
         },
@@ -1123,8 +1109,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2312.1305,
-          "total_value_usd": 1.0986325658555401e-10
+          "unit_cost_usd": 2313.7135000000003,
+          "total_value_usd": 1.0993847445719877e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1176,7 +1162,6 @@
           "currency": "[AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
           "amount": 5,
           "ledger": "AGL10",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.08513,
           "total_value_usd": 40.43
         },
@@ -1184,7 +1169,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
           "amount": 9,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 75.37755178
         }
@@ -1198,7 +1182,6 @@
           "currency": "[AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
           "amount": 6,
           "ledger": "AGL10",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.08513,
           "total_value_usd": 48.51
         },
@@ -1206,7 +1189,6 @@
           "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
           "amount": 1,
           "ledger": "AGL8",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.1754468485,
           "total_value_usd": 9.18
         },
@@ -1214,7 +1196,6 @@
           "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
           "amount": 2,
           "ledger": "AGL8",
-          "unit_weight_g": 200,
           "unit_cost_usd": 10.37,
           "total_value_usd": 20.74
         },
@@ -1229,7 +1210,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 3,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 27.057981265499997
         },
@@ -1250,7 +1230,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 5,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 45.096635442499995
         }
@@ -1271,7 +1250,6 @@
           "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
           "amount": 3,
           "ledger": "AGL6",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 25.55
         }
@@ -1285,7 +1263,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 5,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 45.096635442499995
         }
@@ -1299,7 +1276,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
           "amount": 7,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 58.62698471777779
         }
@@ -1313,7 +1289,6 @@
           "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
           "amount": 1,
           "ledger": "AGL6",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
         },
@@ -1334,7 +1309,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 9.019327088499999
         },
@@ -1342,7 +1316,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
           "amount": 15,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 2.4043643608428553,
           "total_value_usd": 36.06546541264283
         }
@@ -1363,7 +1336,6 @@
           "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
           "amount": 1,
           "ledger": "AGL6",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
         },
@@ -1378,7 +1350,6 @@
           "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
           "amount": 20,
           "ledger": "Main Ledger",
-          "unit_weight_g": 50,
           "unit_cost_usd": 2.0487813430434785,
           "total_value_usd": 40.97562686086957
         },
@@ -1386,7 +1357,6 @@
           "currency": "81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco",
           "amount": 17,
           "ledger": "Main Ledger",
-          "unit_weight_g": 50,
           "unit_cost_usd": 2.0510200000000003,
           "total_value_usd": 34.867340000000006
         },
@@ -1422,7 +1392,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
           "amount": 11,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 93.43179783979406
         },
@@ -1430,7 +1399,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260330",
           "amount": 35,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.572833859342108,
           "total_value_usd": 300.0491850769738
         },
@@ -1438,7 +1406,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
           "amount": 12,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 2.4043643608428553,
           "total_value_usd": 28.852372330114264
         },
@@ -1494,7 +1461,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
           "amount": 4,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 33.975199214470564
         },
@@ -1515,7 +1481,6 @@
           "currency": "[AGL13] Cacao Almonds KG from Vivi's farm - AGL13",
           "amount": 15,
           "ledger": "AGL13",
-          "unit_weight_g": 1000,
           "unit_cost_usd": 7.8696666667,
           "total_value_usd": 118.05
         },
@@ -1523,7 +1488,6 @@
           "currency": "[AGL13] Cacao Nibs (Kilograms) Santos 20260213 - AGL13",
           "amount": 100,
           "ledger": "AGL13",
-          "unit_weight_g": 1000,
           "unit_cost_usd": 10.18234711,
           "total_value_usd": 1018.23
         },
@@ -1531,7 +1495,6 @@
           "currency": "[AGL13] Cacao Tea (Kilograms) Santos 20260213 - AGL13",
           "amount": 21,
           "ledger": "AGL13",
-          "unit_weight_g": 1000,
           "unit_cost_usd": 10.18234711,
           "total_value_usd": 213.83
         },
@@ -1539,21 +1502,18 @@
           "currency": "[AGL14] Cacao Almonds KG from Oscar's farm - AGL14",
           "amount": 40,
           "ledger": "AGL14",
-          "unit_weight_g": 1000,
           "unit_cost_usd": 11.41225,
           "total_value_usd": 456.49
         },
         {
           "currency": "[AGL8] Cacao Almonds (KG)",
           "amount": 274.085122798,
-          "ledger": "AGL8",
-          "unit_weight_g": 1000
+          "ledger": "AGL8"
         },
         {
           "currency": "[AGL8] Cacao Tea - 20250219006 | Cacao Tea | Kilogram | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
           "amount": 12.5,
           "ledger": "AGL8",
-          "unit_weight_g": 1,
           "unit_cost_usd": 0,
           "total_value_usd": 0
         },
@@ -1561,7 +1521,6 @@
           "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
           "amount": 170,
           "ledger": "AGL8",
-          "unit_weight_g": 200,
           "unit_cost_usd": 10.37,
           "total_value_usd": 1762.9
         },
@@ -1583,7 +1542,6 @@
           "currency": "Cacao Husk (KG) - Ilheus, Brazil",
           "amount": 20,
           "ledger": "Main Ledger",
-          "unit_weight_g": 1000,
           "unit_cost_usd": 17.785485299999998,
           "total_value_usd": 355.709706
         },
@@ -1596,7 +1554,6 @@
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024",
           "amount": 38,
           "ledger": "Main Ledger",
-          "unit_weight_g": 500,
           "unit_cost_usd": 15.695100595,
           "total_value_usd": 596.41382261
         },
@@ -1604,7 +1561,6 @@
           "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024",
           "amount": 80,
           "ledger": "Main Ledger",
-          "unit_weight_g": 1000,
           "unit_cost_usd": 24.61847089,
           "total_value_usd": 1969.4776712
         },
@@ -1681,7 +1637,6 @@
           "currency": "[AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
           "amount": 1,
           "ledger": "AGL10",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.08513,
           "total_value_usd": 8.09
         },
@@ -1696,7 +1651,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 2,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 18.038654176999998
         },
@@ -1704,7 +1658,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 8.375283531111112
         },
@@ -1771,7 +1724,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 8,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 72.15461670799999
         }
@@ -1785,7 +1737,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 8.493799803617641
         }
@@ -1806,7 +1757,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 2,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 18.038654176999998
         }
@@ -1820,7 +1770,6 @@
           "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
           "amount": 4,
           "ledger": "AGL8",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.1754468485,
           "total_value_usd": 36.7
         },
@@ -1828,7 +1777,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
           "amount": 15,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 125.62925296666668
         },
@@ -1849,7 +1797,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
           "amount": 5,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 42.468999018088205
         }
@@ -1863,7 +1810,6 @@
           "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
           "amount": 1,
           "ledger": "AGL6",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
         },
@@ -1871,7 +1817,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 2,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 18.038654176999998
         },
@@ -1879,7 +1824,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
           "amount": 5,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.315440379611111,
           "total_value_usd": 41.577201898055556
         },
@@ -1887,7 +1831,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 8.375283531111112
         },
@@ -1895,7 +1838,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 8.375283531111112
         }
@@ -1916,7 +1858,6 @@
           "currency": "Cacao Mass Bar CP340992687BR (500grams)",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 500,
           "unit_cost_usd": 21.54025974,
           "total_value_usd": 21.54025974
         }
@@ -1970,7 +1911,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
           "amount": 9,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 75.37755178
         }
@@ -1984,7 +1924,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 10,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 90.19327088499999
         }
@@ -1998,7 +1937,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 5,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.019327088499999,
           "total_value_usd": 45.096635442499995
         },
@@ -2006,7 +1944,6 @@
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + Cacao Mass Bar CP340993299BR  San Francisco",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_weight_g": 200,
           "unit_cost_usd": 9.079170240500002,
           "total_value_usd": 9.079170240500002
         }
@@ -2120,7 +2057,6 @@
           "currency": "Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich",
           "amount": 40,
           "ledger": "Main Ledger",
-          "unit_weight_g": 1,
           "unit_cost_usd": 0.047950970600000004,
           "total_value_usd": 1.9180388240000001
         }
