@@ -81,6 +81,6 @@ Aggregation mirrors `tokenomics/google_app_scripts/tdg_inventory_management/web_
 - `listAllCurrenciesAcrossLedgers` → items[] across ledgers
 - `getLedgerConfigsFromSheet` → walks "Shipment Ledger Listing" (A=name, AB=resolved spreadsheet URL)
 - `augmentWithLedgers` → per-manager AGL aggregation
-- Unit cost: `Currencies` tab (A=name, B=unit_cost_usd, K=unit_weight_g)
+- Catalog / costs: `Currencies` tab — A=name, B=unit_cost_usd, K=unit_weight_g, P=Inventory Type, Q=Unit format (joined onto JSON `items` and `managers[].items`).
 
 If the source sheets change schema, update `Code.gs` and bump `SCHEMA_VERSION` if the output JSON shape changes.
