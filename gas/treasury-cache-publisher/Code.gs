@@ -26,6 +26,8 @@
  *
  * Aggregation logic mirrors tokenomics/google_app_scripts/tdg_inventory_management/web_app.gs
  * (listAllCurrenciesAcrossLedgers, getLedgerConfigsFromSheet, augmentWithLedgers).
+ *
+ * Currencies tab: columns P–Q supply **inventory_type** and **unit_format** on JSON items (schema v3+).
  */
 
 // ---------- Constants / defaults ----------
@@ -42,7 +44,7 @@ var MAIN_SHEET_NAME           = 'offchain asset location';
 var SHIPMENT_LEDGER_LISTING   = 'Shipment Ledger Listing';
 var CURRENCIES_SHEET_NAME     = 'Currencies';
 
-var SCHEMA_VERSION = 2;
+var SCHEMA_VERSION = 3;
 var LOCK_TIMEOUT_MS = 30000;
 
 // ---------- Script property helpers ----------
@@ -158,6 +160,8 @@ function buildSnapshot_(trigger) {
         currency: name,
         unit_weight_g: meta.unit_weight_g != null ? meta.unit_weight_g : null,
         unit_cost_usd: meta.unit_cost_usd != null ? meta.unit_cost_usd : null,
+        inventory_type: meta.inventory_type != null ? meta.inventory_type : null,
+        unit_format: meta.unit_format != null ? meta.unit_format : null,
         total_quantity: 0,
         total_value_usd: 0,
         ledgers: {}
@@ -205,6 +209,8 @@ function buildSnapshot_(trigger) {
         };
         var mainMeta = currenciesMap[currency] || {};
         if (mainMeta.unit_weight_g != null) mgrEntry.unit_weight_g = mainMeta.unit_weight_g;
+        if (mainMeta.inventory_type != null) mgrEntry.inventory_type = mainMeta.inventory_type;
+        if (mainMeta.unit_format != null) mgrEntry.unit_format = mainMeta.unit_format;
         var uc = parseFloat(unitCostRaw);
         if (!isNaN(uc)) mgrEntry.unit_cost_usd = uc;
         var tv = parseFloat(totalValRaw);
@@ -265,6 +271,8 @@ function buildSnapshot_(trigger) {
           };
           var aglMeta = currenciesMap[prefixedName] || currenciesMap[assetName] || {};
           if (aglMeta.unit_weight_g != null) mgrEntry.unit_weight_g = aglMeta.unit_weight_g;
+          if (aglMeta.inventory_type != null) mgrEntry.inventory_type = aglMeta.inventory_type;
+          if (aglMeta.unit_format != null) mgrEntry.unit_format = aglMeta.unit_format;
           if (unitCost != null) {
             mgrEntry.unit_cost_usd = unitCost;
             mgrEntry.total_value_usd = round2_(quantity * unitCost);
@@ -364,7 +372,8 @@ function getLedgerConfigsFromSheet_(mainSs) {
   return configs;
 }
 
-// Read the Main Ledger Currencies tab once: name (A) → { unit_cost_usd (B), unit_weight_g (K) }
+// Read the Main Ledger Currencies tab once: name (A) → catalog fields used by the snapshot.
+// A=name, B=unit_cost_usd, K=unit_weight_g, P=Inventory Type, Q=Unit format (Main Ledger Currencies).
 function getCurrenciesMap_(mainSs) {
   var map = {};
   var sheet = mainSs.getSheetByName(CURRENCIES_SHEET_NAME);
@@ -372,16 +381,20 @@ function getCurrenciesMap_(mainSs) {
   var lastRow = sheet.getLastRow();
   if (lastRow < 2) return map;
 
-  // Columns A..K (11 cols) — A=name, B=unit_cost_usd, K=unit_weight_g
-  var rows = sheet.getRange(2, 1, lastRow - 1, 11).getValues();
+  // Columns A..Q (17 cols): A=name, B=cost, K=weight_g, P=inventory_type, Q=unit_format
+  var rows = sheet.getRange(2, 1, lastRow - 1, 17).getValues();
   rows.forEach(function(row) {
     var name = row[0] ? String(row[0]).trim() : '';
     if (!name) return;
     var cost = parseFloat(row[1]);
     var weight = parseFloat(row[10]);
+    var invType = row[15] != null && String(row[15]).trim() ? String(row[15]).trim() : null;
+    var unitFmt = row[16] != null && String(row[16]).trim() ? String(row[16]).trim() : null;
     map[name] = {
       unit_cost_usd: isNaN(cost) ? null : cost,
-      unit_weight_g: isNaN(weight) || !(weight > 0) ? null : weight
+      unit_weight_g: isNaN(weight) || !(weight > 0) ? null : weight,
+      inventory_type: invType,
+      unit_format: unitFmt
     };
   });
   return map;
@@ -433,15 +446,17 @@ function renderMarkdown_(snapshot) {
   // Full items table, sorted by total quantity desc
   lines.push('## Items (' + snapshot.items.length + ', sorted by total quantity)');
   lines.push('');
-  lines.push('| Currency | Units | Unit cost USD | Total value USD | Ledgers |');
-  lines.push('|---|---:|---:|---:|---|');
+  lines.push('| Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |');
+  lines.push('|---|---|---|---:|---:|---:|---|');
   snapshot.items.forEach(function(it) {
     var cost = it.unit_cost_usd != null ? '$' + it.unit_cost_usd.toFixed(2) : '—';
     var tv = it.total_value_usd != null ? '$' + it.total_value_usd.toFixed(2) : '—';
+    var inv = it.inventory_type != null ? escapePipes_(it.inventory_type) : '—';
+    var uf = it.unit_format != null ? escapePipes_(it.unit_format) : '—';
     var ledgerStr = Object.keys(it.ledgers).sort().map(function(k) {
       return k + ': ' + it.ledgers[k];
     }).join(', ');
-    lines.push('| ' + escapePipes_(it.currency) + ' | ' + it.total_quantity + ' | ' + cost + ' | ' + tv + ' | ' + escapePipes_(ledgerStr) + ' |');
+    lines.push('| ' + escapePipes_(it.currency) + ' | ' + inv + ' | ' + uf + ' | ' + it.total_quantity + ' | ' + cost + ' | ' + tv + ' | ' + escapePipes_(ledgerStr) + ' |');
   });
   lines.push('');
 
