@@ -5,9 +5,9 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-26T04:48:32.691Z` |
-| Trigger | `cron` |
-| Schema version | `2` |
+| Generated at | `2026-04-26T04:49:08.144Z` |
+| Trigger | `expense_processing` |
+| Schema version | `1` |
 | Item types | 82 |
 | Total units | 29795.786972040758 |
 | Total value USD | $38304.60 |
