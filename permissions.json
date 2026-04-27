@@ -1,0 +1,68 @@
+{
+  "schema_version": 1,
+  "documentation_url": "https://github.com/TrueSightDAO/treasury-cache#permissionsjson",
+  "comment": "Canonical (action -> required_roles) map for the TrueSight DAO DApp. Hand-edited via PR; not auto-published. Loaded by both the front-end gate (dapp/scripts/permissions.js) and any server-side handler that wants to enforce the same rule. Roles come from dao_members.json schema v3+ (contributors[].roles). Actions intentionally describe the smallest set we are actively wiring — operator / custodian / ward variants will be added when Project Zero / channel onboarding makes them real.",
+  "actions": {
+    "contributor.add": {
+      "required_roles": ["governor"],
+      "description": "Create a new contributor record with display name + email. Email is hard-required so the new contributor can later self-register additional device public keys via [EMAIL VERIFICATION EVENT].",
+      "surfaces": [
+        "dapp:governor_contributor_admin.html (dedicated page)",
+        "dapp:report_inventory_movement.html (inline button — visible only to governors)",
+        "dapp:report_contribution.html (inline '+ add new contributor' on the contribution submission flow — visible only to governors)"
+      ],
+      "endpoints": [
+        "edgar:[CONTRIBUTOR ADD EVENT] (planned)"
+      ],
+      "dedup": {
+        "name_collision": "409 Conflict, suggest 'add a new device key to existing contributor X' flow",
+        "email_collision": "409 Conflict, suggest 'this email already belongs to existing contributor X'"
+      }
+    },
+    "governor_chat.access": {
+      "required_roles": ["governor"],
+      "description": "Access the Governor's private chat interface.",
+      "surfaces": ["governor_chatbot_service:web"],
+      "endpoints": []
+    },
+    "inventory.move_self": {
+      "required_roles": ["member"],
+      "description": "Submit an inventory movement where the signer is the named warehouse manager (- Manager Name: matches the signer's display name).",
+      "surfaces": ["dapp:report_inventory_movement.html"],
+      "endpoints": ["edgar:[INVENTORY MOVEMENT]"]
+    },
+    "inventory.move_for_other": {
+      "required_roles": ["governor"],
+      "description": "Submit an inventory movement where the signer is not the named warehouse manager — i.e. acting on behalf of another DAO member. Today the inventory GAS already enforces 'Governor=YES OR signer matches manager' via inventoryMovementStatusFromTelegramRow_(); this manifest entry documents the intent declaratively so the dapp UI can gate accordingly.",
+      "surfaces": ["dapp:report_inventory_movement.html"],
+      "endpoints": ["edgar:[INVENTORY MOVEMENT]"]
+    },
+    "contribution.submit_self": {
+      "required_roles": ["member"],
+      "description": "Submit a DAO contribution attributed to the signer themselves.",
+      "surfaces": ["dapp:report_contribution.html"],
+      "endpoints": ["edgar:[CONTRIBUTION EVENT]"]
+    },
+    "contribution.submit_for_other": {
+      "required_roles": ["governor"],
+      "description": "Submit a DAO contribution attributed to a contributor other than the signer (act-on-behalf-of). Includes the case where a Governor adds a brand-new contributor inline and immediately submits the contribution on their behalf — that is two separate writes (contributor.add + contribution.submit_for_other), both governor-gated.",
+      "surfaces": ["dapp:report_contribution.html"],
+      "endpoints": ["edgar:[CONTRIBUTION EVENT]"]
+    }
+  },
+  "deferred_actions": {
+    "comment": "Documented but not active — added when the corresponding role / endpoint ships. Listed here so the architectural intent is single-source-of-truth and the dapp doesn't have to invent its own rules later.",
+    "drop.operate": {
+      "required_roles": ["operator", "governor"],
+      "blocked_by": "Channel Operator role not yet emitted on dao_members.json"
+    },
+    "inventory.move_for_ward": {
+      "required_roles": ["custodian"],
+      "blocked_by": "Project Zero custody pattern not yet onboarding minors"
+    },
+    "contribution.submit_for_ward": {
+      "required_roles": ["custodian"],
+      "blocked_by": "Project Zero custody pattern not yet onboarding minors"
+    }
+  }
+}
