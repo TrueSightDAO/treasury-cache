@@ -1,21 +1,36 @@
 {
-  "generated_at": "2026-04-27T03:25:05.947Z",
-  "schema_version": 2,
+  "generated_at": "2026-04-27T20:19:49.958Z",
+  "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "cron",
+  "trigger": "manual",
   "counts": {
     "contributors": 11,
-    "active_public_keys": 43
+    "active_public_keys": 43,
+    "governors": 3,
+    "contributors_with_email": 7
   },
   "dao_totals": {
     "voting_rights_circulated": 2341222.105540399,
     "total_assets": 15191.93984,
     "asset_per_circulated_voting_right": 0.00649,
-    "usd_provisions_for_cash_out": 32.8358
+    "usd_provisions_for_cash_out": 32.94384
   },
+  "unjoined_governor_names": [
+    "agl15",
+    "andrea catalina falcon rios de pabst",
+    "fadi",
+    "hans martin heierling",
+    "jacob nelan",
+    "rusty bogart - pipevine chocolate",
+    "shena davenport"
+  ],
   "contributors": [
     {
       "name": "Alexandre Fernandes",
+      "email": "alexandrefer1231@gmail.com",
+      "roles": [
+        "member"
+      ],
       "voting_rights": 400,
       "total_voting_power_pct": "0.00017085094107620872",
       "public_keys": [
@@ -23,12 +38,16 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260425 20:24:42"
+          "last_active_at": "20260426 20:24:44"
         }
       ]
     },
     {
       "name": "Elizabeth Wong",
+      "email": "ewong@gogreatop.com",
+      "roles": [
+        "member"
+      ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
       "public_keys": [
@@ -42,6 +61,10 @@
     },
     {
       "name": "Francine Cabral",
+      "email": null,
+      "roles": [
+        "member"
+      ],
       "voting_rights": 8.33,
       "total_voting_power_pct": "0.0000035579708479120464",
       "public_keys": [
@@ -55,6 +78,11 @@
     },
     {
       "name": "Garis Pang",
+      "email": "garispang@gmail.com",
+      "roles": [
+        "governor",
+        "member"
+      ],
       "voting_rights": 67653.33,
       "total_voting_power_pct": "0.028896587743598257",
       "public_keys": [
@@ -68,6 +96,11 @@
     },
     {
       "name": "Gary Teh",
+      "email": "garyjob@gmail.com",
+      "roles": [
+        "governor",
+        "member"
+      ],
       "voting_rights": 955414.0606520539,
       "total_voting_power_pct": "0.4080834784496134",
       "public_keys": [
@@ -129,7 +162,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-07-07T22:56:20.000Z",
-          "last_active_at": "20260426 08:19:12"
+          "last_active_at": "20260427 09:42:26"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjkm4wLOoEBIwiyd2WNYbA+BabPyao+N54ml/qfL5P6zJ+5k70/5TTs1ciCWEU9YqpB2L1oBFu677Eb3IcE2gBlPc4S6P9w59lea8tgXRoIWT72gjq5NsBJ3A4lYFqlQ1+ZJj+P4WOsC+0Ckm4ZFOd3lMWZx4SFOCBJcdc0m2xZwmeWQkZsaNR34XgshC5wzl+Ufcp45LOVnKHUGDYhmsiUr0GMK6F6lk8ginWIwJgxMYKioKSZYS+MZzmJ1699yvc1YP/86bO/07InBVJMmMXcASf18hW4q9jrdgRf0If5j5SD54gWaJsi6cb2vDm5Ri5fLXQtp+JNtcfu84UX2clwIDAQAB",
@@ -171,7 +204,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
           "status": "ACTIVE",
           "created_at": "",
-          "last_active_at": "20260426 14:05:28"
+          "last_active_at": "20260427 12:41:24"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB",
@@ -249,7 +282,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4HAaJowvq+d4JbNthSzsB8Lp24LCw/lHU4cUUMUBWHHBKOXb4BXPAM7l6CafrfHvx34lRcDsQ7aL25CaawxLOJTeq1nJF+YB1aHWW6FJw15D33znkAoZzIf4WiN9BmqxyietUBu2jYNUEjmtsyh1ZqIZp7UtlYCPzuv+d0UL3CIQ1xn+PrdswWuGt7fJsv8CwRYkL1ax2JWwiVYNKJg9zrBsViSiva8RnqnCahGSJEAVti0N5uW883Is8tDZT5CAy3LqjxTSmba+7lfNtXiwHE6QfF+oa1TWHfqmaA2EuBDDa53Nr1owmJBLXMnHDZ6dwej1yvw+4ttBDJcNdvuwWQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-04-24T06:40:34.000Z",
-          "last_active_at": "20260426 15:48:06"
+          "last_active_at": "20260427 13:15:46"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0HmX4PI2iDLqsAzKl752MEIMPwCteu1ozj7PFM1LkeRM8t55ceA6nMR/cizYZ+JYApNIYZ6hg6UKukCAjvM8MHdclfT5dCP5cy/bO/lsH70YLVPqMmA0VmAr0LEGz+mGSoJ5huClHqI20+oYFv0WRmRsDxU+qDsgQfBQz6xnLLYRkJZ6oClLREOamWmsN/d1Nhm6ijkJ91icTM81pSKU8Y0zpnhLbAUSr8D+F9pvgRaOw71S3nGBN5oAAv2/KCj1OtXiNgzX6ttP4FgPor62i1PW4mdn4xM1yHMlZ+TKzefJE/qGBCSTOg6KIwlT+FawINluD8Xo7koTumFYzD8FWQIDAQAB",
@@ -261,6 +294,10 @@
     },
     {
       "name": "Irene Hsu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
       "voting_rights": 216.67000000000002,
       "total_voting_power_pct": "0.00009254568350745536",
       "public_keys": [
@@ -274,6 +311,11 @@
     },
     {
       "name": "Kirsten Ritschel",
+      "email": "kirsten@kikiscocoa.com",
+      "roles": [
+        "governor",
+        "member"
+      ],
       "voting_rights": 18574.049999999996,
       "total_voting_power_pct": "0.007933484805241385",
       "public_keys": [
@@ -281,12 +323,16 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-07-17T22:47:12.000Z",
-          "last_active_at": "20260426 13:20:27"
+          "last_active_at": "20260427 08:05:47"
         }
       ]
     },
     {
       "name": "Marta Lopes",
+      "email": null,
+      "roles": [
+        "member"
+      ],
       "voting_rights": 50,
       "total_voting_power_pct": "0.00002135636763452609",
       "public_keys": [
@@ -300,6 +346,10 @@
     },
     {
       "name": "Matheus Reis",
+      "email": null,
+      "roles": [
+        "member"
+      ],
       "voting_rights": 29692.86289420004,
       "total_voting_power_pct": "0.012682633921802288",
       "public_keys": [
@@ -319,6 +369,10 @@
     },
     {
       "name": "Maurillo Gomes",
+      "email": "gomes.maurillo@gmail.com",
+      "roles": [
+        "member"
+      ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
       "public_keys": [
@@ -332,6 +386,10 @@
     },
     {
       "name": "Sacred Earth Farms",
+      "email": "cory@sacredearth.farm",
+      "roles": [
+        "member"
+      ],
       "voting_rights": 166.67000000000002,
       "total_voting_power_pct": "0.00007118931587292927",
       "public_keys": [
