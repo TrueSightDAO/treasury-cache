@@ -5,14 +5,14 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-28T18:01:58.195Z` |
+| Generated at | `2026-04-28T18:02:51.249Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 82 |
 | Total units | 29753.696972040758 |
 | Total value USD | $38262.50 |
 | Ledgers processed | 13 |
-| Managers | 38 |
+| Managers | 39 |
 
 ## Items (82, sorted by total quantity)
 
@@ -116,7 +116,7 @@
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (38)
+## Managers (39)
 
 | Manager | Line items | Total units |
 |---|---:|---:|
@@ -127,6 +127,7 @@
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
 | Gary Teh | 28 | 11536.54433677876 |
+| Gergana | 1 | 1 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
 | HackerDojo | 1 | 5 |
@@ -135,7 +136,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 18 | 1262 |
+| Kirsten Ritschel | 18 | 1261 |
 | Lumin Earth Apothecary - Summer and Sierra | 1 | 4 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
