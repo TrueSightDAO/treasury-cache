@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-28T20:48:31.223Z` |
+| Generated at | `2026-04-28T21:48:36.129Z` |
 | Trigger | `cron` |
 | Schema version | `3` |
 | Item types | 82 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2296.74 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2289.36 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -127,7 +127,7 @@
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
 | Gary Teh | 28 | 11536.54433677876 |
-| Gergana | 1 | 10 |
+| Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
 | HackerDojo | 1 | 5 |
