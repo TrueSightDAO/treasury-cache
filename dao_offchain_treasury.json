@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T20:48:31.223Z",
+  "generated_at": "2026-04-28T21:48:36.129Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -987,7 +987,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2296.7356,
+      "unit_cost_usd": 2289.3635,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1299,8 +1299,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2296.7356,
-          "total_value_usd": 1.0913175209270251e-10
+          "unit_cost_usd": 2289.3635,
+          "total_value_usd": 1.0878145918584697e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1343,8 +1343,8 @@
       ]
     },
     {
-      "manager_name": "Gergana",
-      "manager_key": "Gergana",
+      "manager_name": "Gergana - The Way Home Shop",
+      "manager_key": "Gergana%20-%20The%20Way%20Home%20Shop",
       "items": [
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
