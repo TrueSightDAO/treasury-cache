@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28T18:01:58.195Z",
+  "generated_at": "2026-04-28T18:02:51.249Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -1115,9 +1115,7 @@
         {
           "currency": "Heat Sealer for Kraft Pouch",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 28.11,
-          "total_value_usd": 28.11
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Label Maker",
@@ -1136,9 +1134,7 @@
         {
           "currency": "USD - provisions for voting rights cash out",
           "amount": 33.051872746530485,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 33.051872746530485
+          "ledger": "Main Ledger"
         },
         {
           "currency": "USDT",
@@ -1153,6 +1149,19 @@
           "ledger": "SEF1",
           "unit_cost_usd": 1,
           "total_value_usd": 16
+        }
+      ]
+    },
+    {
+      "manager_name": "Gergana",
+      "manager_key": "Gergana",
+      "items": [
+        {
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 8.493799803617641,
+          "total_value_usd": 8.493799803617641
         }
       ]
     },
@@ -1392,10 +1401,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 11,
+          "amount": 10,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 93.43179783979406
+          "total_value_usd": 84.93799803617641
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260330",
@@ -1407,37 +1416,27 @@
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
           "amount": 12,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 28.852372330114264
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Chocolate Mold from Rusty",
           "amount": 50,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 10,
-          "total_value_usd": 500
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Chocolate Wrapper Die Cutter from Rusty",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 0,
-          "total_value_usd": 0
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Hastings Serving Kettle Black - 1.5L",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 47.99,
-          "total_value_usd": 47.99
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Hastings Serving Kettle White - 1.5L",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 47.99,
-          "total_value_usd": 47.99
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Label Maker",
@@ -1964,9 +1963,7 @@
         {
           "currency": "USD",
           "amount": 49.09,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 49.09
+          "ledger": "Main Ledger"
         }
       ]
     },
@@ -2019,23 +2016,17 @@
         {
           "currency": "Chocolate Mold - 4 X 6 slots",
           "amount": 26,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1.19,
-          "total_value_usd": 30.939999999999998
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Collapsible Foldable Wagon Beach Cart",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 54.3,
-          "total_value_usd": 54.3
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 5.185489499999999,
-          "total_value_usd": 5.185489499999999
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Winnowing and Cracking Machine from Rusty",
@@ -2127,6 +2118,6 @@
     "total_units": 29753.696972040758,
     "total_value_usd": 38262.5,
     "ledgers_processed": 13,
-    "managers_count": 38
+    "managers_count": 39
   }
 }
