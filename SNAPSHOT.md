@@ -5,11 +5,11 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-29T02:48:34.511Z` |
+| Generated at | `2026-04-29T03:48:36.749Z` |
 | Trigger | `cron` |
 | Schema version | `3` |
 | Item types | 82 |
-| Total units | 29744.226972040757 |
+| Total units | 29744.226972040753 |
 | Total value USD | $38253.03 |
 | Ledgers processed | 13 |
 | Managers | 39 |
@@ -18,7 +18,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 19486.389185596232 | $1.00 | $19486.39 | AGL10: 228.82999999999998, AGL15: 5892.9400000000005, AGL4: 9036.347512464, AGL6: 1312.5853362811577, AGL8: 518.946, Main Ledger: 2480.740336851074, SEF1: 16 |
+| USD | — | — | 19486.281149160335 | $1.00 | $19486.28 | AGL10: 228.82999999999998, AGL15: 5892.9400000000005, AGL4: 9036.347512464, AGL6: 1312.5853362811577, AGL8: 518.946, Main Ledger: 2480.6323004151786, SEF1: 16 |
 | Brazilian Reis | — | — | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -43,7 +43,7 @@
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | — | — | 39 | $15.70 | $612.11 | Main Ledger: 39 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260330 | Caca Mass | Retail Ready | 35 | $8.57 | $300.05 | Main Ledger: 35 |
 | 1 Gallon Zip Loc Bags | — | — | 34 | $0.14 | $4.78 | Main Ledger: 34 |
-| USD - provisions for voting rights cash out | — | — | 33.051872746530485 | $1.00 | $33.05 | Main Ledger: 33.051872746530485 |
+| USD - provisions for voting rights cash out | — | — | 33.15990918242585 | $1.00 | $33.16 | Main Ledger: 33.15990918242585 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | Caca Mass | Retail Ready | 28 | $8.49 | $237.83 | Main Ledger: 28 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | — | — | 28 | $8.38 | $234.51 | Main Ledger: 28 |
 | 8 Ounce Package Kraft Pouch  CP340992735BR | — | — | 27 | $8.51 | $229.75 | Main Ledger: 27 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2286.30 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2308.15 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -112,7 +112,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1332.5853362811577 |
 | AGL8 | 7 | 1225.3613227979984 |
-| Main Ledger | 67 | 11515.992800497603 |
+| Main Ledger | 67 | 11515.992800497605 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
