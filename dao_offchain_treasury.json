@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-30T01:51:28.666Z",
+  "generated_at": "2026-04-30T02:08:54.332Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 1,
   "items": [
     {
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19768.19114916034,
-      "total_value_usd": 19768.19,
+      "total_quantity": 19918.19114916034,
+      "total_value_usd": 19918.19,
       "ledgers": {
-        "Main Ledger": 2762.542300415178,
+        "Main Ledger": 2912.542300415178,
         "AGL6": 1312.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -126,10 +126,10 @@
       "currency": "Cacao Tree To Be Planted",
       "unit_weight_g": null,
       "unit_cost_usd": -1.5,
-      "total_quantity": 215,
-      "total_value_usd": -322.5,
+      "total_quantity": 230,
+      "total_value_usd": -345,
       "ledgers": {
-        "Main Ledger": 215
+        "Main Ledger": 230
       }
     },
     {
@@ -383,16 +383,6 @@
       }
     },
     {
-      "currency": "81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco",
-      "unit_weight_g": 50,
-      "unit_cost_usd": 2.0510200000000003,
-      "total_quantity": 16,
-      "total_value_usd": 32.82,
-      "ledgers": {
-        "Main Ledger": 16
-      }
-    },
-    {
       "currency": "Cacao Almonds KG from Vivi's farm - AGL13",
       "unit_weight_g": 1000,
       "unit_cost_usd": 7.8696666667,
@@ -633,6 +623,16 @@
       }
     },
     {
+      "currency": "81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco",
+      "unit_weight_g": 50,
+      "unit_cost_usd": 2.0510200000000003,
+      "total_quantity": 1,
+      "total_value_usd": 2.05,
+      "ledgers": {
+        "Main Ledger": 1
+      }
+    },
+    {
       "currency": "Agroverse Retractable Banner",
       "unit_weight_g": null,
       "unit_cost_usd": 72.57,
@@ -815,7 +815,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2273.6036,
+      "unit_cost_usd": 2271.0922,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1099,8 +1099,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2273.6036,
-          "total_value_usd": 1.080326113429321e-10
+          "unit_cost_usd": 2271.0922,
+          "total_value_usd": 1.0791327959129051e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1118,10 +1118,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2589.482300415178,
+          "amount": 2739.482300415178,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2589.482300415178
+          "total_value_usd": 2739.482300415178
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1351,10 +1351,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco",
-          "amount": 16,
+          "amount": 1,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.0510200000000003,
-          "total_value_usd": 32.816320000000005
+          "total_value_usd": 2.0510200000000003
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -1885,10 +1885,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 215,
+          "amount": 230,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -322.5
+          "total_value_usd": -345
         }
       ]
     },
@@ -2123,8 +2123,8 @@
   ],
   "totals": {
     "item_types": 81,
-    "total_units": 30026.136972040757,
-    "total_value_usd": 38430.54,
+    "total_units": 30176.136972040757,
+    "total_value_usd": 38527.27,
     "ledgers_processed": 13,
     "managers_count": 39
   }
