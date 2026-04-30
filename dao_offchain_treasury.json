@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30T01:44:48.248Z",
+  "generated_at": "2026-04-30T01:45:13.687Z",
   "source": "treasury-cache-publisher",
   "trigger": "sales_update_main",
   "schema_version": 1,
@@ -8,10 +8,10 @@
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19568.19114916034,
-      "total_value_usd": 19568.19,
+      "total_quantity": 19598.19114916034,
+      "total_value_usd": 19598.19,
       "ledgers": {
-        "Main Ledger": 2562.542300415178,
+        "Main Ledger": 2592.542300415178,
         "AGL6": 1312.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -126,10 +126,10 @@
       "currency": "Cacao Tree To Be Planted",
       "unit_weight_g": null,
       "unit_cost_usd": -1.5,
-      "total_quantity": 195,
-      "total_value_usd": -292.5,
+      "total_quantity": 198,
+      "total_value_usd": -297,
       "ledgers": {
-        "Main Ledger": 195
+        "Main Ledger": 198
       }
     },
     {
@@ -363,16 +363,6 @@
       }
     },
     {
-      "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
-      "unit_weight_g": 50,
-      "unit_cost_usd": 2.0487813430434785,
-      "total_quantity": 19,
-      "total_value_usd": 38.93,
-      "ledgers": {
-        "Main Ledger": 19
-      }
-    },
-    {
       "currency": "81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco",
       "unit_weight_g": 50,
       "unit_cost_usd": 2.0510200000000003,
@@ -398,6 +388,16 @@
       "unit_cost_usd": 9.45,
       "total_quantity": 16,
       "total_value_usd": 151.2,
+      "ledgers": {
+        "Main Ledger": 16
+      }
+    },
+    {
+      "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
+      "unit_weight_g": 50,
+      "unit_cost_usd": 2.0487813430434785,
+      "total_quantity": 16,
+      "total_value_usd": 32.78,
       "ledgers": {
         "Main Ledger": 16
       }
@@ -1126,10 +1126,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2389.482300415178,
+          "amount": 2419.482300415178,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2389.482300415178
+          "total_value_usd": 2419.482300415178
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1357,10 +1357,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
-          "amount": 19,
+          "amount": 16,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.0487813430434785,
-          "total_value_usd": 38.92684551782609
+          "total_value_usd": 32.780501488695656
         },
         {
           "currency": "81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco",
@@ -1886,10 +1886,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 195,
+          "amount": 198,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -292.5
+          "total_value_usd": -297
         }
       ]
     },
@@ -2116,8 +2116,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 29826.136972040757,
-    "total_value_usd": 38301.52,
+    "total_units": 29856.136972040757,
+    "total_value_usd": 38320.87,
     "ledgers_processed": 13,
     "managers_count": 39
   }
