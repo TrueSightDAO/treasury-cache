@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-04-30T01:45:13.687Z",
+  "generated_at": "2026-04-30T01:47:14.555Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "process_sales",
   "schema_version": 1,
   "items": [
     {
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19598.19114916034,
-      "total_value_usd": 19598.19,
+      "total_quantity": 19708.19114916034,
+      "total_value_usd": 19708.19,
       "ledgers": {
-        "Main Ledger": 2592.542300415178,
+        "Main Ledger": 2702.542300415178,
         "AGL6": 1312.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -126,10 +126,10 @@
       "currency": "Cacao Tree To Be Planted",
       "unit_weight_g": null,
       "unit_cost_usd": -1.5,
-      "total_quantity": 198,
-      "total_value_usd": -297,
+      "total_quantity": 209,
+      "total_value_usd": -313.5,
       "ledgers": {
-        "Main Ledger": 198
+        "Main Ledger": 209
       }
     },
     {
@@ -393,16 +393,6 @@
       }
     },
     {
-      "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
-      "unit_weight_g": 50,
-      "unit_cost_usd": 2.0487813430434785,
-      "total_quantity": 16,
-      "total_value_usd": 32.78,
-      "ledgers": {
-        "Main Ledger": 16
-      }
-    },
-    {
       "currency": "Cacao Almonds KG from Vivi's farm - AGL13",
       "unit_weight_g": 1000,
       "unit_cost_usd": 7.8696666667,
@@ -508,6 +498,16 @@
       "unit_cost_usd": 7.493683209035012,
       "total_quantity": 5,
       "total_value_usd": 37.47,
+      "ledgers": {
+        "Main Ledger": 5
+      }
+    },
+    {
+      "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
+      "unit_weight_g": 50,
+      "unit_cost_usd": 2.0487813430434785,
+      "total_quantity": 5,
+      "total_value_usd": 10.24,
       "ledgers": {
         "Main Ledger": 5
       }
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2273.0216,
+      "unit_cost_usd": 2273.0208000000002,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1109,8 +1109,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2273.0216,
-          "total_value_usd": 1.0800495701488583e-10
+          "unit_cost_usd": 2273.0208000000002,
+          "total_value_usd": 1.0800491900206378e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1126,10 +1126,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2419.482300415178,
+          "amount": 2529.482300415178,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2419.482300415178
+          "total_value_usd": 2529.482300415178
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1357,10 +1357,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
-          "amount": 16,
+          "amount": 5,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.0487813430434785,
-          "total_value_usd": 32.780501488695656
+          "total_value_usd": 10.243906715217392
         },
         {
           "currency": "81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco",
@@ -1886,10 +1886,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 198,
+          "amount": 209,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -297
+          "total_value_usd": -313.5
         }
       ]
     },
@@ -2116,8 +2116,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 29856.136972040757,
-    "total_value_usd": 38320.87,
+    "total_units": 29966.136972040757,
+    "total_value_usd": 38391.83,
     "ledgers_processed": 13,
     "managers_count": 39
   }
