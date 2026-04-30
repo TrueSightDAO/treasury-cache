@@ -5,20 +5,20 @@
 
 | | |
 |---|---|
-| Generated at | `2026-04-30T01:47:24.187Z` |
+| Generated at | `2026-04-30T01:47:41.150Z` |
 | Trigger | `sales_update_main` |
 | Schema version | `1` |
-| Item types | 82 |
-| Total units | 29996.136972040757 |
-| Total value USD | $38411.19 |
+| Item types | 81 |
+| Total units | 30016.136972040757 |
+| Total value USD | $38424.09 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
-## Items (82, sorted by total quantity)
+## Items (81, sorted by total quantity)
 
 | Currency | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---:|---:|---:|---|
-| USD | 19738.19114916034 | $1.00 | $19738.19 | AGL10: 228.82999999999998, AGL15: 5892.9400000000005, AGL4: 9036.347512464, AGL6: 1312.5853362811577, AGL8: 518.946, Main Ledger: 2732.542300415178, SEF1: 16 |
+| USD | 19758.19114916034 | $1.00 | $19758.19 | AGL10: 228.82999999999998, AGL15: 5892.9400000000005, AGL4: 9036.347512464, AGL6: 1312.5853362811577, AGL8: 518.946, Main Ledger: 2752.542300415178, SEF1: 16 |
 | Brazilian Reis | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
 | Cacao Nibs Kraft Pouch - V2 | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -29,7 +29,7 @@
 | NovaGaia Tree Planting Pledge - QR Code | 297 | $7.00 | $2079.00 | SEF1: 297 |
 | Cacao Almonds (KG) | 274.085122798 | — | — | AGL8: 274.085122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 240 | $0.05 | $11.51 | Main Ledger: 240 |
-| Cacao Tree To Be Planted | 212 | $-1.50 | $-318.00 | Main Ledger: 212 |
+| Cacao Tree To Be Planted | 214 | $-1.50 | $-321.00 | Main Ledger: 214 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | 172 | $10.37 | $1783.64 | AGL8: 172 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | 157 | $0.55 | $86.98 | Main Ledger: 157 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | 137 | $6.64 | $909.68 | Main Ledger: 137 |
@@ -76,7 +76,6 @@
 | Cacao Husk Bag (weight unknown) | 3 | — | — | Main Ledger: 3 |
 | Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | 3 | $5.19 | $15.56 | Main Ledger: 3 |
 | Cacao Almonds KG - Organic | 2.3025149999999996 | $100.89 | $232.29 | Main Ledger: 2.3025149999999996 |
-| 81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco | 2 | $2.05 | $4.10 | Main Ledger: 2 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | 2 | $12.14 | $24.29 | Main Ledger: 2 |
 | Foam container box - 120 kraft pouches capacity | 2 | $24.11 | $48.22 | Main Ledger: 2 |
 | Label Maker | 2 | $44.99 | $89.98 | Main Ledger: 2 |
@@ -112,7 +111,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1332.5853362811577 |
 | AGL8 | 7 | 1225.3613227979984 |
-| Main Ledger | 67 | 11767.902800497604 |
+| Main Ledger | 66 | 11787.902800497604 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -126,7 +125,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 28 | 11753.01433677876 |
+| Gary Teh | 28 | 11773.01433677876 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
@@ -136,7 +135,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 18 | 1234 |
+| Kirsten Ritschel | 17 | 1232 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 26.97 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
@@ -151,7 +150,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 |
 | Shannon Barlow - Ponderosa | 2 | 6 |
 | Shuar Design Boutique | 2 | 30 |
-| SunMint Tree Planting Contract - agl4 | 1 | 212 |
+| SunMint Tree Planting Contract - agl4 | 1 | 214 |
 | Tess Walkowski | 2 | 13 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 |
