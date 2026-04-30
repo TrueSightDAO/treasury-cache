@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-04-30T06:00:26.595Z",
+  "generated_at": "2026-04-30T06:10:05.189Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_agl",
+  "trigger": "process_sales",
   "schema_version": 1,
   "items": [
     {
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 20077.975982955817,
-      "total_value_usd": 20077.98,
+      "total_quantity": 20102.975982955817,
+      "total_value_usd": 20102.98,
       "ledgers": {
         "Main Ledger": 3072.3271342106605,
-        "AGL6": 1312.5853362811577,
+        "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
         "AGL10": 228.82999999999998,
@@ -456,10 +456,10 @@
       "currency": "8 Ounce Package Kraft Pouch - AGL6",
       "unit_weight_g": null,
       "unit_cost_usd": 9.214071463,
-      "total_quantity": 9,
-      "total_value_usd": 82.93,
+      "total_quantity": 8,
+      "total_value_usd": 73.71,
       "ledgers": {
-        "AGL6": 9
+        "AGL6": 8
       }
     },
     {
@@ -805,7 +805,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2244.9234,
+      "unit_cost_usd": 2241.9388,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -960,18 +960,11 @@
           "total_value_usd": 5892.94
         },
         {
-          "currency": "[AGL6] 8 Ounce Package Kraft Pouch - AGL6",
-          "amount": 1,
-          "ledger": "AGL6",
-          "unit_cost_usd": 9.214071463,
-          "total_value_usd": 9.21
-        },
-        {
           "currency": "[AGL6] USD",
-          "amount": 1287.5853362811577,
+          "amount": 1312.5853362811577,
           "ledger": "AGL6",
           "unit_cost_usd": 1,
-          "total_value_usd": 1287.59
+          "total_value_usd": 1312.59
         },
         {
           "currency": "[AGL8] Brazilian Reis",
@@ -1082,8 +1075,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2244.9234,
-          "total_value_usd": 1.0666984216899274e-10
+          "unit_cost_usd": 2241.9388,
+          "total_value_usd": 1.0652802583310458e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2103,8 +2096,8 @@
   ],
   "totals": {
     "item_types": 80,
-    "total_units": 30336.136972040753,
-    "total_value_usd": 38623.77,
+    "total_units": 30360.136972040753,
+    "total_value_usd": 38639.55,
     "ledgers_processed": 13,
     "managers_count": 39
   }
