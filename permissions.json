@@ -48,6 +48,12 @@
       "description": "Submit a DAO contribution attributed to a contributor other than the signer (act-on-behalf-of). Includes the case where a Governor adds a brand-new contributor inline and immediately submits the contribution on their behalf — that is two separate writes (contributor.add + contribution.submit_for_other), both governor-gated.",
       "surfaces": ["dapp:report_contribution.html"],
       "endpoints": ["edgar:[CONTRIBUTION EVENT]"]
+    },
+    "warmup.send": {
+      "required_roles": ["governor"],
+      "description": "Send a pending warm-up Gmail draft from the operator's Gmail account. The DApp signs a [WARMUP SEND EVENT] with the operator's RSA key, Edgar verifies the signature + persists to Telegram Chat Logs, then fires a webhook to the holistic_hit_list_store_history GAS which calls GmailApp.getDraft(id).send() as the script owner. Drafts themselves are created by suggest_warmup_prospect_drafts.py against rows in Hit List with Status='AI: Warm up prospect' — this action only ships drafts that are already staged.",
+      "surfaces": ["dapp:warmup_review.html"],
+      "endpoints": ["edgar:[WARMUP SEND EVENT]"]
     }
   },
   "deferred_actions": {
