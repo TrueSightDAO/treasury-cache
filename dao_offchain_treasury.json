@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03T02:48:32.804Z",
+  "generated_at": "2026-05-03T03:48:40.077Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -10,10 +10,10 @@
       "unit_cost_usd": 1,
       "inventory_type": null,
       "unit_format": null,
-      "total_quantity": 19675.020802005187,
-      "total_value_usd": 19675.02,
+      "total_quantity": 19674.76321152987,
+      "total_value_usd": 19674.76,
       "ledgers": {
-        "Main Ledger": 3096.8119532600263,
+        "Main Ledger": 3096.554362784709,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -301,6 +301,18 @@
       }
     },
     {
+      "currency": "USD - provisions for voting rights cash out",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1,
+      "inventory_type": null,
+      "unit_format": null,
+      "total_quantity": 34.14784681289423,
+      "total_value_usd": 34.15,
+      "ledgers": {
+        "Main Ledger": 34.14784681289423
+      }
+    },
+    {
       "currency": "1 Gallon Zip Loc Bags",
       "unit_weight_g": null,
       "unit_cost_usd": 0.1405,
@@ -310,18 +322,6 @@
       "total_value_usd": 4.78,
       "ledgers": {
         "Main Ledger": 34
-      }
-    },
-    {
-      "currency": "USD - provisions for voting rights cash out",
-      "unit_weight_g": null,
-      "unit_cost_usd": 1,
-      "inventory_type": null,
-      "unit_format": null,
-      "total_quantity": 33.89025633757732,
-      "total_value_usd": 33.89,
-      "ledgers": {
-        "Main Ledger": 33.89025633757732
       }
     },
     {
@@ -963,7 +963,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2301.0748000000003,
+      "unit_cost_usd": 2302.7677000000003,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1258,8 +1258,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2301.0748000000003,
-          "total_value_usd": 1.0933793363953824e-10
+          "unit_cost_usd": 2302.7677000000003,
+          "total_value_usd": 1.0941837352261304e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1277,17 +1277,17 @@
         },
         {
           "currency": "USD",
-          "amount": 2923.7519532600263,
+          "amount": 2923.494362784709,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2923.7519532600263
+          "total_value_usd": 2923.494362784709
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 33.89025633757732,
+          "amount": 34.14784681289423,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 33.89025633757732
+          "total_value_usd": 34.14784681289423
         },
         {
           "currency": "USDT",
