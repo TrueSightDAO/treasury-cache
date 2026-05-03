@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-02T03:25:08.619Z",
+  "generated_at": "2026-05-03T03:25:05.157Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
@@ -13,7 +13,7 @@
     "voting_rights_circulated": 2343527.7748109857,
     "total_assets": 15570.71119,
     "asset_per_circulated_voting_right": 0.00664,
-    "usd_provisions_for_cash_out": 33.63267
+    "usd_provisions_for_cash_out": 33.89026
   },
   "unjoined_governor_names": [
     "agl15",
@@ -38,7 +38,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260430 20:24:44"
+          "last_active_at": "20260501 20:24:42"
         }
       ]
     },
@@ -162,7 +162,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-07-07T22:56:20.000Z",
-          "last_active_at": "20260427 18:37:12"
+          "last_active_at": "20260502 19:56:50"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAjkm4wLOoEBIwiyd2WNYbA+BabPyao+N54ml/qfL5P6zJ+5k70/5TTs1ciCWEU9YqpB2L1oBFu677Eb3IcE2gBlPc4S6P9w59lea8tgXRoIWT72gjq5NsBJ3A4lYFqlQ1+ZJj+P4WOsC+0Ckm4ZFOd3lMWZx4SFOCBJcdc0m2xZwmeWQkZsaNR34XgshC5wzl+Ufcp45LOVnKHUGDYhmsiUr0GMK6F6lk8ginWIwJgxMYKioKSZYS+MZzmJ1699yvc1YP/86bO/07InBVJMmMXcASf18hW4q9jrdgRf0If5j5SD54gWaJsi6cb2vDm5Ri5fLXQtp+JNtcfu84UX2clwIDAQAB",
