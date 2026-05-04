@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-05-04T15:50:38.076Z",
-  "schema_version": 2,
+  "generated_at": "2026-05-04T15:53:22.060Z",
+  "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
   "counts": {
     "contributors": 11,
-    "active_public_keys": 45
+    "active_public_keys": 45,
+    "governors": 3,
+    "contributors_with_email": 7
   },
   "dao_totals": {
     "voting_rights_circulated": 2343527.7748109857,
@@ -13,9 +15,22 @@
     "asset_per_circulated_voting_right": 0.00664,
     "usd_provisions_for_cash_out": 34.40544
   },
+  "unjoined_governor_names": [
+    "agl15",
+    "andrea catalina falcon rios de pabst",
+    "andreas quandt",
+    "fadi",
+    "hans martin heierling",
+    "jacob nelan",
+    "shena davenport"
+  ],
   "contributors": [
     {
       "name": "Alexandre Fernandes",
+      "email": "alexandrefer1231@gmail.com",
+      "roles": [
+        "member"
+      ],
       "voting_rights": 400,
       "total_voting_power_pct": "0.00017068285014555098",
       "public_keys": [
@@ -23,12 +38,16 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260504 08:47:15"
+          "last_active_at": "20260504 08:49:42"
         }
       ]
     },
     {
       "name": "Elizabeth Wong",
+      "email": "ewong@gogreatop.com",
+      "roles": [
+        "member"
+      ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
       "public_keys": [
@@ -42,6 +61,10 @@
     },
     {
       "name": "Francine Cabral",
+      "email": null,
+      "roles": [
+        "member"
+      ],
       "voting_rights": 8.33,
       "total_voting_power_pct": "0.000003554470354281099",
       "public_keys": [
@@ -55,6 +78,11 @@
     },
     {
       "name": "Garis Pang",
+      "email": "garispang@gmail.com",
+      "roles": [
+        "governor",
+        "member"
+      ],
       "voting_rights": 67653.33,
       "total_voting_power_pct": "0.02886815796559377",
       "public_keys": [
@@ -68,6 +96,11 @@
     },
     {
       "name": "Gary Teh",
+      "email": "garyjob@gmail.com",
+      "roles": [
+        "governor",
+        "member"
+      ],
       "voting_rights": 955458.6340203038,
       "total_voting_power_pct": "0.4077010071269009",
       "public_keys": [
@@ -273,6 +306,10 @@
     },
     {
       "name": "Irene Hsu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
       "voting_rights": 216.67000000000002,
       "total_voting_power_pct": "0.00009245463285259133",
       "public_keys": [
@@ -286,6 +323,11 @@
     },
     {
       "name": "Kirsten Ritschel",
+      "email": "kirsten@kikiscocoa.com",
+      "roles": [
+        "governor",
+        "member"
+      ],
       "voting_rights": 18574.049999999996,
       "total_voting_power_pct": "0.007925679481864926",
       "public_keys": [
@@ -299,6 +341,10 @@
     },
     {
       "name": "Marta Lopes",
+      "email": null,
+      "roles": [
+        "member"
+      ],
       "voting_rights": 50,
       "total_voting_power_pct": "0.000021335356268193872",
       "public_keys": [
@@ -312,6 +358,10 @@
     },
     {
       "name": "Matheus Reis",
+      "email": null,
+      "roles": [
+        "member"
+      ],
       "voting_rights": 29692.86289420004,
       "total_voting_power_pct": "0.01267015616940784",
       "public_keys": [
@@ -331,6 +381,10 @@
     },
     {
       "name": "Maurillo Gomes",
+      "email": "gomes.maurillo@gmail.com",
+      "roles": [
+        "member"
+      ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
       "public_keys": [
@@ -344,6 +398,10 @@
     },
     {
       "name": "Sacred Earth Farms",
+      "email": "cory@sacredearth.farm",
+      "roles": [
+        "member"
+      ],
       "voting_rights": 166.67000000000002,
       "total_voting_power_pct": "0.00007111927658439746",
       "public_keys": [
