@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-05T22:23:05.195Z` |
+| Generated at | `2026-05-05T22:23:44.372Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 80 |
