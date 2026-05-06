@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-06T18:11:14.042Z",
+  "generated_at": "2026-05-06T18:12:01.136Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "expense_processing",
   "schema_version": 1,
   "items": [
     {
@@ -805,7 +805,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2348.5436,
+      "unit_cost_usd": 2348.5783,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1017,10 +1017,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 753.8400000000001,
+          "amount": 348.84000000000015,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 175.11703200000005
+          "total_value_usd": 81.03553200000003
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -1075,8 +1075,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2348.5436,
-          "total_value_usd": 1.1159346244909649e-10
+          "unit_cost_usd": 2348.5783,
+          "total_value_usd": 1.115951112552532e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1500,10 +1500,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 48.129999999999995,
+          "amount": 453.13,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 11.180598999999999
+          "total_value_usd": 105.262099
         },
         {
           "currency": "Cacao Husk (KG) - Ilheus, Brazil",
