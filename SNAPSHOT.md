@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-06T22:52:06.396Z` |
+| Generated at | `2026-05-06T22:52:32.856Z` |
 | Trigger | `expense_processing` |
 | Schema version | `1` |
 | Item types | 80 |
-| Total units | 29532.696972040754 |
-| Total value USD | $38110.52 |
+| Total units | 29532.196972040754 |
+| Total value USD | $38109.57 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -70,7 +70,7 @@
 | Large Cardboard Box for Moving Packaging 60x40x50 | 5 | $2.65 | $13.27 | Main Ledger: 5 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8 | 5 | $9.18 | $45.88 | AGL8: 5 |
 | Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409) | 4 | $10.45 | $41.81 | Main Ledger: 4 |
-| Cacao Mass Bar (40grams) CP340993869BR - AGL8 | 3.75 | $1.90 | $7.11 | AGL8: 3.75 |
+| Cacao Mass Bar (40grams) CP340993869BR - AGL8 | 3.25 | $1.90 | $6.16 | AGL8: 3.25 |
 | 8 Ounce Package Kraft Pouch QN226716310BR - FounderHaus Brazil | 3 | $8.59 | $25.78 | Main Ledger: 3 |
 | Cacao Husk Bag (weight unknown) | 3 | — | — | Main Ledger: 3 |
 | Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | 3 | $5.19 | $15.56 | Main Ledger: 3 |
@@ -109,7 +109,7 @@
 | AGL15 | 1 | 5440.5 |
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1356.5853362811577 |
-| AGL8 | 7 | 1225.3613227979984 |
+| AGL8 | 7 | 1224.8613227979984 |
 | Main Ledger | 65 | 11732.902800497603 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
@@ -124,7 +124,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 26 | 11278.574336778758 |
+| Gary Teh | 26 | 11278.074336778758 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
