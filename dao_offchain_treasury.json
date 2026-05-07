@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T01:50:08.305Z",
+  "generated_at": "2026-05-07T01:51:19.946Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -323,6 +323,16 @@
       }
     },
     {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.493799803617641,
+      "total_quantity": 22,
+      "total_value_usd": 186.86,
+      "ledgers": {
+        "Main Ledger": 22
+      }
+    },
+    {
       "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13",
       "unit_weight_g": 1000,
       "unit_cost_usd": 10.18234711,
@@ -348,16 +358,6 @@
       "unit_cost_usd": 26.872991926635226,
       "total_quantity": 20,
       "total_value_usd": 537.46,
-      "ledgers": {
-        "Main Ledger": 20
-      }
-    },
-    {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.493799803617641,
-      "total_quantity": 20,
-      "total_value_usd": 169.88,
       "ledgers": {
         "Main Ledger": 20
       }
@@ -1065,6 +1065,13 @@
           "total_value_usd": 8.315440379611111
         },
         {
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
+          "amount": 3,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 8.493799803617641,
+          "total_value_usd": 25.481399410852923
+        },
+        {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -1354,13 +1361,6 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.73529,
           "total_value_usd": 270.58672
-        },
-        {
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 8.493799803617641
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260330",
@@ -2096,8 +2096,8 @@
   ],
   "totals": {
     "item_types": 80,
-    "total_units": 29532.196972040754,
-    "total_value_usd": 38109.57,
+    "total_units": 29534.196972040754,
+    "total_value_usd": 38126.55,
     "ledgers_processed": 13,
     "managers_count": 39
   }
