@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-07T07:30:55.841Z",
+  "generated_at": "2026-05-07T07:32:20.170Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "expense_processing",
   "schema_version": 1,
   "items": [
     {
@@ -1027,10 +1027,10 @@
         },
         {
           "currency": "Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036)",
-          "amount": 2,
+          "amount": 1,
           "ledger": "Main Ledger",
           "unit_cost_usd": 116.91,
-          "total_value_usd": 233.82
+          "total_value_usd": 116.91
         },
         {
           "currency": "Brazilian Reis",
@@ -1126,9 +1126,7 @@
         {
           "currency": "USD - provisions for voting rights cash out",
           "amount": 35.17820871416187,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 35.17820871416187
+          "ledger": "Main Ledger"
         },
         {
           "currency": "USDT",
@@ -1953,9 +1951,7 @@
         {
           "currency": "USD",
           "amount": 49.09,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 49.09
+          "ledger": "Main Ledger"
         }
       ]
     },
@@ -1976,6 +1972,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 72.57,
           "total_value_usd": 72.57
+        },
+        {
+          "currency": "Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036)",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 116.91,
+          "total_value_usd": 116.91
         },
         {
           "currency": "CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027",
