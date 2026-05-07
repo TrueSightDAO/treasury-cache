@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-07T07:30:55.841Z` |
-| Trigger | `movement` |
+| Generated at | `2026-05-07T07:32:20.170Z` |
+| Trigger | `expense_processing` |
 | Schema version | `1` |
 | Item types | 81 |
 | Total units | 29548.196972040754 |
@@ -125,7 +125,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 28 | 11295.074336778758 |
+| Gary Teh | 28 | 11294.074336778758 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
@@ -156,7 +156,7 @@
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 |
 | TrueSight DAO | 1 | 9036.347512464 |
 | USPS | 1 | 49.09 |
-| Val Lapidus | 10 | 1269 |
+| Val Lapidus | 11 | 1270 |
 | Yasmin | 1 | 40 |
 
 ---
