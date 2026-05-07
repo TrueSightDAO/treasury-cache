@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T02:00:17.479Z",
+  "generated_at": "2026-05-07T02:01:15.021Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -283,6 +283,16 @@
       }
     },
     {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.493799803617641,
+      "total_quantity": 27,
+      "total_value_usd": 229.33,
+      "ledgers": {
+        "Main Ledger": 27
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.375283531111112,
@@ -318,16 +328,6 @@
       "unit_cost_usd": 9.9529856456974,
       "total_quantity": 25,
       "total_value_usd": 248.82,
-      "ledgers": {
-        "Main Ledger": 25
-      }
-    },
-    {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.493799803617641,
-      "total_quantity": 25,
-      "total_value_usd": 212.34,
       "ledgers": {
         "Main Ledger": 25
       }
@@ -1066,10 +1066,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 6,
+          "amount": 8,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 50.962798821705846
+          "total_value_usd": 67.95039842894113
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
@@ -2096,8 +2096,8 @@
   ],
   "totals": {
     "item_types": 80,
-    "total_units": 29537.196972040754,
-    "total_value_usd": 38152.03,
+    "total_units": 29539.196972040754,
+    "total_value_usd": 38169.02,
     "ledgers_processed": 13,
     "managers_count": 39
   }
