@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-07T02:00:17.479Z` |
+| Generated at | `2026-05-07T02:01:15.021Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 80 |
-| Total units | 29537.196972040754 |
-| Total value USD | $38152.03 |
+| Total units | 29539.196972040754 |
+| Total value USD | $38169.02 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -45,11 +45,11 @@
 | USD - provisions for voting rights cash out | 34.92061823884496 | $1.00 | $34.92 | Main Ledger: 34.92061823884496 |
 | 1 Gallon Zip Loc Bags | 34 | $0.14 | $4.78 | Main Ledger: 34 |
 | 8 Ounce Package Kraft Pouch  CP340992735BR | 27 | $8.51 | $229.75 | Main Ledger: 27 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 27 | $8.49 | $229.33 | Main Ledger: 27 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | 27 | $8.38 | $226.13 | Main Ledger: 27 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 27 | $2.40 | $64.92 | Main Ledger: 27 |
 | Chocolate Mold - 4 X 6 slots | 26 | $1.19 | $30.94 | Main Ledger: 26 |
 | 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | 25 | $9.95 | $248.82 | Main Ledger: 25 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 25 | $8.49 | $212.34 | Main Ledger: 25 |
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | 21 | $10.18 | $213.83 | AGL13: 21 |
 | Cacao Husk (KG) - Ilheus, Brazil | 20 | $17.79 | $355.71 | Main Ledger: 20 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland | 20 | $26.87 | $537.46 | Main Ledger: 20 |
@@ -110,7 +110,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1356.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| Main Ledger | 65 | 11737.902800497603 |
+| Main Ledger | 65 | 11739.902800497603 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -124,7 +124,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 27 | 11284.074336778758 |
+| Gary Teh | 27 | 11286.074336778758 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
