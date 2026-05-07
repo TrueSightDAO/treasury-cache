@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T02:48:39.609Z",
+  "generated_at": "2026-05-07T03:48:36.850Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -10,10 +10,10 @@
       "unit_cost_usd": 1,
       "inventory_type": null,
       "unit_format": null,
-      "total_quantity": 19673.990440103917,
-      "total_value_usd": 19673.99,
+      "total_quantity": 19673.7328496286,
+      "total_value_usd": 19673.73,
       "ledgers": {
-        "Main Ledger": 3095.781591358758,
+        "Main Ledger": 3095.5240008834407,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -289,6 +289,18 @@
       }
     },
     {
+      "currency": "USD - provisions for voting rights cash out",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1,
+      "inventory_type": null,
+      "unit_format": null,
+      "total_quantity": 35.17820871416187,
+      "total_value_usd": 35.18,
+      "ledgers": {
+        "Main Ledger": 35.17820871416187
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260330",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.572833859342108,
@@ -298,18 +310,6 @@
       "total_value_usd": 300.05,
       "ledgers": {
         "Main Ledger": 35
-      }
-    },
-    {
-      "currency": "USD - provisions for voting rights cash out",
-      "unit_weight_g": null,
-      "unit_cost_usd": 1,
-      "inventory_type": null,
-      "unit_format": null,
-      "total_quantity": 34.92061823884496,
-      "total_value_usd": 34.92,
-      "ledgers": {
-        "Main Ledger": 34.92061823884496
       }
     },
     {
@@ -975,7 +975,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2317.683,
+      "unit_cost_usd": 2321.4346,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1287,8 +1287,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2317.683,
-          "total_value_usd": 1.101270893286415e-10
+          "unit_cost_usd": 2321.4346,
+          "total_value_usd": 1.1030535045767655e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1306,17 +1306,17 @@
         },
         {
           "currency": "USD",
-          "amount": 2922.721591358758,
+          "amount": 2922.464000883441,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2922.721591358758
+          "total_value_usd": 2922.464000883441
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 34.92061823884496,
+          "amount": 35.17820871416187,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 34.92061823884496
+          "total_value_usd": 35.17820871416187
         },
         {
           "currency": "USDT",
