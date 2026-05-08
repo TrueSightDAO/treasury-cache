@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-08T23:49:24.947Z` |
+| Generated at | `2026-05-08T23:50:40.467Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 81 |
-| Total units | 29496.07697204075 |
-| Total value USD | $38294.28 |
+| Total units | 29492.07697204075 |
+| Total value USD | $38284.66 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -47,9 +47,9 @@
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 34 | $8.49 | $288.79 | Main Ledger: 34 |
 | 8 Ounce Package Kraft Pouch  CP340992735BR | 27 | $8.51 | $229.75 | Main Ledger: 27 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | 27 | $8.38 | $226.13 | Main Ledger: 27 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 27 | $2.40 | $64.92 | Main Ledger: 27 |
 | Chocolate Mold - 4 X 6 slots | 26 | $1.19 | $30.94 | Main Ledger: 26 |
 | 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | 25 | $9.95 | $248.82 | Main Ledger: 25 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 23 | $2.40 | $55.30 | Main Ledger: 23 |
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | 21 | $10.18 | $213.83 | AGL13: 21 |
 | Cacao Husk (KG) - Ilheus, Brazil | 20 | $17.79 | $355.71 | Main Ledger: 20 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland | 20 | $26.87 | $537.46 | Main Ledger: 20 |
@@ -111,7 +111,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1356.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| Main Ledger | 66 | 11747.902800497603 |
+| Main Ledger | 66 | 11743.902800497603 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -135,7 +135,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 15 | 1214 |
+| Kirsten Ritschel | 15 | 1210 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 26.97 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
