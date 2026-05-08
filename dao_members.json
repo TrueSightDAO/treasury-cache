@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-05-08T03:25:29.376Z",
+  "generated_at": "2026-05-08T14:11:14.056Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "cron",
+  "trigger": "contributor_add",
   "counts": {
     "contributors": 12,
     "active_public_keys": 47,
@@ -13,7 +13,7 @@
     "voting_rights_circulated": 2343527.7748109857,
     "total_assets": 15593.53969,
     "asset_per_circulated_voting_right": 0.00665,
-    "usd_provisions_for_cash_out": 35.17821
+    "usd_provisions_for_cash_out": 35.4358
   },
   "unjoined_governor_names": [
     "agl15",
@@ -38,7 +38,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260505 20:24:45"
+          "last_active_at": "20260507 20:24:44"
         }
       ]
     },
@@ -288,7 +288,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0HmX4PI2iDLqsAzKl752MEIMPwCteu1ozj7PFM1LkeRM8t55ceA6nMR/cizYZ+JYApNIYZ6hg6UKukCAjvM8MHdclfT5dCP5cy/bO/lsH70YLVPqMmA0VmAr0LEGz+mGSoJ5huClHqI20+oYFv0WRmRsDxU+qDsgQfBQz6xnLLYRkJZ6oClLREOamWmsN/d1Nhm6ijkJ91icTM81pSKU8Y0zpnhLbAUSr8D+F9pvgRaOw71S3nGBN5oAAv2/KCj1OtXiNgzX6ttP4FgPor62i1PW4mdn4xM1yHMlZ+TKzefJE/qGBCSTOg6KIwlT+FawINluD8Xo7koTumFYzD8FWQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-04-26T22:22:13.000Z",
-          "last_active_at": "20260426 08:49:22"
+          "last_active_at": "20260507 21:22:13"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwR76/NHqIcfH0w51Tc6uq2YBiPdnyBSILD5V6auapmAxlLx7usTi8ihXHTh2UODjAW/IWWm+FsAChK35x5GqoxJn+B30ObaEnZEOIaHoiZpQ0Ed8oXKtMc+7KOLDY2lDSarpE0NzMGOO4mgqNdnJfqDdiszTSgWFs6atqwgDlcU8NomF0cNZTDD8/wH39c+u0WyaGCg+m1Q028jam+hdzHwMxpA7yZf4ju0y15q9Q92vfDY+G7/4Z4gIo8lSyRPi07PDA4iXx8a11qxm5Pgl2NC/7nuT8Er7r4MRchG3Ch88FF5ILsa5DkImn9qV2o8KcJgGRM9LpMjnvYUqe+aOwQIDAQAB",
