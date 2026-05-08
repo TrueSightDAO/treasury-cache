@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-07T03:25:10.684Z",
+  "generated_at": "2026-05-08T03:25:29.376Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
@@ -11,9 +11,9 @@
   },
   "dao_totals": {
     "voting_rights_circulated": 2343527.7748109857,
-    "total_assets": 15710.44969,
-    "asset_per_circulated_voting_right": 0.0067,
-    "usd_provisions_for_cash_out": 34.92062
+    "total_assets": 15593.53969,
+    "asset_per_circulated_voting_right": 0.00665,
+    "usd_provisions_for_cash_out": 35.17821
   },
   "unjoined_governor_names": [
     "agl15",
@@ -25,23 +25,6 @@
     "shena davenport"
   ],
   "contributors": [
-    {
-      "name": "admin@truesight.me",
-      "email": "admin@truesight.me",
-      "roles": [
-        "member"
-      ],
-      "voting_rights": 0,
-      "total_voting_power_pct": null,
-      "public_keys": [
-        {
-          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WhcrS0l8HjG3kAoE0jBGm0PG8ArIfiLLcE4p9LGL1Z4iuFXOr0+wftjxKerBdqbznLqI0A0tRiNpMEFZMimN15DszxUYEusUM/4I2a8brwGgv4sg+IiJNQ+Q7MxzGB2A3jaRSIDIyxCEKN/Xto/rYbtbiffgk7ZS0dfnenuvnNwFWv7uU8e0vAIh0xqGumagBH8Fa1NhjACQQGifyRdwFq719M+Ll4dHfhnkE1UhjnqOhAUSB6nW1J4nACKEGFMRG04beNu8cxj8CKzdRCFnkcVILwo7Gxg8ErhveBgI4eEouTZz5ZhX+C1v6m6wSukXveJiGz7HPi7hzBeSOEU9wIDAQAB",
-          "status": "ACTIVE",
-          "created_at": "2026-05-07T08:15:02.000Z",
-          "last_active_at": "2026-05-07T08:15:02.000Z"
-        }
-      ]
-    },
     {
       "name": "Alexandre Fernandes",
       "email": "alexandrefer1231@gmail.com",
@@ -317,7 +300,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-05-04T22:37:58.000Z",
-          "last_active_at": "20260506 11:16:22"
+          "last_active_at": "20260507 12:50:55"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk3F3H+5sAFC9BJKUsU8uWmqblYNAXvR2jtJPGi2ihgIA3xwflOA3LbkxbO30toDnZ2hstgt1HxldfGd3Gy455E7/BIzvUazWEhUKHW+8+RA9eFxdk2iInJd8Q0VSGePdHL4M9QuGCLz0V/ZSAb+pAPTU0P05yWz6uXWfeNgqp9Q6bSOrps0tumxDk4EbipNN1GgH4m+Yktk4ZupgzeohV5QRIsTM+dE6ga+cJUsN+djSRFrBk3L+pRpsTwLnIlNpuC6jK9O4ha9uKcetrnzenejHUgsPdHENR174fX7Hk98f1f/02GEPEWUfuq+a6VE8ss2Fgh+VOmYPM6HcUTylQwIDAQAB",
@@ -439,6 +422,23 @@
           "status": "ACTIVE",
           "created_at": "",
           "last_active_at": "20251012 13:07:32"
+        }
+      ]
+    },
+    {
+      "name": "truesight-autopilot",
+      "email": "admin@truesight.me",
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WhcrS0l8HjG3kAoE0jBGm0PG8ArIfiLLcE4p9LGL1Z4iuFXOr0+wftjxKerBdqbznLqI0A0tRiNpMEFZMimN15DszxUYEusUM/4I2a8brwGgv4sg+IiJNQ+Q7MxzGB2A3jaRSIDIyxCEKN/Xto/rYbtbiffgk7ZS0dfnenuvnNwFWv7uU8e0vAIh0xqGumagBH8Fa1NhjACQQGifyRdwFq719M+Ll4dHfhnkE1UhjnqOhAUSB6nW1J4nACKEGFMRG04beNu8cxj8CKzdRCFnkcVILwo7Gxg8ErhveBgI4eEouTZz5ZhX+C1v6m6wSukXveJiGz7HPi7hzBeSOEU9wIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-05-07T08:15:02.000Z",
+          "last_active_at": "20260506 20:24:47"
         }
       ]
     }
