@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T23:50:40.467Z",
+  "generated_at": "2026-05-09T00:07:18.671Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -223,6 +223,16 @@
       }
     },
     {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.493799803617641,
+      "total_quantity": 42,
+      "total_value_usd": 356.74,
+      "ledgers": {
+        "Main Ledger": 42
+      }
+    },
+    {
       "currency": "Cacao Almonds KG from Oscar's farm - AGL14",
       "unit_weight_g": 1000,
       "unit_cost_usd": 11.41225,
@@ -273,16 +283,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.493799803617641,
-      "total_quantity": 34,
-      "total_value_usd": 288.79,
-      "ledgers": {
-        "Main Ledger": 34
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
       "unit_weight_g": null,
       "unit_cost_usd": 8.509333333333332,
@@ -323,16 +323,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 2.4043643608428553,
-      "total_quantity": 23,
-      "total_value_usd": 55.3,
-      "ledgers": {
-        "Main Ledger": 23
-      }
-    },
-    {
       "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13",
       "unit_weight_g": 1000,
       "unit_cost_usd": 10.18234711,
@@ -360,6 +350,16 @@
       "total_value_usd": 537.46,
       "ledgers": {
         "Main Ledger": 20
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 2.4043643608428553,
+      "total_quantity": 18,
+      "total_value_usd": 43.28,
+      "ledgers": {
+        "Main Ledger": 18
       }
     },
     {
@@ -815,7 +815,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2304.9085,
+      "unit_cost_usd": 2306.6758,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1076,10 +1076,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 15,
+          "amount": 23,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 127.40699705426462
+          "total_value_usd": 195.35739548320575
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
@@ -1092,8 +1092,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2304.9085,
-          "total_value_usd": 1.0952009583443684e-10
+          "unit_cost_usd": 2306.6758,
+          "total_value_usd": 1.0960407090996292e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1381,10 +1381,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 8,
+          "amount": 3,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 19.234914886742843
+          "total_value_usd": 7.213093082528566
         },
         {
           "currency": "Chocolate Mold from Rusty",
@@ -2113,8 +2113,8 @@
   ],
   "totals": {
     "item_types": 81,
-    "total_units": 29492.07697204075,
-    "total_value_usd": 38284.66,
+    "total_units": 29495.07697204075,
+    "total_value_usd": 38340.59,
     "ledgers_processed": 13,
     "managers_count": 39
   }
