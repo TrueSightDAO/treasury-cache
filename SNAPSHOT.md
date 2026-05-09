@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-09T00:07:18.671Z` |
+| Generated at | `2026-05-09T00:07:59.445Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 81 |
-| Total units | 29495.07697204075 |
-| Total value USD | $38340.59 |
+| Total units | 29494.07697204075 |
+| Total value USD | $38344.27 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -39,7 +39,7 @@
 | Cacao Mass Bar (loose grams) - AGL2 | 50 | $0.03 | $1.55 | Main Ledger: 50 |
 | Chocolate Mold from Rusty | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | 43 | $9.02 | $387.83 | Main Ledger: 43 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 42 | $8.49 | $356.74 | Main Ledger: 42 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 43 | $8.49 | $365.23 | Main Ledger: 43 |
 | Cacao Almonds KG from Oscar's farm - AGL14 | 40 | $11.41 | $456.49 | AGL14: 40 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | 39 | $15.70 | $612.11 | Main Ledger: 39 |
 | USD - provisions for voting rights cash out | 35.43579918947878 | $1.00 | $35.44 | Main Ledger: 35.43579918947878 |
@@ -52,9 +52,9 @@
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | 21 | $10.18 | $213.83 | AGL13: 21 |
 | Cacao Husk (KG) - Ilheus, Brazil | 20 | $17.79 | $355.71 | Main Ledger: 20 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland | 20 | $26.87 | $537.46 | Main Ledger: 20 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 18 | $2.40 | $43.28 | Main Ledger: 18 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | 17 | $8.38 | $142.38 | Main Ledger: 17 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 16 | $9.45 | $151.20 | Main Ledger: 16 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 16 | $2.40 | $38.47 | Main Ledger: 16 |
 | Cacao Almonds KG from Vivi's farm - AGL13 | 15 | $7.87 | $118.05 | AGL13: 15 |
 | Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | 14.6802 | $0.00 | $0.00 | AGL8: 14.6802 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | 12 | $8.09 | $97.02 | AGL10: 12 |
@@ -111,7 +111,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1356.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| Main Ledger | 66 | 11746.902800497603 |
+| Main Ledger | 66 | 11745.902800497603 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -125,7 +125,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 27 | 11249.954336778757 |
+| Gary Teh | 27 | 11250.954336778757 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
@@ -135,7 +135,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 15 | 1205 |
+| Kirsten Ritschel | 15 | 1203 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 26.97 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
