@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T01:53:06.684Z",
+  "generated_at": "2026-05-09T02:32:31.090Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -443,6 +443,16 @@
       }
     },
     {
+      "currency": "8 Ounce Package Kraft Pouch - AGL6",
+      "unit_weight_g": null,
+      "unit_cost_usd": 9.214071463,
+      "total_quantity": 10,
+      "total_value_usd": 92.14,
+      "ledgers": {
+        "AGL6": 10
+      }
+    },
+    {
       "currency": "SunMint Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 0,
@@ -450,16 +460,6 @@
       "total_value_usd": 0,
       "ledgers": {
         "PP1": 10
-      }
-    },
-    {
-      "currency": "8 Ounce Package Kraft Pouch - AGL6",
-      "unit_weight_g": null,
-      "unit_cost_usd": 9.214071463,
-      "total_quantity": 8,
-      "total_value_usd": 73.71,
-      "ledgers": {
-        "AGL6": 8
       }
     },
     {
@@ -815,7 +815,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2316.3496,
+      "unit_cost_usd": 2315.1859,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -970,6 +970,13 @@
           "total_value_usd": 5389.38
         },
         {
+          "currency": "[AGL6] 8 Ounce Package Kraft Pouch - AGL6",
+          "amount": 2,
+          "ledger": "AGL6",
+          "unit_cost_usd": 9.214071463,
+          "total_value_usd": 18.43
+        },
+        {
           "currency": "[AGL6] USD",
           "amount": 1312.5853362811577,
           "ledger": "AGL6",
@@ -1092,8 +1099,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2316.3496,
-          "total_value_usd": 1.1006373145747844e-10
+          "unit_cost_usd": 2315.1859,
+          "total_value_usd": 1.1000843705619417e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2106,8 +2113,8 @@
   ],
   "totals": {
     "item_types": 81,
-    "total_units": 29494.07697204075,
-    "total_value_usd": 38350.37,
+    "total_units": 29496.07697204075,
+    "total_value_usd": 38368.8,
     "ledgers_processed": 13,
     "managers_count": 39
   }
