@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-08T23:50:40.467Z` |
+| Generated at | `2026-05-09T00:07:18.671Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 81 |
-| Total units | 29492.07697204075 |
-| Total value USD | $38284.66 |
+| Total units | 29495.07697204075 |
+| Total value USD | $38340.59 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -39,20 +39,20 @@
 | Cacao Mass Bar (loose grams) - AGL2 | 50 | $0.03 | $1.55 | Main Ledger: 50 |
 | Chocolate Mold from Rusty | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | 43 | $9.02 | $387.83 | Main Ledger: 43 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 42 | $8.49 | $356.74 | Main Ledger: 42 |
 | Cacao Almonds KG from Oscar's farm - AGL14 | 40 | $11.41 | $456.49 | AGL14: 40 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | 39 | $15.70 | $612.11 | Main Ledger: 39 |
 | USD - provisions for voting rights cash out | 35.43579918947878 | $1.00 | $35.44 | Main Ledger: 35.43579918947878 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260330 | 35 | $8.57 | $300.05 | Main Ledger: 35 |
 | 1 Gallon Zip Loc Bags | 34 | $0.14 | $4.78 | Main Ledger: 34 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 34 | $8.49 | $288.79 | Main Ledger: 34 |
 | 8 Ounce Package Kraft Pouch  CP340992735BR | 27 | $8.51 | $229.75 | Main Ledger: 27 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | 27 | $8.38 | $226.13 | Main Ledger: 27 |
 | Chocolate Mold - 4 X 6 slots | 26 | $1.19 | $30.94 | Main Ledger: 26 |
 | 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | 25 | $9.95 | $248.82 | Main Ledger: 25 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 23 | $2.40 | $55.30 | Main Ledger: 23 |
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | 21 | $10.18 | $213.83 | AGL13: 21 |
 | Cacao Husk (KG) - Ilheus, Brazil | 20 | $17.79 | $355.71 | Main Ledger: 20 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland | 20 | $26.87 | $537.46 | Main Ledger: 20 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 18 | $2.40 | $43.28 | Main Ledger: 18 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | 17 | $8.38 | $142.38 | Main Ledger: 17 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 16 | $9.45 | $151.20 | Main Ledger: 16 |
 | Cacao Almonds KG from Vivi's farm - AGL13 | 15 | $7.87 | $118.05 | AGL13: 15 |
@@ -98,7 +98,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2304.91 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2306.68 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -111,7 +111,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1356.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| Main Ledger | 66 | 11743.902800497603 |
+| Main Ledger | 66 | 11746.902800497603 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -125,7 +125,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 27 | 11241.954336778757 |
+| Gary Teh | 27 | 11249.954336778757 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
@@ -135,7 +135,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 15 | 1210 |
+| Kirsten Ritschel | 15 | 1205 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 26.97 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
