@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-09T02:32:31.090Z` |
+| Generated at | `2026-05-09T02:33:29.705Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 81 |
-| Total units | 29496.07697204075 |
-| Total value USD | $38368.80 |
+| Total units | 29495.07697204075 |
+| Total value USD | $38360.29 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -45,8 +45,8 @@
 | USD - provisions for voting rights cash out | 35.43579918947878 | $1.00 | $35.44 | Main Ledger: 35.43579918947878 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260330 | 35 | $8.57 | $300.05 | Main Ledger: 35 |
 | 1 Gallon Zip Loc Bags | 34 | $0.14 | $4.78 | Main Ledger: 34 |
-| 8 Ounce Package Kraft Pouch  CP340992735BR | 27 | $8.51 | $229.75 | Main Ledger: 27 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | 27 | $8.38 | $226.13 | Main Ledger: 27 |
+| 8 Ounce Package Kraft Pouch  CP340992735BR | 26 | $8.51 | $221.24 | Main Ledger: 26 |
 | Chocolate Mold - 4 X 6 slots | 26 | $1.19 | $30.94 | Main Ledger: 26 |
 | 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | 25 | $9.95 | $248.82 | Main Ledger: 25 |
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | 21 | $10.18 | $213.83 | AGL13: 21 |
@@ -98,7 +98,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2315.19 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2315.87 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -111,7 +111,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| Main Ledger | 66 | 11745.902800497603 |
+| Main Ledger | 66 | 11744.902800497603 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -125,7 +125,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 28 | 11253.954336778757 |
+| Gary Teh | 29 | 11254.954336778757 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
@@ -135,7 +135,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 14 | 1202 |
+| Kirsten Ritschel | 14 | 1200 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 26.97 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
