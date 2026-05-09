@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-09T01:53:06.684Z` |
+| Generated at | `2026-05-09T02:32:31.090Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 81 |
-| Total units | 29494.07697204075 |
-| Total value USD | $38350.37 |
+| Total units | 29496.07697204075 |
+| Total value USD | $38368.80 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -61,8 +61,8 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | 11 | $8.52 | $93.69 | AGL6: 11 |
 | 8 Ounce Package Kraft Pouch CP340992687BR | 10 | $8.88 | $88.79 | Main Ledger: 10 |
 | Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409) | 10 | $0.93 | $9.29 | Main Ledger: 10 |
+| 8 Ounce Package Kraft Pouch - AGL6 | 10 | $9.21 | $92.14 | AGL6: 10 |
 | SunMint Tree Planting Pledge - QR Code | 10 | $0.00 | $0.00 | PP1: 10 |
-| 8 Ounce Package Kraft Pouch - AGL6 | 8 | $9.21 | $73.71 | AGL6: 8 |
 | 8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags | 7 | $8.34 | $58.41 | Main Ledger: 7 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 7 | $23.98 | $167.83 | Main Ledger: 7 |
 | 8 Ounce Package Kraft Pouch - AGL2 + V2 bags | 5 | $7.49 | $37.47 | Main Ledger: 5 |
@@ -98,7 +98,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2316.35 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2315.19 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -109,7 +109,7 @@
 | AGL14 | 1 | 40 |
 | AGL15 | 1 | 5389.379999999999 |
 | AGL4 | 1 | 9036.347512464 |
-| AGL6 | 3 | 1356.5853362811577 |
+| AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
 | Main Ledger | 66 | 11745.902800497603 |
 | PP1 | 1 | 10 |
@@ -125,7 +125,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 27 | 11251.954336778757 |
+| Gary Teh | 28 | 11253.954336778757 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
