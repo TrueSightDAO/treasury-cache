@@ -5,16 +5,16 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-11T23:26:16.792Z` |
+| Generated at | `2026-05-11T23:28:25.820Z` |
 | Trigger | `currency_conversion` |
 | Schema version | `1` |
-| Item types | 84 |
-| Total units | 30106.10697204075 |
+| Item types | 83 |
+| Total units | 30081.10697204075 |
 | Total value USD | $38450.40 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
-## Items (84, sorted by total quantity)
+## Items (83, sorted by total quantity)
 
 | Currency | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---:|---:|---:|---|
@@ -51,7 +51,6 @@
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | 27 | $8.38 | $226.13 | Main Ledger: 27 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 27 | $2.40 | $64.92 | Main Ledger: 27 |
 | Chocolate Mold - 4 X 6 slots | 26 | $1.19 | $30.94 | Main Ledger: 26 |
-| CEREMONIAL CACAO KRAFT POUCH - ALIBABA:269035810001023771 + 8 OUNCE PACKAGE KRAFT POUCH CP340992735BR \| KIRSTEN 20260121 | 25 | — | — | Main Ledger: 25 |
 | 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | 24 | $9.95 | $238.87 | Main Ledger: 24 |
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | 21 | $10.18 | $213.83 | AGL13: 21 |
 | Cacao Husk (KG) - Ilheus, Brazil | 20 | $17.79 | $355.71 | Main Ledger: 20 |
@@ -101,7 +100,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2336.92 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2336.12 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -114,7 +113,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| Main Ledger | 69 | 12355.932800497601 |
+| Main Ledger | 68 | 12330.932800497601 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -138,7 +137,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 16 | 1464 |
+| Kirsten Ritschel | 15 | 1439 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 26.97 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
