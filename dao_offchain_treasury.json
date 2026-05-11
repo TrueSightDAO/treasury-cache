@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T23:10:31.164Z",
+  "generated_at": "2026-05-11T23:26:16.792Z",
   "source": "treasury-cache-publisher",
   "trigger": "currency_conversion",
   "schema_version": 1,
@@ -223,6 +223,16 @@
       }
     },
     {
+      "currency": "RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.554,
+      "total_quantity": 50,
+      "total_value_usd": 27.7,
+      "ledgers": {
+        "Main Ledger": 50
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.493799803617641,
@@ -330,6 +340,16 @@
       "total_value_usd": 30.94,
       "ledgers": {
         "Main Ledger": 26
+      }
+    },
+    {
+      "currency": "CEREMONIAL CACAO KRAFT POUCH - ALIBABA:269035810001023771 + 8 OUNCE PACKAGE KRAFT POUCH CP340992735BR | KIRSTEN 20260121",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "total_quantity": 25,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 25
       }
     },
     {
@@ -825,7 +845,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2338.5605,
+      "unit_cost_usd": 2336.9248000000002,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1123,8 +1143,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2338.5605,
-          "total_value_usd": 1.1111910519425328e-10
+          "unit_cost_usd": 2336.9248000000002,
+          "total_value_usd": 1.1104138322795555e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1150,16 +1170,12 @@
         {
           "currency": "USD - provisions for voting rights cash out",
           "amount": 36.20857061542951,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 36.20857061542951
+          "ledger": "Main Ledger"
         },
         {
           "currency": "USDT",
           "amount": 66.9280758999999,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 66.9280758999999
+          "ledger": "Main Ledger"
         },
         {
           "currency": "[SEF1] USD",
@@ -1369,6 +1385,13 @@
           "total_value_usd": 8.52
         },
         {
+          "currency": "CEREMONIAL CACAO KRAFT POUCH - ALIBABA:269035810001023771 + 8 OUNCE PACKAGE KRAFT POUCH CP340992735BR | KIRSTEN 20260121",
+          "amount": 25,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 8.493799803617641,
+          "total_value_usd": 212.34499509044102
+        },
+        {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
           "amount": 50,
           "ledger": "Main Ledger",
@@ -1444,6 +1467,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 44.99,
           "total_value_usd": 44.99
+        },
+        {
+          "currency": "RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467)",
+          "amount": 50,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.554,
+          "total_value_usd": 27.700000000000003
         },
         {
           "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
@@ -1885,9 +1915,7 @@
         {
           "currency": "USD",
           "amount": 23.6,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 23.6
+          "ledger": "Main Ledger"
         }
       ]
     },
@@ -1977,9 +2005,7 @@
         {
           "currency": "USD",
           "amount": 49.09,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 49.09
+          "ledger": "Main Ledger"
         }
       ]
     },
@@ -2060,9 +2086,7 @@
         {
           "currency": "Winnowing and Cracking Machine from Rusty",
           "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 400,
-          "total_value_usd": 400
+          "ledger": "Main Ledger"
         }
       ]
     },
@@ -2147,9 +2171,9 @@
     }
   ],
   "totals": {
-    "item_types": 82,
-    "total_units": 30031.10697204075,
-    "total_value_usd": 38422.7,
+    "item_types": 84,
+    "total_units": 30106.10697204075,
+    "total_value_usd": 38450.4,
     "ledgers_processed": 13,
     "managers_count": 39
   }
