@@ -3,35 +3,35 @@
   "program_name": "Donation management ledger for Tribo Bahia Mirim Capoeira after-school program in Itacaré, Bahia. Tracks Stripe donations, TransferWise FX, and Pix disbursements to Bico Duro.",
   "description": "Donation management ledger for Tribo Bahia Mirim Capoeira after-school program in Itacaré, Bahia. Tracks Stripe donations, TransferWise FX, and Pix disbursements to Bico Duro.",
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:56:32Z",
+  "generated_at": "2026-05-11T05:17:27Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "ACTIVE",
   "summary": {
     "total_transactions": 2,
-    "total_amount": 100.0,
+    "total_amount": 50.0,
     "by_currency": {
       "USD": {
         "count": 2,
-        "total": 100.0
+        "total": 48.25
       }
     }
   },
   "transactions": [
     {
-      "date": "20260511",
-      "description": "[TBM] — Donation to Tribo Bahia Mirim (x1) — Gary Teh — cs_test_a1vwNOiOx5B0HNTDZr7ANLiaxsIl5FaCh1Un8E92da3CVjvVNR5mzdlBq7",
+      "date": "2026-05-11",
+      "description": "cs_test_a12OJQH0zat72CXu5OCM29EudNxEWQ3Gz67J7aZJs6sADitKnllXaHJCYi — [TBM] — Donation to Tribo Bahia Mirim — Gary Teh",
       "entity": "Gary Teh",
       "amount": 50.0,
       "currency": "USD",
-      "type": "Sale"
+      "type": "Assets"
     },
     {
-      "date": "20260511",
-      "description": "[TBM] — Donation to Tribo Bahia Mirim — Gary Teh — cs_test_a1CteG5c4N1e7rBMHUicO0o62NypftNsLvGSye6SLHNpEkTXH2ScvFa7Ak",
+      "date": "2026-05-11",
+      "description": "cs_test_a12OJQH0zat72CXu5OCM29EudNxEWQ3Gz67J7aZJs6sADitKnllXaHJCYi — Stripe processing fee — Gary Teh",
       "entity": "Gary Teh",
-      "amount": 50.0,
+      "amount": -1.75,
       "currency": "USD",
-      "type": "Sale"
+      "type": "Assets"
     }
   ]
 }
