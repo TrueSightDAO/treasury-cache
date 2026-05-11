@@ -2,8 +2,9 @@
   "ledger_name": "AGL6",
   "program_name": "<p class=\"font_8\">10 bars of 500gram cacao mass&nbsp;</p> <p class=\"font_8\">125 bars of⁠ 40 gram cacao mass bars&nbsp;</p> <p class=\"font_8\">44 bags of&nbsp;⁠⁠8 ounce cacao nibs kraft&nbsp;pouches</p>",
   "description": "<p class=\"font_8\">10 bars of 500gram cacao mass&nbsp;</p> <p class=\"font_8\">125 bars of⁠ 40 gram cacao mass bars&nbsp;</p> <p class=\"font_8\">44 bags of&nbsp;⁠⁠8 ounce cacao nibs kraft&nbsp;pouches</p>",
+  "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:21:07Z",
+  "generated_at": "2026-05-11T04:22:07Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "SALES IN PROGRESS",
   "summary": {

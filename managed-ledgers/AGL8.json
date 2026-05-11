@@ -2,8 +2,9 @@
   "ledger_name": "AGL8",
   "program_name": "<p class=\"font_8\">330 kg of cacao almonds from Para Small Scale Farmers</p>",
   "description": "<p class=\"font_8\">330 kg of cacao almonds from Para Small Scale Farmers</p>",
+  "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:21:11Z",
+  "generated_at": "2026-05-11T04:22:10Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "MANUFACTURING",
   "summary": {

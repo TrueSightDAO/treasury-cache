@@ -2,8 +2,9 @@
   "ledger_name": "AGL10",
   "program_name": "<p class=\"font_8\">5kg caramelized cacao beans from Capela Velha Fazenda, a women owned regenerative organic cacao farm</p> <p class=\"font_8\"><br></p>",
   "description": "<p class=\"font_8\">5kg caramelized cacao beans from Capela Velha Fazenda, a women owned regenerative organic cacao farm</p> <p class=\"font_8\"><br></p>",
+  "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:21:17Z",
+  "generated_at": "2026-05-11T04:22:15Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "SALES IN PROGRESS",
   "summary": {

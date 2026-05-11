@@ -2,8 +2,9 @@
   "ledger_name": "TBM",
   "program_name": "Donation management ledger for Tribo Bahia Mirim Capoeira after-school program in Itacaré, Bahia. Tracks Stripe donations, TransferWise FX, and Pix disbursements to Bico Duro.",
   "description": "Donation management ledger for Tribo Bahia Mirim Capoeira after-school program in Itacaré, Bahia. Tracks Stripe donations, TransferWise FX, and Pix disbursements to Bico Duro.",
+  "program": "fundraiser",
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:21:26Z",
+  "generated_at": "2026-05-11T04:22:22Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "ACTIVE",
   "summary": {

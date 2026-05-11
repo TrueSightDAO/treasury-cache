@@ -2,8 +2,9 @@
   "ledger_name": "AGL15",
   "program_name": "Operational fund for cacao procurement, production, freighting, domestic USA shipping, and vehicle gasoline for USA retailers consignment network expansion.",
   "description": "Operational fund for cacao procurement, production, freighting, domestic USA shipping, and vehicle gasoline for USA retailers consignment network expansion.",
+  "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:21:24Z",
+  "generated_at": "2026-05-11T04:22:21Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "ACTIVE",
   "summary": {

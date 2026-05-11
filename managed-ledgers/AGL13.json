@@ -2,8 +2,9 @@
   "ledger_name": "AGL13",
   "program_name": "<p class=\"font_8\">Agroverse is thrilled to announce a new batch of 150 kilograms of top-grade, organically grown cacao beans sourced from Vivi's Farm in Jeribucuacu, located near the stunning beaches",
   "description": "<p class=\"font_8\">Agroverse is thrilled to announce a new batch of 150 kilograms of top-grade, organically grown cacao beans sourced from Vivi's Farm in Jeribucuacu, located near the stunning beaches",
+  "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:21:13Z",
+  "generated_at": "2026-05-11T04:22:12Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "MANUFACTURING",
   "summary": {

@@ -1,0 +1,429 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-05-11T04:22:22Z",
+  "source": "snapshot_managed_ledgers.py",
+  "ledgers": [
+    {
+      "ledger_id": "AGL9",
+      "program": "agroverse",
+      "status": "SALES IN PROGRESS",
+      "description": "Five refilled propane tanks, picked up from the Okanagan Family Fair, where they were set to be discarded. Ready for use and a great way to repurpose!",
+      "ledger_url": "",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL9.json",
+      "summary": {
+        "total_transactions": 0,
+        "total_amount": 0,
+        "by_currency": {}
+      }
+    },
+    {
+      "ledger_id": "AGL6",
+      "program": "agroverse",
+      "status": "SALES IN PROGRESS",
+      "description": "<p class=\"font_8\">10 bars of 500gram cacao mass&nbsp;</p> <p class=\"font_8\">125 bars of⁠ 40 gram cacao mass bars&nbsp;</p> <p class=\"font_8\">44 bags of&nbsp;⁠⁠8 ounce cacao nibs kraft&nbsp;pouches</p>",
+      "ledger_url": "https://agroverse.shop/agl6",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL6.json",
+      "summary": {
+        "total_transactions": 302,
+        "total_amount": 6698.79,
+        "by_currency": {
+          "8 OUNCE PACKAGE KRAFT POUCH - AGL6": {
+            "count": 51,
+            "total": 7.0
+          },
+          "CACAO MASS BAR (40GRAMS)": {
+            "count": 20,
+            "total": 0.0
+          },
+          "CACAO MASS BAR (500GRAMS)": {
+            "count": 13,
+            "total": 0.0
+          },
+          "CACAO MASS BAR (LOOSE GRAMS) - AGL6": {
+            "count": 11,
+            "total": 0.0
+          },
+          "CACAO MASS BAR CP340992687BR (LOOSE GRAMS)": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CACAO TREE TO BE PLANTED": {
+            "count": 44,
+            "total": 48.0
+          },
+          "CEREMONIAL CACAO KRAFT POUCH - 20250219006": {
+            "count": 6,
+            "total": 0.0
+          },
+          "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP327946643BR - AGL6": {
+            "count": 63,
+            "total": 11.0
+          },
+          "KRAFT POUCHES": {
+            "count": 2,
+            "total": 0.0
+          },
+          "USD": {
+            "count": 90,
+            "total": 2119.25
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "AGL4",
+      "program": "agroverse",
+      "status": "SALES IN PROGRESS",
+      "description": "<p class=\"font_8\">300KG organic cacao nibs from Bahia Small Scale Farmers&nbsp;</p> <p class=\"font_8\">Commercial import via air freight</p> <p class=\"font_8\"><br></p> <p class=\"font_8\"><br></p>",
+      "ledger_url": "https://agroverse.shop/agl4",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL4.json",
+      "summary": {
+        "total_transactions": 148,
+        "total_amount": 100606.45,
+        "by_currency": {
+          "8 OUNCE PACKAGE KRAFT POUCH": {
+            "count": 7,
+            "total": 0.0
+          },
+          "8 OUNCE PACKAGE KRAFT POUCH CP340992687BR": {
+            "count": 2,
+            "total": 0.0
+          },
+          "BRAZILIAN REIS": {
+            "count": 38,
+            "total": 0.0
+          },
+          "CACAO ALMONDS (KG)": {
+            "count": 6,
+            "total": -0.0
+          },
+          "CACAO HUSK (KG)": {
+            "count": 6,
+            "total": 0.0
+          },
+          "CACAO HUSK BAG (WEIGHT UNKNOWN)": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CACAO MASS BAR (500GRAMS)": {
+            "count": 5,
+            "total": 0.0
+          },
+          "CACAO MASS BAR CP340992687BR (500GRAMS)": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CACAO NIBS (KG)": {
+            "count": 16,
+            "total": -1.4
+          },
+          "CACAO NIBS CP340992695BR (KG)": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CORREIOS PACKING BOX TO HOLD CACAO NIBS 20KG": {
+            "count": 4,
+            "total": 0.0
+          },
+          "FOAM CONTAINER BOX - 120 KRAFT POUCHES CAPACITY": {
+            "count": 4,
+            "total": 0.0
+          },
+          "FOAM CONTAINER BOX - 46 CACAO BAR CAPACITY (36CM X 40CM X 61CM)": {
+            "count": 5,
+            "total": 0.0
+          },
+          "KRAFT POUCHES": {
+            "count": 4,
+            "total": 0.0
+          },
+          "LARGE CARDBOARD BOX FOR MOVING PACKAGING 60X40X50": {
+            "count": 4,
+            "total": 0.0
+          },
+          "USD": {
+            "count": 41,
+            "total": 9033.35
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "AGL8",
+      "program": "agroverse",
+      "status": "MANUFACTURING",
+      "description": "<p class=\"font_8\">330 kg of cacao almonds from Para Small Scale Farmers</p>",
+      "ledger_url": "https://agroverse.shop/agl8",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL8.json",
+      "summary": {
+        "total_transactions": 168,
+        "total_amount": 52303.83,
+        "by_currency": {
+          "BRAZILIAN REIS": {
+            "count": 14,
+            "total": 236.9
+          },
+          "CACAO ALMONDS (KG)": {
+            "count": 5,
+            "total": 274.09
+          },
+          "CACAO HUSK (LOOSE GRAMS) 20250530 - MARTINUS AGL8 BRAZIL": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CACAO MASS BAR (40GRAMS) 20250530 - MARTINUS AGL8 BRAZIL": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CACAO MASS BAR (40GRAMS) CP340993869BR - AGL8": {
+            "count": 10,
+            "total": 3.25
+          },
+          "CACAO TEA (LOOSE GRAMS) CP340993869BR - AGL8": {
+            "count": 4,
+            "total": 0.0
+          },
+          "CACAO TEA - 20250219006 | CACAO TEA | KILOGRAM | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8": {
+            "count": 5,
+            "total": 14.68
+          },
+          "CACAO TREE TO BE PLANTED": {
+            "count": 25,
+            "total": 25.0
+          },
+          "CEREMONIAL CACAO KRAFT POUCH - 20250219006": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP340993869BR SAN FRANCISCO - AGL8": {
+            "count": 26,
+            "total": 5.0
+          },
+          "CEREMONIAL CACAO KRAFT POUCH - 20250219006 | CACAO MASS | 200 GRAMS | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8": {
+            "count": 15,
+            "total": 172.0
+          },
+          "USD": {
+            "count": 58,
+            "total": 7333.2
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "AGL13",
+      "program": "agroverse",
+      "status": "MANUFACTURING",
+      "description": "<p class=\"font_8\">Agroverse is thrilled to announce a new batch of 150 kilograms of top-grade, organically grown cacao beans sourced from Vivi's Farm in Jeribucuacu, located near the stunning beaches",
+      "ledger_url": "https://agroverse.shop/agl13",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL13.json",
+      "summary": {
+        "total_transactions": 20,
+        "total_amount": 5365.44,
+        "by_currency": {
+          "BRAZILIAN REIS": {
+            "count": 4,
+            "total": 0.0
+          },
+          "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13": {
+            "count": 4,
+            "total": 15.0
+          },
+          "CACAO NIBS (KILOGRAMS) SANTOS 20260213 - AGL13": {
+            "count": 1,
+            "total": 100.0
+          },
+          "CACAO TEA (KILOGRAMS) SANTOS 20260213 - AGL13": {
+            "count": 1,
+            "total": 21.0
+          },
+          "USD": {
+            "count": 10,
+            "total": 1392.22
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "AGL7",
+      "program": "agroverse",
+      "status": "FREIGHTING IN PROGRESS",
+      "description": "<p class=\"font_8\">20 bottles of 250grams cacao molasses from Bahia Small Scale Farmers</p>",
+      "ledger_url": "https://agroverse.shop/agl7",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL7.json",
+      "summary": {
+        "total_transactions": 10,
+        "total_amount": 1673.86,
+        "by_currency": {
+          "BRAZILIAN REIS": {
+            "count": 4,
+            "total": 0.0
+          },
+          "CACAO MOLASSES 250ML": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CACAO MOLASSES 250ML + 74 4476 6210 SAN FRANCISCO": {
+            "count": 2,
+            "total": 0.0
+          },
+          "USD": {
+            "count": 2,
+            "total": 242.86
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "AGL10",
+      "program": "agroverse",
+      "status": "SALES IN PROGRESS",
+      "description": "<p class=\"font_8\">5kg caramelized cacao beans from Capela Velha Fazenda, a women owned regenerative organic cacao farm</p> <p class=\"font_8\"><br></p>",
+      "ledger_url": "https://agroverse.shop/agl10",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL10.json",
+      "summary": {
+        "total_transactions": 99,
+        "total_amount": 1705.26,
+        "by_currency": {
+          "BRAZILIAN REIS": {
+            "count": 4,
+            "total": 0.0
+          },
+          "CACAO TREE TO BE PLANTED": {
+            "count": 11,
+            "total": 11.0
+          },
+          "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10": {
+            "count": 7,
+            "total": 0.17
+          },
+          "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771": {
+            "count": 2,
+            "total": 1.0
+          },
+          "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10": {
+            "count": 30,
+            "total": 11.0
+          },
+          "USD": {
+            "count": 45,
+            "total": 422.74
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "AGL14",
+      "program": "agroverse",
+      "status": "MANUFACTURING",
+      "description": "<p class=\"font_8\">Sourced exclusively from Oscar Fazenda in Brazil's vibrant Bahia region, this 40-kilogram shipment captures the essence of Harvest 2025. Nurtured by trees over 70 years old—venerable",
+      "ledger_url": "https://agroverse.shop/agl14",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL14.json",
+      "summary": {
+        "total_transactions": 6,
+        "total_amount": 3352.98,
+        "by_currency": {
+          "BRAZILIAN REIS": {
+            "count": 2,
+            "total": 0.0
+          },
+          "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14": {
+            "count": 1,
+            "total": 40.0
+          },
+          "USD": {
+            "count": 3,
+            "total": 456.49
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "SEF1",
+      "program": "sunmint",
+      "status": "SALES IN PROGRESS",
+      "description": "<p class=\"font_8\">1-year membership to Stewards of NovaGaia Private Membership Association. Includes access to regenerative initiatives (cacao tree planting, carbon credits), DAO-style Member Assembly",
+      "ledger_url": "https://truesight.me/sunmint/sef1",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/SEF1.json",
+      "summary": {
+        "total_transactions": 19,
+        "total_amount": 326.0,
+        "by_currency": {
+          "CACAO TREE TO BE PLANTED": {
+            "count": 4,
+            "total": 3.0
+          },
+          "NOVAGAIA TREE PLANTING PLEDGE - QR CODE": {
+            "count": 8,
+            "total": 297.0
+          },
+          "USD": {
+            "count": 7,
+            "total": 16.0
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "PP1",
+      "program": "sunmint",
+      "status": "SALES IN PROGRESS",
+      "description": "<p class=\"font_8\">Prism Percussions, based in Oregon, creates custom wooden drums in 8\", 12\", 16\", and 20\" sizes, with 4 or 6-sided designs, each producing distinct tones—deeper with larger sizes. No",
+      "ledger_url": "https://truesight.me/sunmint/pp1",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/PP1.json",
+      "summary": {
+        "total_transactions": 7,
+        "total_amount": 10.0,
+        "by_currency": {
+          "CACAO TREE TO BE PLANTED": {
+            "count": 2,
+            "total": 0.0
+          },
+          "SUNMINT TREE PLANTING PLEDGE - QR CODE": {
+            "count": 3,
+            "total": 10.0
+          },
+          "USD": {
+            "count": 2,
+            "total": 0.0
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "AGL15",
+      "program": "agroverse",
+      "status": "ACTIVE",
+      "description": "Operational fund for cacao procurement, production, freighting, domestic USA shipping, and vehicle gasoline for USA retailers consignment network expansion.",
+      "ledger_url": "https://agroverse.shop/agl15",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL15.json",
+      "summary": {
+        "total_transactions": 40,
+        "total_amount": 27907.97,
+        "by_currency": {
+          "SINGAPOREAN SGD": {
+            "count": 3,
+            "total": 10000.0
+          },
+          "USD": {
+            "count": 37,
+            "total": 5389.38
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "TBM",
+      "program": "fundraiser",
+      "status": "ACTIVE",
+      "description": "Donation management ledger for Tribo Bahia Mirim Capoeira after-school program in Itacaré, Bahia. Tracks Stripe donations, TransferWise FX, and Pix disbursements to Bico Duro.",
+      "ledger_url": "https://tribomirimbahia.truesight.me",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/TBM.json",
+      "summary": {
+        "total_transactions": 0,
+        "total_amount": 0,
+        "by_currency": {}
+      }
+    }
+  ]
+}
