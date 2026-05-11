@@ -1,0 +1,77 @@
+{
+  "ledger_name": "AGL14",
+  "program_name": "<p class=\"font_8\">Sourced exclusively from Oscar Fazenda in Brazil's vibrant Bahia region, this 40-kilogram shipment captures the essence of Harvest 2025. Nurtured by trees over 70 years old—venerable",
+  "description": "<p class=\"font_8\">Sourced exclusively from Oscar Fazenda in Brazil's vibrant Bahia region, this 40-kilogram shipment captures the essence of Harvest 2025. Nurtured by trees over 70 years old—venerable",
+  "schema_version": 1,
+  "generated_at": "2026-05-11T00:49:11Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "MANUFACTURING",
+  "summary": {
+    "total_transactions": 6,
+    "total_amount": 3352.98,
+    "by_currency": {
+      "BRAZILIAN REIS": {
+        "count": 2,
+        "total": 0.0
+      },
+      "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14": {
+        "count": 1,
+        "total": 40.0
+      },
+      "USD": {
+        "count": 3,
+        "total": 456.49
+      }
+    }
+  },
+  "transactions": [
+    {
+      "date": "20250920",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Latitude: -14.279646\r\n- Longitude: -38.992388\r\n- Inventory Type: USD\r\n- Inventory Quantity: 456.49\r\n- Description: For transfer to R$2400 brazilian reis.\r\n- Attached Filename: image.png\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20250921150151_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: beC/Jv/v3aYGSn5k5WFTYjUbdgyZPufRiZL41VF2Zc+ZxsQXj2dOkXaBT5GSo4ZpfHtTIWAfNQpvz75WJnfh1sw1dZDjWqixgMWw2p8z/ce/dC91RyPqJ0uByYv06+iYjHDrDYIDf8Xo5RAOKwHW88jVK1HVSaBrnjQ3BbeZ99uXYQn0Nrs60/Zhd4I/gaKZ/AP5miltMXvcBYzPwUy352FCs6F2scv1sFLzvRLP/PPnbqZgzrXuD0i/83+ShxuvSn7wQK9loa5tLFXElbGDz7dY16yaD31KDj6hDtJQMGdmk4YxcoWDWQWwr6j37Aqkh6CMH+zTkcIK9AHBlxoMrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 456.49,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250920",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Latitude: -14.279646\r\n- Longitude: -38.992388\r\n- Inventory Type: USD\r\n- Inventory Quantity: 456.49\r\n- Description: For transfer to R$2400 brazilian reis.\r\n- Attached Filename: image.png\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20250921150151_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: beC/Jv/v3aYGSn5k5WFTYjUbdgyZPufRiZL41VF2Zc+ZxsQXj2dOkXaBT5GSo4ZpfHtTIWAfNQpvz75WJnfh1sw1dZDjWqixgMWw2p8z/ce/dC91RyPqJ0uByYv06+iYjHDrDYIDf8Xo5RAOKwHW88jVK1HVSaBrnjQ3BbeZ99uXYQn0Nrs60/Zhd4I/gaKZ/AP5miltMXvcBYzPwUy352FCs6F2scv1sFLzvRLP/PPnbqZgzrXuD0i/83+ShxuvSn7wQK9loa5tLFXElbGDz7dY16yaD31KDj6hDtJQMGdmk4YxcoWDWQWwr6j37Aqkh6CMH+zTkcIK9AHBlxoMrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "TrueSight DAO",
+      "amount": 456.49,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20250920",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Latitude: -14.279646\r\n- Longitude: -38.992388\r\n- Inventory Type: USD\r\n- Inventory Quantity: 456.49\r\n- Description: For transfer to R$2400 brazilian reis.\r\n- Attached Filename: image.png\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20250921150151_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: beC/Jv/v3aYGSn5k5WFTYjUbdgyZPufRiZL41VF2Zc+ZxsQXj2dOkXaBT5GSo4ZpfHtTIWAfNQpvz75WJnfh1sw1dZDjWqixgMWw2p8z/ce/dC91RyPqJ0uByYv06+iYjHDrDYIDf8Xo5RAOKwHW88jVK1HVSaBrnjQ3BbeZ99uXYQn0Nrs60/Zhd4I/gaKZ/AP5miltMXvcBYzPwUy352FCs6F2scv1sFLzvRLP/PPnbqZgzrXuD0i/83+ShxuvSn7wQK9loa5tLFXElbGDz7dY16yaD31KDj6hDtJQMGdmk4YxcoWDWQWwr6j37Aqkh6CMH+zTkcIK9AHBlxoMrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 2400.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250920",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Latitude: -14.279646\r\n- Longitude: -38.992388\r\n- Inventory Type: USD\r\n- Inventory Quantity: 456.49\r\n- Description: For transfer to R$2400 brazilian reis.\r\n- Attached Filename: image.png\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20250921150151_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: beC/Jv/v3aYGSn5k5WFTYjUbdgyZPufRiZL41VF2Zc+ZxsQXj2dOkXaBT5GSo4ZpfHtTIWAfNQpvz75WJnfh1sw1dZDjWqixgMWw2p8z/ce/dC91RyPqJ0uByYv06+iYjHDrDYIDf8Xo5RAOKwHW88jVK1HVSaBrnjQ3BbeZ99uXYQn0Nrs60/Zhd4I/gaKZ/AP5miltMXvcBYzPwUy352FCs6F2scv1sFLzvRLP/PPnbqZgzrXuD0i/83+ShxuvSn7wQK9loa5tLFXElbGDz7dY16yaD31KDj6hDtJQMGdmk4YxcoWDWQWwr6j37Aqkh6CMH+zTkcIK9AHBlxoMrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -456.49,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250920",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Latitude: -14.279646\r\n- Longitude: -38.992388\r\n- Inventory Type: Brazilian Reis\r\n- Inventory Quantity: 2400\r\n- Description: payment to Oscar for Agroverse shipment financing ledger 13. Oscar Fazenda 40 kilograms\r\n- Attached Filename: image.png\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20250921150058_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: pDpF4Fz1rp8TCjZ6aaeSl8hxCaeCC/ALN0d2XgQlK26McN8YTNglwlawVcbOGKyKiSgM2ORRIRUUL2fQ+iAHx65aBDe1/9lQSdD+r/yamEkMNG4n+4DUUGWICacy4zYl/QcC8l2noVgwUthEcqQoH+O7QE44oUsQC6yd1xSxn6rIajttURuHHuNg+4zc+7WM5YfEkMB6r0BLGFp2LdMMLNeNEj5KPiQ3qm8z9+qFLswKZqHnbZfV9uK8ZK0tj3T9ansUpSiukH/+9O68BW8Gd0wZSP7eGnRF0AcAiOs50CK4cWqiiWqqyAIUNZmduKjuHFt8ZErGIip63+FkdaN7yw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -2400.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250920",
+      "description": "[DAO Inventory Expense Event]\n- DAO Member Name: Gary Teh\n- Latitude: -14.279646\n- Longitude: -38.992388\n- Inventory Type: Brazilian Reis\n- Inventory Quantity: 2400\n- Description: payment to Oscar for Agroverse shipment financing ledger 13. Oscar Fazenda 40 kilograms\n- Attached Filename: image.png\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20250921150058_gary_teh_image.png\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\n\nRequest Transaction ID: pDpF4Fz1rp8TCjZ6aaeSl8hxCaeCC/ALN0d2XgQlK26McN8YTNglwlawVcbOGKyKiSgM2ORRIRUUL2fQ+iAHx65aBDe1/9lQSdD+r/yamEkMNG4n+4DUUGWICacy4zYl/QcC8l2noVgwUthEcqQoH+O7QE44oUsQC6yd1xSxn6rIajttURuHHuNg+4zc+7WM5YfEkMB6r0BLGFp2LdMMLNeNEj5KPiQ3qm8z9+qFLswKZqHnbZfV9uK8ZK0tj3T9ansUpSiukH/+9O68BW8Gd0wZSP7eGnRF0AcAiOs50CK4cWqiiWqqyAIUNZmduKjuHFt8ZErGIip63+FkdaN7yw==\n\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Matheus Reis",
+      "amount": 40.0,
+      "currency": "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14",
+      "type": "Assets"
+    }
+  ]
+}

@@ -1,0 +1,833 @@
+{
+  "ledger_name": "AGL10",
+  "program_name": "<p class=\"font_8\">5kg caramelized cacao beans from Capela Velha Fazenda, a women owned regenerative organic cacao farm</p> <p class=\"font_8\"><br></p>",
+  "description": "<p class=\"font_8\">5kg caramelized cacao beans from Capela Velha Fazenda, a women owned regenerative organic cacao farm</p> <p class=\"font_8\"><br></p>",
+  "schema_version": 1,
+  "generated_at": "2026-05-11T00:49:09Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "SALES IN PROGRESS",
+  "summary": {
+    "total_transactions": 99,
+    "total_amount": 1705.26,
+    "by_currency": {
+      "BRAZILIAN REIS": {
+        "count": 4,
+        "total": 0.0
+      },
+      "CACAO TREE TO BE PLANTED": {
+        "count": 11,
+        "total": 11.0
+      },
+      "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10": {
+        "count": 7,
+        "total": 0.17
+      },
+      "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771": {
+        "count": 2,
+        "total": 1.0
+      },
+      "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10": {
+        "count": 30,
+        "total": 11.0
+      },
+      "USD": {
+        "count": 45,
+        "total": 422.74
+      }
+    }
+  },
+  "transactions": [
+    {
+      "date": "20250626",
+      "description": "Payment for shipment \n    - 20kg of ceremonial cacao\n    - 5kg of caramelized cacao\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt_2.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt_3.jpeg",
+      "entity": "Gary Teh",
+      "amount": -279.99,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250626",
+      "description": "Payment for shipment \n    - 20kg of ceremonial cacao\n    - 5kg of caramelized cacao\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt_2.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt_3.jpeg",
+      "entity": "Gary Teh",
+      "amount": 279.99,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250626",
+      "description": "Payment for shipment \n    - 20kg of ceremonial cacao\n    - 5kg of caramelized cacao\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt_2.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt_3.jpeg",
+      "entity": "TrueSight DAO",
+      "amount": 51.646,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20250617",
+      "description": "Payment for 5kg caramelized cacao\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250617_payment_for_5kg_caramelized_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250627_brazilian_reis_usd_conversion.jpg",
+      "entity": "TrueSight DAO",
+      "amount": 132.1,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20250617",
+      "description": "Payment for 5kg caramelized cacao\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250617_payment_for_5kg_caramelized_cacao.jpeg",
+      "entity": "Gary Teh",
+      "amount": -725.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250617",
+      "description": "Payment for 5kg caramelized cacao\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250617_payment_for_5kg_caramelized_cacao.jpeg",
+      "entity": "Gary Teh",
+      "amount": 725.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250626",
+      "description": "Payment for shipment \n    - 20kg of ceremonial cacao\n    - 5kg of caramelized cacao\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt_2.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250626_correios_receipt_3.jpeg",
+      "entity": "correios.com.br",
+      "amount": 5.0,
+      "currency": "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250723",
+      "description": "[INVENTORY MOVEMENT]\nmanager name: correios.com.br\nrecipient name: Kirsten Ritschel\ninventory item: [AGL10] Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10\nquantity: 5\n\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html?timestamp=1753306575000",
+      "entity": "correios.com.br",
+      "amount": -5.0,
+      "currency": "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250723",
+      "description": "[INVENTORY MOVEMENT]\nmanager name: correios.com.br\nrecipient name: Kirsten Ritschel\ninventory item: [AGL10] Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10\nquantity: 5\n\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html?timestamp=1753306575000",
+      "entity": "Kirsten Ritschel",
+      "amount": 5.0,
+      "currency": "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250809",
+      "description": "Assemble Ceremonial Cacao bags",
+      "entity": "Kirsten Ritschel",
+      "amount": 25.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771",
+      "type": "Assets"
+    },
+    {
+      "date": "20250809",
+      "description": "Assemble Ceremonial Cacao bags",
+      "entity": "TrueSight DAO",
+      "amount": 18.38225,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20250810",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_24\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: tmBmfajRkkNq99BvZDRdroe4p0ENCF18RIClyLkGMsNiX/bq4o4p+ATr9w41koQgcWqjfQIyFjzTkYZB9DnxcIeJyeBoxSVoc1YkGeiJZj4comT+eKa/aBvNY8eLgm6SwCPbFAHb+xIWtoF8i5gYSYep7DVed6JWBCxtc3pnKN549NAr8mfbe+SI4V901GX4zf5zWHXcw5N1F4VvyCKEDBhwU26264+U+hh7X4a2Ja/gP9DKaMO2YdYbBxnB21iulilw2aDIOWomiodMxPPQ7EkPwQlji5L2+JuCxnBTyscA0F+E+dApaT4T4AcazmP7au3dCLYeqWtU6INoDhhhrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250810",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_24\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: tmBmfajRkkNq99BvZDRdroe4p0ENCF18RIClyLkGMsNiX/bq4o4p+ATr9w41koQgcWqjfQIyFjzTkYZB9DnxcIeJyeBoxSVoc1YkGeiJZj4comT+eKa/aBvNY8eLgm6SwCPbFAHb+xIWtoF8i5gYSYep7DVed6JWBCxtc3pnKN549NAr8mfbe+SI4V901GX4zf5zWHXcw5N1F4VvyCKEDBhwU26264+U+hh7X4a2Ja/gP9DKaMO2YdYbBxnB21iulilw2aDIOWomiodMxPPQ7EkPwQlji5L2+JuCxnBTyscA0F+E+dApaT4T4AcazmP7au3dCLYeqWtU6INoDhhhrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 25.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250810",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_24\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: tmBmfajRkkNq99BvZDRdroe4p0ENCF18RIClyLkGMsNiX/bq4o4p+ATr9w41koQgcWqjfQIyFjzTkYZB9DnxcIeJyeBoxSVoc1YkGeiJZj4comT+eKa/aBvNY8eLgm6SwCPbFAHb+xIWtoF8i5gYSYep7DVed6JWBCxtc3pnKN549NAr8mfbe+SI4V901GX4zf5zWHXcw5N1F4VvyCKEDBhwU26264+U+hh7X4a2Ja/gP9DKaMO2YdYbBxnB21iulilw2aDIOWomiodMxPPQ7EkPwQlji5L2+JuCxnBTyscA0F+E+dApaT4T4AcazmP7au3dCLYeqWtU6INoDhhhrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20250810",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_24\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: tmBmfajRkkNq99BvZDRdroe4p0ENCF18RIClyLkGMsNiX/bq4o4p+ATr9w41koQgcWqjfQIyFjzTkYZB9DnxcIeJyeBoxSVoc1YkGeiJZj4comT+eKa/aBvNY8eLgm6SwCPbFAHb+xIWtoF8i5gYSYep7DVed6JWBCxtc3pnKN549NAr8mfbe+SI4V901GX4zf5zWHXcw5N1F4VvyCKEDBhwU26264+U+hh7X4a2Ja/gP9DKaMO2YdYbBxnB21iulilw2aDIOWomiodMxPPQ7EkPwQlji5L2+JuCxnBTyscA0F+E+dApaT4T4AcazmP7au3dCLYeqWtU6INoDhhhrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250810",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_24\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: tmBmfajRkkNq99BvZDRdroe4p0ENCF18RIClyLkGMsNiX/bq4o4p+ATr9w41koQgcWqjfQIyFjzTkYZB9DnxcIeJyeBoxSVoc1YkGeiJZj4comT+eKa/aBvNY8eLgm6SwCPbFAHb+xIWtoF8i5gYSYep7DVed6JWBCxtc3pnKN549NAr8mfbe+SI4V901GX4zf5zWHXcw5N1F4VvyCKEDBhwU26264+U+hh7X4a2Ja/gP9DKaMO2YdYbBxnB21iulilw2aDIOWomiodMxPPQ7EkPwQlji5L2+JuCxnBTyscA0F+E+dApaT4T4AcazmP7au3dCLYeqWtU6INoDhhhrA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Kirsten Ritschel",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250810",
+      "description": "Assembly",
+      "entity": "Kirsten Ritschel",
+      "amount": 24.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250810",
+      "description": "Assembly",
+      "entity": "Kirsten Ritschel",
+      "amount": -24.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771",
+      "type": "Assets"
+    },
+    {
+      "date": "20250810",
+      "description": "Assembly",
+      "entity": "Kirsten Ritschel",
+      "amount": -5.0,
+      "currency": "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250810",
+      "description": "Assembly - remnants from Assembly",
+      "entity": "Kirsten Ritschel",
+      "amount": 0.17,
+      "currency": "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250814",
+      "description": "Stripe Checkout: QR code 2025CAPELAVELHA_20250809_23 sold for $25.0 (net $23.97 after $1.03 Stripe fee)",
+      "entity": "Kirsten Ritschel",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20250814",
+      "description": "Stripe Checkout: QR code 2025CAPELAVELHA_20250809_23 sold for $25.0 (net $23.97 after $1.03 Stripe fee)",
+      "entity": "Kirsten Ritschel",
+      "amount": 23.97,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250814",
+      "description": "Stripe Checkout: QR code 2025CAPELAVELHA_20250809_23 sold for $25.0 (net $23.97 after $1.03 Stripe fee)",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20250814",
+      "description": "Transferred",
+      "entity": "Kirsten Ritschel",
+      "amount": -23.97,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250814",
+      "description": "Transferred",
+      "entity": "Gary Teh",
+      "amount": 23.97,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250822",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Kirsten Ritschel\r\n- Latitude: NA\r\n- Longitude: NA\r\n- Inventory Type: [AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- Inventory Quantity: 1\r\n- Description: Display for Iwona Fluda for her artwork provided\r\n- Attached Filename: Shipment - Pirate Ship.pdf\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20250822161621_gary_teh_shipment___pirate_ship.pdf\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB\r\n\r\nRequest Transaction ID: cK88PgO5M8RoFM4gO1IId9XnYNz2myIk7GHVeXAb6CffZfa2U7d9Ek1Jqr65ddKEAxoY7mlNq/nKIdvHkVpili+KRmrRsnifJ95EU7mBqTNlfomw+ZLmspUMYITOv92FwBHYtNK2T4ia+VDndJHZMb1Vs8V1dFljYjOi9LtdMyTLcCLvpCDzjphRCo5yqLgHo/PLvJA6AFl7Mim+2eJWRnbj/jnha6vlp3RPmU1gjfIIBJhNi2bZQMoW8PDtQHzE7SsWI31GxazYRqetgauo3ig9gEix5IgKV7puw1WkrSWENfDsvEj9AbqMPnnTfV59VAInj9ns0TFCL3QmXCZuCA==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: 25a35f533ea672e9",
+      "entity": "Kirsten Ritschel",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251904",
+      "description": "Transferred to main ledger for expenses - Line 1049",
+      "entity": "Kirsten Ritschel",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251904",
+      "description": "Capital withdrawal - Line 1049",
+      "entity": "TrueSight DAO",
+      "amount": -8.21479123,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Gary Teh\n- Inventory Item: [AGL10] USD\n- Quantity: 10\n- Latitude: -23.549613\n- Longitude: -46.684415\n- Attached Filename: IMG_2901.PNG.png\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004174803_gary_teh_img_2901.png.png\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\n\nRequest Transaction ID: vS+MSl7st3C1uwVag3FzqUbmq9PKyQzwRACYUEP/YU7dRT1D7DcMHZz1+NDWe/bjKA5VK6dxh8Pv7s9K1LaW3gbq1qPgwlMnLAR62WDdx5oB2nWLlhELRakkb3mdOzZnULWJi8zEfRBnTKALklTTwnOIj0H+joUsm8Dk96cwr9vWlh1iNDMU3gBy6CtLdtLPjzZSymgaUIeMcSuxbkbS3FODt8AL6O/AsiIhETDu6FTEA92vC6Wz4JKzyb64kqfV/E8nLuFQmUp4y0rN5QL9DH2sszwO/BssXz7vfAmOwXeh4A29HTiolsHJBH29A2mZ2iSEhzYz4bznFFOCDAmb5Q==\n\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 10.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251017",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Kirsten Ritschel\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10\r\n- Quantity: 0.17\r\n- Latitude: 37.741346\r\n- Longitude: -122.506858\r\n- Attached Filename: IMG_3237.jpg\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251017180304_gary_teh_img_3237.jpg\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Txz3AFo5Q9yvdzTGI7tz90x1HkiQQAsW52+eHfGa0MhF7YnLXbmoJ2kp0SFrW9d4Pn9L3SPdBPJ2MgV8Elfz9N8N4qHwHy9MmOdYeZKkq7QRHFPgynHfpGws9gRQ3gDejquU1oPm72+0v6AqwH4laqG5maS51eekcKW0W9NKyiNVHWjDluh1U3eSnmUxrCXhrURGdX/xi+Y5czj9Ds+WDi5rzUT0Ygon+0TjhzUIcW78Tka6GccQ1BloxyX4gHzLb1US14XbIxOx8pE2nHxAsblCG+F0KKlcQr3q7cKtjIs8fBdCjy0FuG5cBH1LPsk1GK4rlm+NTdQ3F+hJkQtFHA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Kirsten Ritschel",
+      "amount": -0.17,
+      "currency": "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251017",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Kirsten Ritschel\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10\r\n- Quantity: 0.17\r\n- Latitude: 37.741346\r\n- Longitude: -122.506858\r\n- Attached Filename: IMG_3237.jpg\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251017180304_gary_teh_img_3237.jpg\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Txz3AFo5Q9yvdzTGI7tz90x1HkiQQAsW52+eHfGa0MhF7YnLXbmoJ2kp0SFrW9d4Pn9L3SPdBPJ2MgV8Elfz9N8N4qHwHy9MmOdYeZKkq7QRHFPgynHfpGws9gRQ3gDejquU1oPm72+0v6AqwH4laqG5maS51eekcKW0W9NKyiNVHWjDluh1U3eSnmUxrCXhrURGdX/xi+Y5czj9Ds+WDi5rzUT0Ygon+0TjhzUIcW78Tka6GccQ1BloxyX4gHzLb1US14XbIxOx8pE2nHxAsblCG+F0KKlcQr3q7cKtjIs8fBdCjy0FuG5cBH1LPsk1GK4rlm+NTdQ3F+hJkQtFHA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 0.17,
+      "currency": "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251020",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Kirsten Ritschel\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- Quantity: 21\r\n- Latitude: 37.742695\r\n- Longitude: -122.507015\r\n- Attached Filename: IMG_3338.jpeg\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251020235646_gary_teh_img_3338.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: wNg+cBU1O5ru2zHwiqze2tpMIc1/caBUwsHGBrXBvCyvcnmxSbuBVNGkgdeORPY9zZn62ElpOq+dSx1XwQAI8Ud21bbwdByMAAhszVAZBD35wcAT5sJ1BZiZDMvmETcAmDNvNE3JFKivBUWV7tZ6aOVqQ983XnNVuS3Em+ExTduSHBm2WaA9QDaa95fSyOR8nJcK7ByCwmuLvt8RcS0tzDr80RpeR6RgglrKVNv4VxF7Q7rhRgRXyd7HPMrnqeRUNfHq5EFGNE5GrDHp6FTAs+jdsHloiB2b2NwS5sf8UaUQGAsamQadGj1akrSkc5+/BBats7FfhugfI0HbXmi9LQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Kirsten Ritschel",
+      "amount": -21.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251020",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Kirsten Ritschel\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- Quantity: 21\r\n- Latitude: 37.742695\r\n- Longitude: -122.507015\r\n- Attached Filename: IMG_3338.jpeg\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251020235646_gary_teh_img_3338.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: wNg+cBU1O5ru2zHwiqze2tpMIc1/caBUwsHGBrXBvCyvcnmxSbuBVNGkgdeORPY9zZn62ElpOq+dSx1XwQAI8Ud21bbwdByMAAhszVAZBD35wcAT5sJ1BZiZDMvmETcAmDNvNE3JFKivBUWV7tZ6aOVqQ983XnNVuS3Em+ExTduSHBm2WaA9QDaa95fSyOR8nJcK7ByCwmuLvt8RcS0tzDr80RpeR6RgglrKVNv4VxF7Q7rhRgRXyd7HPMrnqeRUNfHq5EFGNE5GrDHp6FTAs+jdsHloiB2b2NwS5sf8UaUQGAsamQadGj1akrSkc5+/BBats7FfhugfI0HbXmi9LQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 21.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251021",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_8\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: p/Nl6IufIiGgBzHq3hbqI/ayVIlGPQ2zH4LOUWXupmPClxNUN6DCt/cDvp2QHHgoTI7feqPtUIqPIWx42/KVyGQorKZx+5B1pdhpOgZPwLg3f48nZJKeZN3DspV3Iogv8aNGmbiPBal/xXqhhDKNos3z8QBQlMLAibem6aeKv6EyV8GJalIrD1kkpcy1NuPC3tQRWhPXlQEo9dge5Hh/5n/nBvudP5maqx4bqOfLsZVKE8Y5Q660o1FEmAv9SGBy9aS/sVVFqs8ohrUVA8AABNHN3diOBwDpdJbw/reJclgJWGebfWC2Oi3qGcfs51QRCo1Py05twq7ySAZgoyDCNQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251021",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_8\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: p/Nl6IufIiGgBzHq3hbqI/ayVIlGPQ2zH4LOUWXupmPClxNUN6DCt/cDvp2QHHgoTI7feqPtUIqPIWx42/KVyGQorKZx+5B1pdhpOgZPwLg3f48nZJKeZN3DspV3Iogv8aNGmbiPBal/xXqhhDKNos3z8QBQlMLAibem6aeKv6EyV8GJalIrD1kkpcy1NuPC3tQRWhPXlQEo9dge5Hh/5n/nBvudP5maqx4bqOfLsZVKE8Y5Q660o1FEmAv9SGBy9aS/sVVFqs8ohrUVA8AABNHN3diOBwDpdJbw/reJclgJWGebfWC2Oi3qGcfs51QRCo1Py05twq7ySAZgoyDCNQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251021",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_8\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: p/Nl6IufIiGgBzHq3hbqI/ayVIlGPQ2zH4LOUWXupmPClxNUN6DCt/cDvp2QHHgoTI7feqPtUIqPIWx42/KVyGQorKZx+5B1pdhpOgZPwLg3f48nZJKeZN3DspV3Iogv8aNGmbiPBal/xXqhhDKNos3z8QBQlMLAibem6aeKv6EyV8GJalIrD1kkpcy1NuPC3tQRWhPXlQEo9dge5Hh/5n/nBvudP5maqx4bqOfLsZVKE8Y5Q660o1FEmAv9SGBy9aS/sVVFqs8ohrUVA8AABNHN3diOBwDpdJbw/reJclgJWGebfWC2Oi3qGcfs51QRCo1Py05twq7ySAZgoyDCNQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20251027",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Green Gulch Zen Monastery\r\n- Inventory Item: [AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- Quantity: 6\r\n- Latitude: 37.742308\r\n- Longitude: -122.506981\r\n- Attached Filename: image.png\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251027183317_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: msohfJ9nhSEqDcvxwzK32zkVpfC8ejh09/SC8LnsZIP6fYpNFb9dsuXBsWowvWBDc7WJ3cwFBHYmKtRuFqSoJyVqZInNpEaklIu7aKk2V3VRYJ1Vj1I8a5x5zGJuszLKko1td7rQZSFw3BZt9+i6gbpi2VpeqZ+NOv0Wk4guBDCdtBQsvzNwBFr3I+shHtKuQQ1XGqiOCLMi6BRfTmXmCv/zp6/n3NFE/qLHPoAk0IG3tPYdXnQ0vGyNITysIIflPqP8/Lq5tATh0PE696lMv12Cov/u9bPTMEGlX0hXMasC7w1fs4dVa/rmuV6DyJqZdkRSQprL/kQ+JWiRJJgxZQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -6.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251027",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Green Gulch Zen Monastery\r\n- Inventory Item: [AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- Quantity: 6\r\n- Latitude: 37.742308\r\n- Longitude: -122.506981\r\n- Attached Filename: image.png\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251027183317_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: msohfJ9nhSEqDcvxwzK32zkVpfC8ejh09/SC8LnsZIP6fYpNFb9dsuXBsWowvWBDc7WJ3cwFBHYmKtRuFqSoJyVqZInNpEaklIu7aKk2V3VRYJ1Vj1I8a5x5zGJuszLKko1td7rQZSFw3BZt9+i6gbpi2VpeqZ+NOv0Wk4guBDCdtBQsvzNwBFr3I+shHtKuQQ1XGqiOCLMi6BRfTmXmCv/zp6/n3NFE/qLHPoAk0IG3tPYdXnQ0vGyNITysIIflPqP8/Lq5tATh0PE696lMv12Cov/u9bPTMEGlX0hXMasC7w1fs4dVa/rmuV6DyJqZdkRSQprL/kQ+JWiRJJgxZQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": 6.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251028",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_16\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: qaoNGRG9MIxrWGelWExUMaaNwFlijtPmMZH+VZ/UJnfhRD5VxpPU6bReIfzTxSS/pbfJ//RMM0M5/kLTxWrecvJThXvIZx6v2nWdvM1QqBYlHR6hxR7mfllxgPAa/KG+LgRxufywReOYDleer7JAKB8J1ZdPLak+YRa4FAWbSNYwR9AkI4DPuxKLit8LLQCtin7WECmvmP0V/FxrILFFQ5iraQPBunyemuTF7/W7RFSyNYNwHsf5cbLTuKRrq2DA7OgkNgkGjDz00/M2yTmCTemAwAzlF4YEAJ4hv8/cjZfONaJVh3fAGP23uZLx//2houNld0TZlzOt0rhYRmKZeQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251028",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_16\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: qaoNGRG9MIxrWGelWExUMaaNwFlijtPmMZH+VZ/UJnfhRD5VxpPU6bReIfzTxSS/pbfJ//RMM0M5/kLTxWrecvJThXvIZx6v2nWdvM1QqBYlHR6hxR7mfllxgPAa/KG+LgRxufywReOYDleer7JAKB8J1ZdPLak+YRa4FAWbSNYwR9AkI4DPuxKLit8LLQCtin7WECmvmP0V/FxrILFFQ5iraQPBunyemuTF7/W7RFSyNYNwHsf5cbLTuKRrq2DA7OgkNgkGjDz00/M2yTmCTemAwAzlF4YEAJ4hv8/cjZfONaJVh3fAGP23uZLx//2houNld0TZlzOt0rhYRmKZeQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 25.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251028",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_16\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: qaoNGRG9MIxrWGelWExUMaaNwFlijtPmMZH+VZ/UJnfhRD5VxpPU6bReIfzTxSS/pbfJ//RMM0M5/kLTxWrecvJThXvIZx6v2nWdvM1QqBYlHR6hxR7mfllxgPAa/KG+LgRxufywReOYDleer7JAKB8J1ZdPLak+YRa4FAWbSNYwR9AkI4DPuxKLit8LLQCtin7WECmvmP0V/FxrILFFQ5iraQPBunyemuTF7/W7RFSyNYNwHsf5cbLTuKRrq2DA7OgkNgkGjDz00/M2yTmCTemAwAzlF4YEAJ4hv8/cjZfONaJVh3fAGP23uZLx//2houNld0TZlzOt0rhYRmKZeQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20251114",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Go Ask Alice - Niccolina Ammerman\r\n- Inventory Item: [AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- Quantity: 5\r\n- Latitude: 36.721528\r\n- Longitude: -121.654858\r\n- Attached Filename: image.png\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251114202018_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: yt55PoFESqI9CENkL+JAPzcShdDrkUiTMJ5TwQN9QvdyJTW+/hIMnx32aWM/UqKUXZgic5IbFdue4gO5+YB0Qtxc7X4+4yobfoIByVhjeFtoWqcN/hWYQiWLH9haoaKJDbRMVlnHg6lXumoJpX9H6ZtFrlQGaFewZkE8R9vPmz0Fgp/UMoIGEdN6zW5mIlBR7buIIkr4fqP1KKc2kZRq67Z899KzUl7oLtV8fbM0GpOQcXqOL3qqcB5MU/6SQ9j6aQMP1vMWz2gnv1ezGbYzj6yXr7xb/QYiYiXrnZOXXMubVAl4nvwSUHOrS35snqz/+x1i8EA9MkXdxl0sGFJ6Lw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -5.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251114",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Go Ask Alice - Niccolina Ammerman\r\n- Inventory Item: [AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- Quantity: 5\r\n- Latitude: 36.721528\r\n- Longitude: -121.654858\r\n- Attached Filename: image.png\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251114202018_gary_teh_image.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: yt55PoFESqI9CENkL+JAPzcShdDrkUiTMJ5TwQN9QvdyJTW+/hIMnx32aWM/UqKUXZgic5IbFdue4gO5+YB0Qtxc7X4+4yobfoIByVhjeFtoWqcN/hWYQiWLH9haoaKJDbRMVlnHg6lXumoJpX9H6ZtFrlQGaFewZkE8R9vPmz0Fgp/UMoIGEdN6zW5mIlBR7buIIkr4fqP1KKc2kZRq67Z899KzUl7oLtV8fbM0GpOQcXqOL3qqcB5MU/6SQ9j6aQMP1vMWz2gnv1ezGbYzj6yXr7xb/QYiYiXrnZOXXMubVAl4nvwSUHOrS35snqz/+x1i8EA9MkXdxl0sGFJ6Lw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Go Ask Alice - Niccolina Ammerman",
+      "amount": 5.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251202",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_1\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: T7B49EQg+m/18wbKfaxVSMLR86DLk3bbZatCcxPPzh8eRoeHpw6FdUxwrv3ZKWsAhitE7FKRh7y/T/4jQyAUmybGZGChgJyjmlk5NK85s9Yyy6RCipZimJFGagnMXOkFlpCpCbGqDMVNwC5klia8fUsjXicAMojq4/jRmkRDmph3Gra4m4g2lWzGdxiIcewaok26NgejP3IRJZ9K509/l5P1ddA0gVhJPH4Exvdi1yUnStrSQOMDVdSS5uXhIp1QYuVEDJpLUV3QQb04rt+i4NF3ejp2SKMKN4zhgFLr3WV6OGaq6ecbXjqksSLb1IYW6RKiHphLd8SM0KPCRITfDw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251202",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_1\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: T7B49EQg+m/18wbKfaxVSMLR86DLk3bbZatCcxPPzh8eRoeHpw6FdUxwrv3ZKWsAhitE7FKRh7y/T/4jQyAUmybGZGChgJyjmlk5NK85s9Yyy6RCipZimJFGagnMXOkFlpCpCbGqDMVNwC5klia8fUsjXicAMojq4/jRmkRDmph3Gra4m4g2lWzGdxiIcewaok26NgejP3IRJZ9K509/l5P1ddA0gVhJPH4Exvdi1yUnStrSQOMDVdSS5uXhIp1QYuVEDJpLUV3QQb04rt+i4NF3ejp2SKMKN4zhgFLr3WV6OGaq6ecbXjqksSLb1IYW6RKiHphLd8SM0KPCRITfDw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 25.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251202",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_1\r\n- Sales price: $25\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: T7B49EQg+m/18wbKfaxVSMLR86DLk3bbZatCcxPPzh8eRoeHpw6FdUxwrv3ZKWsAhitE7FKRh7y/T/4jQyAUmybGZGChgJyjmlk5NK85s9Yyy6RCipZimJFGagnMXOkFlpCpCbGqDMVNwC5klia8fUsjXicAMojq4/jRmkRDmph3Gra4m4g2lWzGdxiIcewaok26NgejP3IRJZ9K509/l5P1ddA0gVhJPH4Exvdi1yUnStrSQOMDVdSS5uXhIp1QYuVEDJpLUV3QQb04rt+i4NF3ejp2SKMKN4zhgFLr3WV6OGaq6ecbXjqksSLb1IYW6RKiHphLd8SM0KPCRITfDw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20251204",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_17\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: r1X7NmW6j+DrTAIpaKt0FYuf3JzWhPk11IoxWYuWmyrwLvz3Oc9ZLRg1rt+WNW54BCGs15liDHzS80dbt8EOd1Te+A/gqb1FS0eC3pNsUOMrNJfdf5C6NAYvU/lzAntrKSbwVrWisg/hjmsDqDbN/3kZvpmLRy5kX6FqDuQn68B7i/MqHOTaipy2Spit3KU1Q8ykMKIi6z3zvEDBR9HQqmLlQXdBfGeHWniCS5vIjI/OMvuBo+sYC25Qn9eto2bgbEKUf6dvM2GzcBf6rm6A7N55YI2IN9nBmWvvouw4Vk3Igenei6aiM1U/UY8ufwjIJC/lYOrd2FKMkyy+Zvnn1w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251204",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_17\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: r1X7NmW6j+DrTAIpaKt0FYuf3JzWhPk11IoxWYuWmyrwLvz3Oc9ZLRg1rt+WNW54BCGs15liDHzS80dbt8EOd1Te+A/gqb1FS0eC3pNsUOMrNJfdf5C6NAYvU/lzAntrKSbwVrWisg/hjmsDqDbN/3kZvpmLRy5kX6FqDuQn68B7i/MqHOTaipy2Spit3KU1Q8ykMKIi6z3zvEDBR9HQqmLlQXdBfGeHWniCS5vIjI/OMvuBo+sYC25Qn9eto2bgbEKUf6dvM2GzcBf6rm6A7N55YI2IN9nBmWvvouw4Vk3Igenei6aiM1U/UY8ufwjIJC/lYOrd2FKMkyy+Zvnn1w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251204",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_17\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: r1X7NmW6j+DrTAIpaKt0FYuf3JzWhPk11IoxWYuWmyrwLvz3Oc9ZLRg1rt+WNW54BCGs15liDHzS80dbt8EOd1Te+A/gqb1FS0eC3pNsUOMrNJfdf5C6NAYvU/lzAntrKSbwVrWisg/hjmsDqDbN/3kZvpmLRy5kX6FqDuQn68B7i/MqHOTaipy2Spit3KU1Q8ykMKIi6z3zvEDBR9HQqmLlQXdBfGeHWniCS5vIjI/OMvuBo+sYC25Qn9eto2bgbEKUf6dvM2GzcBf6rm6A7N55YI2IN9nBmWvvouw4Vk3Igenei6aiM1U/UY8ufwjIJC/lYOrd2FKMkyy+Zvnn1w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20251217",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_22\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: bmR7jzdMcYj3a6zGHgfTjBEUJqwClQzC+F1+ACNkq9uIFYYH03t5teCZAd0tP7l5Idq1db1c0++aRlYtcuhEUSaizAuG48ru82wTxe/CKU6GhEc4nNWmNH8i1+yPvopfHwbVcD7xpx/t90MNWfhFz5zVJ6qdbblMjb7C455BbjfrDZrx31h2S1Yj4vb8VXBOyuSGyBu0axbbzw5zWkklNmbBp68SKxdfwg2nJaWEHmd6D0Nxr5q3kx6Q9vyYqv+0kv7I5YeaUK9EyLzZEX9prhbEa2BgXx8ROw2KOMj9h238Xj6qaaWxP/QGMBLzqWdon+RpiLd1R2G9iD46xXDAcA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251217",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_22\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: bmR7jzdMcYj3a6zGHgfTjBEUJqwClQzC+F1+ACNkq9uIFYYH03t5teCZAd0tP7l5Idq1db1c0++aRlYtcuhEUSaizAuG48ru82wTxe/CKU6GhEc4nNWmNH8i1+yPvopfHwbVcD7xpx/t90MNWfhFz5zVJ6qdbblMjb7C455BbjfrDZrx31h2S1Yj4vb8VXBOyuSGyBu0axbbzw5zWkklNmbBp68SKxdfwg2nJaWEHmd6D0Nxr5q3kx6Q9vyYqv+0kv7I5YeaUK9EyLzZEX9prhbEa2BgXx8ROw2KOMj9h238Xj6qaaWxP/QGMBLzqWdon+RpiLd1R2G9iD46xXDAcA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251217",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_22\r\n- Sales price: $17\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: bmR7jzdMcYj3a6zGHgfTjBEUJqwClQzC+F1+ACNkq9uIFYYH03t5teCZAd0tP7l5Idq1db1c0++aRlYtcuhEUSaizAuG48ru82wTxe/CKU6GhEc4nNWmNH8i1+yPvopfHwbVcD7xpx/t90MNWfhFz5zVJ6qdbblMjb7C455BbjfrDZrx31h2S1Yj4vb8VXBOyuSGyBu0axbbzw5zWkklNmbBp68SKxdfwg2nJaWEHmd6D0Nxr5q3kx6Q9vyYqv+0kv7I5YeaUK9EyLzZEX9prhbEa2BgXx8ROw2KOMj9h238Xj6qaaWxP/QGMBLzqWdon+RpiLd1R2G9iD46xXDAcA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20251226",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_6\r\n- Sales price: $27.86\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: X/ADMr17n4TNSe6Mpe3cLVNXB49STbvC63JJsRFJ36KeSH5QFJ+kXxG9bGtkmGIrAKnsk4tV5UEss+T+gySEcluE2PFuU/K4LmbFsDLqWK9aOpEemEj2C25XA6WyTFC+ww9xUY/ufTU6dw2wg/sbhswWlZBZzNUGiY+uhGiPl4tidUy/ZAekq1UEIdMtwnYgq0ZuwMc5E5JvldUW7E/2E3A7KCniIsvbY+HZnGsEKdt70PIw3jYBP2AVCE7woxkHCZTlTild3jtDWJo9dZ5VVwgyvRCTapl0pxxXiBHHx0qPdWIws3d5CLx1cdEWmFuhfztd9jnk2kVMw+Ovi7ZmTw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20251226",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_6\r\n- Sales price: $27.86\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: X/ADMr17n4TNSe6Mpe3cLVNXB49STbvC63JJsRFJ36KeSH5QFJ+kXxG9bGtkmGIrAKnsk4tV5UEss+T+gySEcluE2PFuU/K4LmbFsDLqWK9aOpEemEj2C25XA6WyTFC+ww9xUY/ufTU6dw2wg/sbhswWlZBZzNUGiY+uhGiPl4tidUy/ZAekq1UEIdMtwnYgq0ZuwMc5E5JvldUW7E/2E3A7KCniIsvbY+HZnGsEKdt70PIw3jYBP2AVCE7woxkHCZTlTild3jtDWJo9dZ5VVwgyvRCTapl0pxxXiBHHx0qPdWIws3d5CLx1cdEWmFuhfztd9jnk2kVMw+Ovi7ZmTw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 27.86,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251226",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_6\r\n- Sales price: $27.86\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: X/ADMr17n4TNSe6Mpe3cLVNXB49STbvC63JJsRFJ36KeSH5QFJ+kXxG9bGtkmGIrAKnsk4tV5UEss+T+gySEcluE2PFuU/K4LmbFsDLqWK9aOpEemEj2C25XA6WyTFC+ww9xUY/ufTU6dw2wg/sbhswWlZBZzNUGiY+uhGiPl4tidUy/ZAekq1UEIdMtwnYgq0ZuwMc5E5JvldUW7E/2E3A7KCniIsvbY+HZnGsEKdt70PIw3jYBP2AVCE7woxkHCZTlTild3jtDWJo9dZ5VVwgyvRCTapl0pxxXiBHHx0qPdWIws3d5CLx1cdEWmFuhfztd9jnk2kVMw+Ovi7ZmTw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260106",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Micheal Johnson\n- Inventory Item: Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\n- QR Code: 2025CAPELAVELHA_20250809_7\n- Quantity: 1\n- Latitude: 33.613942\n- Longitude: -114.197280\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: SCOQP3xsYBJB+IijQVeb110mqmXfcYtg0wctuogGv45qzr3NrZ/JJEDhPALPJvmPjtDdDK5YI3n4ggrDQkTe+0CY1FvWIAxRfnP81oAfE/8AfZzsjxP4Ouee3Puau6ZylJjEZNcau/oSUcN/9HVd43JSOH5q/HokHrngqzQ7SY+C7juqimswBdGpjGWM+agkqEWwuqqustIoTE+wAa0I/yzQDiZT3UBx7oyNIAe7/sH1wOMH98RmQp3Mh1J8EKK4Qqv6jCCkraaguacTwxdHiiQ0VIWJqJX+uOaI+N+QxKmDD7n2gd4MWCRnfK1K8U8I3N4im1UPxmciZKjkDopp5w==\n\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260106",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Micheal Johnson\n- Inventory Item: Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\n- QR Code: 2025CAPELAVELHA_20250809_7\n- Quantity: 1\n- Latitude: 33.613942\n- Longitude: -114.197280\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: SCOQP3xsYBJB+IijQVeb110mqmXfcYtg0wctuogGv45qzr3NrZ/JJEDhPALPJvmPjtDdDK5YI3n4ggrDQkTe+0CY1FvWIAxRfnP81oAfE/8AfZzsjxP4Ouee3Puau6ZylJjEZNcau/oSUcN/9HVd43JSOH5q/HokHrngqzQ7SY+C7juqimswBdGpjGWM+agkqEWwuqqustIoTE+wAa0I/yzQDiZT3UBx7oyNIAe7/sH1wOMH98RmQp3Mh1J8EKK4Qqv6jCCkraaguacTwxdHiiQ0VIWJqJX+uOaI+N+QxKmDD7n2gd4MWCRnfK1K8U8I3N4im1UPxmciZKjkDopp5w==\n\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": 1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260106",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Micheal Johnson\n- Inventory Item: Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\n- QR Code: 2025CAPELAVELHA_20250809_10\n- Quantity: 1\n- Latitude: 33.613942\n- Longitude: -114.197280\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: mZoB6K0l+S9LlNO84tL0Qt7D0k0aGu4VlU3OPMiuwEJiDEoJdzkKR/LY8rp5ny5HQN/RP+5zecAcEAafzNjCRQUwj+L3iLZDmh1Ih6qZv1aVaaMHTQabLJ/jZK/sxA9IuF2vjrBJftRqAdSgzq5uzhqhXMj4D5bLMWuCyNcErZZ04dnwQxM/XXWHg6H0jLbqTW4LXzoZuyP7YdX/0dxvg98YoqVjW3Eu1GIcPWIO4w1CJL/YkDlMlh1Qo4Khj5pBhdH6CW33rPTXVFlwqajt+wjq2SjZ72MSb+JiH2lLM6bISyWvd1vGQpfWPt7j94UI6UIloWADzbKi2lH1ylPx8g==\n\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260106",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Micheal Johnson\n- Inventory Item: Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\n- QR Code: 2025CAPELAVELHA_20250809_10\n- Quantity: 1\n- Latitude: 33.613942\n- Longitude: -114.197280\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: mZoB6K0l+S9LlNO84tL0Qt7D0k0aGu4VlU3OPMiuwEJiDEoJdzkKR/LY8rp5ny5HQN/RP+5zecAcEAafzNjCRQUwj+L3iLZDmh1Ih6qZv1aVaaMHTQabLJ/jZK/sxA9IuF2vjrBJftRqAdSgzq5uzhqhXMj4D5bLMWuCyNcErZZ04dnwQxM/XXWHg6H0jLbqTW4LXzoZuyP7YdX/0dxvg98YoqVjW3Eu1GIcPWIO4w1CJL/YkDlMlh1Qo4Khj5pBhdH6CW33rPTXVFlwqajt+wjq2SjZ72MSb+JiH2lLM6bISyWvd1vGQpfWPt7j94UI6UIloWADzbKi2lH1ylPx8g==\n\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": 1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260106",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Micheal Johnson\n- Inventory Item: Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\n- QR Code: 2025CAPELAVELHA_20250809_14\n- Quantity: 1\n- Latitude: 33.613942\n- Longitude: -114.197280\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: Cp1dzFUd6Hnjyts3KlHvQItctSo9ZQVK5OB5NV2Gewwb+YAr/kEPvAc3KQPiTacqB9xmzWNly3omlZc5eGXEWvMtCOoOh2KPfLcvpTx73IMA06NG1ZiXm6TQ47dPJwsIiEHjb1IyoEDuhchqXCK4JFdHxUhfgJ7pkKrMeUSq0kwjHwFTN2SOjsQFstMuBaLtOP4NG/ecdfPG+aAj2AZ8l1W1zp1tvHw6Qcmj0GjdaDUq/LRmVhzrjY8+qS8+cRjeDmMJss4CQpzrvKkEHxR9ijbPUfs91D658+qAHLdqsbWFFb7xwEA6UqKyeLwbblo4A31q4qe9/lUJIsx5KlmuNQ==\n\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260106",
+      "description": "[INVENTORY MOVEMENT]\n- Manager Name: Gary Teh\n- Recipient Name: Micheal Johnson\n- Inventory Item: Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\n- QR Code: 2025CAPELAVELHA_20250809_14\n- Quantity: 1\n- Latitude: 33.613942\n- Longitude: -114.197280\n- Attached Filename: None\n- Destination Inventory File Location: No file attached\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: Cp1dzFUd6Hnjyts3KlHvQItctSo9ZQVK5OB5NV2Gewwb+YAr/kEPvAc3KQPiTacqB9xmzWNly3omlZc5eGXEWvMtCOoOh2KPfLcvpTx73IMA06NG1ZiXm6TQ47dPJwsIiEHjb1IyoEDuhchqXCK4JFdHxUhfgJ7pkKrMeUSq0kwjHwFTN2SOjsQFstMuBaLtOP4NG/ecdfPG+aAj2AZ8l1W1zp1tvHw6Qcmj0GjdaDUq/LRmVhzrjY8+qS8+cRjeDmMJss4CQpzrvKkEHxR9ijbPUfs91D658+qAHLdqsbWFFb7xwEA6UqKyeLwbblo4A31q4qe9/lUJIsx5KlmuNQ==\n\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": 1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260112",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] USD\r\n- Quantity: 1\r\n- Latitude: 33.613382\r\n- Longitude: -114.201295\r\n- Attached Filename: ray_works_background.jpg\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20260112203237_gary_teh_ray_works_background.jpg\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: F5zK+Dpk2QGw/jvJfqGNz9bNse41IsbU0+kMesVLGTY5PUV8zNs4fbJVIYFktphrXjtvwjmfZvX9i57lWJ2QGTAtapHHiNEwkWbItdWvMsJV/je/xiOJEBonIr4fowgtM4lLzeOVGCWiTrhY3gCC5bW6AbUVLHG04L+CG7SqEsej0DHof9EAN57T5+eRUerLXPDVmoykH8i3f+EEIrJwSn9tOurqXr+P5cJZsYKyyCZ+2XyJg0UmH0pFJS+FDnsnqn+k7z59tCqL8fcJ5p6TqCp5yZgO8hT4GZ60KDZ4I1Kwthu53JUT73Y17/VmJwePcyJFe00BmtG8jqWZTAgs1w==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260112",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] USD\r\n- Quantity: 1\r\n- Latitude: 33.613382\r\n- Longitude: -114.201295\r\n- Attached Filename: ray_works_background.jpg\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20260112203237_gary_teh_ray_works_background.jpg\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: F5zK+Dpk2QGw/jvJfqGNz9bNse41IsbU0+kMesVLGTY5PUV8zNs4fbJVIYFktphrXjtvwjmfZvX9i57lWJ2QGTAtapHHiNEwkWbItdWvMsJV/je/xiOJEBonIr4fowgtM4lLzeOVGCWiTrhY3gCC5bW6AbUVLHG04L+CG7SqEsej0DHof9EAN57T5+eRUerLXPDVmoykH8i3f+EEIrJwSn9tOurqXr+P5cJZsYKyyCZ+2XyJg0UmH0pFJS+FDnsnqn+k7z59tCqL8fcJ5p6TqCp5yZgO8hT4GZ60KDZ4I1Kwthu53JUT73Y17/VmJwePcyJFe00BmtG8jqWZTAgs1w==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 1.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260120",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Jenifer Runnion\r\n- Inventory Item: Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- QR Code: 2025CAPELAVELHA_20250809_13\r\n- Quantity: 1\r\n- Latitude: 33.581235\r\n- Longitude: -114.479125\r\n- Attached Filename: None\r\n- Destination Inventory File Location: No file attached\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: RfLYp/5qf+xIA0vk4oYQb59l5lYeQ3mkgaY4s7jlgBbUJW+V/6fOQtSfCVVB+DmSUCsGvDQu7H2lkDC47LCmyGf14rKALVe70yYMAIpti7frKiyV/fp9tP6A52eJXWweahKC9UcJYjWhPbr0BJdalgiZ1uPNseIqjyyWgues00T7qSrap9ste7vyS53+k6orkcLe2kZcUCGcSNk1x5sVZeWaeeIb1tTqwrMIguNCO5WO60BUljLGDcl4CkEyjnNJ5/T0WguHoKZCpuLbT7El5075j098nHXhYwFimUWo0P6DYjArNu83gO9ZGp/La9vb4RNPQ12viSDSvTUQnKQccQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260120",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Jenifer Runnion\r\n- Inventory Item: Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10\r\n- QR Code: 2025CAPELAVELHA_20250809_13\r\n- Quantity: 1\r\n- Latitude: 33.581235\r\n- Longitude: -114.479125\r\n- Attached Filename: None\r\n- Destination Inventory File Location: No file attached\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: RfLYp/5qf+xIA0vk4oYQb59l5lYeQ3mkgaY4s7jlgBbUJW+V/6fOQtSfCVVB+DmSUCsGvDQu7H2lkDC47LCmyGf14rKALVe70yYMAIpti7frKiyV/fp9tP6A52eJXWweahKC9UcJYjWhPbr0BJdalgiZ1uPNseIqjyyWgues00T7qSrap9ste7vyS53+k6orkcLe2kZcUCGcSNk1x5sVZeWaeeIb1tTqwrMIguNCO5WO60BUljLGDcl4CkEyjnNJ5/T0WguHoKZCpuLbT7El5075j098nHXhYwFimUWo0P6DYjArNu83gO9ZGp/La9vb4RNPQ12viSDSvTUQnKQccQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Jenifer Runnion",
+      "amount": 1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260122",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_13\r\n- Sales price: $17\r\n- Sold by: Jenifer Runnion\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: xh5lFCpbqRYQFGcsIZ7YxTdt1GqZGvb9266iQDjhUtRFwxo8Js5L9KXkhA4cqJLNrrkLwcdJEXX22D5uz5BF75kfFbWM4c4RoyPvBY4DwvMm/+v+7A7hsMCFxeq1CPRkkaXkGW/gvp2U/vBW/Cw9yhkrEKmGniBcdMFEpVL6AiC3iVaEtVQWUEW4NEiK/+zRdgGh7avV8BpHnqipC3FL9P+dpZ7dgD0ZE1TJ/iR1j7lKMeW/ff+LcbH4At1z3NvgvG6tz/5GdBAaCuQXLNxnqIOVQvxrUqMHzh9JBZ3d98BA2jfG6AfWpk+txiYOEcOMPDNY5vP9SOhsNTSNv99new==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Jenifer Runnion",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260122",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_13\r\n- Sales price: $17\r\n- Sold by: Jenifer Runnion\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: xh5lFCpbqRYQFGcsIZ7YxTdt1GqZGvb9266iQDjhUtRFwxo8Js5L9KXkhA4cqJLNrrkLwcdJEXX22D5uz5BF75kfFbWM4c4RoyPvBY4DwvMm/+v+7A7hsMCFxeq1CPRkkaXkGW/gvp2U/vBW/Cw9yhkrEKmGniBcdMFEpVL6AiC3iVaEtVQWUEW4NEiK/+zRdgGh7avV8BpHnqipC3FL9P+dpZ7dgD0ZE1TJ/iR1j7lKMeW/ff+LcbH4At1z3NvgvG6tz/5GdBAaCuQXLNxnqIOVQvxrUqMHzh9JBZ3d98BA2jfG6AfWpk+txiYOEcOMPDNY5vP9SOhsNTSNv99new==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Jenifer Runnion",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260122",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_13\r\n- Sales price: $17\r\n- Sold by: Jenifer Runnion\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: xh5lFCpbqRYQFGcsIZ7YxTdt1GqZGvb9266iQDjhUtRFwxo8Js5L9KXkhA4cqJLNrrkLwcdJEXX22D5uz5BF75kfFbWM4c4RoyPvBY4DwvMm/+v+7A7hsMCFxeq1CPRkkaXkGW/gvp2U/vBW/Cw9yhkrEKmGniBcdMFEpVL6AiC3iVaEtVQWUEW4NEiK/+zRdgGh7avV8BpHnqipC3FL9P+dpZ7dgD0ZE1TJ/iR1j7lKMeW/ff+LcbH4At1z3NvgvG6tz/5GdBAaCuQXLNxnqIOVQvxrUqMHzh9JBZ3d98BA2jfG6AfWpk+txiYOEcOMPDNY5vP9SOhsNTSNv99new==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260123",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Jenifer Runnion\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] USD\r\n- Quantity: 17\r\n- Latitude: NA\r\n- Longitude: NA\r\n- Attached Filename: IMG_6738.PNG\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20260123015403_gary_teh_img_6738.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: vHTRYpVcQao+tV4G8Q/9OKSc7MU5Jb/nd2g6pDFM+ctRvXFI16MpK1d3xra42cXK3mJhqV9SDRms4WL1aj0XRoaoBMWdW6ARGReHePfrTdCmQyYiMFBS9S48mhEAMOJ4/ncfH54rH1U3gtJesgmP7+cTcyMC0tMtOgjpNIWfbjNPe8XJPjvp1nH0Yx9Bm0ixFRDLmLs4t3GK1O6wR2xRWQr3M/WZKUcPzpzSFzYNITmj4EEQI0+hfVDxt/CcHRUv58d9DsADgYCwytfH1podP3EuN5hwjZyRMkZ35UYM5Q9HXrcsri/gkHgQFp+z2aDYgUlT30tvos97cewiAOiIyg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Jenifer Runnion",
+      "amount": -17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260123",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Jenifer Runnion\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [AGL10] USD\r\n- Quantity: 17\r\n- Latitude: NA\r\n- Longitude: NA\r\n- Attached Filename: IMG_6738.PNG\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20260123015403_gary_teh_img_6738.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: vHTRYpVcQao+tV4G8Q/9OKSc7MU5Jb/nd2g6pDFM+ctRvXFI16MpK1d3xra42cXK3mJhqV9SDRms4WL1aj0XRoaoBMWdW6ARGReHePfrTdCmQyYiMFBS9S48mhEAMOJ4/ncfH54rH1U3gtJesgmP7+cTcyMC0tMtOgjpNIWfbjNPe8XJPjvp1nH0Yx9Bm0ixFRDLmLs4t3GK1O6wR2xRWQr3M/WZKUcPzpzSFzYNITmj4EEQI0+hfVDxt/CcHRUv58d9DsADgYCwytfH1podP3EuN5hwjZyRMkZ35UYM5Q9HXrcsri/gkHgQFp+z2aDYgUlT30tvos97cewiAOiIyg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260131",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_10\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: yivOe7/jI4opNh+wLvjMvkzszxjRcJnVgMfrWgiFwflsNOwJA9iWIID+X4kTax3Uvy9w+UTrhXHig7RmcqnUrtykWtYX4Uu0g9l2rzDUFolrKIma/ZigLIKVt2DQjzo6ULGKdfFPSHbYOdqBpGO4z/YJhnaWHtkeAe9/zYycm3SJ95WiX7CZ/2Mr3NzcQCUbJcopIySNY9S/5n56LtkR/foKocXMUep+uHgwnk7zHrdP3MW2NrkHXGXQFFOaatPrztV0MUzGxTYHq9V6ardbP0/kV/qemOAvZBSRU5j+2Lxg5EOiPzMKnK65f2bdr1IRLKS0NlSO5cCm4oSiu18ttA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260131",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_10\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: yivOe7/jI4opNh+wLvjMvkzszxjRcJnVgMfrWgiFwflsNOwJA9iWIID+X4kTax3Uvy9w+UTrhXHig7RmcqnUrtykWtYX4Uu0g9l2rzDUFolrKIma/ZigLIKVt2DQjzo6ULGKdfFPSHbYOdqBpGO4z/YJhnaWHtkeAe9/zYycm3SJ95WiX7CZ/2Mr3NzcQCUbJcopIySNY9S/5n56LtkR/foKocXMUep+uHgwnk7zHrdP3MW2NrkHXGXQFFOaatPrztV0MUzGxTYHq9V6ardbP0/kV/qemOAvZBSRU5j+2Lxg5EOiPzMKnK65f2bdr1IRLKS0NlSO5cCm4oSiu18ttA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260131",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_10\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: yivOe7/jI4opNh+wLvjMvkzszxjRcJnVgMfrWgiFwflsNOwJA9iWIID+X4kTax3Uvy9w+UTrhXHig7RmcqnUrtykWtYX4Uu0g9l2rzDUFolrKIma/ZigLIKVt2DQjzo6ULGKdfFPSHbYOdqBpGO4z/YJhnaWHtkeAe9/zYycm3SJ95WiX7CZ/2Mr3NzcQCUbJcopIySNY9S/5n56LtkR/foKocXMUep+uHgwnk7zHrdP3MW2NrkHXGXQFFOaatPrztV0MUzGxTYHq9V6ardbP0/kV/qemOAvZBSRU5j+2Lxg5EOiPzMKnK65f2bdr1IRLKS0NlSO5cCm4oSiu18ttA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260131",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_7\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: cRbfL+KqwuG7IJNrmRmh04mh8zWI3iIAlT5ub4U4GXgXNZZosTb6cPLDdewP+dYoVPtjFYu5OfWVsaH8zbavWHCYRa/jJM7aS9+il3EsusiXNrsAk3ff8G2/TOZ18KiYY9JC8JYsN5z+dDFieexKExfZ6CGyQT3NF+/Yir4lbfWRvFCuo787BAHQfReaC+ORMqN10aHRSRK3+ei+0VFg2MIYZ6EFXWcg+D2mUQJxQ8E6PfmbKsAnkrSOkb+5kBEI+9EJe4OIpVE0ztoQECuZckjZvaEvvvWPIIm3aiMrUDQOviJwz3fQuKA64NUCH94b2LrRIjMUF1QwC1j3jrqOOQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260131",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_7\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: cRbfL+KqwuG7IJNrmRmh04mh8zWI3iIAlT5ub4U4GXgXNZZosTb6cPLDdewP+dYoVPtjFYu5OfWVsaH8zbavWHCYRa/jJM7aS9+il3EsusiXNrsAk3ff8G2/TOZ18KiYY9JC8JYsN5z+dDFieexKExfZ6CGyQT3NF+/Yir4lbfWRvFCuo787BAHQfReaC+ORMqN10aHRSRK3+ei+0VFg2MIYZ6EFXWcg+D2mUQJxQ8E6PfmbKsAnkrSOkb+5kBEI+9EJe4OIpVE0ztoQECuZckjZvaEvvvWPIIm3aiMrUDQOviJwz3fQuKA64NUCH94b2LrRIjMUF1QwC1j3jrqOOQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260131",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_7\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: cRbfL+KqwuG7IJNrmRmh04mh8zWI3iIAlT5ub4U4GXgXNZZosTb6cPLDdewP+dYoVPtjFYu5OfWVsaH8zbavWHCYRa/jJM7aS9+il3EsusiXNrsAk3ff8G2/TOZ18KiYY9JC8JYsN5z+dDFieexKExfZ6CGyQT3NF+/Yir4lbfWRvFCuo787BAHQfReaC+ORMqN10aHRSRK3+ei+0VFg2MIYZ6EFXWcg+D2mUQJxQ8E6PfmbKsAnkrSOkb+5kBEI+9EJe4OIpVE0ztoQECuZckjZvaEvvvWPIIm3aiMrUDQOviJwz3fQuKA64NUCH94b2LrRIjMUF1QwC1j3jrqOOQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    }
+  ]
+}

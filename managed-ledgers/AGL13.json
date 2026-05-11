@@ -1,0 +1,197 @@
+{
+  "ledger_name": "AGL13",
+  "program_name": "<p class=\"font_8\">Agroverse is thrilled to announce a new batch of 150 kilograms of top-grade, organically grown cacao beans sourced from Vivi's Farm in Jeribucuacu, located near the stunning beaches",
+  "description": "<p class=\"font_8\">Agroverse is thrilled to announce a new batch of 150 kilograms of top-grade, organically grown cacao beans sourced from Vivi's Farm in Jeribucuacu, located near the stunning beaches",
+  "schema_version": 1,
+  "generated_at": "2026-05-11T00:49:01Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "MANUFACTURING",
+  "summary": {
+    "total_transactions": 20,
+    "total_amount": 5365.44,
+    "by_currency": {
+      "BRAZILIAN REIS": {
+        "count": 4,
+        "total": 0.0
+      },
+      "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13": {
+        "count": 4,
+        "total": 15.0
+      },
+      "CACAO NIBS (KILOGRAMS) SANTOS 20260213 - AGL13": {
+        "count": 1,
+        "total": 100.0
+      },
+      "CACAO TEA (KILOGRAMS) SANTOS 20260213 - AGL13": {
+        "count": 1,
+        "total": 21.0
+      },
+      "USD": {
+        "count": 10,
+        "total": 1392.22
+      }
+    }
+  },
+  "transactions": [
+    {
+      "date": "20250913",
+      "description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 18.72\n- Description: Transport of Vivi’s cacao to Matheus address\n- Contributor(s): Gary Teh\n- TDG Issued: 18.72\n- Attached Filename: IMG_1886.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250913181421_gary_teh_img_1886.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: M8HNUm3Yj0Jqk042xhd+AaEbmD6x/ulz3BORbrLbWrtnBDeDevBbemFkRkvrF8ctlANu+n8ZxEDDRt8xpAI5C60QMUljTYn9XsKbTJXik1vpKv25VTNIJ0MwaIdxg1twT7RKFx90zCj/nKtjJ2nxXol/b+LjCjG8P8x3JYFWlGIVcwA0is+JeXgo6XorMnzFI2DF3yeFokm9EfqpUUQ4Qklh49sX0fw5UREXZ1Jptwmf7R+17fkSVX2IGPz3Xhdl+mHFpedRKPxrOVzOiVkyH41dFvgoIA5KtLWnqIKdav76yt66sxPOn/uY0Tt2o1qIOytkjqHRz2dwSICR6tlndw==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -18.72,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250913",
+      "description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 28.07\n- Description: Transport of Vivi’s cacao to Itacare \n- Contributor(s): Gary Teh\n- TDG Issued: 28.07\n- Attached Filename: IMG_1887.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250913181455_gary_teh_img_1887.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: PQr+Szs1kdcP268lDlISNekmztSN35abdwbsvluslcxpCAAx6N8fpS6HrQvZ0LVli7mtMUgGUtMOJxDtn3m2KwxDjsJPpwBLa8WBA4TZUZvcXXuuIapKhb/L6VpU41weBDrIBV/CH5qr7MlY186jsHF48K/8ex8yNiIkWRURqq+W7f6qjTPM7XJ4QmXmp0UFEm5Uxxfe0UBHQfdyJSHB07Jf+EcuC2pQeNgd7QzvhZomRkNJVkuEDB813cKtPLusK2OiaK0oHFdvQVKZGp2sBBfZ5Z7V5b3YIKthtswLPA4j1TotWW2Y1wLlu/LtoYiIrCvbaDQ8qFv6MaEIXdiSmQ==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -28.07,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250913",
+      "description": "Capital injection for transportation cost",
+      "entity": "Gary Teh",
+      "amount": 46.79,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20250913",
+      "description": "Capital injection for transportation cost",
+      "entity": "Gary Teh",
+      "amount": 46.79,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250913",
+      "description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 1133.66\n- Description: For payment for Vivi’s 150 kilograms of cacao\n- Contributor(s): Gary Teh\n- TDG Issued: 1133.66\n- Attached Filename: IMG_1889.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250913183409_gary_teh_img_1889.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: upEHjRHjD+OtEzqTqxP3lpfXbrAcjUkhgLO0C+JZr1xMFQMWEwo2m44dOVudG+yCrYz17rG4/nqsUaeHDNgN/BejmvsN3Sw+lJs994b+TY9Io/jp8vLkf7X6y3Rf3vS03gGGgllQ2rIu+H6Y4h1+NRVp8xxgfIc0hXRZBVuytl2lj+pzpVWjUEwC2yl88/oGZUN+NTCiLc/CsFNP+7u8HX40lTYSA1gZHvYc7wfJttwN7q9GKKlhS9mkb7/TfowW7/NWZx4h4zVxjBuXQ1rz/A3iPrdri7/KPiFHDU1jQGvF2w/5KSeOMLj43C1PrT2rODZl3QUbt6dK4O8uMH3HZA==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 1133.66,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250913",
+      "description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 1133.66\n- Description: For payment for Vivi’s 150 kilograms of cacao\n- Contributor(s): Gary Teh\n- TDG Issued: 1133.66\n- Attached Filename: IMG_1889.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250913183409_gary_teh_img_1889.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: upEHjRHjD+OtEzqTqxP3lpfXbrAcjUkhgLO0C+JZr1xMFQMWEwo2m44dOVudG+yCrYz17rG4/nqsUaeHDNgN/BejmvsN3Sw+lJs994b+TY9Io/jp8vLkf7X6y3Rf3vS03gGGgllQ2rIu+H6Y4h1+NRVp8xxgfIc0hXRZBVuytl2lj+pzpVWjUEwC2yl88/oGZUN+NTCiLc/CsFNP+7u8HX40lTYSA1gZHvYc7wfJttwN7q9GKKlhS9mkb7/TfowW7/NWZx4h4zVxjBuXQ1rz/A3iPrdri7/KPiFHDU1jQGvF2w/5KSeOMLj43C1PrT2rODZl3QUbt6dK4O8uMH3HZA==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 1133.66,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20250913",
+      "description": "[NOTARIZATION EVENT]\nSubmitter: Gary Teh\nLatitude: -14.276451\nLongitude: -38.990866\nDocument Type: In person physical verification\nDescription: Receipt of 150 kilograms of cacao beans from Vivi and dropped off at Matheus place in Ilheus \nAttached Filename: IMG_1863.jpeg\nDestination Notarized File Location: https://github.com/TrueSightDAO/notarizations/20250914130332_gary_teh_img_1863.jpeg\nSubmission Source: https://dapp.truesight.me/notarize.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: jmbH03UvjT8DNVsVv8uXDD32+sjX9NqTYDryZTbCZEA4GhBPZWpoxYAzKOAlxj3WSaiWJ8ybh2XN23Qe0IG3GjQZsVpF7/aQphu+n21+K12yfqBg1T40m8GyUQj",
+      "entity": "Evilásio Cacao Farmer",
+      "amount": 150.0,
+      "currency": "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13",
+      "type": "Liability"
+    },
+    {
+      "date": "20250913",
+      "description": "[NOTARIZATION EVENT]\nSubmitter: Gary Teh\nLatitude: -14.276451\nLongitude: -38.990866\nDocument Type: In person physical verification\nDescription: Receipt of 150 kilograms of cacao beans from Vivi and dropped off at Matheus place in Ilheus \nAttached Filename: IMG_1863.jpeg\nDestination Notarized File Location: https://github.com/TrueSightDAO/notarizations/20250914130332_gary_teh_img_1863.jpeg\nSubmission Source: https://dapp.truesight.me/notarize.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: jmbH03UvjT8DNVsVv8uXDD32+sjX9NqTYDryZTbCZEA4GhBPZWpoxYAzKOAlxj3WSaiWJ8ybh2XN23Qe0IG3GjQZsVpF7/aQphu+n21+K12yfqBg1T40m8GyUQj",
+      "entity": "Matheus Reis",
+      "amount": 150.0,
+      "currency": "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13",
+      "type": "Assets"
+    },
+    {
+      "date": "20250913",
+      "description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 1133.66\n- Description: For payment for Vivi’s 150 kilograms of cacao\n- Contributor(s): Gary Teh\n- TDG Issued: 1133.66\n- Attached Filename: IMG_1889.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250913183409_gary_teh_img_1889.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: upEHjRHjD+OtEzqTqxP3lpfXbrAcjUkhgLO0C+JZr1xMFQMWEwo2m44dOVudG+yCrYz17rG4/nqsUaeHDNgN/BejmvsN3Sw+lJs994b+TY9Io/jp8vLkf7X6y3Rf3vS03gGGgllQ2rIu+H6Y4h1+NRVp8xxgfIc0hXRZBVuytl2lj+pzpVWjUEwC2yl88/oGZUN+NTCiLc/CsFNP+7u8HX40lTYSA1gZHvYc7wfJttwN7q9GKKlhS9mkb7/TfowW7/NWZx4h4zVxjBuXQ1rz/A3iPrdri7/KPiFHDU1jQGvF2w/5KSeOMLj43C1PrT2rODZl3QUbt6dK4O8uMH3HZA==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1133.66,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250913",
+      "description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 1133.66\n- Description: For payment for Vivi’s 150 kilograms of cacao\n- Contributor(s): Gary Teh\n- TDG Issued: 1133.66\n- Attached Filename: IMG_1889.png\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20250913183409_gary_teh_img_1889.png\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\n\nRequest Transaction ID: upEHjRHjD+OtEzqTqxP3lpfXbrAcjUkhgLO0C+JZr1xMFQMWEwo2m44dOVudG+yCrYz17rG4/nqsUaeHDNgN/BejmvsN3Sw+lJs994b+TY9Io/jp8vLkf7X6y3Rf3vS03gGGgllQ2rIu+H6Y4h1+NRVp8xxgfIc0hXRZBVuytl2lj+pzpVWjUEwC2yl88/oGZUN+NTCiLc/CsFNP+7u8HX40lTYSA1gZHvYc7wfJttwN7q9GKKlhS9mkb7/TfowW7/NWZx4h4zVxjBuXQ1rz/A3iPrdri7/KPiFHDU1jQGvF2w/5KSeOMLj43C1PrT2rODZl3QUbt6dK4O8uMH3HZA==\n\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Evilásio Cacao Farmer",
+      "amount": -150.0,
+      "currency": "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13",
+      "type": "Liability"
+    },
+    {
+      "date": "20260224",
+      "description": "Injection of capital from AGL15 into AGL13\n\nhttps://github.com/TrueSightDAO/notarizations/blob/main/20260224135022_gary_teh_agl15_agl13_wells_fargo.jpeg",
+      "entity": "AGL15",
+      "amount": 211.77,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20260224",
+      "description": "Injection of capital from AGL15 into AGL13\n\nhttps://github.com/TrueSightDAO/notarizations/blob/main/20260224135022_gary_teh_agl15_agl13_wells_fargo.jpeg",
+      "entity": "Gary Teh",
+      "amount": 211.77,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260224",
+      "description": "Conversion to R$1080\n\nhttps://github.com/TrueSightDAO/notarizations/blob/main/20260224135423_gary_teh_whatsapp_image_2026_02_24_at_21.47.53.jpeg",
+      "entity": "Gary Teh",
+      "amount": -211.77,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260224",
+      "description": "Conversion to R$1080\n\nhttps://github.com/TrueSightDAO/notarizations/blob/main/20260224135423_gary_teh_whatsapp_image_2026_02_24_at_21.47.53.jpeg",
+      "entity": "Gary Teh",
+      "amount": 1080.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20260224",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Matheus Reis\r\n- Inventory Item: [AGL13] Brazilian Reis\r\n- Quantity: 1080\r\n- Latitude: 1.312808\r\n- Longitude: 103.763219\r\n- Attached Filename: IMG_7803.png\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20260224135347_gary_teh_img_7803.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: JWet0LloFQjq62I4f4FY4NnuJTPf1Nxo6BGD47sLum8U4mRXKh8bOVKTvj6PCg6D0W+vCoBUn+FWlP/NCTMFTFouuWGomdJWi52g0tfTCOesPcDwZGUlO4/xrXj3Q7i1hPh/RMMOGRKYI5uZlEw3qOUYcoLvAsC/gU0DYZT7O0E6pU3QtTMIzjNYR0YFFGimb/FOX9RS709oIUkcYWSIuGykwxnXSwd8aq6cqBkT3vZX1aytfxrCY7f17Jfdrm2cFEO49N4/557N8Sn+MQPIR2fAb8BZjrojO1Xz619syetxP1Lg0bm8olYMxXTHdIH7QeRZcCJUbOrTvblKepiQVQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1080.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20260224",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Gary Teh\r\n- Recipient Name: Matheus Reis\r\n- Inventory Item: [AGL13] Brazilian Reis\r\n- Quantity: 1080\r\n- Latitude: 1.312808\r\n- Longitude: 103.763219\r\n- Attached Filename: IMG_7803.png\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20260224135347_gary_teh_img_7803.png\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: JWet0LloFQjq62I4f4FY4NnuJTPf1Nxo6BGD47sLum8U4mRXKh8bOVKTvj6PCg6D0W+vCoBUn+FWlP/NCTMFTFouuWGomdJWi52g0tfTCOesPcDwZGUlO4/xrXj3Q7i1hPh/RMMOGRKYI5uZlEw3qOUYcoLvAsC/gU0DYZT7O0E6pU3QtTMIzjNYR0YFFGimb/FOX9RS709oIUkcYWSIuGykwxnXSwd8aq6cqBkT3vZX1aytfxrCY7f17Jfdrm2cFEO49N4/557N8Sn+MQPIR2fAb8BZjrojO1Xz619syetxP1Lg0bm8olYMxXTHdIH7QeRZcCJUbOrTvblKepiQVQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Matheus Reis",
+      "amount": 1080.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20260316",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Matheus Reis\r\n- Target Ledger: AGL13\r\n- Latitude: 30.349865\r\n- Longitude: -98.053560\r\n- Inventory Type: Brazilian Reis\r\n- Inventory Quantity: 1080\r\n- Description: Expensed for conversion of cacao beans into cacao nibs and cacao tea\r\n- Attached Filename: santos_invoice_20260213.pdf\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260316001346_gary_teh_santos_invoice_20260213.pdf\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: HtfVpV7BH+w+uyLBoo5JVv8WAUMPfBQbv3qrakOKsYLYcvm2PTf57/gGGdpDcj/QIqMTqz4HRJv//rcRq87GlpWW1N7SX2c5mNP7xUbgZsqEZpQG2pi7dYivB31tD3YHmuyh9Nyg8NaiF/guqcv/9q5QT/tuqk1BgspklKb66OrQAZOuRpjDaWXvKGAV9sMvLcNDhSbjNPD1++u8yB2MytlwVuYlTDi9Lu5vxtLqqOm2WOlx7Fu2+rqadKwU6NJN5IMYq/LcXTDaB9/d28IFEkfPNd5WJr0Usq5ASVcs5NBVhTicPlaLxTZvglg1u/sTnHmMvq15oGED6U9X9uPDTg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: 730b325b3343f484",
+      "entity": "Matheus Reis",
+      "amount": -1080.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20260316",
+      "description": "Conversion of cacao beans to Cacao nibs and cacao tea\n\nhttps://github.com/TrueSightDAO/notarizations/blob/main/20260316002834_gary_teh_image.png",
+      "entity": "Matheus Reis",
+      "amount": -135.0,
+      "currency": "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13",
+      "type": "Assets"
+    },
+    {
+      "date": "20260316",
+      "description": "Conversion of cacao beans to Cacao nibs and cacao tea\n\nhttps://github.com/TrueSightDAO/notarizations/blob/main/20260316002834_gary_teh_image.png",
+      "entity": "Matheus Reis",
+      "amount": 21.0,
+      "currency": "CACAO TEA (KILOGRAMS) SANTOS 20260213 - AGL13",
+      "type": "Assets"
+    },
+    {
+      "date": "20260316",
+      "description": "Conversion of cacao beans to Cacao nibs and cacao tea\n\nhttps://github.com/TrueSightDAO/notarizations/blob/main/20260316002834_gary_teh_image.png",
+      "entity": "Matheus Reis",
+      "amount": 100.0,
+      "currency": "CACAO NIBS (KILOGRAMS) SANTOS 20260213 - AGL13",
+      "type": "Assets"
+    }
+  ]
+}

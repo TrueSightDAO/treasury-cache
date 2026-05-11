@@ -1,0 +1,1265 @@
+{
+  "ledger_name": "AGL4",
+  "program_name": "<p class=\"font_8\">300KG organic cacao nibs from Bahia Small Scale Farmers&nbsp;</p> <p class=\"font_8\">Commercial import via air freight</p> <p class=\"font_8\"><br></p> <p class=\"font_8\"><br></p>",
+  "description": "<p class=\"font_8\">300KG organic cacao nibs from Bahia Small Scale Farmers&nbsp;</p> <p class=\"font_8\">Commercial import via air freight</p> <p class=\"font_8\"><br></p> <p class=\"font_8\"><br></p>",
+  "schema_version": 1,
+  "generated_at": "2026-05-11T00:48:57Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "SALES IN PROGRESS",
+  "summary": {
+    "total_transactions": 148,
+    "total_amount": 100606.45,
+    "by_currency": {
+      "8 OUNCE PACKAGE KRAFT POUCH": {
+        "count": 7,
+        "total": 0.0
+      },
+      "8 OUNCE PACKAGE KRAFT POUCH CP340992687BR": {
+        "count": 2,
+        "total": 0.0
+      },
+      "BRAZILIAN REIS": {
+        "count": 38,
+        "total": 0.0
+      },
+      "CACAO ALMONDS (KG)": {
+        "count": 6,
+        "total": -0.0
+      },
+      "CACAO HUSK (KG)": {
+        "count": 6,
+        "total": 0.0
+      },
+      "CACAO HUSK BAG (WEIGHT UNKNOWN)": {
+        "count": 2,
+        "total": 0.0
+      },
+      "CACAO MASS BAR (500GRAMS)": {
+        "count": 5,
+        "total": 0.0
+      },
+      "CACAO MASS BAR CP340992687BR (500GRAMS)": {
+        "count": 2,
+        "total": 0.0
+      },
+      "CACAO NIBS (KG)": {
+        "count": 16,
+        "total": -1.4
+      },
+      "CACAO NIBS CP340992695BR (KG)": {
+        "count": 2,
+        "total": 0.0
+      },
+      "CORREIOS PACKING BOX TO HOLD CACAO NIBS 20KG": {
+        "count": 4,
+        "total": 0.0
+      },
+      "FOAM CONTAINER BOX - 120 KRAFT POUCHES CAPACITY": {
+        "count": 4,
+        "total": 0.0
+      },
+      "FOAM CONTAINER BOX - 46 CACAO BAR CAPACITY (36CM X 40CM X 61CM)": {
+        "count": 5,
+        "total": 0.0
+      },
+      "KRAFT POUCHES": {
+        "count": 4,
+        "total": 0.0
+      },
+      "LARGE CARDBOARD BOX FOR MOVING PACKAGING 60X40X50": {
+        "count": 4,
+        "total": 0.0
+      },
+      "USD": {
+        "count": 41,
+        "total": 9033.35
+      }
+    }
+  },
+  "transactions": [
+    {
+      "date": "20240829",
+      "description": "Down payment for 300KG of cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240829_shena_1500_downpayment.jpeg",
+      "entity": "Shena Davenport",
+      "amount": 1500.0,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20240829",
+      "description": "Down payment for 300KG of cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240829_shena_1500_downpayment.jpeg",
+      "entity": "Shena Davenport",
+      "amount": 1500.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20240829",
+      "description": "Transfer of downpayment to Gary from Shena\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240829_shena_1500_downpayment.jpeg",
+      "entity": "Shena Davenport",
+      "amount": -1500.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20240829",
+      "description": "Transfer of downpayment to Gary from Shena\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240829_shena_1500_downpayment.jpeg",
+      "entity": "Gary Teh",
+      "amount": 1500.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20240097",
+      "description": "Loan of USD2000 from Gary to secure better exchange rate\n\nExchange rate: 1USD =  R$5.5994\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240907_gary_2000_loan.jpeg",
+      "entity": "Gary Teh",
+      "amount": 2000.0,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240097",
+      "description": "Loan of USD2000 from Gary to secure better exchange rate\n\nExchange rate: 1USD =  R$5.5994\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240907_gary_2000_loan.jpeg",
+      "entity": "Gary Teh",
+      "amount": 2000.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20240829",
+      "description": "Replayment of Loan\n\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240907_gary_2000_loan.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240829_shena_1500_downpayment.jpeg",
+      "entity": "Gary Teh",
+      "amount": -1500.0,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240829",
+      "description": "Replayment of Loan\n\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240907_gary_2000_loan.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240829_shena_1500_downpayment.jpeg",
+      "entity": "Gary Teh",
+      "amount": -1500.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20240907",
+      "description": "Exchange of USD2000 to R$\n\nExchange rate: 1USD =  R$5.5994\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240907_gary_2000_loan.jpeg",
+      "entity": "Gary Teh",
+      "amount": -2000.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20240907",
+      "description": "Exchange of USD2000 to R$\n\nExchange rate: 1USD =  R$5.5994\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240907_gary_2000_loan.jpeg",
+      "entity": "Gary Teh",
+      "amount": 11064.97,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20240907",
+      "description": "Transaction fee for wiring of USD2000 from USA to Brazil. \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240907_gary_2000_loan.jpeg",
+      "entity": "Gary Teh",
+      "amount": 23.9,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240909",
+      "description": "Car rental for 1 day to acquire 100KG of cacao almonds from farm\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240909_gary_car_rental_1.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240909_gary_car_rental_2.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240909_car_rental_booking.pdf",
+      "entity": "Gary Teh",
+      "amount": 39.48,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240911",
+      "description": "Loan of USD1,789.91 from Gary to secure better exchange rate\n\nExchange rate: 1USD =  R$5.6544\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240911_gary_loan_1789_91.jpeg",
+      "entity": "Gary Teh",
+      "amount": 1789.91,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240911",
+      "description": "Loan of USD1,789.91 from Gary to secure better exchange rate\n\nExchange rate: 1USD =  R$5.6544\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240911_gary_loan_1789_91.jpeg",
+      "entity": "Gary Teh",
+      "amount": 1789.91,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20240907",
+      "description": "Exchange of USD1,789.91  to R$\n\nExchange rate: 1USD =  R$5.6544\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240911_gary_loan_1789_91.jpeg",
+      "entity": "Gary Teh",
+      "amount": -1789.91,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20240907",
+      "description": "Exchange of USD1,789.91  to R$\n\nExchange rate: 1USD =  R$5.6544\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240911_gary_loan_1789_91.jpeg",
+      "entity": "Gary Teh",
+      "amount": 10000.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20240911",
+      "description": "Car rental gas refueling\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240911_rental_car_refueling.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240911_rental_car_refueling_2.jpeg",
+      "entity": "Gary Teh",
+      "amount": 28.79,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240910",
+      "description": "Lab test of 100Kg of cacao almonds\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240910_lab_test_1.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240910_lab_test_2.jpeg",
+      "entity": "Gary Teh",
+      "amount": 17.94,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240910",
+      "description": "Rental car cleaning fees\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240910_rental_car_cleaning.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240910_rental_car_cleaning_2.jpeg",
+      "entity": "Gary Teh",
+      "amount": 6.02,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240913",
+      "description": "Purchase of 100Kg cacao almond from Clara's farm\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240913_gary_emelin_payment_for_100kg_clara_cacao_almonds.pdf\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20240925_cic_report_fernando.pdf",
+      "entity": "Gary Teh",
+      "amount": -10000.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20240913",
+      "description": "Purchase of 100Kg cacao almond from Clara's farm\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240913_gary_emelin_payment_for_100kg_clara_cacao_almonds.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_to_black_king_for_clara_100kg.pdf\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20240925_cic_report_fernando.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": 100.0,
+      "currency": "CACAO ALMONDS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20240916",
+      "description": "Gas fee for handling 300KG of cacao nibs - Direct Manufacturer Purchase Tier 2\n\nhttps://www.truesight.me/agroverse\n\n- Sourcing for cacao almonds from farmers\n- Bring samples to the labs\n- Sourcing for factory to conduct processing\n- Processing cacao almonds to cacao nibs \n- Sourcing for trucking service to bring cacao nibs to Salvador airport\n- Sourcing for freighting service to bring cacao nibs from Salvador airport to Austin Texas airport\n- Sourcing for customs broker to clear cargo",
+      "entity": "TrueSight DAO",
+      "amount": 2047.91,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240920",
+      "description": "Processing 100KG of cacao almonds into cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240920_payment_to_cic_for_conversion_of_100Kg_to_cacao_nibs.jpeg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240919_invoice_conversion_100kg_cacao_almonds_to_77_7kg_cacao_nibs.pdf",
+      "entity": "Gary Teh",
+      "amount": -528.75,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20240920",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20240919_notice_of_conversion_100kg_cacao_almonds_to_77_7kg_cacao_nibs.pdf\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240919_invoice_conversion_100kg_cacao_almonds_to_77_7kg_cacao_nibs.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -100.0,
+      "currency": "CACAO ALMONDS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20240920",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20240919_notice_of_conversion_100kg_cacao_almonds_to_77_7kg_cacao_nibs.pdf\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240919_invoice_conversion_100kg_cacao_almonds_to_77_7kg_cacao_nibs.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_to_black_king_for_clara_100kg.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": 77.7,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20240925",
+      "description": "Exchange of USD$3696.30 to Brazilian R$20,000",
+      "entity": "Gary Teh",
+      "amount": 3696.3,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240925",
+      "description": "Exchange of USD$3696.30 to Brazilian R$20,000",
+      "entity": "Gary Teh",
+      "amount": 20000.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241002",
+      "description": "Emelin collected 3 bags of 10 kg each from CIC\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241002_3_bags_at_emelins.jpeg",
+      "entity": "Emelin",
+      "amount": 30.0,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241002",
+      "description": "Emelin collected 3 bags of 10 kg each from CIC\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241002_3_bags_at_emelins.jpeg",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -30.0,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241004",
+      "description": "Emelin shipped out 27.56Kg of cacao nibs \n\nCarreois Tracking: EB 129 714 160 BR\nhttps://rastreamento.correios.com.br/app/index.php\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_27_5_cacao_nibs_to_carreois.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241005_carreois_export.jpg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_emelin_30kg_carreois_transport_receipt.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_emelin_30kg_carreois_transport_receipt_english.jpg",
+      "entity": "Carreois",
+      "amount": 27.56,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241004",
+      "description": "Emelin shipped out 27.56Kg of cacao nibs \n\nCarreois Tracking: EB 129 714 160 BR\nhttps://rastreamento.correios.com.br/app/index.php\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_27_5_cacao_nibs_to_carreois.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241005_carreois_export.jpg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_emelin_30kg_carreois_transport_receipt.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_emelin_30kg_carreois_transport_receipt_english.jpg",
+      "entity": "Emelin",
+      "amount": -27.56,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241004",
+      "description": "Emelin shipped out 27.56Kg of cacao nibs \n\nCarreois Tracking: EB 129 714 160 BR\nhttps://rastreamento.correios.com.br/app/index.php\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_27_5_cacao_nibs_to_carreois.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241005_carreois_export.jpg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_emelin_30kg_carreois_transport_receipt.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_emelin_30kg_carreois_transport_receipt_english.jpg",
+      "entity": "Gary Teh",
+      "amount": -1793.55,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241004",
+      "description": "Emelin Uber from House to Post office\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241004_emelin_uber_to_post_office.jpeg",
+      "entity": "Gary Teh",
+      "amount": -7.31,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241005",
+      "description": "Gary injected USD to finance the shipping cost\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241005_gary_prefinancing.jpeg",
+      "entity": "Gary Teh",
+      "amount": 334.76,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20241005",
+      "description": "Gary injected USD to finance the shipping cost\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241005_gary_prefinancing.jpeg",
+      "entity": "Gary Teh",
+      "amount": 1800.86,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241009",
+      "description": "Gary injected USD to finance the cacao cost\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_10000_reis_loan_to_agl4.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_10000_reis_loan_to_agl4_2.jpeg",
+      "entity": "Gary Teh",
+      "amount": 1819.47,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20241009",
+      "description": "Gary injected USD to finance the cacao cost\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_10000_reis_loan_to_agl4.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_10000_reis_loan_to_agl4_2.jpeg",
+      "entity": "Gary Teh",
+      "amount": 10000.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241009",
+      "description": "Delivery of 208.16Kg of cacao almonds to CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_cic_208_16_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241010_25_reis_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_9975_reis_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_10000_reis_cacao.jpeg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_208_cacao_cic.jpeg\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241002_cic_report_oscar.pdf\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20250218_nota_fiscal_from_oscar.pdf",
+      "entity": "Gary Teh",
+      "amount": -20000.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241009",
+      "description": "Delivery of 208.16Kg of cacao almonds to CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_cic_208_16_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241010_25_reis_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_9975_reis_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_10000_reis_cacao.jpeg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241009_208_cacao_cic.jpeg\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241002_cic_report_oscar.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": 208.16,
+      "currency": "CACAO ALMONDS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241013",
+      "description": "Equity injection repayment Shena: $2100\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241013_agl4_repayment_shena.jpeg",
+      "entity": "Shena Davenport",
+      "amount": 2100.0,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20241013",
+      "description": "Equity injection repayment Shena: $2100\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241013_agl4_repayment_shena.jpeg",
+      "entity": "Gary Teh",
+      "amount": 2100.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20241013",
+      "description": "Loan repayment: $2100\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241013_agl4_repayment_shena.jpeg",
+      "entity": "Gary Teh",
+      "amount": -2100.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20241013",
+      "description": "Loan repayment: $2100\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241013_agl4_repayment_shena.jpeg",
+      "entity": "Gary Teh",
+      "amount": -2100.0,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20241013",
+      "description": "Equity injection repayment Shena: $2580\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241015_agl4_repayment_shena.jpeg",
+      "entity": "Shena Davenport",
+      "amount": 2580.0,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20241013",
+      "description": "Equity injection repayment Shena: $2580\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241015_agl4_repayment_shena.jpeg",
+      "entity": "Gary Teh",
+      "amount": 2580.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20241013",
+      "description": "loan repayment Shena: $2580\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241015_agl4_repayment_shena.jpeg",
+      "entity": "Gary Teh",
+      "amount": -2580.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20241013",
+      "description": "loan repayment Shena: $2580\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241015_agl4_repayment_shena.jpeg",
+      "entity": "Gary Teh",
+      "amount": -2580.0,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20241016",
+      "description": "payment for 92kg of cacao almonds\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241016_final_payment_for_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241016_108kg_of_cacao_dropped_off_in_martinus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_martinus_chocolate_receipt.pdf\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241002_cic_report_oscar.pdf\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20250218_nota_fiscal_from_oscar.pdf",
+      "entity": "Gary Teh",
+      "amount": -10000.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241016",
+      "description": "payment for 92kg of cacao almonds\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241016_final_payment_for_cacao.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241016_108kg_of_cacao_dropped_off_in_martinus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_martinus_chocolate_receipt.pdf\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241002_cic_report_oscar.pdf\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20250218_nota_fiscal_from_oscar.pdf",
+      "entity": "Martinus Chocolate - Bahia",
+      "amount": 92.0,
+      "currency": "CACAO ALMONDS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -208.16,
+      "currency": "CACAO ALMONDS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": 160.0,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": 396.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "Capital Injection of 396 kraft pouches\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "TrueSight DAO",
+      "amount": 278.52,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20241021",
+      "description": "Capital Injection of 396 kraft pouches\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "TrueSight DAO",
+      "amount": 396.0,
+      "currency": "KRAFT POUCHES",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "Handiing over of 396 kraft pouches to CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": 396.0,
+      "currency": "KRAFT POUCHES",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "Handiing over of 396 kraft pouches to CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "TrueSight DAO",
+      "amount": -396.0,
+      "currency": "KRAFT POUCHES",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "Utilization of kraft pouches into 8 ounce bags of cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -396.0,
+      "currency": "KRAFT POUCHES",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "Utilization of cacao nibs into 8 ounce bags of cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -89.1,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "Payment to CIC for conversion\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241021_payment_to_cic_for_conversion.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Gary Teh",
+      "amount": -1538.6,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241021",
+      "description": "Payment to CIC for conversion to acquire 2X foam box to container 100 kraft pouches each\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241017_cic_160kg_nibs_396_kraft_pouches.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241021_payment_to_cic_for_conversion.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": 2.0,
+      "currency": "FOAM CONTAINER BOX - 120 KRAFT POUCHES CAPACITY",
+      "type": "Assets"
+    },
+    {
+      "date": "20240920",
+      "description": "Conversion of 102.5kg of cacao nibs into 20kg of cacao husk\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240919_notice_of_conversion_100kg_cacao_almonds_to_77_7kg_cacao_nibs.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20240919_invoice_conversion_100kg_cacao_almonds_to_77_7kg_cacao_nibs.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": 20.0,
+      "currency": "CACAO HUSK (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241025",
+      "description": "Balance payment for 2 foam boxes to hold the 8 ounce kraft pouches\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241025_2x_foam_boxes_final_amount.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241025_balance_payment_for_2x_foam_boxes.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Gary Teh",
+      "amount": -70.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241025",
+      "description": "Transport cost for moving inventory from CIC to Matheus warehouse in Ilheus\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241025_fuel_cost_for_transporting_from_cic_to_ilheus_warehouse.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241026_reimbursement_for_fuel_cost.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_cic_invoice_for_conversion_of_oscar_almonds_to_nibs_packing_kraft_pouches_and_packing_foam_boxes.pdf",
+      "entity": "Gary Teh",
+      "amount": -70.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241027",
+      "description": "Successful delivery of cargo\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241027_shena_acknowledgement_of_receipt.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241025_successful_delivery_of_cargo.jpeg",
+      "entity": "Carreois",
+      "amount": -27.56,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241027",
+      "description": "Successful delivery of cargo\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241027_shena_acknowledgement_of_receipt.jpg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241025_successful_delivery_of_cargo.jpeg",
+      "entity": "Shena Davenport",
+      "amount": 27.56,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241027",
+      "description": "Withdrawal of Cacao nibs for personal use",
+      "entity": "Shena Davenport",
+      "amount": -27.56,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241027",
+      "description": "Agreement to exchange equity for TDG\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241027_shena_acknowledgment_to_convert_USD6180_to_TDG6180.jpg\n\nTrueSight Dao Ledger Line: 6000\nhttps://truesight.me/ledger",
+      "entity": "Shena Davenport",
+      "amount": -6180.0,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20241027",
+      "description": "Agreement to exchange equity for TDG\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241027_shena_acknowledgment_to_convert_USD6180_to_TDG6180.jpg\n\nTrueSight Dao Ledger Line: 6000\nhttps://truesight.me/ledger",
+      "entity": "TrueSight DAO",
+      "amount": 6180.0,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20240916",
+      "description": "Conversion of Gas Fee Loan to Equity",
+      "entity": "TrueSight DAO",
+      "amount": -2047.91,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20240916",
+      "description": "Conversion of Gas Fee Loan to Equity",
+      "entity": "TrueSight DAO",
+      "amount": 2047.91,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20241028",
+      "description": "Conversion of Cacao Almonds to cacao mass\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_martinus_chocolate_receipt.pdf",
+      "entity": "Martinus Chocolate - Bahia",
+      "amount": -92.0,
+      "currency": "CACAO ALMONDS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241028",
+      "description": "Conversion of Cacao Almonds to cacao mass\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_martinus_chocolate_receipt.pdf",
+      "entity": "Martinus Chocolate - Bahia",
+      "amount": 138.0,
+      "currency": "CACAO MASS BAR (500GRAMS)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241028",
+      "description": "Transfer from CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_matheus_acknowledgement_of_inventory_from_cic.jpeg",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -336.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH",
+      "type": "Assets"
+    },
+    {
+      "date": "20241028",
+      "description": "Transfer from CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_matheus_acknowledgement_of_inventory_from_cic.jpeg",
+      "entity": "Matheus Reis",
+      "amount": 336.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH",
+      "type": "Assets"
+    },
+    {
+      "date": "20241028",
+      "description": "Transfer from CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_matheus_acknowledgement_of_inventory_from_cic.jpeg",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -120.0,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241028",
+      "description": "Transfer from CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241028_matheus_acknowledgement_of_inventory_from_cic.jpeg",
+      "entity": "Matheus Reis",
+      "amount": 120.0,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241028",
+      "description": "Transport of 20KG husk to Emelin",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -20.0,
+      "currency": "CACAO HUSK (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241028",
+      "description": "Transport of 20KG husk to Emelin",
+      "entity": "Emelin",
+      "amount": 20.0,
+      "currency": "CACAO HUSK (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241029",
+      "description": "3 foam boxes\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241029_payment_for_3_foam_boxes.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241029_payment_for_3_foam_boxes_and_138_bars.jpeg",
+      "entity": "Gary Teh",
+      "amount": -3138.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241029",
+      "description": "3 foam boxes\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241029_payment_for_3_foam_boxes.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241029_payment_for_3_foam_boxes_and_138_bars.jpeg",
+      "entity": "Matheus Reis",
+      "amount": 3.0,
+      "currency": "FOAM CONTAINER BOX - 46 CACAO BAR CAPACITY (36CM X 40CM X 61CM)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241029",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241028_martinus_chocolate_receipt.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241029_payment_for_3_foam_boxes_and_138_bars.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_matheus_acknowledgement_of_inventory_receipt.jpg",
+      "entity": "Matheus Reis",
+      "amount": 138.0,
+      "currency": "CACAO MASS BAR (500GRAMS)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241029",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241028_martinus_chocolate_receipt.pdf\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241029_payment_for_3_foam_boxes_and_138_bars.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_matheus_acknowledgement_of_inventory_receipt.jpg",
+      "entity": "Martinus Chocolate - Bahia",
+      "amount": -138.0,
+      "currency": "CACAO MASS BAR (500GRAMS)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241029",
+      "description": "Fuel cost to ship chocolate bar into warehouse from Martinus\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241030_fuel_cost_ship_from_martinus_to_ilheus.jpeg",
+      "entity": "Matheus Reis",
+      "amount": -80.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241030",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241031_matheus_confirms_all_396_kraft_pouches_are_received.jpg",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -60.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH",
+      "type": "Assets"
+    },
+    {
+      "date": "20241030",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241031_matheus_confirms_all_396_kraft_pouches_are_received.jpg",
+      "entity": "Matheus Reis",
+      "amount": 60.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH",
+      "type": "Assets"
+    },
+    {
+      "date": "20241030",
+      "description": "Fuel cost pickup from CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241025_fuel_cost_pickup_from_cic.jpeg",
+      "entity": "Matheus Reis",
+      "amount": -70.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241030",
+      "description": "Fuel cost pickup from CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241025_fuel_cost_pickup_from_cic.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241026_reimburse_matheus_fuel_cost.jpeg",
+      "entity": "Matheus Reis",
+      "amount": 70.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241030",
+      "description": "Fuel cost pickup from CIC\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241025_fuel_cost_pickup_from_cic.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241026_reimburse_matheus_fuel_cost.jpeg",
+      "entity": "Gary Teh",
+      "amount": -70.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241029",
+      "description": "Fuel cost to ship chocolate bar into warehouse from Martinus\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241030_fuel_cost_ship_from_martinus_to_ilheus.jpeg",
+      "entity": "Matheus Reis",
+      "amount": 80.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241029",
+      "description": "Fuel cost to ship chocolate bar into warehouse from Martinus\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241030_fuel_cost_ship_from_martinus_to_ilheus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_martinus_fuel_cost_reimbursement.jpeg",
+      "entity": "Gary Teh",
+      "amount": -80.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241031_mathues_acknowledgement_of_2_foam_box_receipt.jpg",
+      "entity": "Matheus Reis",
+      "amount": 2.0,
+      "currency": "FOAM CONTAINER BOX - 120 KRAFT POUCHES CAPACITY",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241031_mathues_acknowledgement_of_2_foam_box_receipt.jpg",
+      "entity": "Cacao Innovation Center - Bahia",
+      "amount": -2.0,
+      "currency": "FOAM CONTAINER BOX - 120 KRAFT POUCHES CAPACITY",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "https://github.com/TrueSightDAO/.github/blob/main/assets/20241031_matheus_acknowledge_receipt_of_cacao_nibs_cacao_husk_and_kraft_pouches.jpg",
+      "entity": "Matheus Reis",
+      "amount": 3.0,
+      "currency": "CACAO HUSK BAG (WEIGHT UNKNOWN)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Transport of Cacao husk and cacao nibs from Emelin to Mathues\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus.jpeg",
+      "entity": "Emelin",
+      "amount": -7.49,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Transport of Cacao husk and cacao nibs from Emelin to Mathues\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus_reimbursement.jpeg",
+      "entity": "Emelin",
+      "amount": 7.49,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Transport of Cacao husk and cacao nibs from Emelin to Mathues\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus_reimbursement.jpeg",
+      "entity": "Gary Teh",
+      "amount": -7.49,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Inventory transfer \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_inventory_to_matheus_acknowledgement.jpg",
+      "entity": "Emelin",
+      "amount": -20.0,
+      "currency": "CACAO HUSK (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Inventory transfer \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_inventory_to_matheus_acknowledgement.jpg",
+      "entity": "Matheus Reis",
+      "amount": 20.0,
+      "currency": "CACAO HUSK (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Inventory transfer \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_inventory_to_matheus_acknowledgement.jpg",
+      "entity": "Emelin",
+      "amount": -2.44,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Inventory transfer \n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_uber_transport_inventory_to_matheus.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_emelin_inventory_to_matheus_acknowledgement.jpg",
+      "entity": "Matheus Reis",
+      "amount": 2.44,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "5X shipping boxes\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241012_emelin_payment_shipping_boxes.jpeg\n\nhttps://produto.mercadolivre.com.br/MLB-3297784815-caixa-papelao-grande-embalagem-mudanca-60x40x50-5-unidades-_JM",
+      "entity": "Emelin",
+      "amount": -72.96,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "5X shipping boxes reimbursement\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241012_emelin_payment_shipping_boxes.jpeg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241012_shipping_boxes_reimbursement_2.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241012_shipping_boxes_reimbursement_1.jpeg\n\nhttps://produto.mercadolivre.com.br/MLB-3297784815-caixa-papelao-grande-embalagem-mudanca-60x40x50-5-unidades-_JM",
+      "entity": "Emelin",
+      "amount": 72.96,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "5X shipping boxes reimbursement\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241012_emelin_payment_shipping_boxes.jpeg\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241012_shipping_boxes_reimbursement_2.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241012_shipping_boxes_reimbursement_1.jpeg",
+      "entity": "Gary Teh",
+      "amount": -72.96,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "5X shipping boxes\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241012_emelin_payment_shipping_boxes.jpeg\n\nhttps://produto.mercadolivre.com.br/MLB-3297784815-caixa-papelao-grande-embalagem-mudanca-60x40x50-5-unidades-_JM",
+      "entity": "Emelin",
+      "amount": 5.0,
+      "currency": "LARGE CARDBOARD BOX FOR MOVING PACKAGING 60X40X50",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Transfer of 5X shipping boxes to Mathues\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_receipt_of_packing_boxes.jpg",
+      "entity": "Emelin",
+      "amount": -5.0,
+      "currency": "LARGE CARDBOARD BOX FOR MOVING PACKAGING 60X40X50",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Transfer of 5X shipping boxes to Mathues\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241031_receipt_of_packing_boxes.jpg",
+      "entity": "Matheus Reis",
+      "amount": 5.0,
+      "currency": "LARGE CARDBOARD BOX FOR MOVING PACKAGING 60X40X50",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Repayment of Creditor with the balance of Brazilian Reis",
+      "entity": "Gary Teh",
+      "amount": -5489.17,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241031",
+      "description": "Repayment of Creditor with the balance of Brazilian Reis",
+      "entity": "Gary Teh",
+      "amount": -998.74,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20241031",
+      "description": "Repayment of creditor with TDG",
+      "entity": "Gary Teh",
+      "amount": -2577.831986,
+      "currency": "USD",
+      "type": "Loan"
+    },
+    {
+      "date": "20241031",
+      "description": "Repayment of creditor with TDG\n\nhttps://truesight.me/ledger - Line 6001",
+      "entity": "TrueSight DAO",
+      "amount": 2577.831986,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20240916",
+      "description": "Charging of Gas Fee Equity to DAO",
+      "entity": "TrueSight DAO",
+      "amount": -2047.91,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20241106",
+      "description": "Purchase of Packing box for Correios shipping of 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_correios_packaging_box.jpeg",
+      "entity": "Matheus Reis",
+      "amount": 1.0,
+      "currency": "CORREIOS PACKING BOX TO HOLD CACAO NIBS 20KG",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Purchase of Packing box for Correios shipping of 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_correios_packaging_box.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": 29.95,
+      "currency": "BRAZILIAN REIS",
+      "type": "Loan"
+    },
+    {
+      "date": "20241106",
+      "description": "Purchase of Packing box for Correios shipping of 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_correios_packaging_box.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": 29.95,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Tracking Number: CP340992695BR\n\nPurchase of Packing box for Correios shipping of 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_correios_packaging_box.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": -29.95,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Shipping to USA - 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992695BR.jpeg",
+      "entity": "Matheus Reis",
+      "amount": -20.0,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Shipping to USA - 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992695BR.jpeg",
+      "entity": "Correios",
+      "amount": 20.0,
+      "currency": "CACAO NIBS CP340992695BR (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Shipping to USA - 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992695BR.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Matheus Reis",
+      "amount": -1.0,
+      "currency": "CORREIOS PACKING BOX TO HOLD CACAO NIBS 20KG",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Shipping to USA - 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992695BR.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Correios",
+      "amount": 1.0,
+      "currency": "CORREIOS PACKING BOX TO HOLD CACAO NIBS 20KG",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Tracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Matheus Reis",
+      "amount": -20.0,
+      "currency": "CACAO MASS BAR (500GRAMS)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Tracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Correios",
+      "amount": 20.0,
+      "currency": "CACAO MASS BAR CP340992687BR (500GRAMS)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Tracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Matheus Reis",
+      "amount": -45.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Tracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Correios",
+      "amount": 45.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH CP340992687BR",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Tracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Correios",
+      "amount": 1.0,
+      "currency": "FOAM CONTAINER BOX - 46 CACAO BAR CAPACITY (36CM X 40CM X 61CM)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Tracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Matheus Reis",
+      "amount": -1.0,
+      "currency": "FOAM CONTAINER BOX - 46 CACAO BAR CAPACITY (36CM X 40CM X 61CM)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Payment for CP340992687BR\n\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992687BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": 1052.05,
+      "currency": "BRAZILIAN REIS",
+      "type": "Loan"
+    },
+    {
+      "date": "20241106",
+      "description": "Payment for CP340992687BR\n\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992687BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": 1052.05,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Payment for CP340992687BR\n\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992687BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": -1052.05,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Payment for CP340992695BR\n\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": 967.05,
+      "currency": "BRAZILIAN REIS",
+      "type": "Loan"
+    },
+    {
+      "date": "20241106",
+      "description": "Payment for CP340992695BR\n\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": 967.05,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Payment for CP340992695BR\n\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Gary Teh",
+      "amount": -967.05,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20241106",
+      "description": "Reimbursement of Gary Teh with TDG\n\nExchange rate = R$10,000 / USD1,819.47\n\nTrueSight DAO Ledger line: 6002",
+      "entity": "Gary Teh",
+      "amount": -2049.05,
+      "currency": "BRAZILIAN REIS",
+      "type": "Loan"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger - line 201\n\nTracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Correios",
+      "amount": -45.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH CP340992687BR",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger - line 202\n\nTracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Correios",
+      "amount": -20.0,
+      "currency": "CACAO MASS BAR CP340992687BR (500GRAMS)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Tracking Number: CP340992695BR - line 203\n\nPurchase of Packing box for Correios shipping of 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_correios_packaging_box.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Correios",
+      "amount": -20.0,
+      "currency": "CACAO NIBS CP340992695BR (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Tracking Number: CP340992695BR - line 204\n\nPurchase of Packing box for Correios shipping of 20kg cacao nibs\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_correios_packaging_box.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20241111_shipping_CP340992695BR_payment_receipt,jpeg",
+      "entity": "Correios",
+      "amount": -1.0,
+      "currency": "CORREIOS PACKING BOX TO HOLD CACAO NIBS 20KG",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger - line 205\n\nTracking Number: CP340992687BR\n\nShipping to USA - 20 bars of 500grams cacao mass\nShipping to USA - 45bags of 8 ounce kraft pouches cacao nibs\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king/20241111_shipping_CP340992687BR_payment_receipt.jpeg",
+      "entity": "Correios",
+      "amount": -1.0,
+      "currency": "FOAM CONTAINER BOX - 46 CACAO BAR CAPACITY (36CM X 40CM X 61CM)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger line 206",
+      "entity": "Matheus Reis",
+      "amount": -351.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger line 207",
+      "entity": "Matheus Reis",
+      "amount": -20.0,
+      "currency": "CACAO HUSK (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger line 208",
+      "entity": "Matheus Reis",
+      "amount": -118.0,
+      "currency": "CACAO MASS BAR (500GRAMS)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger line 209",
+      "entity": "Matheus Reis",
+      "amount": -102.44,
+      "currency": "CACAO NIBS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger line 211",
+      "entity": "Matheus Reis",
+      "amount": -2.0,
+      "currency": "FOAM CONTAINER BOX - 120 KRAFT POUCHES CAPACITY",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger line 212",
+      "entity": "Matheus Reis",
+      "amount": -2.0,
+      "currency": "FOAM CONTAINER BOX - 46 CACAO BAR CAPACITY (36CM X 40CM X 61CM)",
+      "type": "Assets"
+    },
+    {
+      "date": "20241111",
+      "description": "Transfer to Offchain ledger line 213",
+      "entity": "Matheus Reis",
+      "amount": -5.0,
+      "currency": "LARGE CARDBOARD BOX FOR MOVING PACKAGING 60X40X50",
+      "type": "Assets"
+    },
+    {
+      "date": "20241204",
+      "description": "Transfer to Offchain ledger line 216",
+      "entity": "Matheus Reis",
+      "amount": -3.0,
+      "currency": "CACAO HUSK BAG (WEIGHT UNKNOWN)",
+      "type": "Assets"
+    },
+    {
+      "date": "20251224",
+      "description": "[SALES EVENT]\r\n- Item: 2024OSCAR_20251212_26\r\n- Sales price: $31.21\r\n- Sold by: Kirsten Ritschel\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: KkCdD3uYnPErbx8MH5oWBfbL/CuAG1QGJK38VRzyGOYqRr9ZMMAIwdPEAMPht5FGmcIQQwQoJUbWk11rQ6bxUCiD3dScKJf1ZqFntDzyfNItc/WtX90hSfsJaVPApse3e4q4+cFHEpKh/5IoTwSGW6eq5WtLbK76sTqmrngPBuWk3eVkKDqd9TqTpGd5wPSd+SUgnioBMKGzCyJ59+qZ924OeRFe9Mj7SBOw8nlSxvCx1sHK7JpPtDRd4QaGXv8CbOzxpW+XpMaGQdNT39R3NKno5x4WHTIs4I12zVTTZ5Bpuqp9T4rW+buqJPvSHJcq6Jeu8+ulCQNDIkTMrk2mVA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Kirsten Ritschel",
+      "amount": -1.0,
+      "currency": "USD",
+      "type": ""
+    },
+    {
+      "date": "20251226",
+      "description": "[SALES EVENT]\r\n- Item: 2024OSCAR_20251020_21\r\n- Sales price: $27.86\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: YwYvZKM84QGja3TNAHUha5vspFBNoExenAzpiLKNwrNdtJhTzpVBM5C6o3xTENNHecebqJkQQw8r2qKwIgAU0cwshYhKovRPxHyhScogiaZnA7KF2YLaEZvHmwEAinHk9AVhdvVoTqME4/Z7Xw9e3iKwkP0PucWSWitXH/d0EaqAxg6rq/Yaqf1Cf/7VPQDn0NeW1cHpOUfsuUxKFd23P8BH9lDolmD6G5TW1jHXoHbmLepcDOZizgb29xUbp2+YowuhNjhVL7fIAEejYxmPqBPaiYy8O7ByxhyeRkTFCyjDr0rx42ruNA0NHmF+nkU7YuoJVAObfAH0nyw7XczZxg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "USD",
+      "type": ""
+    },
+    {
+      "date": "20260115",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Kirsten Ritschel\r\n- Recipient Name: Kelly Springer\r\n- Inventory Item: Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4\r\n- QR Code: 2024OSCAR_20251212_12\r\n- Quantity: 1\r\n- Latitude: NA\r\n- Longitude: NA\r\n- Attached Filename: None\r\n- Destination Inventory File Location: No file attached\r\n- Submission Source: https://dapp.truesight.me/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: KaMG577VQX0M7QINhIXU6DUYjb0r+slj2oXu8wQZDjESvEOb577fMEnkSXe397Ls2AzwHTJS0Pw65+IigcDVimeJI8E134wbDph+wJhVRLPj10D2AIomgpTUsN9/VGnX+7kEB2agx/+ytVcP6g1sY81qCscDNs1+EdF78dHsGyrR0/2NbDdbtWWBYXvuBFinRGN9lZGBGNmNvAsj2gABz5b9K+6NLXEXic9AFP698z0KrOyaNWk+Su9DuzhDorUMD+5f7V35pJm99hTOdcNRkNO7BlVVtkhYNUy2aURAhAZLLUXQv7iuyhs/z+9O+04jx/XoFuAckcSIMKrMAi6S+Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Kirsten Ritschel",
+      "amount": -1.0,
+      "currency": "USD",
+      "type": ""
+    }
+  ]
+}

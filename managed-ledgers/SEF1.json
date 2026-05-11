@@ -1,0 +1,181 @@
+{
+  "ledger_name": "SEF1",
+  "program_name": "<p class=\"font_8\">1-year membership to Stewards of NovaGaia Private Membership Association. Includes access to regenerative initiatives (cacao tree planting, carbon credits), DAO-style Member Assembly",
+  "description": "<p class=\"font_8\">1-year membership to Stewards of NovaGaia Private Membership Association. Includes access to regenerative initiatives (cacao tree planting, carbon credits), DAO-style Member Assembly",
+  "schema_version": 1,
+  "generated_at": "2026-05-11T00:49:12Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "SALES IN PROGRESS",
+  "summary": {
+    "total_transactions": 19,
+    "total_amount": 326.0,
+    "by_currency": {
+      "CACAO TREE TO BE PLANTED": {
+        "count": 4,
+        "total": 3.0
+      },
+      "NOVAGAIA TREE PLANTING PLEDGE - QR CODE": {
+        "count": 8,
+        "total": 297.0
+      },
+      "USD": {
+        "count": 7,
+        "total": 16.0
+      }
+    }
+  },
+  "transactions": [
+    {
+      "date": "20250717",
+      "description": "TrueSight DAO repository \n\nhttps://github.com/TrueSightDAO/tokenomics/pull/95",
+      "entity": "Sacred Earth Farms",
+      "amount": 100.0,
+      "currency": "NOVAGAIA TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20250824",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_SEF_101&status=MINTED",
+      "entity": "Gary Teh",
+      "amount": 0.0,
+      "currency": "NOVAGAIA TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20250824",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_SEF_101&status=MINTED",
+      "entity": "Gary Teh",
+      "amount": 0.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250824",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_SEF_101&status=MINTED",
+      "entity": "SunMint Tree Planting Contract - sef1",
+      "amount": 0.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20250717",
+      "description": "TrueSight DAO repository \n\nhttps://github.com/TrueSightDAO/tokenomics/pull/105",
+      "entity": "Sacred Earth Farms",
+      "amount": 200.0,
+      "currency": "NOVAGAIA TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20250831",
+      "description": "Test Deposit of USD$1",
+      "entity": "Sacred Earth Farms",
+      "amount": 0.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_1\r\n- Sales price: $4\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: t4uI5sQfdLc8JpYWg2QjJjPa6uUQqcJS/JYPlcrXILr5j3KOymGKJ2SZ6V9bgtYBrtGpLp99D0o12DNfAA3LybwggmdkJURZT6bAYgIfbbqYevD6xBl/iWTYjFeaWq66W1RP9RKKDhjiJmd084yyokshsvaJQY/uPFSmRSDDEOrwOW4mIrEL8Oikwag+y77jqmOUXYvBnaumJHVbjOqk1AfFvpoYAxd/j6Y9ZfdwWX6+UgLX8S4/HB15bSRhdOHrayfzEZJVBaigGrINhIsVXMWDILvVAjospPVJ1kj7ed9JChW1a4b3iPtjLijQZdRIcnwC4/5qOk/Z8oAdHAGwGw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "NOVAGAIA TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_1\r\n- Sales price: $4\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: t4uI5sQfdLc8JpYWg2QjJjPa6uUQqcJS/JYPlcrXILr5j3KOymGKJ2SZ6V9bgtYBrtGpLp99D0o12DNfAA3LybwggmdkJURZT6bAYgIfbbqYevD6xBl/iWTYjFeaWq66W1RP9RKKDhjiJmd084yyokshsvaJQY/uPFSmRSDDEOrwOW4mIrEL8Oikwag+y77jqmOUXYvBnaumJHVbjOqk1AfFvpoYAxd/j6Y9ZfdwWX6+UgLX8S4/HB15bSRhdOHrayfzEZJVBaigGrINhIsVXMWDILvVAjospPVJ1kj7ed9JChW1a4b3iPtjLijQZdRIcnwC4/5qOk/Z8oAdHAGwGw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 4.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_1\r\n- Sales price: $4\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: t4uI5sQfdLc8JpYWg2QjJjPa6uUQqcJS/JYPlcrXILr5j3KOymGKJ2SZ6V9bgtYBrtGpLp99D0o12DNfAA3LybwggmdkJURZT6bAYgIfbbqYevD6xBl/iWTYjFeaWq66W1RP9RKKDhjiJmd084yyokshsvaJQY/uPFSmRSDDEOrwOW4mIrEL8Oikwag+y77jqmOUXYvBnaumJHVbjOqk1AfFvpoYAxd/j6Y9ZfdwWX6+UgLX8S4/HB15bSRhdOHrayfzEZJVBaigGrINhIsVXMWDILvVAjospPVJ1kj7ed9JChW1a4b3iPtjLijQZdRIcnwC4/5qOk/Z8oAdHAGwGw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - sef1",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20251004",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_2\r\n- Sales price: $7\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: ds5Senv+snr67KZ/lRYbve98cv1cmTDnBzispjLXYSvmzSrsZBNmDM3pg6yCH3wW4GihKWrkX8up0VPBTypzCgsiyaLUcTvB/7MOjkYqz5pPFt6WJ/Aoo9IlwkbLi2NhorTCkIhuM6HEp9joGFDaFUeVOAfVDjLI7IymAMDdrw4eBPAnL1u3GBN64rLtvIfIPXKKcgw9lt2UMKIet8I36LBo4CVj0gYv1ShtaGDsKwo4y/oeu3dhFUyoMa9fZQh38c2MyvWu9TdIlxi2MAb58O68xV9ZzSvrD/OZHg753BlaudkdhcugnGGHYfLQlzxxrljEwzEe5lqIhaTAqqVmiA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "NOVAGAIA TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_2\r\n- Sales price: $7\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: ds5Senv+snr67KZ/lRYbve98cv1cmTDnBzispjLXYSvmzSrsZBNmDM3pg6yCH3wW4GihKWrkX8up0VPBTypzCgsiyaLUcTvB/7MOjkYqz5pPFt6WJ/Aoo9IlwkbLi2NhorTCkIhuM6HEp9joGFDaFUeVOAfVDjLI7IymAMDdrw4eBPAnL1u3GBN64rLtvIfIPXKKcgw9lt2UMKIet8I36LBo4CVj0gYv1ShtaGDsKwo4y/oeu3dhFUyoMa9fZQh38c2MyvWu9TdIlxi2MAb58O68xV9ZzSvrD/OZHg753BlaudkdhcugnGGHYfLQlzxxrljEwzEe5lqIhaTAqqVmiA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 7.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_2\r\n- Sales price: $7\r\n- Sold by: Gary Teh\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: ds5Senv+snr67KZ/lRYbve98cv1cmTDnBzispjLXYSvmzSrsZBNmDM3pg6yCH3wW4GihKWrkX8up0VPBTypzCgsiyaLUcTvB/7MOjkYqz5pPFt6WJ/Aoo9IlwkbLi2NhorTCkIhuM6HEp9joGFDaFUeVOAfVDjLI7IymAMDdrw4eBPAnL1u3GBN64rLtvIfIPXKKcgw9lt2UMKIet8I36LBo4CVj0gYv1ShtaGDsKwo4y/oeu3dhFUyoMa9fZQh38c2MyvWu9TdIlxi2MAb58O68xV9ZzSvrD/OZHg753BlaudkdhcugnGGHYfLQlzxxrljEwzEe5lqIhaTAqqVmiA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - sef1",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Sacred Earth Farms\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [SEF1] NovaGaia Tree Planting Pledge - QR Code\r\n- Quantity: 2\r\n- Latitude: -23.549613\r\n- Longitude: -46.684415\r\n- Attached Filename: IMG_2899.PNG.png\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004181211_gary_teh_img_2899.png.png\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: jpLAvslwhY5EFm8sfKBoPXDJIWTCPcihfnEnCsplNdY0dKB6iwge/BgjoZ+gwv+yKxxzabASNlZvkJIHkddEDdSWgvR+g5KsZ6QoPSRtnbJR8Qrc4lG+tKbD7hCwniL4/FhQp2FFehs0oqLC2IqhHa/WC/NOgbhF3WKnNEghcJC50IA6H0nEV6vJ4R9Yr+W9PwyCV8LkhSwv657nztmN4gO7sm8r/8W28oQSE5pfhRA+vC64na1ci5h1fNA5W9TohzhIQ4aNCY1u+hsRNLOv8L9lYLpm1WWtgXv8lC8+JckRAjfQfa7dCv5JM5eIIsjA/M6C3Au77bV+kvB4vw4UJA==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Sacred Earth Farms",
+      "amount": -2.0,
+      "currency": "NOVAGAIA TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20251004",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Sacred Earth Farms\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [SEF1] NovaGaia Tree Planting Pledge - QR Code\r\n- Quantity: 2\r\n- Latitude: -23.549613\r\n- Longitude: -46.684415\r\n- Attached Filename: IMG_2899.PNG.png\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251004181211_gary_teh_img_2899.png.png\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: jpLAvslwhY5EFm8sfKBoPXDJIWTCPcihfnEnCsplNdY0dKB6iwge/BgjoZ+gwv+yKxxzabASNlZvkJIHkddEDdSWgvR+g5KsZ6QoPSRtnbJR8Qrc4lG+tKbD7hCwniL4/FhQp2FFehs0oqLC2IqhHa/WC/NOgbhF3WKnNEghcJC50IA6H0nEV6vJ4R9Yr+W9PwyCV8LkhSwv657nztmN4gO7sm8r/8W28oQSE5pfhRA+vC64na1ci5h1fNA5W9TohzhIQ4aNCY1u+hsRNLOv8L9lYLpm1WWtgXv8lC8+JckRAjfQfa7dCv5JM5eIIsjA/M6C3Au77bV+kvB4vw4UJA==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 2.0,
+      "currency": "NOVAGAIA TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20251006",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_3\r\n- Sales price: $5\r\n- Sold by: Sacred Earth Farms\r\n- Attached Filename: None\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: GG4STdpz5kI/DwVQT0X1iqOsmtjRcXBEm/9S29ndmkvU9LWcUU0XuKlOQtI99RC+pRqeIwmHM1RzPJ20CqpO2zgguUCn+PmXenZytQQO14iU4cvELrSlFmDhGFK6KjMv9BMaTWoaJVZyzkKxOyZ3g589cVfO6LFe7k5OiZuc4HYzcGil1IfvM+aiL+SCdqtoEWc6nJWimyJtr2SXQlieUiOBET26FAgLt04GFJy9+MlSX0szLnJExhFt3mfkYL2onlqFdOLQnmoSi8C7DKwAP7fI9mmVugm2fCQzPZSpXsxH5rFY8uxHT1jmgYmRES10Y4QAXVDMpDtxxv02Xld1Yw==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Sacred Earth Farms",
+      "amount": -1.0,
+      "currency": "NOVAGAIA TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20251006",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_3\r\n- Sales price: $5\r\n- Sold by: Sacred Earth Farms\r\n- Attached Filename: None\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: GG4STdpz5kI/DwVQT0X1iqOsmtjRcXBEm/9S29ndmkvU9LWcUU0XuKlOQtI99RC+pRqeIwmHM1RzPJ20CqpO2zgguUCn+PmXenZytQQO14iU4cvELrSlFmDhGFK6KjMv9BMaTWoaJVZyzkKxOyZ3g589cVfO6LFe7k5OiZuc4HYzcGil1IfvM+aiL+SCdqtoEWc6nJWimyJtr2SXQlieUiOBET26FAgLt04GFJy9+MlSX0szLnJExhFt3mfkYL2onlqFdOLQnmoSi8C7DKwAP7fI9mmVugm2fCQzPZSpXsxH5rFY8uxHT1jmgYmRES10Y4QAXVDMpDtxxv02Xld1Yw==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Sacred Earth Farms",
+      "amount": 5.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251006",
+      "description": "[SALES EVENT]\r\n- Item: 20250716_SEF_3\r\n- Sales price: $5\r\n- Sold by: Sacred Earth Farms\r\n- Attached Filename: None\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: GG4STdpz5kI/DwVQT0X1iqOsmtjRcXBEm/9S29ndmkvU9LWcUU0XuKlOQtI99RC+pRqeIwmHM1RzPJ20CqpO2zgguUCn+PmXenZytQQO14iU4cvELrSlFmDhGFK6KjMv9BMaTWoaJVZyzkKxOyZ3g589cVfO6LFe7k5OiZuc4HYzcGil1IfvM+aiL+SCdqtoEWc6nJWimyJtr2SXQlieUiOBET26FAgLt04GFJy9+MlSX0szLnJExhFt3mfkYL2onlqFdOLQnmoSi8C7DKwAP7fI9mmVugm2fCQzPZSpXsxH5rFY8uxHT1jmgYmRES10Y4QAXVDMpDtxxv02Xld1Yw==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - sef1",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20251006",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Sacred Earth Farms\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [SEF1] USD\r\n- Quantity: 5\r\n- Latitude: -23.548371\r\n- Longitude: -46.688395\r\n- Attached Filename: Gmail - Cory Bradley paid you $5.00.pdf\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251006182258_gary_teh_gmail___cory_bradley_paid_you__5.00.pdf\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: R7+uQmSfwJNSFdDdXFE2IkYz2HhYhcniIqlYxYI5/ei5+A8WO6b0HTvjwNYFf8lLTy5vpGEwMzint8F0ZaP4xcL3U47mx+gj6q6fU0wXGf5gj/B1+3csrNFjfL+7OCAOBB+h6FVXLQcgjOicsXktoSj3YKnyRZJS4VmyvdEvOMK5upIjRZPOQeYReOTVjL6WFlPZ4/Q5M13cJDrsI9pl1z1SAy3xJIPKX5Kh0XedRAzYGtMN14BO6PQut75Iip8CM5u9yxvyU2SUjp+367dLYUqw23dOgXgmIqTrJz0eY3OhAsTrBsKb/rLtA5ajjA6RX/CxosPD5lGmnh0njMRZ9w==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Sacred Earth Farms",
+      "amount": -5.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20251006",
+      "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Sacred Earth Farms\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: [SEF1] USD\r\n- Quantity: 5\r\n- Latitude: -23.548371\r\n- Longitude: -46.688395\r\n- Attached Filename: Gmail - Cory Bradley paid you $5.00.pdf\r\n- Destination Inventory File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/inventory_20251006182258_gary_teh_gmail___cory_bradley_paid_you__5.00.pdf\r\n- Submission Source: file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB\r\n\r\nRequest Transaction ID: R7+uQmSfwJNSFdDdXFE2IkYz2HhYhcniIqlYxYI5/ei5+A8WO6b0HTvjwNYFf8lLTy5vpGEwMzint8F0ZaP4xcL3U47mx+gj6q6fU0wXGf5gj/B1+3csrNFjfL+7OCAOBB+h6FVXLQcgjOicsXktoSj3YKnyRZJS4VmyvdEvOMK5upIjRZPOQeYReOTVjL6WFlPZ4/Q5M13cJDrsI9pl1z1SAy3xJIPKX5Kh0XedRAzYGtMN14BO6PQut75Iip8CM5u9yxvyU2SUjp+367dLYUqw23dOgXgmIqTrJz0eY3OhAsTrBsKb/rLtA5ajjA6RX/CxosPD5lGmnh0njMRZ9w==\r\n\r\nThis submission was generated using file:///Users/garyjob/Applications/dapp/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 5.0,
+      "currency": "USD",
+      "type": "Assets"
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "ledger_name": "AGL7",
+  "program_name": "<p class=\"font_8\">20 bottles of 250grams cacao molasses from Bahia Small Scale Farmers</p>",
+  "description": "<p class=\"font_8\">20 bottles of 250grams cacao molasses from Bahia Small Scale Farmers</p>",
+  "schema_version": 1,
+  "generated_at": "2026-05-11T00:49:05Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "FREIGHTING IN PROGRESS",
+  "summary": {
+    "total_transactions": 10,
+    "total_amount": 1673.86,
+    "by_currency": {
+      "BRAZILIAN REIS": {
+        "count": 4,
+        "total": 0.0
+      },
+      "CACAO MOLASSES 250ML": {
+        "count": 2,
+        "total": 0.0
+      },
+      "CACAO MOLASSES 250ML + 74 4476 6210 SAN FRANCISCO": {
+        "count": 2,
+        "total": 0.0
+      },
+      "USD": {
+        "count": 2,
+        "total": 242.86
+      }
+    }
+  },
+  "transactions": [
+    {
+      "date": "20250315",
+      "description": "Payment for 20X cacao molasses\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250315_cacao_molasses_300_brl.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250315_cacao_molasses_300_brl_pix.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king20250315_20x_cacao_molasses.pdf",
+      "entity": "TrueSight DAO",
+      "amount": 53.68,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20250315",
+      "description": "Payment for 20X cacao molasses\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250315_cacao_molasses_300_brl.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250315_cacao_molasses_300_brl_pix.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king20250315_20x_cacao_molasses.pdf",
+      "entity": "TrueSight DAO",
+      "amount": 300.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250414",
+      "description": "Receipt of 20 bottles of cacao molasses\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250414_20x_molasses.gif",
+      "entity": "Matheus Reis",
+      "amount": 20.0,
+      "currency": "CACAO MOLASSES 250ML",
+      "type": "Assets"
+    },
+    {
+      "date": "20250315",
+      "description": "Payment for 20X cacao molasses\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250315_cacao_molasses_300_brl.jpeg\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250315_cacao_molasses_300_brl_pix.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/black_king20250315_20x_cacao_molasses.pdf",
+      "entity": "TrueSight DAO",
+      "amount": -300.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250414",
+      "description": "Payment for Fedex shipping\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250414_rendimento_pix.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250414_wise_rates.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250414_wise_details.jpeg",
+      "entity": "TrueSight DAO",
+      "amount": 189.18,
+      "currency": "USD",
+      "type": "Equity"
+    },
+    {
+      "date": "20250414",
+      "description": "Payment for Fedex shipping\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250414_rendimento_pix.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250414_wise_rates.jpeg\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250414_wise_details.jpeg",
+      "entity": "Matheus Reis",
+      "amount": 1091.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250417",
+      "description": "Payment for Fedex shipping\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250417_dhl_shipment_of_cacao_molasses.jpeg",
+      "entity": "Matheus Reis",
+      "amount": -1091.0,
+      "currency": "BRAZILIAN REIS",
+      "type": "Assets"
+    },
+    {
+      "date": "20250414",
+      "description": "Drop off of 20 bottles of cacao molasses\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250417_dhl_shipment_of_cacao_molasses.jpeg",
+      "entity": "Matheus Reis",
+      "amount": -20.0,
+      "currency": "CACAO MOLASSES 250ML",
+      "type": "Assets"
+    },
+    {
+      "date": "20250414",
+      "description": "Drop off of 20 bottles of cacao molasses\n\nhttps://github.com/TrueSightDAO/fda_fsvp/tree/main/suppliers/20250417_dhl_shipment_of_cacao_molasses.jpeg",
+      "entity": "DHL",
+      "amount": 20.0,
+      "currency": "CACAO MOLASSES 250ML + 74 4476 6210 SAN FRANCISCO",
+      "type": "Assets"
+    },
+    {
+      "date": "20250425",
+      "description": "Transferred back to main ledger line 582\n\nReceipt of 20 bottles of cacao molasses\n\nhttps://github.com/TrueSightDAO/.github/blob/main/assets/20250529_cacao_molasses_receipt.jpeg",
+      "entity": "DHL",
+      "amount": -20.0,
+      "currency": "CACAO MOLASSES 250ML + 74 4476 6210 SAN FRANCISCO",
+      "type": "Assets"
+    }
+  ]
+}

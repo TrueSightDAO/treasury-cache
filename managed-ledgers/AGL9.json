@@ -1,0 +1,15 @@
+{
+  "ledger_name": "AGL9",
+  "program_name": "Five refilled propane tanks, picked up from the Okanagan Family Fair, where they were set to be discarded. Ready for use and a great way to repurpose!",
+  "description": "Five refilled propane tanks, picked up from the Okanagan Family Fair, where they were set to be discarded. Ready for use and a great way to repurpose!",
+  "schema_version": 1,
+  "generated_at": "2026-05-11T00:48:53Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "SALES IN PROGRESS",
+  "summary": {
+    "total_transactions": 0,
+    "total_amount": 0,
+    "by_currency": {}
+  },
+  "transactions": []
+}

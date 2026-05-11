@@ -1,0 +1,85 @@
+{
+  "ledger_name": "PP1",
+  "program_name": "<p class=\"font_8\">Prism Percussions, based in Oregon, creates custom wooden drums in 8\", 12\", 16\", and 20\" sizes, with 4 or 6-sided designs, each producing distinct tones—deeper with larger sizes. No",
+  "description": "<p class=\"font_8\">Prism Percussions, based in Oregon, creates custom wooden drums in 8\", 12\", 16\", and 20\" sizes, with 4 or 6-sided designs, each producing distinct tones—deeper with larger sizes. No",
+  "schema_version": 1,
+  "generated_at": "2026-05-11T00:49:14Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "SALES IN PROGRESS",
+  "summary": {
+    "total_transactions": 7,
+    "total_amount": 10.0,
+    "by_currency": {
+      "CACAO TREE TO BE PLANTED": {
+        "count": 2,
+        "total": 0.0
+      },
+      "SUNMINT TREE PLANTING PLEDGE - QR CODE": {
+        "count": 3,
+        "total": 10.0
+      },
+      "USD": {
+        "count": 2,
+        "total": 0.0
+      }
+    }
+  },
+  "transactions": [
+    {
+      "date": "20250717",
+      "description": "TrueSight DAO repository \n- https://github.com/TrueSightDAO/tokenomics/pull/74/files\nhttps://github.com/TrueSightDAO/tokenomics/pull/75/files",
+      "entity": "Jenifer Runnion",
+      "amount": 10.0,
+      "currency": "SUNMINT TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20250717",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_PRISM_PERCUSSIONS_1&status=MINTED",
+      "entity": "Gary Teh",
+      "amount": 0.0,
+      "currency": "SUNMINT TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20250717",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_PRISM_PERCUSSIONS_1&status=MINTED",
+      "entity": "Gary Teh",
+      "amount": 0.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250717",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_PRISM_PERCUSSIONS_1&status=MINTED",
+      "entity": "SunMint Tree Planting Contract - pp1",
+      "amount": 0.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20250717",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_PRISM_PERCUSSIONS_1&status=MINTED",
+      "entity": "Gary Teh",
+      "amount": 0.0,
+      "currency": "SUNMINT TREE PLANTING PLEDGE - QR CODE",
+      "type": "Assets"
+    },
+    {
+      "date": "20250717",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_PRISM_PERCUSSIONS_1&status=MINTED",
+      "entity": "Gary Teh",
+      "amount": 0.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20250717",
+      "description": "Sold for $5\n\nTesting \n\nhttps://www.truesight.me/sunmint-tree-planting-pledges/pp1?qr_code=20250716_PRISM_PERCUSSIONS_1&status=MINTED",
+      "entity": "SunMint Tree Planting Contract - pp1",
+      "amount": 0.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    }
+  ]
+}
