@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T23:26:16.792Z",
+  "generated_at": "2026-05-11T23:28:25.820Z",
   "source": "treasury-cache-publisher",
   "trigger": "currency_conversion",
   "schema_version": 1,
@@ -340,16 +340,6 @@
       "total_value_usd": 30.94,
       "ledgers": {
         "Main Ledger": 26
-      }
-    },
-    {
-      "currency": "CEREMONIAL CACAO KRAFT POUCH - ALIBABA:269035810001023771 + 8 OUNCE PACKAGE KRAFT POUCH CP340992735BR | KIRSTEN 20260121",
-      "unit_weight_g": null,
-      "unit_cost_usd": null,
-      "total_quantity": 25,
-      "total_value_usd": null,
-      "ledgers": {
-        "Main Ledger": 25
       }
     },
     {
@@ -845,7 +835,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2336.9248000000002,
+      "unit_cost_usd": 2336.1205,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1143,8 +1133,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2336.9248000000002,
-          "total_value_usd": 1.1104138322795555e-10
+          "unit_cost_usd": 2336.1205,
+          "total_value_usd": 1.1100316608698025e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1170,12 +1160,16 @@
         {
           "currency": "USD - provisions for voting rights cash out",
           "amount": 36.20857061542951,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 36.20857061542951
         },
         {
           "currency": "USDT",
           "amount": 66.9280758999999,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 66.9280758999999
         },
         {
           "currency": "[SEF1] USD",
@@ -1383,13 +1377,6 @@
           "ledger": "AGL6",
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
-        },
-        {
-          "currency": "CEREMONIAL CACAO KRAFT POUCH - ALIBABA:269035810001023771 + 8 OUNCE PACKAGE KRAFT POUCH CP340992735BR | KIRSTEN 20260121",
-          "amount": 25,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 212.34499509044102
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -1915,7 +1902,9 @@
         {
           "currency": "USD",
           "amount": 23.6,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 23.6
         }
       ]
     },
@@ -2005,7 +1994,9 @@
         {
           "currency": "USD",
           "amount": 49.09,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 49.09
         }
       ]
     },
@@ -2086,7 +2077,9 @@
         {
           "currency": "Winnowing and Cracking Machine from Rusty",
           "amount": 1,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 400,
+          "total_value_usd": 400
         }
       ]
     },
@@ -2171,8 +2164,8 @@
     }
   ],
   "totals": {
-    "item_types": 84,
-    "total_units": 30106.10697204075,
+    "item_types": 83,
+    "total_units": 30081.10697204075,
     "total_value_usd": 38450.4,
     "ledgers_processed": 13,
     "managers_count": 39
