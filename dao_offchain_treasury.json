@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-12T16:48:41.535Z",
+  "generated_at": "2026-05-12T17:48:34.133Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -628,7 +628,7 @@
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
       "unit_weight_g": 200,
       "unit_cost_usd": 9.1754468485,
-      "inventory_type": "Cacao Bean",
+      "inventory_type": "Cacao Mass",
       "unit_format": "Retail Ready",
       "total_quantity": 5,
       "total_value_usd": 45.88,
@@ -987,7 +987,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2263.1315,
+      "unit_cost_usd": 2275.3632000000002,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1316,8 +1316,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2263.1315,
-          "total_value_usd": 1.0753501875060671e-10
+          "unit_cost_usd": 2275.3632000000002,
+          "total_value_usd": 1.0811622054504589e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1422,7 +1422,7 @@
           "amount": 1,
           "ledger": "AGL8",
           "unit_weight_g": 200,
-          "inventory_type": "Cacao Bean",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 9.1754468485,
           "total_value_usd": 9.18
@@ -2057,7 +2057,7 @@
           "amount": 4,
           "ledger": "AGL8",
           "unit_weight_g": 200,
-          "inventory_type": "Cacao Bean",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 9.1754468485,
           "total_value_usd": 36.7
