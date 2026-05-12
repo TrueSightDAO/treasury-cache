@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-11T23:48:32.230Z",
+  "generated_at": "2026-05-12T00:48:32.430Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -208,7 +208,7 @@
       "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13",
       "unit_weight_g": 1000,
       "unit_cost_usd": 10.18234711,
-      "inventory_type": "Caca Tea",
+      "inventory_type": "Cacao Tea",
       "unit_format": "Bulk",
       "total_quantity": 100,
       "total_value_usd": 1018.23,
@@ -244,7 +244,7 @@
       "currency": "Cacao Mass Bar (loose grams) - AGL2",
       "unit_weight_g": null,
       "unit_cost_usd": 0.03098228205128205,
-      "inventory_type": "Caca Mass",
+      "inventory_type": "Cacao Mass",
       "unit_format": "Bulk",
       "total_quantity": 50,
       "total_value_usd": 1.55,
@@ -280,7 +280,7 @@
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.493799803617641,
-      "inventory_type": "Caca Mass",
+      "inventory_type": "Cacao Mass",
       "unit_format": "Retail Ready",
       "total_quantity": 44,
       "total_value_usd": 373.73,
@@ -376,7 +376,7 @@
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
       "unit_weight_g": 200,
       "unit_cost_usd": 2.4043643608428553,
-      "inventory_type": "Caca Mass",
+      "inventory_type": "Cacao Mass",
       "unit_format": "Retail Ready",
       "total_quantity": 27,
       "total_value_usd": 64.92,
@@ -412,7 +412,7 @@
       "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13",
       "unit_weight_g": 1000,
       "unit_cost_usd": 10.18234711,
-      "inventory_type": "Caca Tea",
+      "inventory_type": "Cacao Tea",
       "unit_format": "Bulk",
       "total_quantity": 21,
       "total_value_usd": 213.83,
@@ -424,7 +424,7 @@
       "currency": "Cacao Husk (KG) - Ilheus, Brazil",
       "unit_weight_g": 1000,
       "unit_cost_usd": 17.785485299999998,
-      "inventory_type": "Caca Tea",
+      "inventory_type": "Cacao Tea",
       "unit_format": "Bulk",
       "total_quantity": 20,
       "total_value_usd": 355.71,
@@ -484,7 +484,7 @@
       "currency": "Cacao Tea - 20250219006 | Cacao Tea | Kilogram | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
       "unit_weight_g": 1,
       "unit_cost_usd": 0,
-      "inventory_type": "Caca Tea",
+      "inventory_type": "Cacao Tea",
       "unit_format": "Bulk",
       "total_quantity": 14.6802,
       "total_value_usd": 0,
@@ -508,7 +508,7 @@
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.517187353,
-      "inventory_type": "Caca Mass",
+      "inventory_type": "Cacao Mass",
       "unit_format": "Retail Ready",
       "total_quantity": 11,
       "total_value_usd": 93.69,
@@ -676,7 +676,7 @@
       "currency": "Cacao Husk Bag (weight unknown)",
       "unit_weight_g": null,
       "unit_cost_usd": null,
-      "inventory_type": "Caca Tea",
+      "inventory_type": "Cacao Tea",
       "unit_format": "Bulk",
       "total_quantity": 3,
       "total_value_usd": null,
@@ -987,7 +987,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2340.4664000000002,
+      "unit_cost_usd": 2333.6556,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1065,7 +1065,7 @@
           "amount": 1,
           "ledger": "AGL6",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
@@ -1122,7 +1122,7 @@
           "amount": 4,
           "ledger": "AGL6",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 34.07
@@ -1189,7 +1189,7 @@
           "amount": 2.1802,
           "ledger": "AGL8",
           "unit_weight_g": 1,
-          "inventory_type": "Caca Tea",
+          "inventory_type": "Cacao Tea",
           "unit_format": "Bulk",
           "unit_cost_usd": 0,
           "total_value_usd": 0
@@ -1289,7 +1289,7 @@
           "amount": 25,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 212.34499509044102
@@ -1307,7 +1307,7 @@
           "amount": 12,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 2.4043643608428553,
           "total_value_usd": 28.852372330114264
@@ -1316,8 +1316,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2340.4664000000002,
-          "total_value_usd": 1.112096659912007e-10
+          "unit_cost_usd": 2333.6556,
+          "total_value_usd": 1.108860438306207e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1372,7 +1372,7 @@
           "amount": 10,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 84.93799803617641
@@ -1491,7 +1491,7 @@
           "amount": 3,
           "ledger": "AGL6",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 25.55
@@ -1535,7 +1535,7 @@
           "amount": 1,
           "ledger": "AGL6",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
@@ -1566,7 +1566,7 @@
           "amount": 15,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 2.4043643608428553,
           "total_value_usd": 36.06546541264283
@@ -1591,7 +1591,7 @@
           "amount": 1,
           "ledger": "AGL6",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
@@ -1600,7 +1600,7 @@
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
           "amount": 50,
           "ledger": "Main Ledger",
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Bulk",
           "unit_cost_usd": 0.03098228205128205,
           "total_value_usd": 1.5491141025641026
@@ -1699,7 +1699,7 @@
           "amount": 3,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 25.481399410852923
@@ -1732,7 +1732,7 @@
           "amount": 100,
           "ledger": "AGL13",
           "unit_weight_g": 1000,
-          "inventory_type": "Caca Tea",
+          "inventory_type": "Cacao Tea",
           "unit_format": "Bulk",
           "unit_cost_usd": 10.18234711,
           "total_value_usd": 1018.23
@@ -1742,7 +1742,7 @@
           "amount": 21,
           "ledger": "AGL13",
           "unit_weight_g": 1000,
-          "inventory_type": "Caca Tea",
+          "inventory_type": "Cacao Tea",
           "unit_format": "Bulk",
           "unit_cost_usd": 10.18234711,
           "total_value_usd": 213.83
@@ -1770,7 +1770,7 @@
           "amount": 12.5,
           "ledger": "AGL8",
           "unit_weight_g": 1,
-          "inventory_type": "Caca Tea",
+          "inventory_type": "Cacao Tea",
           "unit_format": "Bulk",
           "unit_cost_usd": 0,
           "total_value_usd": 0
@@ -1806,7 +1806,7 @@
           "amount": 20,
           "ledger": "Main Ledger",
           "unit_weight_g": 1000,
-          "inventory_type": "Caca Tea",
+          "inventory_type": "Cacao Tea",
           "unit_format": "Bulk",
           "unit_cost_usd": 17.785485299999998,
           "total_value_usd": 355.709706
@@ -1815,7 +1815,7 @@
           "currency": "Cacao Husk Bag (weight unknown)",
           "amount": 3,
           "ledger": "Main Ledger",
-          "inventory_type": "Caca Tea",
+          "inventory_type": "Cacao Tea",
           "unit_format": "Bulk"
         },
         {
@@ -2020,7 +2020,7 @@
           "amount": 1,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 8.493799803617641
@@ -2088,7 +2088,7 @@
           "amount": 5,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.493799803617641,
           "total_value_usd": 42.468999018088205
@@ -2104,7 +2104,7 @@
           "amount": 1,
           "ledger": "AGL6",
           "unit_weight_g": 200,
-          "inventory_type": "Caca Mass",
+          "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 8.517187353,
           "total_value_usd": 8.52
