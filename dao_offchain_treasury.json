@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-15T22:27:31.356Z",
+  "generated_at": "2026-05-15T22:28:16.292Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2219.4804,
+      "unit_cost_usd": 2220.3511000000003,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1123,8 +1123,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2219.4804,
-          "total_value_usd": 1.0546089187950593e-10
+          "unit_cost_usd": 2220.3511000000003,
+          "total_value_usd": 1.0550226408471195e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1142,10 +1142,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2851.880627415604,
+          "amount": 2875.480627415604,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2851.880627415604
+          "total_value_usd": 2875.480627415604
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1881,13 +1881,6 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 9.9529856456974,
           "total_value_usd": 238.8716554967376
-        },
-        {
-          "currency": "USD",
-          "amount": 23.6,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 23.6
         }
       ]
     },
