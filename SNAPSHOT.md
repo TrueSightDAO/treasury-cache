@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-05-20T01:45:37.397Z` |
+| Generated at | `2026-05-20T01:46:05.562Z` |
 | Trigger | `expense_processing` |
 | Schema version | `1` |
 | Item types | 82 |
-| Total units | 29992.54697204075 |
-| Total value USD | $38088.98 |
+| Total units | 29985.69697204075 |
+| Total value USD | $38082.13 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -18,7 +18,7 @@
 
 | Currency | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---:|---:|---:|---|
-| USD | 19486.104646424534 | $1.00 | $19486.10 | AGL10: 228.82999999999998, AGL15: 5300.819999999999, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 518.946, Main Ledger: 3047.5757976793784, SEF1: 16 |
+| USD | 19479.254646424535 | $1.00 | $19479.25 | AGL10: 228.82999999999998, AGL15: 5293.969999999998, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 518.946, Main Ledger: 3047.5757976793784, SEF1: 16 |
 | Brazilian Reis | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
 | Cacao Nibs Kraft Pouch - V2 | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $2104.01 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $2105.32 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -108,7 +108,7 @@
 | AGL10 | 4 | 241.99999999999997 |
 | AGL13 | 3 | 136 |
 | AGL14 | 1 | 40 |
-| AGL15 | 1 | 5300.819999999999 |
+| AGL15 | 1 | 5293.969999999998 |
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
@@ -126,7 +126,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 30 | 13248.424336778753 |
+| Gary Teh | 30 | 13241.574336778755 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
