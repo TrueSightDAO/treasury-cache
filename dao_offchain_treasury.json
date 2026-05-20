@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-20T01:45:37.397Z",
+  "generated_at": "2026-05-20T01:46:05.562Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 1,
@@ -8,8 +8,8 @@
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19486.104646424534,
-      "total_value_usd": 19486.1,
+      "total_quantity": 19479.254646424535,
+      "total_value_usd": 19479.25,
       "ledgers": {
         "Main Ledger": 3047.5757976793784,
         "AGL6": 1337.5853362811577,
@@ -17,7 +17,7 @@
         "AGL8": 518.946,
         "AGL10": 228.82999999999998,
         "SEF1": 16,
-        "AGL15": 5300.819999999999
+        "AGL15": 5293.969999999998
       }
     },
     {
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2104.0098000000003,
+      "unit_cost_usd": 2105.3205000000003,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -974,10 +974,10 @@
         },
         {
           "currency": "[AGL15] USD",
-          "amount": 5300.819999999999,
+          "amount": 5293.969999999998,
           "ledger": "AGL15",
           "unit_cost_usd": 1,
-          "total_value_usd": 5300.82
+          "total_value_usd": 5293.97
         },
         {
           "currency": "[AGL6] 8 Ounce Package Kraft Pouch - AGL6",
@@ -1123,8 +1123,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2104.0098000000003,
-          "total_value_usd": 9.997418766627584e-11
+          "unit_cost_usd": 2105.3205000000003,
+          "total_value_usd": 1.0003646692361303e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2141,8 +2141,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 29992.54697204075,
-    "total_value_usd": 38088.98,
+    "total_units": 29985.69697204075,
+    "total_value_usd": 38082.13,
     "ledgers_processed": 13,
     "managers_count": 39
   }
