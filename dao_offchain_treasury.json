@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-22T20:52:19.276Z",
+  "generated_at": "2026-05-22T21:56:31.063Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -205,18 +205,6 @@
       }
     },
     {
-      "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 10.18234711,
-      "inventory_type": "Cacao Tea",
-      "unit_format": "Bulk",
-      "total_quantity": 100,
-      "total_value_usd": 1018.23,
-      "ledgers": {
-        "AGL13": 100
-      }
-    },
-    {
       "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024",
       "unit_weight_g": 1000,
       "unit_cost_usd": 24.61847089,
@@ -409,18 +397,6 @@
       }
     },
     {
-      "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 10.18234711,
-      "inventory_type": "Cacao Tea",
-      "unit_format": "Bulk",
-      "total_quantity": 21,
-      "total_value_usd": 213.83,
-      "ledgers": {
-        "AGL13": 21
-      }
-    },
-    {
       "currency": "Cacao Husk (KG) - Ilheus, Brazil",
       "unit_weight_g": 1000,
       "unit_cost_usd": 17.785485299999998,
@@ -466,18 +442,6 @@
       "total_value_usd": 151.2,
       "ledgers": {
         "Main Ledger": 16
-      }
-    },
-    {
-      "currency": "Cacao Almonds KG from Vivi's farm - AGL13",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 7.8696666667,
-      "inventory_type": "Cacao Bean",
-      "unit_format": "Bulk",
-      "total_quantity": 15,
-      "total_value_usd": 118.05,
-      "ledgers": {
-        "AGL13": 15
       }
     },
     {
@@ -987,7 +951,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2071.1865000000003,
+      "unit_cost_usd": 2074.2088,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1316,8 +1280,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2071.1865000000003,
-          "total_value_usd": 9.841455483850741e-11
+          "unit_cost_usd": 2074.2088,
+          "total_value_usd": 9.855816252863497e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1717,36 +1681,6 @@
       "manager_name": "Matheus Reis",
       "manager_key": "Matheus%20Reis",
       "items": [
-        {
-          "currency": "[AGL13] Cacao Almonds KG from Vivi's farm - AGL13",
-          "amount": 15,
-          "ledger": "AGL13",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Bean",
-          "unit_format": "Bulk",
-          "unit_cost_usd": 7.8696666667,
-          "total_value_usd": 118.05
-        },
-        {
-          "currency": "[AGL13] Cacao Nibs (Kilograms) Santos 20260213 - AGL13",
-          "amount": 100,
-          "ledger": "AGL13",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Tea",
-          "unit_format": "Bulk",
-          "unit_cost_usd": 10.18234711,
-          "total_value_usd": 1018.23
-        },
-        {
-          "currency": "[AGL13] Cacao Tea (Kilograms) Santos 20260213 - AGL13",
-          "amount": 21,
-          "ledger": "AGL13",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Tea",
-          "unit_format": "Bulk",
-          "unit_cost_usd": 10.18234711,
-          "total_value_usd": 213.83
-        },
         {
           "currency": "[AGL14] Cacao Almonds KG from Oscar's farm - AGL14",
           "amount": 40,
@@ -2447,10 +2381,10 @@
     }
   ],
   "totals": {
-    "item_types": 82,
-    "total_units": 29985.69697204075,
-    "total_value_usd": 38082.13,
-    "ledgers_processed": 13,
+    "item_types": 79,
+    "total_units": 29849.69697204075,
+    "total_value_usd": 36732.02,
+    "ledgers_processed": 12,
     "managers_count": 39
   }
 }
