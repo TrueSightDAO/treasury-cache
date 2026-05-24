@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-23T03:25:06.550Z",
+  "generated_at": "2026-05-24T03:25:03.811Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
   "counts": {
     "contributors": 12,
-    "active_public_keys": 48,
+    "active_public_keys": 49,
     "governors": 2,
     "contributors_with_email": 8
   },
@@ -13,7 +13,7 @@
     "voting_rights_circulated": 2343527.7748109857,
     "total_assets": 15619.0332,
     "asset_per_circulated_voting_right": 0.00666,
-    "usd_provisions_for_cash_out": 38.85276
+    "usd_provisions_for_cash_out": 39.08003
   },
   "unjoined_governor_names": [
     "agl15",
@@ -39,7 +39,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260522 14:19:16"
+          "last_active_at": "20260522 20:24:42"
         }
       ]
     },
@@ -313,6 +313,12 @@
           "status": "ACTIVE",
           "created_at": "2026-05-23T05:44:50.000Z",
           "last_active_at": "2026-05-23T05:47:15.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvRINsRm0BLgQUF31X9RrP4UEIIfSX6KwNWL95XHz8xwFWZQPSR0KCadUAzadnwXeH8MxOlhosfcpTSEqivtagrb55Ggh+UPXSLgKDvWs31xr1Qu/Glafn/ZzD+5PmDbKUi/U/Qc7Yl0sp061jeKtg77KvNmYAtQUogmdGKJfk8V3MgPCSoICjWOLDkEGwnAHCkxHCHZIHZBYvurirgfcrajvFSnrXpQZcrdctKdFwL6dRA0ZettTTEb5Ptqmg5XE5YK4qi7J2V+A6oRYqkyxdP6D2pMtvo7J38QG2BZvzS64fSvKexNowooV9vP0v7RhG11X8cW6pHMGyDc8OIZn9QIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-05-23T22:17:11.000Z",
+          "last_active_at": "2026-05-23T22:17:27.000Z"
         }
       ]
     },
