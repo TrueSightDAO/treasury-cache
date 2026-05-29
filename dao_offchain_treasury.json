@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T02:48:35.458Z",
+  "generated_at": "2026-05-29T03:48:37.121Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -10,10 +10,10 @@
       "unit_cost_usd": 1,
       "inventory_type": null,
       "unit_format": null,
-      "total_quantity": 19477.4429094552,
-      "total_value_usd": 19477.44,
+      "total_quantity": 19477.27914934567,
+      "total_value_usd": 19477.28,
       "ledgers": {
-        "Main Ledger": 3045.764060710042,
+        "Main Ledger": 3045.600300600513,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -301,6 +301,18 @@
       }
     },
     {
+      "currency": "USD - provisions for voting rights cash out",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1,
+      "inventory_type": null,
+      "unit_format": null,
+      "total_quantity": 40.131908997087784,
+      "total_value_usd": 40.13,
+      "ledgers": {
+        "Main Ledger": 40.131908997087784
+      }
+    },
+    {
       "currency": "Cacao Almonds KG from Oscar's farm - AGL14",
       "unit_weight_g": 1000,
       "unit_cost_usd": 11.41225,
@@ -310,18 +322,6 @@
       "total_value_usd": 456.49,
       "ledgers": {
         "AGL14": 40
-      }
-    },
-    {
-      "currency": "USD - provisions for voting rights cash out",
-      "unit_weight_g": null,
-      "unit_cost_usd": 1,
-      "inventory_type": null,
-      "unit_format": null,
-      "total_quantity": 39.968148887558606,
-      "total_value_usd": 39.97,
-      "ledgers": {
-        "Main Ledger": 39.968148887558606
       }
     },
     {
@@ -987,7 +987,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1999.1024,
+      "unit_cost_usd": 2000.4597,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1316,8 +1316,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1999.1024,
-          "total_value_usd": 9.498940475548279e-11
+          "unit_cost_usd": 2000.4597,
+          "total_value_usd": 9.505389825970479e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1335,17 +1335,17 @@
         },
         {
           "currency": "USD",
-          "amount": 2864.704060710042,
+          "amount": 2864.540300600513,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2864.704060710042
+          "total_value_usd": 2864.540300600513
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 39.968148887558606,
+          "amount": 40.131908997087784,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 39.968148887558606
+          "total_value_usd": 40.131908997087784
         },
         {
           "currency": "USDT",
@@ -2448,7 +2448,7 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 29985.69697204075,
+    "total_units": 29985.696972040754,
     "total_value_usd": 38082.13,
     "ledgers_processed": 13,
     "managers_count": 39
