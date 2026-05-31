@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-05-31T03:25:01.751Z",
+  "generated_at": "2026-05-31T06:57:02.616Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "cron",
+  "trigger": "edgar_webhook",
   "counts": {
-    "contributors": 12,
-    "active_public_keys": 51,
+    "contributors": 13,
+    "active_public_keys": 52,
     "governors": 2,
-    "contributors_with_email": 8
+    "contributors_with_email": 9
   },
   "dao_totals": {
     "voting_rights_circulated": 2343527.7748109857,
     "total_assets": 15619.0332,
     "asset_per_circulated_voting_right": 0.00666,
-    "usd_provisions_for_cash_out": 40.29567
+    "usd_provisions_for_cash_out": 40.442
   },
   "unjoined_governor_names": [
     "agl15",
@@ -39,7 +39,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260529 20:24:42"
+          "last_active_at": "20260530 20:24:42"
         }
       ]
     },
@@ -446,6 +446,23 @@
           "status": "ACTIVE",
           "created_at": "",
           "last_active_at": "20251012 13:07:32"
+        }
+      ]
+    },
+    {
+      "name": "Shahbaz Jamote",
+      "email": "shahbaz.jamote@gmail.com",
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmODQbhdLN38Ta+UWoFqXv/ETTfJef2lBmI54T5f4oeh00sff2wAHtBIVeVMJzJAOU9VluS0ZuL7JXWPb/R6oFoVw/hBbb6szuv6NtpA96doDWMcQEiV1taXJpSqfl0g96kGSgaCL69MqLCe43l8b+Ae9g9XPnYYp0xljkJfuPcvpMUimVyPtaBrjg8tHEcSvg/9+299jGzH9GwfGlBE0ai8cr2BKocWcFn2lVZ7K2rdaaH5RWLTF8qnjKDhVTqglqzpMlXBuGY70tzzw/5uvsi3u3X8fZMpb0GdXZdvw3ZueD1M9d+h5u1EshtVNeXkv4dpKB/74Ec76DB/1YOPN+QIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-05-31T13:55:37.000Z",
+          "last_active_at": "2026-05-31T13:56:28.000Z"
         }
       ]
     },
