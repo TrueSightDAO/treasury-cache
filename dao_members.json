@@ -1,13 +1,13 @@
 {
-  "generated_at": "2026-05-31T06:57:02.616Z",
+  "generated_at": "2026-05-31T07:11:31.930Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
   "counts": {
-    "contributors": 13,
-    "active_public_keys": 52,
+    "contributors": 14,
+    "active_public_keys": 53,
     "governors": 2,
-    "contributors_with_email": 9
+    "contributors_with_email": 10
   },
   "dao_totals": {
     "voting_rights_circulated": 2343527.7748109857,
@@ -39,7 +39,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260530 20:24:42"
+          "last_active_at": "20260530 23:56:34"
         }
       ]
     },
@@ -463,6 +463,23 @@
           "status": "ACTIVE",
           "created_at": "2026-05-31T13:55:37.000Z",
           "last_active_at": "2026-05-31T13:56:28.000Z"
+        }
+      ]
+    },
+    {
+      "name": "Shereen Abdullah",
+      "email": "shereenabdullah9@gmail.com",
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA5hKD5U4SZGhLrr1BYKfU8uo7yiXsl3Gaq0Kp/Be2oQ5hlhYGnlzULNSpLFMSvwkv4sDcfenHmCvzhn8LJOl+28oOUvLyBgINCf9O/jx/jgwtp7G1dzv7vm2ZQZshvpP/+GZxswiawiC2Zr4PG2+OClwWRyhzzDd4JKQklL17ngwR48OEI0yPBsuNL0J1tAhiw6HdpaGjFrmCZ0ubGE9059KXMg/YXRkmcLgn5jCyb31RNtQvoii4USe3oOoOeLFaJZZ+G83v9XxrCKWV/lDRoL22CMxfOkLtopaYGtz/MAnYh86crl/rgvQ//gqN6W877S/d39FUzK/4jGAq53IUFwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-05-31T14:07:26.000Z",
+          "last_active_at": "2026-05-31T14:10:59.000Z"
         }
       ]
     },
