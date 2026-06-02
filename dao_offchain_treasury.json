@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:10:40.400Z",
+  "generated_at": "2026-06-02T19:12:13.517Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 1,
@@ -323,21 +323,21 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 2.4043643608428553,
-      "total_quantity": 25,
-      "total_value_usd": 60.11,
-      "ledgers": {
-        "Main Ledger": 25
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch CP340993268BR - Switzerland",
       "unit_weight_g": null,
       "unit_cost_usd": 9.9529856456974,
       "total_quantity": 24,
       "total_value_usd": 238.87,
+      "ledgers": {
+        "Main Ledger": 24
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 2.4043643608428553,
+      "total_quantity": 24,
+      "total_value_usd": 57.7,
       "ledgers": {
         "Main Ledger": 24
       }
@@ -1100,10 +1100,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 20,
+          "amount": 14,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 169.87599607235282
+          "total_value_usd": 118.91319725064697
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
@@ -1114,10 +1114,10 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 10,
+          "amount": 2,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 24.043643608428553
+          "total_value_usd": 4.808728721685711
         },
         {
           "currency": "ETH",
@@ -1398,10 +1398,17 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 2,
+          "amount": 8,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 16.987599607235282
+          "total_value_usd": 67.95039842894113
+        },
+        {
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
+          "amount": 7,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 2.4043643608428553,
+          "total_value_usd": 16.830550525899987
         },
         {
           "currency": "Chocolate Mold from Rusty",
@@ -2148,8 +2155,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30099.86697204075,
-    "total_value_usd": 38153.81,
+    "total_units": 30098.86697204075,
+    "total_value_usd": 38151.4,
     "ledgers_processed": 13,
     "managers_count": 39
   }
