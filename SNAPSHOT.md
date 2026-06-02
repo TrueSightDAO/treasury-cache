@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-02T19:09:01.989Z` |
+| Generated at | `2026-06-02T19:10:40.400Z` |
 | Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 82 |
-| Total units | 30100.86697204075 |
-| Total value USD | $38162.30 |
+| Total units | 30099.86697204075 |
+| Total value USD | $38153.81 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -41,7 +41,7 @@
 | Chocolate Mold from Rusty | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467) | 50 | $0.55 | $27.70 | Main Ledger: 50 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | 43 | $9.02 | $387.83 | Main Ledger: 43 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 42 | $8.49 | $356.74 | Main Ledger: 42 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 41 | $8.49 | $348.25 | Main Ledger: 41 |
 | USD - provisions for voting rights cash out | 40.48757226527235 | $1.00 | $40.49 | Main Ledger: 40.48757226527235 |
 | Cacao Almonds KG from Oscar's farm - AGL14 | 40 | $11.41 | $456.49 | AGL14: 40 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | 39 | $15.70 | $612.11 | Main Ledger: 39 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $1908.93 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $1908.18 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -112,7 +112,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| Main Ledger | 67 | 12460.3428004976 |
+| Main Ledger | 67 | 12459.3428004976 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -126,7 +126,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 30 | 13351.744336778753 |
+| Gary Teh | 30 | 13348.744336778753 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
@@ -136,7 +136,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 14 | 1404 |
+| Kirsten Ritschel | 15 | 1406 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 26.97 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
