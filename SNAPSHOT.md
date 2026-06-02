@@ -5,16 +5,16 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-02T20:48:42.308Z` |
+| Generated at | `2026-06-02T21:48:39.838Z` |
 | Trigger | `cron` |
 | Schema version | `3` |
-| Item types | 82 |
-| Total units | 30098.86697204075 |
-| Total value USD | $38151.40 |
+| Item types | 83 |
+| Total units | 30195.86697204075 |
+| Total value USD | $38248.40 |
 | Ledgers processed | 14 |
 | Managers | 39 |
 
-## Items (82, sorted by total quantity)
+## Items (83, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -35,6 +35,7 @@
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 157 | $0.55 | $86.98 | Main Ledger: 157 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 137 | $6.64 | $909.68 | Main Ledger: 137 |
 | Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 100 | $10.18 | $1018.23 | AGL13: 100 |
+| Butterfly Effect Club Tree Planting Pledge - QR Code | — | — | 97 | $1.00 | $97.00 | BEC: 97 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 | Cacao Nib | Bulk | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
 | Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
@@ -99,7 +100,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1898.52 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1902.61 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -112,6 +113,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
+| BEC | 1 | 97 |
 | Main Ledger | 67 | 12458.3428004976 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
@@ -126,7 +128,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 30 | 13332.744336778753 |
+| Gary Teh | 31 | 13429.744336778753 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
