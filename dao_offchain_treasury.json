@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T21:48:39.838Z",
+  "generated_at": "2026-06-02T22:48:32.148Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -169,6 +169,19 @@
       }
     },
     {
+      "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1,
+      "inventory_type": null,
+      "unit_format": null,
+      "total_quantity": 192,
+      "total_value_usd": 192,
+      "ledgers": {
+        "Main Ledger": 95,
+        "BEC": 97
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
       "unit_weight_g": 200,
       "unit_cost_usd": 10.37,
@@ -214,18 +227,6 @@
       "total_value_usd": 1018.23,
       "ledgers": {
         "AGL13": 100
-      }
-    },
-    {
-      "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
-      "unit_weight_g": null,
-      "unit_cost_usd": 1,
-      "inventory_type": null,
-      "unit_format": null,
-      "total_quantity": 97,
-      "total_value_usd": 97,
-      "ledgers": {
-        "BEC": 97
       }
     },
     {
@@ -999,7 +1000,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1902.6131,
+      "unit_cost_usd": 1887.5158000000001,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1256,6 +1257,13 @@
           "total_value_usd": 572.350032
         },
         {
+          "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
+          "amount": 95,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 95
+        },
+        {
           "currency": "Cacao Almonds KG - Organic",
           "amount": 2.3025149999999996,
           "ledger": "Main Ledger",
@@ -1335,8 +1343,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1902.6131,
-          "total_value_usd": 9.040461651638448e-11
+          "unit_cost_usd": 1887.5158000000001,
+          "total_value_usd": 8.96872527933381e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2491,8 +2499,8 @@
   ],
   "totals": {
     "item_types": 83,
-    "total_units": 30195.86697204075,
-    "total_value_usd": 38248.4,
+    "total_units": 30290.86697204075,
+    "total_value_usd": 38343.4,
     "ledgers_processed": 14,
     "managers_count": 39
   }
