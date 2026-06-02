@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-02T23:03:04.890Z",
+  "generated_at": "2026-06-02T23:16:29.312Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_agl",
+  "trigger": "capital_injection",
   "schema_version": 1,
   "items": [
     {
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19669.093486077483,
-      "total_value_usd": 19669.09,
+      "total_quantity": 19672.093486077483,
+      "total_value_usd": 19672.09,
       "ledgers": {
         "Main Ledger": 3172.654637332328,
         "AGL6": 1337.5853362811577,
@@ -18,7 +18,7 @@
         "AGL10": 228.82999999999998,
         "SEF1": 16,
         "AGL15": 5279.729999999999,
-        "BEC": 79
+        "BEC": 82
       }
     },
     {
@@ -171,17 +171,6 @@
       "total_value_usd": 909.68,
       "ledgers": {
         "Main Ledger": 137
-      }
-    },
-    {
-      "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
-      "unit_weight_g": null,
-      "unit_cost_usd": 1,
-      "total_quantity": 113,
-      "total_value_usd": 113,
-      "ledgers": {
-        "Main Ledger": 95,
-        "BEC": 18
       }
     },
     {
@@ -412,6 +401,16 @@
       "total_value_usd": 118.05,
       "ledgers": {
         "AGL13": 15
+      }
+    },
+    {
+      "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1,
+      "total_quantity": 15,
+      "total_value_usd": 15,
+      "ledgers": {
+        "BEC": 15
       }
     },
     {
@@ -837,7 +836,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1863.9948000000002,
+      "unit_cost_usd": 1866.5888,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1035,17 +1034,17 @@
         },
         {
           "currency": "[BEC] Butterfly Effect Club Tree Planting Pledge - QR Code",
-          "amount": 18,
+          "amount": 15,
           "ledger": "BEC",
           "unit_cost_usd": 1,
-          "total_value_usd": 18
+          "total_value_usd": 15
         },
         {
           "currency": "[BEC] USD",
-          "amount": 79,
+          "amount": 82,
           "ledger": "BEC",
           "unit_cost_usd": 1,
-          "total_value_usd": 79
+          "total_value_usd": 82
         },
         {
           "currency": "1 Gallon Zip Loc Bags",
@@ -1081,13 +1080,6 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
           "total_value_usd": 572.350032
-        },
-        {
-          "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
-          "amount": 95,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 95
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -1156,8 +1148,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1863.9948000000002,
-          "total_value_usd": 8.85696283088426e-11
+          "unit_cost_usd": 1866.5888,
+          "total_value_usd": 8.869288488436156e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2192,8 +2184,8 @@
   ],
   "totals": {
     "item_types": 83,
-    "total_units": 30290.86697204075,
-    "total_value_usd": 38343.4,
+    "total_units": 30195.86697204075,
+    "total_value_usd": 38248.4,
     "ledgers_processed": 14,
     "managers_count": 39
   }
