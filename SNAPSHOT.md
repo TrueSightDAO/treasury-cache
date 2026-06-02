@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-02T21:48:39.838Z` |
+| Generated at | `2026-06-02T22:48:32.148Z` |
 | Trigger | `cron` |
 | Schema version | `3` |
 | Item types | 83 |
-| Total units | 30195.86697204075 |
-| Total value USD | $38248.40 |
+| Total units | 30290.86697204075 |
+| Total value USD | $38343.40 |
 | Ledgers processed | 14 |
 | Managers | 39 |
 
@@ -31,11 +31,11 @@
 | Cacao Tree To Be Planted | — | — | 250 | $-1.50 | $-375.00 | Main Ledger: 250 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 197 | $0.07 | $13.89 | Main Ledger: 197 |
+| Butterfly Effect Club Tree Planting Pledge - QR Code | — | — | 192 | $1.00 | $192.00 | BEC: 97, Main Ledger: 95 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 172 | $10.37 | $1783.64 | AGL8: 172 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 157 | $0.55 | $86.98 | Main Ledger: 157 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 137 | $6.64 | $909.68 | Main Ledger: 137 |
 | Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 100 | $10.18 | $1018.23 | AGL13: 100 |
-| Butterfly Effect Club Tree Planting Pledge - QR Code | — | — | 97 | $1.00 | $97.00 | BEC: 97 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 | Cacao Nib | Bulk | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
 | Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
@@ -100,7 +100,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1902.61 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1887.52 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -114,7 +114,7 @@
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
 | BEC | 1 | 97 |
-| Main Ledger | 67 | 12458.3428004976 |
+| Main Ledger | 68 | 12553.3428004976 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -128,7 +128,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 31 | 13429.744336778753 |
+| Gary Teh | 32 | 13524.744336778753 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
