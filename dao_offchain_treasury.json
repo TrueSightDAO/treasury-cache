@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:48:42.308Z",
+  "generated_at": "2026-06-02T21:48:39.838Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 3,
@@ -214,6 +214,18 @@
       "total_value_usd": 1018.23,
       "ledgers": {
         "AGL13": 100
+      }
+    },
+    {
+      "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1,
+      "inventory_type": null,
+      "unit_format": null,
+      "total_quantity": 97,
+      "total_value_usd": 97,
+      "ledgers": {
+        "BEC": 97
       }
     },
     {
@@ -987,7 +999,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1898.5182,
+      "unit_cost_usd": 1902.6131,
       "inventory_type": null,
       "unit_format": null,
       "total_quantity": 4.751602757091522e-14,
@@ -1202,6 +1214,13 @@
           "total_value_usd": 518.95
         },
         {
+          "currency": "[BEC] Butterfly Effect Club Tree Planting Pledge - QR Code",
+          "amount": 97,
+          "ledger": "BEC",
+          "unit_cost_usd": 1,
+          "total_value_usd": 97
+        },
+        {
           "currency": "1 Gallon Zip Loc Bags",
           "amount": 34,
           "ledger": "Main Ledger",
@@ -1316,8 +1335,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1898.5182,
-          "total_value_usd": 9.021004313508433e-11
+          "unit_cost_usd": 1902.6131,
+          "total_value_usd": 9.040461651638448e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2471,9 +2490,9 @@
     }
   ],
   "totals": {
-    "item_types": 82,
-    "total_units": 30098.86697204075,
-    "total_value_usd": 38151.4,
+    "item_types": 83,
+    "total_units": 30195.86697204075,
+    "total_value_usd": 38248.4,
     "ledgers_processed": 14,
     "managers_count": 39
   }
