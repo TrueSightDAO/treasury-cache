@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-02T18:51:18.508Z` |
-| Trigger | `sales_update_main` |
+| Generated at | `2026-06-02T19:09:01.989Z` |
+| Trigger | `movement` |
 | Schema version | `1` |
 | Item types | 82 |
-| Total units | 30071.561972040752 |
-| Total value USD | $38135.50 |
+| Total units | 30100.86697204075 |
+| Total value USD | $38162.30 |
 | Ledgers processed | 13 |
 | Managers | 39 |
 
@@ -18,7 +18,7 @@
 
 | Currency | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---:|---:|---:|---|
-| USD | 19561.788486077487 | $1.00 | $19561.79 | AGL10: 228.82999999999998, AGL15: 5279.729999999999, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 518.946, Main Ledger: 3144.3496373323283, SEF1: 16 |
+| USD | 19590.093486077483 | $1.00 | $19590.09 | AGL10: 228.82999999999998, AGL15: 5279.729999999999, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 518.946, Main Ledger: 3172.654637332328, SEF1: 16 |
 | Brazilian Reis | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
 | Cacao Nibs Kraft Pouch - V2 | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -28,7 +28,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 | 358 | $0.68 | $241.81 | Main Ledger: 358 |
 | NovaGaia Tree Planting Pledge - QR Code | 297 | $7.00 | $2079.00 | SEF1: 297 |
 | Cacao Almonds (KG) | 274.085122798 | — | — | AGL8: 274.085122798 |
-| Cacao Tree To Be Planted | 249 | $-1.50 | $-373.50 | Main Ledger: 249 |
+| Cacao Tree To Be Planted | 250 | $-1.50 | $-375.00 | Main Ledger: 250 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | 197 | $0.07 | $13.89 | Main Ledger: 197 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | 172 | $10.37 | $1783.64 | AGL8: 172 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $1907.47 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $1908.93 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -112,7 +112,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| Main Ledger | 67 | 12431.0378004976 |
+| Main Ledger | 67 | 12460.3428004976 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -126,7 +126,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 30 | 13323.439336778752 |
+| Gary Teh | 30 | 13351.744336778753 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
@@ -151,7 +151,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 |
 | Shannon Barlow - Ponderosa | 2 | 6 |
 | Shuar Design Boutique | 3 | 37 |
-| SunMint Tree Planting Contract - agl4 | 1 | 249 |
+| SunMint Tree Planting Contract - agl4 | 1 | 250 |
 | Tess Walkowski | 2 | 13 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 |
