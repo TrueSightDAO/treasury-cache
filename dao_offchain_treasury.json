@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-06-02T18:51:18.508Z",
+  "generated_at": "2026-06-02T19:09:01.989Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "movement",
   "schema_version": 1,
   "items": [
     {
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19561.788486077487,
-      "total_value_usd": 19561.79,
+      "total_quantity": 19590.093486077483,
+      "total_value_usd": 19590.09,
       "ledgers": {
-        "Main Ledger": 3144.3496373323283,
+        "Main Ledger": 3172.654637332328,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -116,10 +116,10 @@
       "currency": "Cacao Tree To Be Planted",
       "unit_weight_g": null,
       "unit_cost_usd": -1.5,
-      "total_quantity": 249,
-      "total_value_usd": -373.5,
+      "total_quantity": 250,
+      "total_value_usd": -375,
       "ledgers": {
-        "Main Ledger": 249
+        "Main Ledger": 250
       }
     },
     {
@@ -825,7 +825,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1907.4697,
+      "unit_cost_usd": 1908.9291,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1123,8 +1123,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1907.4697,
-          "total_value_usd": 9.063538285588539e-11
+          "unit_cost_usd": 1908.9291,
+          "total_value_usd": 9.070472774652238e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1142,10 +1142,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2963.2896373323283,
+          "amount": 2991.594637332328,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2963.2896373323283
+          "total_value_usd": 2991.594637332328
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1890,10 +1890,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 249,
+          "amount": 250,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -373.5
+          "total_value_usd": -375
         }
       ]
     },
@@ -2141,8 +2141,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30071.561972040752,
-    "total_value_usd": 38135.5,
+    "total_units": 30100.86697204075,
+    "total_value_usd": 38162.3,
     "ledgers_processed": 13,
     "managers_count": 39
   }
