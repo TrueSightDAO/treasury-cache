@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-02T22:57:13.964Z` |
+| Generated at | `2026-06-02T23:02:08.934Z` |
 | Trigger | `process_sales` |
 | Schema version | `1` |
 | Item types | 83 |
@@ -18,7 +18,7 @@
 
 | Currency | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---:|---:|---:|---|
-| USD | 19590.093486077483 | $1.00 | $19590.09 | AGL10: 228.82999999999998, AGL15: 5279.729999999999, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 518.946, Main Ledger: 3172.654637332328, SEF1: 16 |
+| USD | 19647.093486077483 | $1.00 | $19647.09 | AGL10: 228.82999999999998, AGL15: 5279.729999999999, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 518.946, BEC: 57, Main Ledger: 3172.654637332328, SEF1: 16 |
 | Brazilian Reis | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
 | Cacao Nibs Kraft Pouch - V2 | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -31,10 +31,10 @@
 | Cacao Tree To Be Planted | 250 | $-1.50 | $-375.00 | Main Ledger: 250 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | 197 | $0.07 | $13.89 | Main Ledger: 197 |
-| Butterfly Effect Club Tree Planting Pledge - QR Code | 192 | $1.00 | $192.00 | BEC: 97, Main Ledger: 95 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | 172 | $10.37 | $1783.64 | AGL8: 172 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | 157 | $0.55 | $86.98 | Main Ledger: 157 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | 137 | $6.64 | $909.68 | Main Ledger: 137 |
+| Butterfly Effect Club Tree Planting Pledge - QR Code | 135 | $1.00 | $135.00 | BEC: 40, Main Ledger: 95 |
 | Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | 100 | $10.18 | $1018.23 | AGL13: 100 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
 | USDT | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
@@ -100,7 +100,7 @@
 | Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $1874.20 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | 4.751602757091522e-14 | $1874.25 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -113,7 +113,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| BEC | 1 | 97 |
+| BEC | 2 | 97 |
 | Main Ledger | 68 | 12553.3428004976 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
@@ -128,7 +128,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 32 | 13524.744336778753 |
+| Gary Teh | 33 | 13524.744336778753 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
