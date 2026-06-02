@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-06-02T23:02:08.934Z",
+  "generated_at": "2026-06-02T23:03:04.890Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_agl",
   "schema_version": 1,
   "items": [
     {
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19647.093486077483,
-      "total_value_usd": 19647.09,
+      "total_quantity": 19669.093486077483,
+      "total_value_usd": 19669.09,
       "ledgers": {
         "Main Ledger": 3172.654637332328,
         "AGL6": 1337.5853362811577,
@@ -18,7 +18,7 @@
         "AGL10": 228.82999999999998,
         "SEF1": 16,
         "AGL15": 5279.729999999999,
-        "BEC": 57
+        "BEC": 79
       }
     },
     {
@@ -177,11 +177,11 @@
       "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 135,
-      "total_value_usd": 135,
+      "total_quantity": 113,
+      "total_value_usd": 113,
       "ledgers": {
         "Main Ledger": 95,
-        "BEC": 40
+        "BEC": 18
       }
     },
     {
@@ -837,7 +837,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1874.2499,
+      "unit_cost_usd": 1863.9948000000002,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1035,17 +1035,17 @@
         },
         {
           "currency": "[BEC] Butterfly Effect Club Tree Planting Pledge - QR Code",
-          "amount": 40,
+          "amount": 18,
           "ledger": "BEC",
           "unit_cost_usd": 1,
-          "total_value_usd": 40
+          "total_value_usd": 18
         },
         {
           "currency": "[BEC] USD",
-          "amount": 57,
+          "amount": 79,
           "ledger": "BEC",
           "unit_cost_usd": 1,
-          "total_value_usd": 57
+          "total_value_usd": 79
         },
         {
           "currency": "1 Gallon Zip Loc Bags",
@@ -1156,8 +1156,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1874.2499,
-          "total_value_usd": 8.90569099231851e-11
+          "unit_cost_usd": 1863.9948000000002,
+          "total_value_usd": 8.85696283088426e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
