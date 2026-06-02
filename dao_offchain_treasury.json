@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T23:21:40.500Z",
+  "generated_at": "2026-06-02T23:22:04.073Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 1,
@@ -8,8 +8,8 @@
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19672.093486077483,
-      "total_value_usd": 19672.09,
+      "total_quantity": 19668.213486077482,
+      "total_value_usd": 19668.21,
       "ledgers": {
         "Main Ledger": 3172.654637332328,
         "AGL6": 1337.5853362811577,
@@ -18,7 +18,7 @@
         "AGL10": 228.82999999999998,
         "SEF1": 16,
         "AGL15": 5279.729999999999,
-        "BEC": 82
+        "BEC": 78.12
       }
     },
     {
@@ -1041,10 +1041,10 @@
         },
         {
           "currency": "[BEC] USD",
-          "amount": 82,
+          "amount": 78.12,
           "ledger": "BEC",
           "unit_cost_usd": 1,
-          "total_value_usd": 82
+          "total_value_usd": 78.12
         },
         {
           "currency": "1 Gallon Zip Loc Bags",
@@ -2184,8 +2184,8 @@
   ],
   "totals": {
     "item_types": 83,
-    "total_units": 30195.86697204075,
-    "total_value_usd": 38248.4,
+    "total_units": 30191.986972040748,
+    "total_value_usd": 38244.52,
     "ledgers_processed": 14,
     "managers_count": 39
   }
