@@ -1,0 +1,16 @@
+{
+  "ledger_name": "BEC",
+  "program_name": "ERA Butterfly Effect Club cohort tree planting — one tree per attested credential holder",
+  "description": "ERA Butterfly Effect Club cohort tree planting — one tree per attested credential holder",
+  "program": "sunmint",
+  "schema_version": 1,
+  "generated_at": "2026-06-02T20:30:03Z",
+  "source": "snapshot_managed_ledgers.py",
+  "status": "SALES IN PROGRESS",
+  "summary": {
+    "total_transactions": 0,
+    "total_amount": 0,
+    "by_currency": {}
+  },
+  "transactions": []
+}

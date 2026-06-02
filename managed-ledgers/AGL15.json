@@ -4,11 +4,11 @@
   "description": "Operational fund for cacao procurement, production, freighting, domestic USA shipping, and vehicle gasoline for USA retailers consignment network expansion.",
   "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:22:21Z",
+  "generated_at": "2026-06-02T20:29:59Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "ACTIVE",
   "summary": {
-    "total_transactions": 40,
+    "total_transactions": 44,
     "total_amount": 27907.97,
     "by_currency": {
       "SINGAPOREAN SGD": {
@@ -16,8 +16,8 @@
         "total": 10000.0
       },
       "USD": {
-        "count": 37,
-        "total": 5389.38
+        "count": 41,
+        "total": 5279.73
       }
     }
   },
@@ -339,6 +339,38 @@
       "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Target Ledger: AGL15\r\n- Latitude: 37.742533\r\n- Longitude: -122.488748\r\n- Inventory Type: USD\r\n- Inventory Quantity: 16.27\r\n- Description: Lugs for connecting wires from solar controller to battery so as to enable higher through put to run melanger \r\n- Attached Filename: IMG_1129.jpeg\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260507202334_gary_teh_img_1129.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: GZkxFwxUVWUZGYEKuJtBN0kDAsGKrurvyaNKZvk2E4Res4p13BUDF2UEEltUXHanaMypGqf5lsKRcPpE1aZSz+YNIxNUekBixgVWh6ckoDTGZlmld8a4/bCWFE0qJ4yBUYiuXOMyPf8W4Ru78KnGaMJRNZV8JOvmq3D1tzbRUW3ojL9p+7rPsUhbEij+jQ5YIMz7YQKszjeuBBOmfKwVSaGmd63wy5ks+SwCkQeLsV+eoCzkmZI+fX8vvMgotxgMElgeeEREnHWxfHDRA9EZUQZrMZfLktZEL3yUKoKInsUOm6zhW4egyYGKhDx38zF1SLATlN3e06R2mNu6ghKz8Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: d0c6874110bb330b",
       "entity": "Gary Teh",
       "amount": -16.27,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260517",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Target Ledger: AGL15\r\n- Latitude: 37.961996\r\n- Longitude: -122.507569\r\n- Inventory Type: USD\r\n- Inventory Quantity: 81.71\r\n- Description: Gasoline cost for driving around \r\n- Attached Filename: IMG_1476.jpeg\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260517012443_gary_teh_img_1476.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: b5fzqbwd4qNhuEoxWhBs6hiTAB95L44wfpJmJSAnJ7En/9utftX4s0+l6s/kGUkQ4ErhqrD1SBhEvIcMeSskE7OdlczoBKahUHd0FKJfWKznPCevHayxhhjfrEoS9wr4n6obi/k1nMsPnOon9XeTqQcYFzzPc19SwSysqmaa6kN7OWplNjCl2WyZkdfkTMZS2usSHeKjXmMJklwtrmp6QcHA2841EJ7KhNgvWL9WhlM972fRGtgNrtCwCj/oTau3AcN0o6GJSibP4L0/wwjeqRreDKadTD0ZXcwASoc77RySBzojGTC9CO4RSufcHC8bIoe+hyVQtb+NeGHBmnK3Yg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: c3a45b74031dacb2",
+      "entity": "Gary Teh",
+      "amount": -81.71,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260520",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Target Ledger: AGL15\r\n- Latitude: 37.743105\r\n- Longitude: -122.507020\r\n- Inventory Type: USD\r\n- Inventory Quantity: 6.85\r\n- Description: Gasoline\r\n- Attached Filename: IMG_1514.jpeg\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260520014409_gary_teh_img_1514.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: KIq8pxoZa1es7XhDWEyuo/2zGH+rspBgMlEBouvzrwUoZvXrA7mhVLLOUQ1KIRHuim2bv6u47Tmiq3+E2A1hIzsEhRzt2Gqc8dONU/71M3KNpoeuPvOTzE90RLCP3Mm30rmQktOp0x1860pvVbhX0IFHBvoGIESPV9eP7XAj0nhcCNCIeRexqfV1+V+qCWYqqVpHx9dd49vdaJNySZqT6KtEZVnb5D7bV5g8MrSOefqdggkM4PECZgI01gDKgbmxZ+mNQxzYYVUlBtwU38SF2mvT7UBAPiH0sK3ortHeBLC9T9Jv6pOFNFGONNTYictLNz0IwWPVYPxkDXI7ndbe2Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: 70f95243e790eb56",
+      "entity": "Gary Teh",
+      "amount": -6.85,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260520",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Target Ledger: AGL15\r\n- Latitude: 37.743105\r\n- Longitude: -122.507020\r\n- Inventory Type: USD\r\n- Inventory Quantity: 6.85\r\n- Description: Gasoline\r\n- Attached Filename: IMG_1514.jpeg\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260520014409_gary_teh_img_1514.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: KIq8pxoZa1es7XhDWEyuo/2zGH+rspBgMlEBouvzrwUoZvXrA7mhVLLOUQ1KIRHuim2bv6u47Tmiq3+E2A1hIzsEhRzt2Gqc8dONU/71M3KNpoeuPvOTzE90RLCP3Mm30rmQktOp0x1860pvVbhX0IFHBvoGIESPV9eP7XAj0nhcCNCIeRexqfV1+V+qCWYqqVpHx9dd49vdaJNySZqT6KtEZVnb5D7bV5g8MrSOefqdggkM4PECZgI01gDKgbmxZ+mNQxzYYVUlBtwU38SF2mvT7UBAPiH0sK3ortHeBLC9T9Jv6pOFNFGONNTYictLNz0IwWPVYPxkDXI7ndbe2Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: 70f95243e790eb56",
+      "entity": "Gary Teh",
+      "amount": -6.85,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260601",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Gary Teh\r\n- Target Ledger: AGL15\r\n- Latitude: 37.742578\r\n- Longitude: -122.507112\r\n- Inventory Type: USD\r\n- Inventory Quantity: 14.24\r\n- Description: Gasoline for driving around\r\n- Attached Filename: IMG_2080.jpeg\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260601042613_gary_teh_img_2080.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: pXAdRcsUu/eKIrvzC+/ys9Q4E73qAhIZFz/TLVujR2Z8UskZU/D0eYgBdpul8gETKl9LMt1P/Y38Ac0bMbVW0rh12QtP/DxblOe/9ZpNDilbIZbMdKE/TeV8kD0mqP9T85R7x+Nwa8N/lOjw2T8xSkoW1qZpAzKZOtDb0I73r3QzG1xElsLI6uYxJJWBUekQoU6g3UZGQhYbigbkzc7HpL7CaUvYPAZEInnlMmEZxT/bmLS684CfrBwlESF7HmOQin+LGBhFRaduNqIFOhFkohGPn06nZeyDc41Yj/IMRwwDYyJY2RCQWDM5BDZBTpCxkA/kSKAg6glryOJ1KEB3Ug==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: b339aa74a68e55f9",
+      "entity": "Gary Teh",
+      "amount": -14.24,
       "currency": "USD",
       "type": "Assets"
     }

@@ -2,36 +2,15 @@
   "ledger_name": "TBM",
   "program_name": "Donation management ledger for Tribo Bahia Mirim Capoeira after-school program in Itacaré, Bahia. Tracks Stripe donations, TransferWise FX, and Pix disbursements to Bico Duro.",
   "description": "Donation management ledger for Tribo Bahia Mirim Capoeira after-school program in Itacaré, Bahia. Tracks Stripe donations, TransferWise FX, and Pix disbursements to Bico Duro.",
+  "program": "fundraiser",
   "schema_version": 1,
-  "generated_at": "2026-05-11T05:17:27Z",
+  "generated_at": "2026-06-02T20:30:01Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "ACTIVE",
   "summary": {
-    "total_transactions": 2,
-    "total_amount": 50.0,
-    "by_currency": {
-      "USD": {
-        "count": 2,
-        "total": 48.25
-      }
-    }
+    "total_transactions": 0,
+    "total_amount": 0,
+    "by_currency": {}
   },
-  "transactions": [
-    {
-      "date": "2026-05-11",
-      "description": "cs_test_a12OJQH0zat72CXu5OCM29EudNxEWQ3Gz67J7aZJs6sADitKnllXaHJCYi — [TBM] — Donation to Tribo Bahia Mirim — Gary Teh",
-      "entity": "Gary Teh",
-      "amount": 50.0,
-      "currency": "USD",
-      "type": "Assets"
-    },
-    {
-      "date": "2026-05-11",
-      "description": "cs_test_a12OJQH0zat72CXu5OCM29EudNxEWQ3Gz67J7aZJs6sADitKnllXaHJCYi — Stripe processing fee — Gary Teh",
-      "entity": "Gary Teh",
-      "amount": -1.75,
-      "currency": "USD",
-      "type": "Assets"
-    }
-  ]
+  "transactions": []
 }

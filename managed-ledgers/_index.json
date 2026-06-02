@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-05-11T04:22:22Z",
+  "generated_at": "2026-06-02T20:30:03Z",
   "source": "snapshot_managed_ledgers.py",
   "ledgers": [
     {
@@ -398,7 +398,7 @@
       "ledger_url": "https://agroverse.shop/agl15",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL15.json",
       "summary": {
-        "total_transactions": 40,
+        "total_transactions": 44,
         "total_amount": 27907.97,
         "by_currency": {
           "SINGAPOREAN SGD": {
@@ -406,8 +406,8 @@
             "total": 10000.0
           },
           "USD": {
-            "count": 37,
-            "total": 5389.38
+            "count": 41,
+            "total": 5279.73
           }
         }
       }
@@ -419,6 +419,19 @@
       "description": "Donation management ledger for Tribo Bahia Mirim Capoeira after-school program in Itacaré, Bahia. Tracks Stripe donations, TransferWise FX, and Pix disbursements to Bico Duro.",
       "ledger_url": "https://tribomirimbahia.truesight.me",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/TBM.json",
+      "summary": {
+        "total_transactions": 0,
+        "total_amount": 0,
+        "by_currency": {}
+      }
+    },
+    {
+      "ledger_id": "BEC",
+      "program": "sunmint",
+      "status": "SALES IN PROGRESS",
+      "description": "ERA Butterfly Effect Club cohort tree planting — one tree per attested credential holder",
+      "ledger_url": "https://truesight.me/sunmint/bec",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/BEC.json",
       "summary": {
         "total_transactions": 0,
         "total_amount": 0,
