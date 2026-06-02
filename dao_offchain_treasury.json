@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:57:13.964Z",
+  "generated_at": "2026-06-02T23:02:08.934Z",
   "source": "treasury-cache-publisher",
   "trigger": "process_sales",
   "schema_version": 1,
@@ -8,8 +8,8 @@
       "currency": "USD",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
-      "total_quantity": 19590.093486077483,
-      "total_value_usd": 19590.09,
+      "total_quantity": 19647.093486077483,
+      "total_value_usd": 19647.09,
       "ledgers": {
         "Main Ledger": 3172.654637332328,
         "AGL6": 1337.5853362811577,
@@ -17,7 +17,8 @@
         "AGL8": 518.946,
         "AGL10": 228.82999999999998,
         "SEF1": 16,
-        "AGL15": 5279.729999999999
+        "AGL15": 5279.729999999999,
+        "BEC": 57
       }
     },
     {
@@ -143,17 +144,6 @@
       }
     },
     {
-      "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
-      "unit_weight_g": null,
-      "unit_cost_usd": 1,
-      "total_quantity": 192,
-      "total_value_usd": 192,
-      "ledgers": {
-        "Main Ledger": 95,
-        "BEC": 97
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
       "unit_weight_g": 200,
       "unit_cost_usd": 10.37,
@@ -181,6 +171,17 @@
       "total_value_usd": 909.68,
       "ledgers": {
         "Main Ledger": 137
+      }
+    },
+    {
+      "currency": "Butterfly Effect Club Tree Planting Pledge - QR Code",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1,
+      "total_quantity": 135,
+      "total_value_usd": 135,
+      "ledgers": {
+        "Main Ledger": 95,
+        "BEC": 40
       }
     },
     {
@@ -836,7 +837,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1874.1956,
+      "unit_cost_usd": 1874.2499,
       "total_quantity": 4.751602757091522e-14,
       "total_value_usd": 0,
       "ledgers": {
@@ -1034,10 +1035,17 @@
         },
         {
           "currency": "[BEC] Butterfly Effect Club Tree Planting Pledge - QR Code",
-          "amount": 97,
+          "amount": 40,
           "ledger": "BEC",
           "unit_cost_usd": 1,
-          "total_value_usd": 97
+          "total_value_usd": 40
+        },
+        {
+          "currency": "[BEC] USD",
+          "amount": 57,
+          "ledger": "BEC",
+          "unit_cost_usd": 1,
+          "total_value_usd": 57
         },
         {
           "currency": "1 Gallon Zip Loc Bags",
@@ -1148,8 +1156,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1874.1956,
-          "total_value_usd": 8.905432980288799e-11
+          "unit_cost_usd": 1874.2499,
+          "total_value_usd": 8.90569099231851e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
