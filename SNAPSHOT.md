@@ -5,102 +5,101 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-03T00:00:53.164Z` |
-| Trigger | `sales_update_agl` |
-| Schema version | `1` |
-| Item types | 83 |
+| Generated at | `2026-06-03T00:48:37.632Z` |
+| Trigger | `cron` |
+| Schema version | `3` |
+| Item types | 82 |
 | Total units | 30191.986972040748 |
 | Total value USD | $38244.52 |
 | Ledgers processed | 14 |
 | Managers | 39 |
 
-## Items (83, sorted by total quantity)
+## Items (82, sorted by total quantity)
 
-| Currency | Units | Unit cost USD | Total value USD | Ledgers |
-|---|---:|---:|---:|---|
-| USD | 19682.213486077482 | $1.00 | $19682.21 | AGL10: 228.82999999999998, AGL15: 5279.729999999999, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 518.946, BEC: 92.12, Main Ledger: 3172.654637332328, SEF1: 16 |
-| Brazilian Reis | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
-| Cacao Nibs Kraft Pouch - V2 | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
-| Cacao Nibs Kraft Pouch | 866 | $0.34 | $294.44 | Main Ledger: 866 |
-| Cacao Nibs Kraft Pouch - 20250219006 | 530 | $0.68 | $357.99 | Main Ledger: 530 |
-| Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | 368 | $0.74 | $270.59 | Main Ledger: 368 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 | 358 | $0.68 | $241.81 | Main Ledger: 358 |
-| NovaGaia Tree Planting Pledge - QR Code | 297 | $7.00 | $2079.00 | SEF1: 297 |
-| Cacao Almonds (KG) | 274.085122798 | — | — | AGL8: 274.085122798 |
-| Cacao Tree To Be Planted | 250 | $-1.50 | $-375.00 | Main Ledger: 250 |
-| Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 240 | $0.05 | $11.51 | Main Ledger: 240 |
-| Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | 197 | $0.07 | $13.89 | Main Ledger: 197 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | 172 | $10.37 | $1783.64 | AGL8: 172 |
-| Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | 157 | $0.55 | $86.98 | Main Ledger: 157 |
-| 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | 137 | $6.64 | $909.68 | Main Ledger: 137 |
-| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | 100 | $10.18 | $1018.23 | AGL13: 100 |
-| Cacao Nibs (KG) - Ilheus, Brazil 2024 | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
-| USDT | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
-| Cacao Mass Bar (loose grams) - AGL2 | 50 | $0.03 | $1.55 | Main Ledger: 50 |
-| Chocolate Mold from Rusty | 50 | $10.00 | $500.00 | Main Ledger: 50 |
-| RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467) | 50 | $0.55 | $27.70 | Main Ledger: 50 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | 43 | $9.02 | $387.83 | Main Ledger: 43 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | 41 | $8.49 | $348.25 | Main Ledger: 41 |
-| USD - provisions for voting rights cash out | 40.48757226527235 | $1.00 | $40.49 | Main Ledger: 40.48757226527235 |
-| Cacao Almonds KG from Oscar's farm - AGL14 | 40 | $11.41 | $456.49 | AGL14: 40 |
-| Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | 39 | $15.70 | $612.11 | Main Ledger: 39 |
-| 1 Gallon Zip Loc Bags | 34 | $0.14 | $4.78 | Main Ledger: 34 |
-| 8 Ounce Package Kraft Pouch  CP340992735BR | 27 | $8.51 | $229.75 | Main Ledger: 27 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | 27 | $8.38 | $226.13 | Main Ledger: 27 |
-| Chocolate Mold - 4 X 6 slots | 26 | $1.19 | $30.94 | Main Ledger: 26 |
-| 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | 24 | $9.95 | $238.87 | Main Ledger: 24 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | 24 | $2.40 | $57.70 | Main Ledger: 24 |
-| Cacao Tea (Kilograms) Santos 20260213 - AGL13 | 21 | $10.18 | $213.83 | AGL13: 21 |
-| Cacao Husk (KG) - Ilheus, Brazil | 20 | $17.79 | $355.71 | Main Ledger: 20 |
-| Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland | 20 | $26.87 | $537.46 | Main Ledger: 20 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | 17 | $8.38 | $142.38 | Main Ledger: 17 |
-| 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 16 | $9.45 | $151.20 | Main Ledger: 16 |
-| Cacao Almonds KG from Vivi's farm - AGL13 | 15 | $7.87 | $118.05 | AGL13: 15 |
-| Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | 14.6802 | $0.00 | $0.00 | AGL8: 14.6802 |
-| Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | 12 | $8.09 | $97.02 | AGL10: 12 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | 11 | $8.52 | $93.69 | AGL6: 11 |
-| 8 Ounce Package Kraft Pouch CP340992687BR | 10 | $8.88 | $88.79 | Main Ledger: 10 |
-| Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409) | 10 | $0.93 | $9.29 | Main Ledger: 10 |
-| 8 Ounce Package Kraft Pouch - AGL6 | 10 | $9.21 | $92.14 | AGL6: 10 |
-| SunMint Tree Planting Pledge - QR Code | 10 | $0.00 | $0.00 | PP1: 10 |
-| 8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags | 7 | $8.34 | $58.41 | Main Ledger: 7 |
-| Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | 7 | $23.98 | $167.83 | Main Ledger: 7 |
-| 8 Ounce Package Kraft Pouch - AGL2 + V2 bags | 5 | $7.49 | $37.47 | Main Ledger: 5 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | 5 | $8.32 | $41.58 | Main Ledger: 5 |
-| Large Cardboard Box for Moving Packaging 60x40x50 | 5 | $2.65 | $13.27 | Main Ledger: 5 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8 | 5 | $9.18 | $45.88 | AGL8: 5 |
-| Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409) | 4 | $10.45 | $41.81 | Main Ledger: 4 |
-| Cacao Mass Bar (40grams) CP340993869BR - AGL8 | 3.25 | $1.90 | $6.16 | AGL8: 3.25 |
-| 8 Ounce Package Kraft Pouch QN226716310BR - FounderHaus Brazil | 3 | $8.59 | $25.78 | Main Ledger: 3 |
-| Cacao Husk Bag (weight unknown) | 3 | — | — | Main Ledger: 3 |
-| Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | 3 | $5.19 | $15.56 | Main Ledger: 3 |
-| Cacao Almonds KG - Organic | 2.3025149999999996 | $100.89 | $232.29 | Main Ledger: 2.3025149999999996 |
-| Cacao Molasses 250ml + 74 4476 6210 San Francisco | 2 | $12.14 | $24.29 | Main Ledger: 2 |
-| Foam container box - 120 kraft pouches capacity | 2 | $24.11 | $48.22 | Main Ledger: 2 |
-| Label Maker | 2 | $44.99 | $89.98 | Main Ledger: 2 |
-| 22 Litres Insulated Box | 1 | $6.26 | $6.26 | Main Ledger: 1 |
-| Agroverse Retractable Banner | 1 | $72.57 | $72.57 | Main Ledger: 1 |
-| Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600) | 1 | $9.17 | $9.17 | Main Ledger: 1 |
-| ATOLOMOTOR Coffee Bean Roaster | 1 | $86.89 | $86.89 | Main Ledger: 1 |
-| Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | 1 | $116.91 | $116.91 | Main Ledger: 1 |
-| Cacao Mass Bar CP340992687BR (500grams) | 1 | $21.54 | $21.54 | Main Ledger: 1 |
-| Canopy 4ft X 6ft with 2 years warranty | 1 | $62.93 | $62.93 | Main Ledger: 1 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251107 \| San Francisco - AGL8 | 1 | $8.32 | $8.32 | Main Ledger: 1 |
-| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + Cacao Mass Bar CP340993299BR  San Francisco | 1 | $9.08 | $9.08 | Main Ledger: 1 |
-| Chocolate Wrapper Die Cutter from Rusty | 1 | $0.00 | $0.00 | Main Ledger: 1 |
-| Collapsible Foldable Wagon Beach Cart | 1 | $54.30 | $54.30 | Main Ledger: 1 |
-| CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027 | 1 | $162.37 | $162.37 | Main Ledger: 1 |
-| Hastings Serving Kettle Black - 1.5L | 1 | $47.99 | $47.99 | Main Ledger: 1 |
-| Hastings Serving Kettle White - 1.5L | 1 | $47.99 | $47.99 | Main Ledger: 1 |
-| Heat Sealer for Kraft Pouch | 1 | $28.11 | $28.11 | Main Ledger: 1 |
-| Heat Sealer for Kraft Pouch - Brazil | 1 | $24.70 | $24.70 | Main Ledger: 1 |
-| Label Maker - Brazil | 1 | $35.03 | $35.03 | Main Ledger: 1 |
-| Mercado Libre 80Kg Hand Truck | 1 | $38.35 | $38.35 | Main Ledger: 1 |
-| Winnowing and Cracking Machine from Rusty | 1 | $400.00 | $400.00 | Main Ledger: 1 |
-| Butterfly Effect Club Tree Planting Pledge - QR Code | 1 | $1.00 | $1.00 | BEC: 1 |
-| Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | 4.751602757091522e-14 | $1859.25 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
+|---|---|---|---:|---:|---:|---|
+| USD | — | — | 19683.213486077482 | $1.00 | $19683.21 | AGL10: 228.82999999999998, AGL15: 5279.729999999999, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 518.946, BEC: 93.12, Main Ledger: 3172.654637332328, SEF1: 16 |
+| Brazilian Reis | — | — | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
+| Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
+| Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
+| Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
+| Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 368 | $0.74 | $270.59 | Main Ledger: 368 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 358 | $0.68 | $241.81 | Main Ledger: 358 |
+| NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
+| Cacao Almonds (KG) | Cacao Bean | Bulk | 274.085122798 | — | — | AGL8: 274.085122798 |
+| Cacao Tree To Be Planted | — | — | 250 | $-1.50 | $-375.00 | Main Ledger: 250 |
+| Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
+| Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 197 | $0.07 | $13.89 | Main Ledger: 197 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 172 | $10.37 | $1783.64 | AGL8: 172 |
+| Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 157 | $0.55 | $86.98 | Main Ledger: 157 |
+| 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 137 | $6.64 | $909.68 | Main Ledger: 137 |
+| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 100 | $10.18 | $1018.23 | AGL13: 100 |
+| Cacao Nibs (KG) - Ilheus, Brazil 2024 | Cacao Nib | Bulk | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
+| USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
+| Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
+| Chocolate Mold from Rusty | — | — | 50 | $10.00 | $500.00 | Main Ledger: 50 |
+| RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467) | — | — | 50 | $0.55 | $27.70 | Main Ledger: 50 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 43 | $9.02 | $387.83 | Main Ledger: 43 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | Cacao Mass | Retail Ready | 41 | $8.49 | $348.25 | Main Ledger: 41 |
+| USD - provisions for voting rights cash out | — | — | 40.48757226527235 | $1.00 | $40.49 | Main Ledger: 40.48757226527235 |
+| Cacao Almonds KG from Oscar's farm - AGL14 | Cacao Bean | Bulk | 40 | $11.41 | $456.49 | AGL14: 40 |
+| Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | — | — | 39 | $15.70 | $612.11 | Main Ledger: 39 |
+| 1 Gallon Zip Loc Bags | — | — | 34 | $0.14 | $4.78 | Main Ledger: 34 |
+| 8 Ounce Package Kraft Pouch  CP340992735BR | — | — | 27 | $8.51 | $229.75 | Main Ledger: 27 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | — | — | 27 | $8.38 | $226.13 | Main Ledger: 27 |
+| Chocolate Mold - 4 X 6 slots | — | — | 26 | $1.19 | $30.94 | Main Ledger: 26 |
+| 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | — | — | 24 | $9.95 | $238.87 | Main Ledger: 24 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | Cacao Mass | Retail Ready | 24 | $2.40 | $57.70 | Main Ledger: 24 |
+| Cacao Tea (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 21 | $10.18 | $213.83 | AGL13: 21 |
+| Cacao Husk (KG) - Ilheus, Brazil | Cacao Tea | Bulk | 20 | $17.79 | $355.71 | Main Ledger: 20 |
+| Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland | — | — | 20 | $26.87 | $537.46 | Main Ledger: 20 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 17 | $8.38 | $142.38 | Main Ledger: 17 |
+| 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 16 | $9.45 | $151.20 | Main Ledger: 16 |
+| Cacao Almonds KG from Vivi's farm - AGL13 | Cacao Bean | Bulk | 15 | $7.87 | $118.05 | AGL13: 15 |
+| Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Tea | Bulk | 14.6802 | $0.00 | $0.00 | AGL8: 14.6802 |
+| Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | Caramelized Cacao Bean | Retail Ready | 12 | $8.09 | $97.02 | AGL10: 12 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | Cacao Mass | Retail Ready | 11 | $8.52 | $93.69 | AGL6: 11 |
+| 8 Ounce Package Kraft Pouch CP340992687BR | — | — | 10 | $8.88 | $88.79 | Main Ledger: 10 |
+| Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409) | — | — | 10 | $0.93 | $9.29 | Main Ledger: 10 |
+| 8 Ounce Package Kraft Pouch - AGL6 | — | — | 10 | $9.21 | $92.14 | AGL6: 10 |
+| SunMint Tree Planting Pledge - QR Code | — | — | 10 | $0.00 | $0.00 | PP1: 10 |
+| 8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags | — | — | 7 | $8.34 | $58.41 | Main Ledger: 7 |
+| Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 7 | $23.98 | $167.83 | Main Ledger: 7 |
+| 8 Ounce Package Kraft Pouch - AGL2 + V2 bags | — | — | 5 | $7.49 | $37.47 | Main Ledger: 5 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 5 | $8.32 | $41.58 | Main Ledger: 5 |
+| Large Cardboard Box for Moving Packaging 60x40x50 | — | — | 5 | $2.65 | $13.27 | Main Ledger: 5 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8 | Cacao Mass | Retail Ready | 5 | $9.18 | $45.88 | AGL8: 5 |
+| Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409) | — | — | 4 | $10.45 | $41.81 | Main Ledger: 4 |
+| Cacao Mass Bar (40grams) CP340993869BR - AGL8 | — | — | 3.25 | $1.90 | $6.16 | AGL8: 3.25 |
+| 8 Ounce Package Kraft Pouch QN226716310BR - FounderHaus Brazil | — | — | 3 | $8.59 | $25.78 | Main Ledger: 3 |
+| Cacao Husk Bag (weight unknown) | Cacao Tea | Bulk | 3 | — | — | Main Ledger: 3 |
+| Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | — | — | 3 | $5.19 | $15.56 | Main Ledger: 3 |
+| Cacao Almonds KG - Organic | — | — | 2.3025149999999996 | $100.89 | $232.29 | Main Ledger: 2.3025149999999996 |
+| Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
+| Foam container box - 120 kraft pouches capacity | — | — | 2 | $24.11 | $48.22 | Main Ledger: 2 |
+| Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
+| 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
+| Agroverse Retractable Banner | — | — | 1 | $72.57 | $72.57 | Main Ledger: 1 |
+| Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600) | — | — | 1 | $9.17 | $9.17 | Main Ledger: 1 |
+| ATOLOMOTOR Coffee Bean Roaster | — | — | 1 | $86.89 | $86.89 | Main Ledger: 1 |
+| Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | — | — | 1 | $116.91 | $116.91 | Main Ledger: 1 |
+| Cacao Mass Bar CP340992687BR (500grams) | — | — | 1 | $21.54 | $21.54 | Main Ledger: 1 |
+| Canopy 4ft X 6ft with 2 years warranty | — | — | 1 | $62.93 | $62.93 | Main Ledger: 1 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251107 \| San Francisco - AGL8 | — | — | 1 | $8.32 | $8.32 | Main Ledger: 1 |
+| Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 1 | $9.08 | $9.08 | Main Ledger: 1 |
+| Chocolate Wrapper Die Cutter from Rusty | — | — | 1 | $0.00 | $0.00 | Main Ledger: 1 |
+| Collapsible Foldable Wagon Beach Cart | — | — | 1 | $54.30 | $54.30 | Main Ledger: 1 |
+| CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027 | — | — | 1 | $162.37 | $162.37 | Main Ledger: 1 |
+| Hastings Serving Kettle Black - 1.5L | — | — | 1 | $47.99 | $47.99 | Main Ledger: 1 |
+| Hastings Serving Kettle White - 1.5L | — | — | 1 | $47.99 | $47.99 | Main Ledger: 1 |
+| Heat Sealer for Kraft Pouch | — | — | 1 | $28.11 | $28.11 | Main Ledger: 1 |
+| Heat Sealer for Kraft Pouch - Brazil | — | — | 1 | $24.70 | $24.70 | Main Ledger: 1 |
+| Label Maker - Brazil | — | — | 1 | $35.03 | $35.03 | Main Ledger: 1 |
+| Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
+| Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
+| Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
+| ETH | — | — | 4.751602757091522e-14 | $1867.03 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -113,7 +112,7 @@
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
 | AGL8 | 7 | 1224.8613227979984 |
-| BEC | 2 | 93.12 |
+| BEC | 1 | 93.12 |
 | Main Ledger | 67 | 12458.3428004976 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
@@ -128,7 +127,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 32 | 13425.864336778754 |
+| Gary Teh | 31 | 13425.864336778754 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | Green Gulch Zen Monastery | 6 | 84 |
