@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T21:57:14.527326+00:00",
+  "generated_at": "2026-06-04T22:12:18.443535+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -1046,8 +1046,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1056,8 +1056,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1066,8 +1066,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1076,8 +1076,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1086,8 +1086,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1096,8 +1096,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1106,8 +1106,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1116,8 +1116,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1126,8 +1126,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1136,8 +1136,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1146,8 +1146,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1166,8 +1166,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1176,8 +1176,8 @@
         "archived": true,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1186,8 +1186,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1196,8 +1196,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1206,8 +1206,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1216,8 +1216,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1226,8 +1226,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1236,8 +1236,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1246,8 +1246,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1256,8 +1256,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1266,8 +1266,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1276,13 +1276,23 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
         "name": "lineage-engine",
         "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
+        "error": null
+      },
+      {
+        "name": "mainsite",
+        "visibility": "private",
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
@@ -1296,8 +1306,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1306,8 +1316,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1316,8 +1326,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1326,8 +1336,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1336,8 +1346,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1346,8 +1356,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1356,8 +1366,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1366,8 +1376,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1376,8 +1386,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1386,8 +1396,8 @@
         "archived": false,
         "default_branch": "master",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1395,6 +1405,26 @@
         "visibility": "public",
         "archived": true,
         "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
+        "error": null
+      },
+      {
+        "name": "sentiment",
+        "visibility": "private",
+        "archived": false,
+        "default_branch": "master",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "sentiment_importer",
+        "visibility": "private",
+        "archived": false,
+        "default_branch": "master",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
@@ -1406,8 +1436,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1416,8 +1446,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1426,8 +1456,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1436,8 +1466,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1446,8 +1476,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1466,8 +1496,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1476,8 +1506,8 @@
         "archived": false,
         "default_branch": "master",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1486,8 +1516,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1496,8 +1526,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1526,8 +1556,8 @@
         "archived": false,
         "default_branch": "master",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1536,8 +1566,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1546,8 +1576,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1556,15 +1586,15 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       }
     ],
     "summary": {
-      "total": 52,
+      "total": 55,
       "public": 52,
-      "private": 0,
+      "private": 3,
       "with_branch_protection": 0
     }
   },
@@ -1594,10 +1624,10 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T21:58:15.204927+00:00"
+    "scanned_at": "2026-06-04T22:13:33.232755+00:00"
   },
   "score": {
-    "score": 47,
+    "score": 35,
     "deductions": [
       "World-open port 22 on nelanco",
       "World-open port 8000 on nelanco",
@@ -1613,14 +1643,106 @@
       "Missing headers on Mirim Bahia: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on Oracle: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on Beta DApp: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "No branch protection: .github",
+      "Secret scanning off: .github",
+      "No branch protection: agentic_ai_context",
+      "Secret scanning off: agentic_ai_context",
+      "No branch protection: agroverse-freight-audit",
+      "Secret scanning off: agroverse-freight-audit",
+      "No branch protection: agroverse-inventory",
+      "Secret scanning off: agroverse-inventory",
+      "No branch protection: agroverse_shop_beta",
+      "Secret scanning off: agroverse_shop_beta",
+      "No branch protection: agroverse_shop_prod",
+      "Secret scanning off: agroverse_shop_prod",
+      "No branch protection: aora",
+      "Secret scanning off: aora",
+      "No branch protection: butterfly-effect-club",
+      "Secret scanning off: butterfly-effect-club",
+      "No branch protection: capoeira",
+      "Secret scanning off: capoeira",
+      "No branch protection: contributors-cache",
+      "Secret scanning off: contributors-cache",
+      "No branch protection: credential_vault",
+      "Secret scanning off: credential_vault",
       "No branch protection: Cypher-Defense",
       "Secret scanning off: Cypher-Defense",
+      "No branch protection: dao_protocol",
+      "Secret scanning off: dao_protocol",
+      "No branch protection: dapp_beta",
+      "Secret scanning off: dapp_beta",
+      "No branch protection: dapp_prod",
+      "Secret scanning off: dapp_prod",
+      "No branch protection: documentation",
+      "Secret scanning off: documentation",
+      "No branch protection: ecosystem_change_logs",
+      "Secret scanning off: ecosystem_change_logs",
+      "No branch protection: fda_fsvp",
+      "Secret scanning off: fda_fsvp",
+      "No branch protection: fda_haccp",
+      "Secret scanning off: fda_haccp",
+      "No branch protection: governor_chatbot_service",
+      "Secret scanning off: governor_chatbot_service",
+      "No branch protection: go_to_market",
+      "Secret scanning off: go_to_market",
+      "No branch protection: lineage-assets",
+      "Secret scanning off: lineage-assets",
+      "No branch protection: lineage-credentials",
+      "Secret scanning off: lineage-credentials",
+      "No branch protection: lineage-engine",
+      "Secret scanning off: lineage-engine",
+      "No branch protection: metaplex",
+      "Secret scanning off: metaplex",
+      "No branch protection: notarizations",
+      "Secret scanning off: notarizations",
+      "No branch protection: oracle",
+      "Secret scanning off: oracle",
+      "No branch protection: oracle_logs",
+      "Secret scanning off: oracle_logs",
+      "No branch protection: places-cache",
+      "Secret scanning off: places-cache",
+      "No branch protection: point-of-sales-integrations",
+      "Secret scanning off: point-of-sales-integrations",
+      "No branch protection: point-of-sales-integrations-heierling",
+      "Secret scanning off: point-of-sales-integrations-heierling",
+      "No branch protection: program-template",
+      "Secret scanning off: program-template",
+      "No branch protection: proposals",
+      "Secret scanning off: proposals",
+      "No branch protection: pyth_node_sandbox",
+      "Secret scanning off: pyth_node_sandbox",
+      "No branch protection: store_interaction_attachments",
+      "Secret scanning off: store_interaction_attachments",
+      "No branch protection: sunmint",
+      "Secret scanning off: sunmint",
+      "No branch protection: tdg_recipes",
+      "Secret scanning off: tdg_recipes",
+      "No branch protection: token-list",
+      "Secret scanning off: token-list",
+      "No branch protection: tokenomics",
+      "Secret scanning off: tokenomics",
       "No branch protection: treasury-cache",
       "Secret scanning off: treasury-cache",
+      "No branch protection: tribomirimbahia",
+      "Secret scanning off: tribomirimbahia",
+      "No branch protection: TrueChain",
+      "Secret scanning off: TrueChain",
+      "No branch protection: truesight_autopilot",
+      "Secret scanning off: truesight_autopilot",
+      "No branch protection: truesight_autopilot_transcript",
+      "Secret scanning off: truesight_autopilot_transcript",
       "No branch protection: truesight_me_beta",
       "Secret scanning off: truesight_me_beta",
       "No branch protection: truesight_me_prod",
-      "Secret scanning off: truesight_me_prod"
+      "Secret scanning off: truesight_me_prod",
+      "No branch protection: truesight_nft_test",
+      "Secret scanning off: truesight_nft_test",
+      "No branch protection: truesight_protocol",
+      "Secret scanning off: truesight_protocol",
+      "No branch protection: TruthGpt",
+      "Secret scanning off: TruthGpt",
+      "No branch protection: verify_public_signatures",
+      "Secret scanning off: verify_public_signatures"
     ],
     "grade": "D"
   }
