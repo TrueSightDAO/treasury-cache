@@ -1,0 +1,866 @@
+Running security scanners...
+  Running scan_aws_inventory.py...
+  Running scan_web_security.py...
+  Running scan_github_security.py...
+  Running scan_phishing_blacklist.py...
+{
+  "generated_at": "2026-06-04T19:59:14.904071+00:00",
+  "version": "1.0.0",
+  "aws_inventory": [
+    {
+      "account": "nelanco",
+      "account_id": null,
+      "regions": {},
+      "totals": {
+        "instances": 0,
+        "instances_running": 0,
+        "instances_stopped": 0,
+        "key_pairs": 0,
+        "security_groups": 0,
+        "open_ports": []
+      },
+      "error": "AWS credentials not configured"
+    },
+    {
+      "account": "explorya",
+      "account_id": null,
+      "regions": {},
+      "totals": {
+        "instances": 0,
+        "instances_running": 0,
+        "instances_stopped": 0,
+        "key_pairs": 0,
+        "security_groups": 0,
+        "open_ports": []
+      },
+      "error": "AWS credentials not configured"
+    }
+  ],
+  "web_security": [
+    {
+      "name": "TrueSight DAO",
+      "url": "https://truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "dictionary update sequence element #0 has length 1; 2 is required"
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": "max-age=31556952",
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "HSTS",
+            "value": "max-age=31556952"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "Agroverse Shop",
+      "url": "https://agroverse.shop",
+      "tls": {
+        "valid": true,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "dictionary update sequence element #0 has length 1; 2 is required"
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": "max-age=31556952",
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "HSTS",
+            "value": "max-age=31556952"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "DApp",
+      "url": "https://dapp.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "dictionary update sequence element #0 has length 1; 2 is required"
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": "max-age=31556952",
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "HSTS",
+            "value": "max-age=31556952"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "Edgar API",
+      "url": "https://edgar.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "dictionary update sequence element #0 has length 1; 2 is required"
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": "SAMEORIGIN",
+          "XCTO": "nosniff",
+          "Referrer-Policy": "strict-origin-when-cross-origin",
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "XFO",
+            "value": "SAMEORIGIN"
+          },
+          {
+            "header": "XCTO",
+            "value": "nosniff"
+          },
+          {
+            "header": "Referrer-Policy",
+            "value": "strict-origin-when-cross-origin"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "Capoeira",
+      "url": "https://capoeira.agroverse.shop",
+      "tls": {
+        "valid": true,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "dictionary update sequence element #0 has length 1; 2 is required"
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "Mirim Bahia",
+      "url": "https://mirim-bahia.truesight.me",
+      "tls": {
+        "valid": false,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "[Errno -2] Name or service not known"
+      },
+      "headers": {
+        "status_code": null,
+        "headers": {},
+        "present": [],
+        "missing": [],
+        "error": "HTTPSConnectionPool(host='mirim-bahia.truesight.me', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='mirim-bahia.truesight.me', port=443): Failed to resolve 'mirim-bahia.truesight.me' ([Errno -2] Name or service not known)\"))"
+      }
+    },
+    {
+      "name": "Oracle",
+      "url": "https://oracle.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "dictionary update sequence element #0 has length 1; 2 is required"
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "Beta DApp",
+      "url": "https://beta.dapp.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "dictionary update sequence element #0 has length 1; 2 is required"
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    }
+  ],
+  "github_security": {
+    "repos": [
+      {
+        "name": ".github",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "agentic_ai_context",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "agroverse-freight-audit",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "agroverse-inventory",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "agroverse_shop_beta",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "agroverse_shop_prod",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "butterfly-effect-club",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "capoeira",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "contributors-cache",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "credential_vault",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "Cypher-Defense",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "master",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "dao_protocol",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "dapp",
+        "visibility": "public",
+        "archived": true,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "dapp_beta",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "dapp_prod",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "documentation",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "ecosystem_change_logs",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "fda_fsvp",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
+        "name": "fda_haccp",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "governor_chatbot_service",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "go_to_market",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "lineage-assets",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "lineage-credentials",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "lineage-engine",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "metaplex",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "notarizations",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "oracle",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "oracle_logs",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "places-cache",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "point-of-sales-integrations",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "point-of-sales-integrations-heierling",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "program-template",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "proposals",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "pyth_node_sandbox",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "qr_codes",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "store_interaction_attachments",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "sunmint",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "tdg_recipes",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "token-list",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "tokenomics",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "treasury-cache",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "tribomirimbahia",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "TrueChain",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "truesight_autopilot",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "truesight_autopilot_transcript",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "truesight_me_beta",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "truesight_me_prod",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "truesight_nft_test",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "truesight_protocol",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "TruthGpt",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      },
+      {
+        "name": "verify_public_signatures",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": "HTTP 403"
+      }
+    ],
+    "summary": {
+      "total": 51,
+      "public": 18,
+      "private": 0,
+      "with_branch_protection": 0
+    }
+  },
+  "phishing_blacklist": {
+    "summary": {
+      "total_entries": 4,
+      "blacklisted_domains": 2,
+      "verified_domains": 0,
+      "blacklisted_people": 1,
+      "blacklisted_urls": 1
+    },
+    "domains": [
+      {
+        "value": "metaversegold.space",
+        "status": "blacklisted",
+        "flagger": "Jacki Roach"
+      },
+      {
+        "value": "atoplatform.com",
+        "status": "blacklisted",
+        "flagger": "unknown"
+      }
+    ],
+    "people": [
+      "carrie-eldridge-57204516"
+    ],
+    "urls": [
+      "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
+    ],
+    "scanned_at": "2026-06-04T19:59:29.072077+00:00"
+  },
+  "score": {
+    "score": 100,
+    "deductions": [],
+    "grade": "A"
+  }
+}
