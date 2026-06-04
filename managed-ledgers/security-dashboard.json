@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T23:12:35.125991+00:00",
+  "generated_at": "2026-06-04T23:27:27.068003+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -706,6 +706,8 @@
     {
       "name": "affiliate.agroverse.shop",
       "url": "https://affiliate.agroverse.shop",
+      "hosting": "ec2",
+      "target": "78.47.222.166",
       "tls": {
         "valid": true,
         "issuer": {
@@ -743,8 +745,10 @@
       }
     },
     {
-      "name": "Agroverse Shop",
+      "name": "agroverse.shop",
       "url": "https://agroverse.shop",
+      "hosting": "github-pages",
+      "target": "2606:50c0:8000::153",
       "tls": {
         "valid": true,
         "issuer": {
@@ -788,6 +792,8 @@
     {
       "name": "api.truesight.me",
       "url": "https://api.truesight.me",
+      "hosting": "ec2",
+      "target": "54.226.114.186",
       "tls": {
         "valid": false,
         "issuer": null,
@@ -807,6 +813,8 @@
     {
       "name": "assets.truesight.me",
       "url": "https://assets.truesight.me",
+      "hosting": "external",
+      "target": "assets.trends.getdata.io",
       "tls": {
         "valid": false,
         "issuer": null,
@@ -826,6 +834,8 @@
     {
       "name": "beta.agroverse.shop",
       "url": "https://beta.agroverse.shop",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -867,8 +877,10 @@
       }
     },
     {
-      "name": "Beta DApp",
+      "name": "beta.dapp.truesight.me",
       "url": "https://beta.dapp.truesight.me",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -908,6 +920,8 @@
     {
       "name": "beta.truesight.me",
       "url": "https://beta.truesight.me",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -947,6 +961,8 @@
     {
       "name": "blog.truesight.me",
       "url": "https://blog.truesight.me",
+      "hosting": "ec2",
+      "target": "192.0.78.24",
       "tls": {
         "valid": false,
         "issuer": null,
@@ -966,6 +982,8 @@
     {
       "name": "butterfly-effect-club.truesight.me",
       "url": "https://butterfly-effect-club.truesight.me",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1003,8 +1021,10 @@
       }
     },
     {
-      "name": "Capoeira",
+      "name": "capoeira.agroverse.shop",
       "url": "https://capoeira.agroverse.shop",
+      "hosting": "github-pages",
+      "target": "185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1044,6 +1064,8 @@
     {
       "name": "chatbot.truesight.me",
       "url": "https://chatbot.truesight.me",
+      "hosting": "ec2",
+      "target": "54.226.114.186",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1069,6 +1091,8 @@
     {
       "name": "customer-success-campaigns.truesight.me",
       "url": "https://customer-success-campaigns.truesight.me",
+      "hosting": "external",
+      "target": "u2029794.wl045.sendgrid.net",
       "tls": {
         "valid": false,
         "issuer": null,
@@ -1086,8 +1110,10 @@
       }
     },
     {
-      "name": "DApp",
+      "name": "dapp.truesight.me",
       "url": "https://dapp.truesight.me",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1129,8 +1155,10 @@
       }
     },
     {
-      "name": "Edgar API",
+      "name": "edgar.truesight.me",
       "url": "https://edgar.truesight.me",
+      "hosting": "ec2",
+      "target": "54.211.179.126",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1180,6 +1208,8 @@
     {
       "name": "heierling.truesight.me",
       "url": "https://heierling.truesight.me",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1217,8 +1247,10 @@
       }
     },
     {
-      "name": "Oracle",
+      "name": "oracle.truesight.me",
       "url": "https://oracle.truesight.me",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1258,6 +1290,8 @@
     {
       "name": "sg.agroverse.shop",
       "url": "https://sg.agroverse.shop",
+      "hosting": "external",
+      "target": "sg.agroverse.shop.s013.ascendbywix.com",
       "tls": {
         "valid": false,
         "issuer": null,
@@ -1277,6 +1311,8 @@
     {
       "name": "sophia.truesight.me",
       "url": "https://sophia.truesight.me",
+      "hosting": "ec2",
+      "target": "52.200.38.206",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1327,8 +1363,10 @@
       }
     },
     {
-      "name": "Mirim Bahia",
+      "name": "tribomirimbahia.truesight.me",
       "url": "https://tribomirimbahia.truesight.me",
+      "hosting": "github-pages",
+      "target": "185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1366,8 +1404,10 @@
       }
     },
     {
-      "name": "TrueSight DAO",
+      "name": "truesight.me",
       "url": "https://truesight.me",
+      "hosting": "github-pages",
+      "target": "185.199.108.153, 185.199.109.153, 185.199.110.153, 185.199.111.153",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1411,6 +1451,8 @@
     {
       "name": "www.agroverse.shop",
       "url": "https://www.agroverse.shop",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1454,6 +1496,8 @@
     {
       "name": "www.truesight.me",
       "url": "https://www.truesight.me",
+      "hosting": "github-pages",
+      "target": "truesightdao.github.io",
       "tls": {
         "valid": true,
         "issuer": {
@@ -2081,10 +2125,10 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T23:14:06.286972+00:00"
+    "scanned_at": "2026-06-04T23:29:12.130615+00:00"
   },
   "score": {
-    "score": 0,
+    "score": 25,
     "deductions": [
       "World-open port 22 on nelanco",
       "World-open port 8000 on nelanco",
@@ -2093,24 +2137,21 @@
       "World-open port 3002 on explorya",
       "World-open all traffic on explorya",
       "TLS error on api.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.truesight.me'. (_ssl.c:1016)",
-      "TLS error on assets.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'assets.truesight.me'. (_ssl.c:1016)",
       "TLS error on blog.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'blog.truesight.me'. (_ssl.c:1016)",
-      "TLS error on customer-success-campaigns.truesight.me: [Errno -2] Name or service not known",
-      "TLS error on sg.agroverse.shop: [Errno -2] Name or service not known",
       "Missing headers on affiliate.agroverse.shop: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on Agroverse Shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on Beta DApp: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on beta.dapp.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on butterfly-effect-club.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on Capoeira: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on DApp: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on Edgar API: CSP, HSTS, Permissions-Policy",
+      "Missing headers on capoeira.agroverse.shop: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on dapp.truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on edgar.truesight.me: CSP, HSTS, Permissions-Policy",
       "Missing headers on heierling.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on Oracle: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on oracle.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on sophia.truesight.me: CSP, Permissions-Policy",
-      "Missing headers on Mirim Bahia: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on TrueSight DAO: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on tribomirimbahia.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on www.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on www.truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "No branch protection: .github",
@@ -2214,6 +2255,6 @@
       "No branch protection: verify_public_signatures",
       "Secret scanning off: verify_public_signatures"
     ],
-    "grade": "F"
+    "grade": "D"
   }
 }
