@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T21:18:30.514246+00:00",
+  "generated_at": "2026-06-04T21:34:56.576484+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -641,23 +641,23 @@
       },
       {
         "name": "oracle_logs",
-        "visibility": "public",
-        "archived": false,
-        "default_branch": "main",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": null
+        "error": "HTTP 403"
       },
       {
         "name": "places-cache",
-        "visibility": "public",
-        "archived": false,
-        "default_branch": "main",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": null
+        "error": "HTTP 403"
       },
       {
         "name": "point-of-sales-integrations",
@@ -882,7 +882,7 @@
     ],
     "summary": {
       "total": 51,
-      "public": 29,
+      "public": 27,
       "private": 0,
       "with_branch_protection": 0
     }
@@ -913,7 +913,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T21:18:39.052890+00:00"
+    "scanned_at": "2026-06-04T21:35:13.126952+00:00"
   },
   "score": {
     "score": 100,
