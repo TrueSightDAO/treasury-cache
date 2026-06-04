@@ -1,12 +1,40 @@
-Running security scanners...
-  Running scan_aws_inventory.py...
-  Running scan_web_security.py...
-  Running scan_github_security.py...
-  Running scan_phishing_blacklist.py...
 {
   "generated_at": "2026-06-04T19:59:14.904071+00:00",
   "version": "1.0.0",
-  "aws_inventory": [
+  "phishing_blacklist": {
+    "summary": {
+      "total_entries": 4,
+      "blacklisted_domains": 2,
+      "verified_domains": 0,
+      "blacklisted_people": 1,
+      "blacklisted_urls": 1
+    },
+    "domains": [
+      {
+        "value": "metaversegold.space",
+        "status": "blacklisted",
+        "flagger": "Jacki Roach"
+      },
+      {
+        "value": "atoplatform.com",
+        "status": "blacklisted",
+        "flagger": "unknown"
+      }
+    ],
+    "people": [
+      "carrie-eldridge-57204516"
+    ],
+    "urls": [
+      "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
+    ],
+    "scanned_at": "2026-06-04T19:59:29.072077+00:00"
+  },
+  "score": {
+    "score": 100,
+    "deductions": [],
+    "grade": "A"
+  },
+  "aws": [
     {
       "account": "nelanco",
       "account_id": null,
@@ -36,7 +64,7 @@ Running security scanners...
       "error": "AWS credentials not configured"
     }
   ],
-  "web_security": [
+  "web": [
     {
       "name": "TrueSight DAO",
       "url": "https://truesight.me",
@@ -310,7 +338,7 @@ Running security scanners...
       }
     }
   ],
-  "github_security": {
+  "github": {
     "repos": [
       {
         "name": ".github",
@@ -829,38 +857,5 @@ Running security scanners...
       "private": 0,
       "with_branch_protection": 0
     }
-  },
-  "phishing_blacklist": {
-    "summary": {
-      "total_entries": 4,
-      "blacklisted_domains": 2,
-      "verified_domains": 0,
-      "blacklisted_people": 1,
-      "blacklisted_urls": 1
-    },
-    "domains": [
-      {
-        "value": "metaversegold.space",
-        "status": "blacklisted",
-        "flagger": "Jacki Roach"
-      },
-      {
-        "value": "atoplatform.com",
-        "status": "blacklisted",
-        "flagger": "unknown"
-      }
-    ],
-    "people": [
-      "carrie-eldridge-57204516"
-    ],
-    "urls": [
-      "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
-    ],
-    "scanned_at": "2026-06-04T19:59:29.072077+00:00"
-  },
-  "score": {
-    "score": 100,
-    "deductions": [],
-    "grade": "A"
   }
 }
