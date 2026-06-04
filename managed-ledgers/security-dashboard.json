@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T21:54:56.310220+00:00",
+  "generated_at": "2026-06-04T21:57:14.527326+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -1594,11 +1594,34 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T21:55:59.486690+00:00"
+    "scanned_at": "2026-06-04T21:58:15.204927+00:00"
   },
   "score": {
-    "score": 100,
-    "deductions": [],
-    "grade": "A"
+    "score": 47,
+    "deductions": [
+      "World-open port 22 on nelanco",
+      "World-open port 8000 on nelanco",
+      "World-open all traffic on nelanco",
+      "World-open port 22 on explorya",
+      "World-open port 3002 on explorya",
+      "World-open all traffic on explorya",
+      "Missing headers on TrueSight DAO: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on Agroverse Shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on DApp: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on Edgar API: CSP, HSTS, Permissions-Policy",
+      "Missing headers on Capoeira: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on Mirim Bahia: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on Oracle: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on Beta DApp: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "No branch protection: Cypher-Defense",
+      "Secret scanning off: Cypher-Defense",
+      "No branch protection: treasury-cache",
+      "Secret scanning off: treasury-cache",
+      "No branch protection: truesight_me_beta",
+      "Secret scanning off: truesight_me_beta",
+      "No branch protection: truesight_me_prod",
+      "Secret scanning off: truesight_me_prod"
+    ],
+    "grade": "D"
   }
 }
