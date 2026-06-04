@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T21:38:47.549896+00:00",
+  "generated_at": "2026-06-04T21:54:56.310220+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -895,7 +895,7 @@
           "commonName": "capoeira.agroverse.shop"
         },
         "expiry": "2026-08-08T21:50:59+00:00",
-        "days_remaining": 65,
+        "days_remaining": 64,
         "error": null
       },
       "headers": {
@@ -1101,6 +1101,16 @@
         "error": null
       },
       {
+        "name": "aora",
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
+        "branch_protection": null,
+        "secret_scanning": null,
+        "dependabot": null,
+        "error": null
+      },
+      {
         "name": "butterfly-effect-club",
         "visibility": "public",
         "archived": false,
@@ -1146,8 +1156,8 @@
         "archived": false,
         "default_branch": "master",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1446,8 +1456,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1496,8 +1506,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1506,8 +1516,8 @@
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": null,
-        "dependabot": null,
+        "secret_scanning": "disabled",
+        "dependabot": "disabled",
         "error": null
       },
       {
@@ -1552,8 +1562,8 @@
       }
     ],
     "summary": {
-      "total": 51,
-      "public": 51,
+      "total": 52,
+      "public": 52,
       "private": 0,
       "with_branch_protection": 0
     }
@@ -1584,7 +1594,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T21:39:56.152805+00:00"
+    "scanned_at": "2026-06-04T21:55:59.486690+00:00"
   },
   "score": {
     "score": 100,
