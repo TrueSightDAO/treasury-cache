@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:47:22.752420+00:00",
+  "generated_at": "2026-06-04T20:54:28.023002+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -601,43 +601,43 @@
       },
       {
         "name": "notarizations",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "oracle",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "oracle_logs",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "places-cache",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "point-of-sales-integrations",
@@ -862,7 +862,7 @@
     ],
     "summary": {
       "total": 51,
-      "public": 25,
+      "public": 29,
       "private": 0,
       "with_branch_protection": 0
     }
@@ -893,7 +893,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T20:47:36.669689+00:00"
+    "scanned_at": "2026-06-04T20:54:40.211420+00:00"
   },
   "score": {
     "score": 100,
