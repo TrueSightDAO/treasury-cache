@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T20:54:28.023002+00:00",
+  "generated_at": "2026-06-04T21:13:18.320407+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -251,21 +251,41 @@
     },
     {
       "name": "Mirim Bahia",
-      "url": "https://mirim-bahia.truesight.me",
+      "url": "https://tribomirimbahia.truesight.me",
       "tls": {
-        "valid": false,
-        "issuer": null,
-        "subject": null,
-        "expiry": null,
-        "days_remaining": null,
-        "error": "[Errno -2] Name or service not known"
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R13"
+        },
+        "subject": {
+          "commonName": "tribomirimbahia.truesight.me"
+        },
+        "expiry": "2026-08-08T23:57:48+00:00",
+        "days_remaining": 65,
+        "error": null
       },
       "headers": {
-        "status_code": null,
-        "headers": {},
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
         "present": [],
-        "missing": [],
-        "error": "HTTPSConnectionPool(host='mirim-bahia.truesight.me', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='mirim-bahia.truesight.me', port=443): Failed to resolve 'mirim-bahia.truesight.me' ([Errno -2] Name or service not known)\"))"
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
       }
     },
     {
@@ -621,23 +641,23 @@
       },
       {
         "name": "oracle_logs",
-        "visibility": "public",
-        "archived": false,
-        "default_branch": "main",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": null
+        "error": "HTTP 403"
       },
       {
         "name": "places-cache",
-        "visibility": "public",
-        "archived": false,
-        "default_branch": "main",
+        "visibility": null,
+        "archived": null,
+        "default_branch": null,
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": null
+        "error": "HTTP 403"
       },
       {
         "name": "point-of-sales-integrations",
@@ -862,7 +882,7 @@
     ],
     "summary": {
       "total": 51,
-      "public": 29,
+      "public": 27,
       "private": 0,
       "with_branch_protection": 0
     }
@@ -893,7 +913,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T20:54:40.211420+00:00"
+    "scanned_at": "2026-06-04T21:13:27.870346+00:00"
   },
   "score": {
     "score": 100,
