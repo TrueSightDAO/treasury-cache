@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T22:12:18.443535+00:00",
+  "generated_at": "2026-06-04T23:12:35.125991+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -704,40 +704,36 @@
   ],
   "web_security": [
     {
-      "name": "TrueSight DAO",
-      "url": "https://truesight.me",
+      "name": "affiliate.agroverse.shop",
+      "url": "https://affiliate.agroverse.shop",
       "tls": {
         "valid": true,
         "issuer": {
-          "countryName": "US",
-          "organizationName": "Let's Encrypt",
-          "commonName": "R13"
+          "countryName": "AT",
+          "organizationName": "ZeroSSL GmbH",
+          "commonName": "ZeroSSL ECC DV SSL CA 2"
         },
         "subject": {
-          "commonName": "truesight.me"
+          "commonName": "affiliate.agroverse.shop"
         },
-        "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 76,
+        "expiry": "2026-07-22T23:59:59+00:00",
+        "days_remaining": 48,
         "error": null
       },
       "headers": {
         "status_code": 200,
         "headers": {
           "CSP": null,
-          "HSTS": "max-age=31556952",
+          "HSTS": null,
           "XFO": null,
           "XCTO": null,
           "Referrer-Policy": null,
           "Permissions-Policy": null
         },
-        "present": [
-          {
-            "header": "HSTS",
-            "value": "max-age=31556952"
-          }
-        ],
+        "present": [],
         "missing": [
           "CSP",
+          "HSTS",
           "XFO",
           "XCTO",
           "Referrer-Policy",
@@ -787,6 +783,306 @@
           "Permissions-Policy"
         ],
         "error": null
+      }
+    },
+    {
+      "name": "api.truesight.me",
+      "url": "https://api.truesight.me",
+      "tls": {
+        "valid": false,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.truesight.me'. (_ssl.c:1016)"
+      },
+      "headers": {
+        "status_code": null,
+        "headers": {},
+        "present": [],
+        "missing": [],
+        "error": "HTTPSConnectionPool(host='api.truesight.me', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.truesight.me'. (_ssl.c:1016)\")))"
+      }
+    },
+    {
+      "name": "assets.truesight.me",
+      "url": "https://assets.truesight.me",
+      "tls": {
+        "valid": false,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'assets.truesight.me'. (_ssl.c:1016)"
+      },
+      "headers": {
+        "status_code": null,
+        "headers": {},
+        "present": [],
+        "missing": [],
+        "error": "HTTPSConnectionPool(host='assets.truesight.me', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'assets.truesight.me'. (_ssl.c:1016)\")))"
+      }
+    },
+    {
+      "name": "beta.agroverse.shop",
+      "url": "https://beta.agroverse.shop",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R13"
+        },
+        "subject": {
+          "commonName": "beta.agroverse.shop"
+        },
+        "expiry": "2026-08-18T13:39:19+00:00",
+        "days_remaining": 74,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": "max-age=31556952",
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "HSTS",
+            "value": "max-age=31556952"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "Beta DApp",
+      "url": "https://beta.dapp.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "YR1"
+        },
+        "subject": {
+          "commonName": "beta.dapp.truesight.me"
+        },
+        "expiry": "2026-08-26T18:44:46+00:00",
+        "days_remaining": 82,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "beta.truesight.me",
+      "url": "https://beta.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R12"
+        },
+        "subject": {
+          "commonName": "beta.truesight.me"
+        },
+        "expiry": "2026-08-13T10:22:49+00:00",
+        "days_remaining": 69,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "blog.truesight.me",
+      "url": "https://blog.truesight.me",
+      "tls": {
+        "valid": false,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'blog.truesight.me'. (_ssl.c:1016)"
+      },
+      "headers": {
+        "status_code": null,
+        "headers": {},
+        "present": [],
+        "missing": [],
+        "error": "HTTPSConnectionPool(host='blog.truesight.me', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'blog.truesight.me'. (_ssl.c:1016)\")))"
+      }
+    },
+    {
+      "name": "butterfly-effect-club.truesight.me",
+      "url": "https://butterfly-effect-club.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R12"
+        },
+        "subject": {
+          "commonName": "butterfly-effect-club.truesight.me"
+        },
+        "expiry": "2026-08-20T20:17:12+00:00",
+        "days_remaining": 76,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "Capoeira",
+      "url": "https://capoeira.agroverse.shop",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R12"
+        },
+        "subject": {
+          "commonName": "capoeira.agroverse.shop"
+        },
+        "expiry": "2026-08-08T21:50:59+00:00",
+        "days_remaining": 64,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "chatbot.truesight.me",
+      "url": "https://chatbot.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "GB",
+          "organizationName": "Sectigo Limited",
+          "commonName": "Sectigo Public Server Authentication CA DV R36"
+        },
+        "subject": {
+          "commonName": "chatbot.truesight.me"
+        },
+        "expiry": "2026-11-08T23:59:59+00:00",
+        "days_remaining": 157,
+        "error": null
+      },
+      "headers": {
+        "status_code": null,
+        "headers": {},
+        "present": [],
+        "missing": [],
+        "error": "HTTPSConnectionPool(host='chatbot.truesight.me', port=443): Read timed out. (read timeout=15)"
+      }
+    },
+    {
+      "name": "customer-success-campaigns.truesight.me",
+      "url": "https://customer-success-campaigns.truesight.me",
+      "tls": {
+        "valid": false,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "[Errno -2] Name or service not known"
+      },
+      "headers": {
+        "status_code": null,
+        "headers": {},
+        "present": [],
+        "missing": [],
+        "error": "HTTPSConnectionPool(host='customer-success-campaigns.truesight.me', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='customer-success-campaigns.truesight.me', port=443): Failed to resolve 'customer-success-campaigns.truesight.me' ([Errno -2] Name or service not known)\"))"
       }
     },
     {
@@ -846,7 +1142,7 @@
           "commonName": "edgar.truesight.me"
         },
         "expiry": "2026-08-08T23:12:36+00:00",
-        "days_remaining": 65,
+        "days_remaining": 64,
         "error": null
       },
       "headers": {
@@ -882,47 +1178,8 @@
       }
     },
     {
-      "name": "Capoeira",
-      "url": "https://capoeira.agroverse.shop",
-      "tls": {
-        "valid": true,
-        "issuer": {
-          "countryName": "US",
-          "organizationName": "Let's Encrypt",
-          "commonName": "R12"
-        },
-        "subject": {
-          "commonName": "capoeira.agroverse.shop"
-        },
-        "expiry": "2026-08-08T21:50:59+00:00",
-        "days_remaining": 64,
-        "error": null
-      },
-      "headers": {
-        "status_code": 200,
-        "headers": {
-          "CSP": null,
-          "HSTS": null,
-          "XFO": null,
-          "XCTO": null,
-          "Referrer-Policy": null,
-          "Permissions-Policy": null
-        },
-        "present": [],
-        "missing": [
-          "CSP",
-          "HSTS",
-          "XFO",
-          "XCTO",
-          "Referrer-Policy",
-          "Permissions-Policy"
-        ],
-        "error": null
-      }
-    },
-    {
-      "name": "Mirim Bahia",
-      "url": "https://tribomirimbahia.truesight.me",
+      "name": "heierling.truesight.me",
+      "url": "https://heierling.truesight.me",
       "tls": {
         "valid": true,
         "issuer": {
@@ -931,10 +1188,10 @@
           "commonName": "R13"
         },
         "subject": {
-          "commonName": "tribomirimbahia.truesight.me"
+          "commonName": "heierling.truesight.me"
         },
-        "expiry": "2026-08-08T23:57:48+00:00",
-        "days_remaining": 65,
+        "expiry": "2026-08-12T03:41:19+00:00",
+        "days_remaining": 68,
         "error": null
       },
       "headers": {
@@ -999,20 +1256,91 @@
       }
     },
     {
-      "name": "Beta DApp",
-      "url": "https://beta.dapp.truesight.me",
+      "name": "sg.agroverse.shop",
+      "url": "https://sg.agroverse.shop",
+      "tls": {
+        "valid": false,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "[Errno -2] Name or service not known"
+      },
+      "headers": {
+        "status_code": null,
+        "headers": {},
+        "present": [],
+        "missing": [],
+        "error": "HTTPSConnectionPool(host='sg.agroverse.shop', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='sg.agroverse.shop', port=443): Failed to resolve 'sg.agroverse.shop' ([Errno -2] Name or service not known)\"))"
+      }
+    },
+    {
+      "name": "sophia.truesight.me",
+      "url": "https://sophia.truesight.me",
       "tls": {
         "valid": true,
         "issuer": {
           "countryName": "US",
           "organizationName": "Let's Encrypt",
-          "commonName": "YR1"
+          "commonName": "YE2"
         },
         "subject": {
-          "commonName": "beta.dapp.truesight.me"
+          "commonName": "sophia.truesight.me"
         },
-        "expiry": "2026-08-26T18:44:46+00:00",
-        "days_remaining": 82,
+        "expiry": "2026-08-28T22:13:40+00:00",
+        "days_remaining": 84,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": "max-age=63072000; includeSubDomains; preload",
+          "XFO": "DENY",
+          "XCTO": "nosniff",
+          "Referrer-Policy": "strict-origin-when-cross-origin",
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "HSTS",
+            "value": "max-age=63072000; includeSubDomains; preload"
+          },
+          {
+            "header": "XFO",
+            "value": "DENY"
+          },
+          {
+            "header": "XCTO",
+            "value": "nosniff"
+          },
+          {
+            "header": "Referrer-Policy",
+            "value": "strict-origin-when-cross-origin"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "Mirim Bahia",
+      "url": "https://tribomirimbahia.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R13"
+        },
+        "subject": {
+          "commonName": "tribomirimbahia.truesight.me"
+        },
+        "expiry": "2026-08-08T23:57:48+00:00",
+        "days_remaining": 65,
         "error": null
       },
       "headers": {
@@ -1029,6 +1357,135 @@
         "missing": [
           "CSP",
           "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "TrueSight DAO",
+      "url": "https://truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R13"
+        },
+        "subject": {
+          "commonName": "truesight.me"
+        },
+        "expiry": "2026-08-20T00:15:51+00:00",
+        "days_remaining": 76,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": "max-age=31556952",
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "HSTS",
+            "value": "max-age=31556952"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "www.agroverse.shop",
+      "url": "https://www.agroverse.shop",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "YR1"
+        },
+        "subject": {
+          "commonName": "agroverse.shop"
+        },
+        "expiry": "2026-08-27T06:30:20+00:00",
+        "days_remaining": 83,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": "max-age=31556952",
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "HSTS",
+            "value": "max-age=31556952"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "www.truesight.me",
+      "url": "https://www.truesight.me",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "R13"
+        },
+        "subject": {
+          "commonName": "truesight.me"
+        },
+        "expiry": "2026-08-20T00:15:51+00:00",
+        "days_remaining": 76,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": "max-age=31556952",
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "HSTS",
+            "value": "max-age=31556952"
+          }
+        ],
+        "missing": [
+          "CSP",
           "XFO",
           "XCTO",
           "Referrer-Policy",
@@ -1624,10 +2081,10 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T22:13:33.232755+00:00"
+    "scanned_at": "2026-06-04T23:14:06.286972+00:00"
   },
   "score": {
-    "score": 35,
+    "score": 0,
     "deductions": [
       "World-open port 22 on nelanco",
       "World-open port 8000 on nelanco",
@@ -1635,14 +2092,27 @@
       "World-open port 22 on explorya",
       "World-open port 3002 on explorya",
       "World-open all traffic on explorya",
-      "Missing headers on TrueSight DAO: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "TLS error on api.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.truesight.me'. (_ssl.c:1016)",
+      "TLS error on assets.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'assets.truesight.me'. (_ssl.c:1016)",
+      "TLS error on blog.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'blog.truesight.me'. (_ssl.c:1016)",
+      "TLS error on customer-success-campaigns.truesight.me: [Errno -2] Name or service not known",
+      "TLS error on sg.agroverse.shop: [Errno -2] Name or service not known",
+      "Missing headers on affiliate.agroverse.shop: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on Agroverse Shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on beta.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on Beta DApp: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on beta.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on butterfly-effect-club.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on Capoeira: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on DApp: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on Edgar API: CSP, HSTS, Permissions-Policy",
-      "Missing headers on Capoeira: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on Mirim Bahia: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on heierling.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on Oracle: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on Beta DApp: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on sophia.truesight.me: CSP, Permissions-Policy",
+      "Missing headers on Mirim Bahia: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on TrueSight DAO: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on www.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on www.truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "No branch protection: .github",
       "Secret scanning off: .github",
       "No branch protection: agentic_ai_context",
@@ -1744,6 +2214,6 @@
       "No branch protection: verify_public_signatures",
       "Secret scanning off: verify_public_signatures"
     ],
-    "grade": "D"
+    "grade": "F"
   }
 }
