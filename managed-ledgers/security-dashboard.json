@@ -1,34 +1,705 @@
 {
-  "generated_at": "2026-06-04T21:34:56.576484+00:00",
+  "generated_at": "2026-06-04T21:38:47.549896+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
       "account": "nelanco",
-      "account_id": null,
-      "regions": {},
-      "totals": {
-        "instances": 0,
-        "instances_running": 0,
-        "instances_stopped": 0,
-        "key_pairs": 0,
-        "security_groups": 0,
-        "open_ports": []
+      "account_id": "767697632458",
+      "regions": {
+        "ap-south-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-032d3569",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-north-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-6284c005",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-west-3": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-2d6f7b45",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-west-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-f19cf09b",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-west-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-fd28fe83",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ap-northeast-3": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-105dae7c",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ap-northeast-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-51e2a33c",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ap-northeast-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-cb3bf6b1",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ca-central-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-92893bf8",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "sa-east-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-55ffee2c",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ap-southeast-1": {
+          "instances": [
+            {
+              "id": "i-0c72b8fdf42a1b347",
+              "name": "LATOKENS - exchange proxy",
+              "state": "running",
+              "type": "t2.micro",
+              "launch_time": "2025-01-30T23:11:15+00:00"
+            }
+          ],
+          "key_pairs": [
+            {
+              "name": "LATOKENS_exchange",
+              "fingerprint": "05:21:3b:a2:5d:a7:36:84:76:c2:f2:36:7c:dc:f9:c8:d1:36:68:8b"
+            }
+          ],
+          "security_groups": [
+            {
+              "id": "sg-4f8c7234",
+              "name": "default",
+              "open_ports": []
+            },
+            {
+              "id": "sg-001417b2ba3006077",
+              "name": "launch-wizard-1",
+              "open_ports": [
+                22
+              ]
+            }
+          ],
+          "error": null
+        },
+        "ap-southeast-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-4d229b36",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-central-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-0022b46f",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "us-east-1": {
+          "instances": [
+            {
+              "id": "i-030c1452b197c920a",
+              "name": "GETDATA_REDIS",
+              "state": "running",
+              "type": "t3a.small",
+              "launch_time": "2026-01-02T20:22:55+00:00"
+            },
+            {
+              "id": "i-09ecc8ecc91d09206",
+              "name": "seni_redis_2",
+              "state": "running",
+              "type": "t2.large",
+              "launch_time": "2026-02-03T01:37:41+00:00"
+            },
+            {
+              "id": "i-03224db5f5a49709c",
+              "name": "krake_sk_scaler",
+              "state": "running",
+              "type": "t2.micro",
+              "launch_time": "2025-10-16T19:04:32+00:00"
+            },
+            {
+              "id": "i-02599e3b3a03e38e4",
+              "name": "krake_sk_webhook",
+              "state": "running",
+              "type": "t2.small",
+              "launch_time": "2025-10-16T19:03:59+00:00"
+            },
+            {
+              "id": "i-063dc4a3be90bd630",
+              "name": "seni_ror_200250915",
+              "state": "running",
+              "type": "t2.small",
+              "launch_time": "2026-05-28T20:39:39+00:00"
+            },
+            {
+              "id": "i-0d63b472d8a8893f8",
+              "name": "GETDATA_CACHE",
+              "state": "running",
+              "type": "t2.micro",
+              "launch_time": "2025-10-23T06:11:44+00:00"
+            },
+            {
+              "id": "i-07c76510b231d787f",
+              "name": "krake_data",
+              "state": "running",
+              "type": "t3.medium",
+              "launch_time": "2025-10-24T08:47:49+00:00"
+            },
+            {
+              "id": "i-06fc0dd44fa9cdbf2",
+              "name": "krake_sk_crawler",
+              "state": "running",
+              "type": "t2.small",
+              "launch_time": "2025-10-16T19:03:04+00:00"
+            },
+            {
+              "id": "i-0df7a9e513dc537a6",
+              "name": "krake_ror",
+              "state": "running",
+              "type": "t2.micro",
+              "launch_time": "2025-10-24T18:41:02+00:00"
+            },
+            {
+              "id": "i-05a041b6956aa7154",
+              "name": "krake_nginx",
+              "state": "running",
+              "type": "t2.micro",
+              "launch_time": "2025-11-04T18:16:00+00:00"
+            },
+            {
+              "id": "i-09883a010a52509f6",
+              "name": "seni_sk_auto",
+              "state": "running",
+              "type": "t2.small",
+              "launch_time": "2026-05-28T20:48:40+00:00"
+            },
+            {
+              "id": "i-0b82138aa45b4029a",
+              "name": "krake_sk",
+              "state": "running",
+              "type": "t2.nano",
+              "launch_time": "2025-12-06T06:54:26+00:00"
+            },
+            {
+              "id": "i-0dfeb7a93f1f78e8e",
+              "name": "seni_sk_auto",
+              "state": "running",
+              "type": "t2.small",
+              "launch_time": "2026-05-30T08:28:08+00:00"
+            },
+            {
+              "id": "i-08ebe96afbc649a95",
+              "name": "seni_sql_2026",
+              "state": "running",
+              "type": "t2.small",
+              "launch_time": "2026-01-08T21:20:30+00:00"
+            },
+            {
+              "id": "i-05f8770a932b76649",
+              "name": "dao_protocol_nelanco",
+              "state": "running",
+              "type": "t3.small",
+              "launch_time": "2026-05-28T20:25:28+00:00"
+            }
+          ],
+          "key_pairs": [
+            {
+              "name": "TrueSight DAO",
+              "fingerprint": "65:2f:e2:e8:af:41:f8:e7:54:f6:f5:9c:96:11:d1:6d:38:6d:d6:2c"
+            },
+            {
+              "name": "restory",
+              "fingerprint": "89:a4:36:be:0e:de:f4:9a:99:55:59:6c:a1:0d:5d:3c:95:88:3f:cd"
+            },
+            {
+              "name": "GETDATA_key_pair",
+              "fingerprint": "a2:68:04:2d:5a:25:a6:d7:63:1d:34:d0:94:98:fe:c9:80:36:66:08"
+            },
+            {
+              "name": "NelanCoProduction",
+              "fingerprint": "71:be:0c:4f:bb:6d:a6:75:24:ec:66:bf:54:1f:30:f6:e7:56:f6:93"
+            },
+            {
+              "name": "TrueSight Protocol API",
+              "fingerprint": "93:8e:80:cd:6e:98:36:72:68:02:c2:8e:7b:3d:f1:69:c5:14:c7:a7"
+            },
+            {
+              "name": "GETDATA_IO_PAIR_20201122",
+              "fingerprint": "60:81:2c:06:ee:68:4f:df:56:46:e6:30:1e:42:e3:1e:68:6c:0d:a7"
+            },
+            {
+              "name": "governor_chatbot",
+              "fingerprint": "4a:ad:fa:20:4e:69:f6:30:92:f9:33:4a:9d:78:59:c4:df:57:80:9f"
+            }
+          ],
+          "security_groups": [
+            {
+              "id": "sg-0d3b6c10480d83248",
+              "name": "governor-chatbot-sg",
+              "open_ports": [
+                80,
+                8000,
+                22,
+                443
+              ]
+            },
+            {
+              "id": "sg-4314630c",
+              "name": "default",
+              "open_ports": [
+                "any"
+              ]
+            },
+            {
+              "id": "sg-003e8016026715f25",
+              "name": "launch-wizard-1",
+              "open_ports": [
+                22
+              ]
+            },
+            {
+              "id": "sg-0aac0e825c554da19",
+              "name": "new default",
+              "open_ports": [
+                "any"
+              ]
+            }
+          ],
+          "error": null
+        },
+        "us-east-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-8a4367e7",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "us-west-1": {
+          "instances": [
+            {
+              "id": "i-0b2e0c6f9469ab0f7",
+              "name": "Californian proxy",
+              "state": "running",
+              "type": "t3.micro",
+              "launch_time": "2026-02-12T16:50:47+00:00"
+            }
+          ],
+          "key_pairs": [
+            {
+              "name": "california_20260213",
+              "fingerprint": "5c:02:2c:68:87:70:f1:b2:8b:58:f8:20:5c:6b:09:be:45:9a:53:b9"
+            }
+          ],
+          "security_groups": [
+            {
+              "id": "sg-c6eeaabd",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "us-west-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-25b5e850",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        }
       },
-      "error": "Missing env var: CYPHER_DEFENCE_AWS_KEY=unset, CYPHER_DEFENCE_AWS_SECRET=unset"
+      "totals": {
+        "instances": 17,
+        "instances_running": 17,
+        "instances_stopped": 0,
+        "key_pairs": 9,
+        "security_groups": 21,
+        "open_ports": [
+          22,
+          80,
+          443,
+          8000,
+          "any"
+        ]
+      },
+      "error": null
     },
     {
       "account": "explorya",
-      "account_id": null,
-      "regions": {},
-      "totals": {
-        "instances": 0,
-        "instances_running": 0,
-        "instances_stopped": 0,
-        "key_pairs": 0,
-        "security_groups": 0,
-        "open_ports": []
+      "account_id": "440626669078",
+      "regions": {
+        "ap-south-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-c4917cad",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-north-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-08a51561",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-west-3": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-19e24c70",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-west-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-a4c45ccd",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-west-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-332ddb5c",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ap-northeast-3": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-c24ab6ab",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ap-northeast-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-5ff16036",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ap-northeast-1": {
+          "instances": [],
+          "key_pairs": [
+            {
+              "name": "garyjob_japan",
+              "fingerprint": "16:e9:25:93:b9:bb:be:1f:b8:0a:2a:d4:12:a3:52:8d:37:47:06:52"
+            }
+          ],
+          "security_groups": [],
+          "error": null
+        },
+        "ca-central-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-3a57cc53",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "sa-east-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-be8467d1",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "ap-southeast-1": {
+          "instances": [],
+          "key_pairs": [
+            {
+              "name": "mbd_singapore",
+              "fingerprint": "04:00:47:14:56:27:33:f3:0e:d5:73:df:a6:4d:90:e5:04:2e:8a:a1"
+            },
+            {
+              "name": "server_sg",
+              "fingerprint": "aa:74:b9:e2:3b:82:3a:8a:37:40:4c:24:b7:0a:66:68:6b:10:98:0e"
+            }
+          ],
+          "security_groups": [
+            {
+              "id": "sg-7d4ae718",
+              "name": "default",
+              "open_ports": [
+                "any"
+              ]
+            }
+          ],
+          "error": null
+        },
+        "ap-southeast-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-a94f50c5",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "eu-central-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-75a6091c",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "us-east-1": {
+          "instances": [
+            {
+              "id": "i-02c699d3d7efbdc82",
+              "name": "truesight-autopilot",
+              "state": "running",
+              "type": "t3.small",
+              "launch_time": "2026-06-03T23:24:10+00:00"
+            },
+            {
+              "id": "i-0bb43299c84c5ccd5",
+              "name": "seni_sk_2026",
+              "state": "stopped",
+              "type": "t2.small",
+              "launch_time": "2026-05-10T23:51:41+00:00"
+            },
+            {
+              "id": "i-0ac8462aa6bb54986",
+              "name": "seni_ror_2026",
+              "state": "stopped",
+              "type": "t2.small",
+              "launch_time": "2026-05-10T23:51:32+00:00"
+            }
+          ],
+          "key_pairs": [
+            {
+              "name": "krake_virginia",
+              "fingerprint": "a1:fc:f9:c3:43:80:78:ff:86:cf:e7:1f:02:56:76:4f:c2:3a:85:89"
+            },
+            {
+              "name": "explorya_aws_2025",
+              "fingerprint": "13:7b:1c:dd:a2:38:f5:c6:09:af:fb:70:77:cf:1e:f2:f2:75:20:b2"
+            },
+            {
+              "name": "garyjob_aws",
+              "fingerprint": "4a:07:c2:f3:50:5e:79:2a:5d:d0:cd:06:58:4f:90:06:f0:07:9e:d5"
+            },
+            {
+              "name": "NELANCO_aws_20201122",
+              "fingerprint": "2a:0c:b7:30:3a:5a:a3:e7:65:1d:41:06:51:7d:5b:e4"
+            }
+          ],
+          "security_groups": [
+            {
+              "id": "sg-e98f788e",
+              "name": "default",
+              "open_ports": [
+                "any"
+              ]
+            },
+            {
+              "id": "sg-093be54e48c6478e8",
+              "name": "edgar-2026-05-10",
+              "open_ports": [
+                80,
+                22,
+                3002,
+                443
+              ]
+            }
+          ],
+          "error": null
+        },
+        "us-east-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-51b8e338",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "us-west-1": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [
+            {
+              "id": "sg-39b7ad55",
+              "name": "default",
+              "open_ports": []
+            }
+          ],
+          "error": null
+        },
+        "us-west-2": {
+          "instances": [],
+          "key_pairs": [],
+          "security_groups": [],
+          "error": null
+        }
       },
-      "error": "Missing env var: TRUESIGHT_DAO_AUTOPILOT_AWS_KEY=unset, TRUESIGHT_DAO_AUTOPILOT_AWS_SECRET=unset"
+      "totals": {
+        "instances": 3,
+        "instances_running": 1,
+        "instances_stopped": 2,
+        "key_pairs": 7,
+        "security_groups": 16,
+        "open_ports": [
+          22,
+          80,
+          443,
+          3002,
+          "any"
+        ]
+      },
+      "error": null
     }
   ],
   "web_security": [
@@ -641,248 +1312,248 @@
       },
       {
         "name": "oracle_logs",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "places-cache",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "point-of-sales-integrations",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "point-of-sales-integrations-heierling",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "program-template",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "proposals",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "pyth_node_sandbox",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "master",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "qr_codes",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": true,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "store_interaction_attachments",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "sunmint",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "tdg_recipes",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "token-list",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "tokenomics",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "treasury-cache",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "tribomirimbahia",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "TrueChain",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "master",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "truesight_autopilot",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "truesight_autopilot_transcript",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "truesight_me_beta",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "truesight_me_prod",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "truesight_nft_test",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "master",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "truesight_protocol",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "TruthGpt",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       },
       {
         "name": "verify_public_signatures",
-        "visibility": null,
-        "archived": null,
-        "default_branch": null,
+        "visibility": "public",
+        "archived": false,
+        "default_branch": "main",
         "branch_protection": null,
         "secret_scanning": null,
         "dependabot": null,
-        "error": "HTTP 403"
+        "error": null
       }
     ],
     "summary": {
       "total": 51,
-      "public": 27,
+      "public": 51,
       "private": 0,
       "with_branch_protection": 0
     }
@@ -913,7 +1584,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-04T21:35:13.126952+00:00"
+    "scanned_at": "2026-06-04T21:39:56.152805+00:00"
   },
   "score": {
     "score": 100,
