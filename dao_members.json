@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T00:15:49.127Z",
+  "generated_at": "2026-06-07T00:24:16.226Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
@@ -3701,7 +3701,8 @@
       "name": "Sophia Truesight",
       "email": "admin+sophia@truesight.me",
       "roles": [
-        "member"
+        "member",
+        "sentinel"
       ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
@@ -4028,7 +4029,8 @@
       "name": "truesight-autopilot",
       "email": "admin@truesight.me",
       "roles": [
-        "member"
+        "member",
+        "sentinel"
       ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
