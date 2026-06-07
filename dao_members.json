@@ -1,31 +1,348 @@
 {
-  "generated_at": "2026-06-06T14:02:12.431Z",
+  "generated_at": "2026-06-07T00:15:49.127Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
   "counts": {
-    "contributors": 14,
-    "active_public_keys": 53,
-    "governors": 2,
-    "contributors_with_email": 10
+    "contributors": 400,
+    "active_public_keys": 54,
+    "governors": 10,
+    "contributors_with_email": 11
   },
-  "dao_totals": {
-    "voting_rights_circulated": 2344349.383539669,
-    "total_assets": 15702.54811,
-    "asset_per_circulated_voting_right": 0.0067,
-    "usd_provisions_for_cash_out": 40.66795
-  },
-  "unjoined_governor_names": [
-    "agl15",
-    "andrea catalina falcon rios de pabst",
-    "andreas quandt",
-    "fadi",
-    "fatima toledo",
-    "hans martin heierling",
-    "jacob nelan",
-    "shena davenport"
-  ],
+  "dao_totals": null,
+  "unjoined_governor_names": [],
   "contributors": [
+    {
+      "name": "@_H4N5",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "@alexadoglio",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "@Baki71166714",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "@black_izeek",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5.684341886080802e-14,
+      "total_voting_power_pct": "2.4246991195050324e-20",
+      "public_keys": []
+    },
+    {
+      "name": "@CryptononymousEconomist",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "@elvisyong",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 750,
+      "total_voting_power_pct": "0.00031991818509048144",
+      "public_keys": []
+    },
+    {
+      "name": "@hawkenzo1",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 250,
+      "total_voting_power_pct": "0.00010663939503016049",
+      "public_keys": []
+    },
+    {
+      "name": "@Hughiegabriel",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "@itz_eazyboy",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1.1368683772161603e-13,
+      "total_voting_power_pct": "4.849398239010065e-20",
+      "public_keys": []
+    },
+    {
+      "name": "@Lake",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 7050,
+      "total_voting_power_pct": "0.0030072309398505256",
+      "public_keys": []
+    },
+    {
+      "name": "@netrvnner8664",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "@nixxholas",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 375,
+      "total_voting_power_pct": "0.00015995909254524072",
+      "public_keys": []
+    },
+    {
+      "name": "@Rockey599204723",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "@ryansjjr",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 14850,
+      "total_voting_power_pct": "0.006334380064791533",
+      "public_keys": []
+    },
+    {
+      "name": "@saltwater_lunch",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "@TheoDL",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "@Trex_d_designer",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 303.33,
+      "total_voting_power_pct": "0.0001293877107779943",
+      "public_keys": []
+    },
+    {
+      "name": "@vinibitencourt",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 218.31999999999996,
+      "total_voting_power_pct": "0.00009312605089193853",
+      "public_keys": []
+    },
+    {
+      "name": "@xjcaa",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 200,
+      "total_voting_power_pct": "0.00008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Aaliyah",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Adi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 33.34,
+      "total_voting_power_pct": "0.000014221429721222203",
+      "public_keys": []
+    },
+    {
+      "name": "Aga Marecka",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 13570.679999999998,
+      "total_voting_power_pct": "0.005788676421391592",
+      "public_keys": []
+    },
+    {
+      "name": "AGL15",
+      "email": null,
+      "roles": [
+        "governor",
+        "member"
+      ],
+      "voting_rights": 1127.12,
+      "total_voting_power_pct": "0.0004807815797055779",
+      "public_keys": []
+    },
+    {
+      "name": "Ahbinav",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 291.65,
+      "total_voting_power_pct": "0.0001244055182421852",
+      "public_keys": []
+    },
+    {
+      "name": "Ahmed",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 500,
+      "total_voting_power_pct": "0.00021327879006032097",
+      "public_keys": []
+    },
+    {
+      "name": "Aihui Ong",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 30,
+      "total_voting_power_pct": "0.000012796727403619258",
+      "public_keys": []
+    },
+    {
+      "name": "Albert Felix",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Albion Ong",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Alessandro Mele",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 956.6600000000001,
+      "total_voting_power_pct": "0.00040807057459821337",
+      "public_keys": []
+    },
+    {
+      "name": "Alex",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 600,
+      "total_voting_power_pct": "0.00025593454807238514",
+      "public_keys": []
+    },
+    {
+      "name": "Alex Costa",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 24.990000000000002,
+      "total_voting_power_pct": "0.000010659673927214843",
+      "public_keys": []
+    },
+    {
+      "name": "Alexander Enser",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Alexander Grau",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
     {
       "name": "Alexandre Fernandes",
       "email": "alexandrefer1231@gmail.com",
@@ -39,9 +356,871 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260605 20:24:41"
+          "last_active_at": "20260606 07:01:39"
         }
       ]
+    },
+    {
+      "name": "Allison D. Laureano",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 318.6700000000001,
+      "total_voting_power_pct": "0.000135931104057045",
+      "public_keys": []
+    },
+    {
+      "name": "Al?ksa Mil",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 44820,
+      "total_voting_power_pct": "0.019118310741007172",
+      "public_keys": []
+    },
+    {
+      "name": "Ambarish Malpani",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 7502,
+      "total_voting_power_pct": "0.0032000349660650557",
+      "public_keys": []
+    },
+    {
+      "name": "Anabel",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.66,
+      "total_voting_power_pct": "0.000007106449284809895",
+      "public_keys": []
+    },
+    {
+      "name": "Andrea Catalina Falcon Rios De Pabst",
+      "email": null,
+      "roles": [
+        "governor",
+        "member"
+      ],
+      "voting_rights": 1398.33,
+      "total_voting_power_pct": "0.0005964682610100972",
+      "public_keys": []
+    },
+    {
+      "name": "Andreas Quandt",
+      "email": null,
+      "roles": [
+        "governor",
+        "member"
+      ],
+      "voting_rights": 283.33,
+      "total_voting_power_pct": "0.00012085655917558147",
+      "public_keys": []
+    },
+    {
+      "name": "Andrew Shroomed",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1,
+      "total_voting_power_pct": "4.2655758012064194e-7",
+      "public_keys": []
+    },
+    {
+      "name": "Andrey Nayman",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1650,
+      "total_voting_power_pct": "0.0007038200071990592",
+      "public_keys": []
+    },
+    {
+      "name": "Andy Choi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 66.67,
+      "total_voting_power_pct": "0.0000284385938666432",
+      "public_keys": []
+    },
+    {
+      "name": "Angela Tseng",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1116.6499999999999,
+      "total_voting_power_pct": "0.00047631552184171475",
+      "public_keys": []
+    },
+    {
+      "name": "Angelina Hamit",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Angeline Tan",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 7358,
+      "total_voting_power_pct": "0.0031386106745276833",
+      "public_keys": []
+    },
+    {
+      "name": "Anika Giftge",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 37560,
+      "total_voting_power_pct": "0.016021502709331312",
+      "public_keys": []
+    },
+    {
+      "name": "Anna Love",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 30,
+      "total_voting_power_pct": "0.000012796727403619258",
+      "public_keys": []
+    },
+    {
+      "name": "Anna Nguyenova",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Anne Charboneau",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8410,
+      "total_voting_power_pct": "0.003587349248814599",
+      "public_keys": []
+    },
+    {
+      "name": "Annia Tsiupa",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8808.33,
+      "total_voting_power_pct": "0.003757259929704054",
+      "public_keys": []
+    },
+    {
+      "name": "Annie Teo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.67,
+      "total_voting_power_pct": "0.000007110714860611102",
+      "public_keys": []
+    },
+    {
+      "name": "Anupa Dasgupta",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 19976.49,
+      "total_voting_power_pct": "0.008521123233704204",
+      "public_keys": []
+    },
+    {
+      "name": "Apoorva - Abhinav Colleague",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 266.65999999999997,
+      "total_voting_power_pct": "0.00011374584431497037",
+      "public_keys": []
+    },
+    {
+      "name": "Aravind Gandavadi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "ARPT",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 12.5,
+      "total_voting_power_pct": "0.000005331969751508024",
+      "public_keys": []
+    },
+    {
+      "name": "Arti",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 33.5,
+      "total_voting_power_pct": "0.000014289678934041504",
+      "public_keys": []
+    },
+    {
+      "name": "ATheLeah Nous",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 675,
+      "total_voting_power_pct": "0.0002879263665814333",
+      "public_keys": []
+    },
+    {
+      "name": "Barbara Sadini",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3034.9399999999996,
+      "total_voting_power_pct": "0.0012945766622113409",
+      "public_keys": []
+    },
+    {
+      "name": "Betty",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 12009,
+      "total_voting_power_pct": "0.0051225299796687895",
+      "public_keys": []
+    },
+    {
+      "name": "Bhavana",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 425,
+      "total_voting_power_pct": "0.00018128697155127282",
+      "public_keys": []
+    },
+    {
+      "name": "Bilal",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "Biljana Sanev",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Billy Estoque",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 30,
+      "total_voting_power_pct": "0.000012796727403619258",
+      "public_keys": []
+    },
+    {
+      "name": "Bing",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 635,
+      "total_voting_power_pct": "0.0002708640633766076",
+      "public_keys": []
+    },
+    {
+      "name": "Blake",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 33.34,
+      "total_voting_power_pct": "0.000014221429721222203",
+      "public_keys": []
+    },
+    {
+      "name": "Bob Clark",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Boris Giftge",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 850,
+      "total_voting_power_pct": "0.00036257394310254564",
+      "public_keys": []
+    },
+    {
+      "name": "Bradley Hsu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Brian Naughton",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Bruno Bethonico",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 716.6600000000001,
+      "total_voting_power_pct": "0.00030569675536925927",
+      "public_keys": []
+    },
+    {
+      "name": "Cacao Innovation Center",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Carl Ftizgibbon",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1557,
+      "total_voting_power_pct": "0.0006641501522478395",
+      "public_keys": []
+    },
+    {
+      "name": "Carlos",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Catherine He Limin",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2500,
+      "total_voting_power_pct": "0.0010663939503016049",
+      "public_keys": []
+    },
+    {
+      "name": "CEPOTX",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 58.33,
+      "total_voting_power_pct": "0.000024881103648437043",
+      "public_keys": []
+    },
+    {
+      "name": "Chen JianWen",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 501,
+      "total_voting_power_pct": "0.00021370534764044162",
+      "public_keys": []
+    },
+    {
+      "name": "Chen Jiaqi - Next Impact Learning Hub",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Chlo? GS",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 58.33,
+      "total_voting_power_pct": "0.000024881103648437043",
+      "public_keys": []
+    },
+    {
+      "name": "Chris Arriola",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Chris Ye",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5000,
+      "total_voting_power_pct": "0.0021327879006032098",
+      "public_keys": []
+    },
+    {
+      "name": "Cindy Cohen",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 525,
+      "total_voting_power_pct": "0.00022394272956333702",
+      "public_keys": []
+    },
+    {
+      "name": "Claude",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3.33,
+      "total_voting_power_pct": "0.0000014204367418017376",
+      "public_keys": []
+    },
+    {
+      "name": "Cliff",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "Coopercabruca",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1132.8899999999999,
+      "total_voting_power_pct": "0.000483242816942874",
+      "public_keys": []
+    },
+    {
+      "name": "Corrales Cachola",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "correios.com.br",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Craig Henderson",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.66,
+      "total_voting_power_pct": "0.000007106449284809895",
+      "public_keys": []
+    },
+    {
+      "name": "Cynthia - DataCurve.io",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Dafu | OnePiece Labs",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Dan Cordie",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 498.33,
+      "total_voting_power_pct": "0.00021256643890151948",
+      "public_keys": []
+    },
+    {
+      "name": "Daniel Prime",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 186.65000000000003,
+      "total_voting_power_pct": "0.00007961697232951784",
+      "public_keys": []
+    },
+    {
+      "name": "Daniela c. Merlano",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Danielle Sunberg",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 368,
+      "total_voting_power_pct": "0.00015697318948439625",
+      "public_keys": []
+    },
+    {
+      "name": "David Berget",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 7700,
+      "total_voting_power_pct": "0.003284493366928943",
+      "public_keys": []
+    },
+    {
+      "name": "David Hu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "Dean Mao",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 541,
+      "total_voting_power_pct": "0.0002307676508452673",
+      "public_keys": []
+    },
+    {
+      "name": "Dejan Nikolic",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Deric Walintukan",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 250,
+      "total_voting_power_pct": "0.00010663939503016049",
+      "public_keys": []
+    },
+    {
+      "name": "Deya",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2,
+      "total_voting_power_pct": "8.531151602412839e-7",
+      "public_keys": []
+    },
+    {
+      "name": "DHL",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Diana Gan",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Dirk Watkins",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2000,
+      "total_voting_power_pct": "0.0008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Dita",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3550,
+      "total_voting_power_pct": "0.001514279409428279",
+      "public_keys": []
+    },
+    {
+      "name": "Dom",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Doris Wang",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 6100,
+      "total_voting_power_pct": "0.0026020012387359156",
+      "public_keys": []
+    },
+    {
+      "name": "Dr Anita Lamprecht",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 7642,
+      "total_voting_power_pct": "0.0032597530272819456",
+      "public_keys": []
+    },
+    {
+      "name": "Dr Spencer William Brown",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 625,
+      "total_voting_power_pct": "0.0002665984875754012",
+      "public_keys": []
+    },
+    {
+      "name": "Dr. Denis",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Dr. Nike Schmidt",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 111,
+      "total_voting_power_pct": "0.000047347891393391255",
+      "public_keys": []
+    },
+    {
+      "name": "Dragon",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1550,
+      "total_voting_power_pct": "0.000661164249186995",
+      "public_keys": []
+    },
+    {
+      "name": "dsb#5413",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1000,
+      "total_voting_power_pct": "0.00042655758012064194",
+      "public_keys": []
+    },
+    {
+      "name": "Ed",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Edge and Node",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 4442.67,
+      "total_voting_power_pct": "0.0018950545644745723",
+      "public_keys": []
+    },
+    {
+      "name": "Edi Hsu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 9805,
+      "total_voting_power_pct": "0.004182397073082894",
+      "public_keys": []
+    },
+    {
+      "name": "Edmund Wuu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 400,
+      "total_voting_power_pct": "0.00017062303204825677",
+      "public_keys": []
+    },
+    {
+      "name": "Edward",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Edwin - Fireworkz",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "Edwin Lun",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 600,
+      "total_voting_power_pct": "0.00025593454807238514",
+      "public_keys": []
+    },
+    {
+      "name": "Elinor Janelle",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 4408.32,
+      "total_voting_power_pct": "0.0018804023115974282",
+      "public_keys": []
     },
     {
       "name": "Elizabeth Wong",
@@ -61,6 +1240,238 @@
       ]
     },
     {
+      "name": "Elora - Eugene Oregon",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Emelin",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 25621.449999999924,
+      "total_voting_power_pct": "0.01092902371118199",
+      "public_keys": []
+    },
+    {
+      "name": "Emmanuel Nwanja",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Eric - FounderHaus",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.67,
+      "total_voting_power_pct": "0.000007110714860611102",
+      "public_keys": []
+    },
+    {
+      "name": "Eric Y Chen",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Erica Moseley",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Ervin Sarajevo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1180,
+      "total_voting_power_pct": "0.0005033379445423575",
+      "public_keys": []
+    },
+    {
+      "name": "Ethan Bryan Ng",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 14650,
+      "total_voting_power_pct": "0.006249068548767405",
+      "public_keys": []
+    },
+    {
+      "name": "Evan Sui",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.67,
+      "total_voting_power_pct": "0.000007110714860611102",
+      "public_keys": []
+    },
+    {
+      "name": "Evi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 250,
+      "total_voting_power_pct": "0.00010663939503016049",
+      "public_keys": []
+    },
+    {
+      "name": "Evil?sio Cacao Farmer",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Ewerton Silva",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 200,
+      "total_voting_power_pct": "0.00008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Fabien Aepli",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Fadi",
+      "email": null,
+      "roles": [
+        "governor",
+        "member"
+      ],
+      "voting_rights": 200,
+      "total_voting_power_pct": "0.00008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Faire Sync Bot",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Fark Kader",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 300,
+      "total_voting_power_pct": "0.00012796727403619257",
+      "public_keys": []
+    },
+    {
+      "name": "Fatima Toledo",
+      "email": null,
+      "roles": [
+        "governor",
+        "member"
+      ],
+      "voting_rights": 65852.81298130003,
+      "total_voting_power_pct": "0.028090016549440537",
+      "public_keys": []
+    },
+    {
+      "name": "FEDEX",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Felix",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 325,
+      "total_voting_power_pct": "0.00013863121353920862",
+      "public_keys": []
+    },
+    {
+      "name": "Ferdinando Boninelli",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2233.2099999999996,
+      "total_voting_power_pct": "0.0009525926535012186",
+      "public_keys": []
+    },
+    {
+      "name": "Feros",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Fleurish Quartz",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Florian Cornu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2500,
+      "total_voting_power_pct": "0.0010663939503016049",
+      "public_keys": []
+    },
+    {
       "name": "Francine Cabral",
       "email": null,
       "roles": [
@@ -76,6 +1487,36 @@
           "last_active_at": "20250917 12:16:59"
         }
       ]
+    },
+    {
+      "name": "Franck Nouyrigat",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 23835,
+      "total_voting_power_pct": "0.0101669999221755",
+      "public_keys": []
+    },
+    {
+      "name": "Francois Renet",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8671,
+      "total_voting_power_pct": "0.003698680777226086",
+      "public_keys": []
+    },
+    {
+      "name": "Gabi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
     },
     {
       "name": "Garis Pang",
@@ -335,6 +1776,207 @@
       ]
     },
     {
+      "name": "Gautam Mittal",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 33450,
+      "total_voting_power_pct": "0.014268351055035473",
+      "public_keys": []
+    },
+    {
+      "name": "Gergana - The Way Home Shop",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "GetData Inc",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0.37873208362725563,
+      "total_voting_power_pct": "1.6155104110609075e-7",
+      "public_keys": []
+    },
+    {
+      "name": "Glenn Kowalsky",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Global DAO Alliance",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10250,
+      "total_voting_power_pct": "0.0043722151962365795",
+      "public_keys": []
+    },
+    {
+      "name": "Gloria Chimelu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Go Ask Alice - Niccolina Ammerman",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Green Gulch Zen Monastery",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 200,
+      "total_voting_power_pct": "0.00008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Guenther Dobrauz",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 601,
+      "total_voting_power_pct": "0.0002563611056525058",
+      "public_keys": []
+    },
+    {
+      "name": "Gwendolyn Regina",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.66,
+      "total_voting_power_pct": "0.000007106449284809895",
+      "public_keys": []
+    },
+    {
+      "name": "HackerDojo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1276,
+      "total_voting_power_pct": "0.0005442874722339391",
+      "public_keys": []
+    },
+    {
+      "name": "Hans Martin Heierling",
+      "email": null,
+      "roles": [
+        "governor",
+        "member"
+      ],
+      "voting_rights": 3627.25,
+      "total_voting_power_pct": "0.0015472309824925985",
+      "public_keys": []
+    },
+    {
+      "name": "Heather - Ming's Lounge",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Horacio",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 125,
+      "total_voting_power_pct": "0.00005331969751508024",
+      "public_keys": []
+    },
+    {
+      "name": "House of Balance",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5425,
+      "total_voting_power_pct": "0.0023140748721544825",
+      "public_keys": []
+    },
+    {
+      "name": "Hubert Yee",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1780,
+      "total_voting_power_pct": "0.0007592724926147427",
+      "public_keys": []
+    },
+    {
+      "name": "Ian",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 9875,
+      "total_voting_power_pct": "0.0042122561036913395",
+      "public_keys": []
+    },
+    {
+      "name": "iChakras Smart Healing Center - Crystal via Chloe",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Ida",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Inza",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 125,
+      "total_voting_power_pct": "0.00005331969751508024",
+      "public_keys": []
+    },
+    {
       "name": "Irene Hsu",
       "email": null,
       "roles": [
@@ -350,6 +1992,537 @@
           "last_active_at": ""
         }
       ]
+    },
+    {
+      "name": "Iris M",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1535,
+      "total_voting_power_pct": "0.0006547658854851854",
+      "public_keys": []
+    },
+    {
+      "name": "Isabela",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Isis Riberio - Omega services cargo forwarding assistant",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Iwona Fluda",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5658.549999999999,
+      "total_voting_power_pct": "0.002413697394991658",
+      "public_keys": []
+    },
+    {
+      "name": "Jacki Roach",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1010,
+      "total_voting_power_pct": "0.00043082315592184834",
+      "public_keys": []
+    },
+    {
+      "name": "Jacob M - Hot Springs Montana / Okanonga Barter Faire",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 57.08,
+      "total_voting_power_pct": "0.00002434790667328624",
+      "public_keys": []
+    },
+    {
+      "name": "Jacob Nelan",
+      "email": null,
+      "roles": [
+        "governor",
+        "member"
+      ],
+      "voting_rights": 61454.062614400216,
+      "total_voting_power_pct": "0.026213696237380967",
+      "public_keys": []
+    },
+    {
+      "name": "Jae Nice",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "James Sheen",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "James Sung",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 608.3499999999998,
+      "total_voting_power_pct": "0.00025949630386639245",
+      "public_keys": []
+    },
+    {
+      "name": "Jamie Hart",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Janet - HOB",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3.33,
+      "total_voting_power_pct": "0.0000014204367418017376",
+      "public_keys": []
+    },
+    {
+      "name": "Jascha Martschenko",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 11944.73,
+      "total_voting_power_pct": "0.005095115123994435",
+      "public_keys": []
+    },
+    {
+      "name": "Jedielcio Oliveira",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Jeff",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3000,
+      "total_voting_power_pct": "0.0012796727403619258",
+      "public_keys": []
+    },
+    {
+      "name": "Jen Chan",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 25,
+      "total_voting_power_pct": "0.000010663939503016048",
+      "public_keys": []
+    },
+    {
+      "name": "Jenifer Runnion",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 703.3399999999999,
+      "total_voting_power_pct": "0.00030001500840205227",
+      "public_keys": []
+    },
+    {
+      "name": "Jeramy Dahl",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Jeremy Chong",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Jerry Luk",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8822.66,
+      "total_voting_power_pct": "0.0037633724998271828",
+      "public_keys": []
+    },
+    {
+      "name": "Jim White",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Jinn Rajinder Jhol",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 375,
+      "total_voting_power_pct": "0.00015995909254524072",
+      "public_keys": []
+    },
+    {
+      "name": "Joao Fouad",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "John Saadeh",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 500,
+      "total_voting_power_pct": "0.00021327879006032097",
+      "public_keys": []
+    },
+    {
+      "name": "John Tan",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 9110,
+      "total_voting_power_pct": "0.0038859395548990483",
+      "public_keys": []
+    },
+    {
+      "name": "JohnLingardR",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 20.840000000000003,
+      "total_voting_power_pct": "0.00000888945996971418",
+      "public_keys": []
+    },
+    {
+      "name": "Johnny Browaeys",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Johnny Bueler",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Johnson Teh",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 38665,
+      "total_voting_power_pct": "0.016492848835364622",
+      "public_keys": []
+    },
+    {
+      "name": "Jonathan",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3015.99,
+      "total_voting_power_pct": "0.0012864933960680548",
+      "public_keys": []
+    },
+    {
+      "name": "Josh Brown",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 133.32999999999998,
+      "total_voting_power_pct": "0.000056872922157485186",
+      "public_keys": []
+    },
+    {
+      "name": "Josh the Neo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Joshua Bishop",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1000,
+      "total_voting_power_pct": "0.00042655758012064194",
+      "public_keys": []
+    },
+    {
+      "name": "Joshua Wee",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Josue (Oscar) Rodriguez",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1,
+      "total_voting_power_pct": "4.2655758012064194e-7",
+      "public_keys": []
+    },
+    {
+      "name": "Juan Bernabo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 557.7400000000001,
+      "total_voting_power_pct": "0.00023790822473648688",
+      "public_keys": []
+    },
+    {
+      "name": "Jules Kenton",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "Junaid Khalid",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 75,
+      "total_voting_power_pct": "0.00003199181850904814",
+      "public_keys": []
+    },
+    {
+      "name": "June Jo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2000,
+      "total_voting_power_pct": "0.0008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Justin the Chef",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Justine",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 75,
+      "total_voting_power_pct": "0.00003199181850904814",
+      "public_keys": []
+    },
+    {
+      "name": "Kaon Krasniqi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Karin Lanz",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3467.3556299999996,
+      "total_voting_power_pct": "0.0014790268269504838",
+      "public_keys": []
+    },
+    {
+      "name": "Karin Lorez",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 351,
+      "total_voting_power_pct": "0.00014972171062234532",
+      "public_keys": []
+    },
+    {
+      "name": "Karl",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Kaspar Hidayat",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 200,
+      "total_voting_power_pct": "0.00008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Kathryn Gichini",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 25,
+      "total_voting_power_pct": "0.000010663939503016048",
+      "public_keys": []
+    },
+    {
+      "name": "Kelly Springer",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Kelvin Chew",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 58360,
+      "total_voting_power_pct": "0.024893900375840664",
+      "public_keys": []
+    },
+    {
+      "name": "KemarTiti ?#2719",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 750,
+      "total_voting_power_pct": "0.00031991818509048144",
+      "public_keys": []
+    },
+    {
+      "name": "Ken Lee",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Ken Nim",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 9419.220000000001,
+      "total_voting_power_pct": "0.004017839689823954",
+      "public_keys": []
+    },
+    {
+      "name": "Kevin Deval",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 11350,
+      "total_voting_power_pct": "0.004841428534369286",
+      "public_keys": []
     },
     {
       "name": "Kirsten Ritschel",
@@ -370,6 +2543,256 @@
       ]
     },
     {
+      "name": "Kris swims like fish",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "KSON",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Kuoloon",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10145,
+      "total_voting_power_pct": "0.0043274266503239124",
+      "public_keys": []
+    },
+    {
+      "name": "Lan",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Laura Hill",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Laura Liew",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Laura Solner",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 30,
+      "total_voting_power_pct": "0.000012796727403619258",
+      "public_keys": []
+    },
+    {
+      "name": "Lawrence",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Leslie Lim",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1000,
+      "total_voting_power_pct": "0.00042655758012064194",
+      "public_keys": []
+    },
+    {
+      "name": "Lester BareBottle Brewery",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 572,
+      "total_voting_power_pct": "0.0002439909358290072",
+      "public_keys": []
+    },
+    {
+      "name": "Levi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 40,
+      "total_voting_power_pct": "0.000017062303204825678",
+      "public_keys": []
+    },
+    {
+      "name": "Linda Gorski",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Liz (George)",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2,
+      "total_voting_power_pct": "8.531151602412839e-7",
+      "public_keys": []
+    },
+    {
+      "name": "Lori",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Lorna - Eclectic India",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1,
+      "total_voting_power_pct": "4.2655758012064194e-7",
+      "public_keys": []
+    },
+    {
+      "name": "Lorna Blount",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 800,
+      "total_voting_power_pct": "0.00034124606409651354",
+      "public_keys": []
+    },
+    {
+      "name": "Lucas Root",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 125,
+      "total_voting_power_pct": "0.00005331969751508024",
+      "public_keys": []
+    },
+    {
+      "name": "Luigi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 75,
+      "total_voting_power_pct": "0.00003199181850904814",
+      "public_keys": []
+    },
+    {
+      "name": "Lukas Bugla",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "Lumin Earth Apothecary - Summer and Sierra",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Lydia Huang",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1075,
+      "total_voting_power_pct": "0.00045854939862969007",
+      "public_keys": []
+    },
+    {
+      "name": "Maegan Gorbett",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 225,
+      "total_voting_power_pct": "0.00009597545552714444",
+      "public_keys": []
+    },
+    {
+      "name": "Maggie",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 33.33,
+      "total_voting_power_pct": "0.000014217164145420995",
+      "public_keys": []
+    },
+    {
+      "name": "Marcell",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 102,
+      "total_voting_power_pct": "0.00004350887317230548",
+      "public_keys": []
+    },
+    {
+      "name": "Marita Mitschein",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
       "name": "Marta Lopes",
       "email": null,
       "roles": [
@@ -385,6 +2808,26 @@
           "last_active_at": ""
         }
       ]
+    },
+    {
+      "name": "Marta Poltorak",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1510,
+      "total_voting_power_pct": "0.0006441019459821693",
+      "public_keys": []
+    },
+    {
+      "name": "Martinus Chocolate",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
     },
     {
       "name": "Matheus Reis",
@@ -410,6 +2853,26 @@
       ]
     },
     {
+      "name": "Matthew Kilkenny",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 20,
+      "total_voting_power_pct": "0.000008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Matthias G?sser",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
       "name": "Maurillo Gomes",
       "email": "gomes.maurillo@gmail.com",
       "roles": [
@@ -425,6 +2888,566 @@
           "last_active_at": "20250731 07:25:17"
         }
       ]
+    },
+    {
+      "name": "Maya Frost",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Mayra Alexandra",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 75,
+      "total_voting_power_pct": "0.00003199181850904814",
+      "public_keys": []
+    },
+    {
+      "name": "Meir S. Simhi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3,
+      "total_voting_power_pct": "0.0000012796727403619258",
+      "public_keys": []
+    },
+    {
+      "name": "Mercedes",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Mestre Bico Duro",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 333.33,
+      "total_voting_power_pct": "0.00014218443818161359",
+      "public_keys": []
+    },
+    {
+      "name": "Micheal Johnson",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Michelle Ava - Williams Artist Farmers Market",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Mihai Hodisan",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1000,
+      "total_voting_power_pct": "0.00042655758012064194",
+      "public_keys": []
+    },
+    {
+      "name": "Milena - green gulch",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Milena Smith",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8555.14,
+      "total_voting_power_pct": "0.0036492598159933083",
+      "public_keys": []
+    },
+    {
+      "name": "Miss Tomato - Asad",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Mitale",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Mmaisy Ward",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 20,
+      "total_voting_power_pct": "0.000008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Momo Yamada",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 22383,
+      "total_voting_power_pct": "0.009547638315840329",
+      "public_keys": []
+    },
+    {
+      "name": "Mukiri Mwirigi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1010,
+      "total_voting_power_pct": "0.00043082315592184834",
+      "public_keys": []
+    },
+    {
+      "name": "Mulan Teh",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.67,
+      "total_voting_power_pct": "0.000007110714860611102",
+      "public_keys": []
+    },
+    {
+      "name": "Nato",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 33.33,
+      "total_voting_power_pct": "0.000014217164145420995",
+      "public_keys": []
+    },
+    {
+      "name": "Neil Bergert",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Neil Maxwell",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1218,
+      "total_voting_power_pct": "0.0005195471325869418",
+      "public_keys": []
+    },
+    {
+      "name": "Nelson",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2675,
+      "total_voting_power_pct": "0.0011410415268227172",
+      "public_keys": []
+    },
+    {
+      "name": "Neo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10266,
+      "total_voting_power_pct": "0.00437904011751851",
+      "public_keys": []
+    },
+    {
+      "name": "Nick",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 330,
+      "total_voting_power_pct": "0.00014076400143981185",
+      "public_keys": []
+    },
+    {
+      "name": "Nicole Keller",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 990,
+      "total_voting_power_pct": "0.00042229200431943554",
+      "public_keys": []
+    },
+    {
+      "name": "Nima Kaz",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1528.1600000000003,
+      "total_voting_power_pct": "0.0006518482316371603",
+      "public_keys": []
+    },
+    {
+      "name": "Nishanth Sudharsanam",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8850,
+      "total_voting_power_pct": "0.0037750345840676814",
+      "public_keys": []
+    },
+    {
+      "name": "Nosonspot",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Olaf",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 324.25,
+      "total_voting_power_pct": "0.00013831129535411815",
+      "public_keys": []
+    },
+    {
+      "name": "Oliver Scherenberg",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Orlantildes",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 24.990000000000002,
+      "total_voting_power_pct": "0.000010659673927214843",
+      "public_keys": []
+    },
+    {
+      "name": "Paloma",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 647.0833333333336,
+      "total_voting_power_pct": "0.0002760183008030655",
+      "public_keys": []
+    },
+    {
+      "name": "Paul Liu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Paulo Hernandez",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 225,
+      "total_voting_power_pct": "0.00009597545552714444",
+      "public_keys": []
+    },
+    {
+      "name": "Peace on fifth",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "Peter Gwee",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 3775,
+      "total_voting_power_pct": "0.0016102548649554232",
+      "public_keys": []
+    },
+    {
+      "name": "Peter Peng",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 7730,
+      "total_voting_power_pct": "0.003297290094332562",
+      "public_keys": []
+    },
+    {
+      "name": "Philip",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 18260,
+      "total_voting_power_pct": "0.0077889414130029215",
+      "public_keys": []
+    },
+    {
+      "name": "Philip Lee - husband of june",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Pooja - Yousra Friend",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.66,
+      "total_voting_power_pct": "0.000007106449284809895",
+      "public_keys": []
+    },
+    {
+      "name": "Priscilla Huang",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 58590,
+      "total_voting_power_pct": "0.02499200861926841",
+      "public_keys": []
+    },
+    {
+      "name": "Prithvi",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 75,
+      "total_voting_power_pct": "0.00003199181850904814",
+      "public_keys": []
+    },
+    {
+      "name": "Queen Hippie Gypsy - Lily",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Quinnie",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Raman",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 200,
+      "total_voting_power_pct": "0.00008531151602412839",
+      "public_keys": []
+    },
+    {
+      "name": "Ramona Wong",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 155,
+      "total_voting_power_pct": "0.0000661164249186995",
+      "public_keys": []
+    },
+    {
+      "name": "Ranette Sorenson",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Ranette Sorenson - Raye Works",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "RAVEN things collected",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Ray Wu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 416.67,
+      "total_voting_power_pct": "0.00017773374690886789",
+      "public_keys": []
+    },
+    {
+      "name": "Reuben",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1850,
+      "total_voting_power_pct": "0.0007891315232231876",
+      "public_keys": []
+    },
+    {
+      "name": "Rich Cook",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Richard Chu",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 30243,
+      "total_voting_power_pct": "0.012900380895588575",
+      "public_keys": []
+    },
+    {
+      "name": "Rob Hutter",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5000,
+      "total_voting_power_pct": "0.0021327879006032098",
+      "public_keys": []
+    },
+    {
+      "name": "Rodney Wieck",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 158.33,
+      "total_voting_power_pct": "0.00006753686166050125",
+      "public_keys": []
+    },
+    {
+      "name": "Royston",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.66,
+      "total_voting_power_pct": "0.000007106449284809895",
+      "public_keys": []
+    },
+    {
+      "name": "Rune Shields",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Rusty Bogart - PipeVine Chocolate",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 375,
+      "total_voting_power_pct": "0.00015995909254524072",
+      "public_keys": []
     },
     {
       "name": "Sacred Earth Farms",
@@ -450,6 +3473,76 @@
       ]
     },
     {
+      "name": "Sai Krishna",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Sammi Whitchurch",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Samuel Lambert",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1000,
+      "total_voting_power_pct": "0.00042655758012064194",
+      "public_keys": []
+    },
+    {
+      "name": "Sarah H",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2978.58,
+      "total_voting_power_pct": "0.0012705358769957416",
+      "public_keys": []
+    },
+    {
+      "name": "Satheesh Paddolker",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 11661,
+      "total_voting_power_pct": "0.004974087941786806",
+      "public_keys": []
+    },
+    {
+      "name": "Secrets of the Garden - Kirstin",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Shadi Atamne",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5432.66,
+      "total_voting_power_pct": "0.0023173423032182066",
+      "public_keys": []
+    },
+    {
       "name": "Shahbaz Jamote",
       "email": "shahbaz.jamote@gmail.com",
       "roles": [
@@ -465,6 +3558,37 @@
           "last_active_at": "2026-05-31T13:56:28.000Z"
         }
       ]
+    },
+    {
+      "name": "Shannon Barlow - Ponderosa",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Sharvin Baindur",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1200,
+      "total_voting_power_pct": "0.0005118690961447703",
+      "public_keys": []
+    },
+    {
+      "name": "Shena Davenport",
+      "email": null,
+      "roles": [
+        "governor",
+        "member"
+      ],
+      "voting_rights": 8659.83,
+      "total_voting_power_pct": "0.003693916129056139",
+      "public_keys": []
     },
     {
       "name": "Shereen Abdullah",
@@ -484,6 +3608,423 @@
       ]
     },
     {
+      "name": "Sherwin",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1600,
+      "total_voting_power_pct": "0.0006824921281930271",
+      "public_keys": []
+    },
+    {
+      "name": "Shine Light",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 120,
+      "total_voting_power_pct": "0.00005118690961447703",
+      "public_keys": []
+    },
+    {
+      "name": "Shino Ling",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 11045,
+      "total_voting_power_pct": "0.004711328472432491",
+      "public_keys": []
+    },
+    {
+      "name": "Shirley Lin",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Shuar Design Boutique",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "SOHA - David Campbell",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Soniya Ahuja",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 941.67,
+      "total_voting_power_pct": "0.0004016764764722049",
+      "public_keys": []
+    },
+    {
+      "name": "Sonya Gorski",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 34.67,
+      "total_voting_power_pct": "0.000014788751302782656",
+      "public_keys": []
+    },
+    {
+      "name": "Sophia",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1250,
+      "total_voting_power_pct": "0.0005331969751508024",
+      "public_keys": []
+    },
+    {
+      "name": "Sophia Truesight",
+      "email": "admin+sophia@truesight.me",
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo0ByUI93AXx1PjK2O5AOCGPNwMkAWPlznMShm4Iv4qvVcYvGZDL0kUDtKAPs9S19/B+iuPAT6u13x2mCPFMB0jJmBRodm1bznbzq+Yt7D2pMExpeAyc+lWnuImUUs94tx1A5AnLvmI+UboDC10WEhPdv9rww9+olsUT7SezJfwxejAeesRMeRdQ45Uof88117NU+1ZK6+xKIMQ3cqu/wK8BtluzpzRzvwcIKh9GyFBosviXBQ72BkReWK7h8+fhVh3qx6FaXmWNvzOsU/9Y3YqFc+albZOzh3GGAuJzyfyaPsejUS6ok2yMzWtUFEzPt8iwyW4F5w0rGZRvA1SqzEwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-06-06T21:01:05.000Z",
+          "last_active_at": "2026-06-06T21:01:31.000Z"
+        }
+      ]
+    },
+    {
+      "name": "Sophie Riegert",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 25,
+      "total_voting_power_pct": "0.000010663939503016048",
+      "public_keys": []
+    },
+    {
+      "name": "Stanley Li",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 591.66,
+      "total_voting_power_pct": "0.000252377057854179",
+      "public_keys": []
+    },
+    {
+      "name": "Suhaimi Zainul",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5875,
+      "total_voting_power_pct": "0.0025060257832087715",
+      "public_keys": []
+    },
+    {
+      "name": "Suheil",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 11060.66,
+      "total_voting_power_pct": "0.00471800836413718",
+      "public_keys": []
+    },
+    {
+      "name": "Sujit Nair",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2591.6800000000003,
+      "total_voting_power_pct": "0.0011055007492470654",
+      "public_keys": []
+    },
+    {
+      "name": "SunMint Tree Planting Contract - agl10",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "SunMint Tree Planting Contract - agl4",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "SunMint Tree Planting Contract - agl6",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "SunMint Tree Planting Contract - agl8",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "SunMint Tree Planting Contract - agl9",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "SunMint Tree Planting Contract - pp1",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "SunMint Tree Planting Contract - sef1",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Susan Oh",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 450,
+      "total_voting_power_pct": "0.00019195091105428887",
+      "public_keys": []
+    },
+    {
+      "name": "Suzo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 8.33,
+      "total_voting_power_pct": "0.0000035532246424049473",
+      "public_keys": []
+    },
+    {
+      "name": "Tanja Burlica",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Tellur Fenner",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Tess Walkowski",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 2669.8999999999996,
+      "total_voting_power_pct": "0.0011388660831641018",
+      "public_keys": []
+    },
+    {
+      "name": "Tessa Rosemary Eckerman",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5200,
+      "total_voting_power_pct": "0.002218099416627338",
+      "public_keys": []
+    },
+    {
+      "name": "Test Recipient",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "The Brazilian Spot - Miguel",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "The Center SF",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "The Enchanted Forest Boutique - Chris and Monique",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "The Love of Ganesha - Noot",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "The Whole Body Repair Clinic - Andrea / Leesa",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Thomas Gorissen",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1850,
+      "total_voting_power_pct": "0.0007891315232231876",
+      "public_keys": []
+    },
+    {
+      "name": "Thomas Tang",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1100,
+      "total_voting_power_pct": "0.00046921333813270614",
+      "public_keys": []
+    },
+    {
+      "name": "Tiffany Harnsongkram",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 277.67,
+      "total_voting_power_pct": "0.00011844224327209866",
+      "public_keys": []
+    },
+    {
+      "name": "Tiffine Wang",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 14984.67,
+      "total_voting_power_pct": "0.00639182457410638",
+      "public_keys": []
+    },
+    {
+      "name": "Tomas Bernabo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 9819.82,
+      "total_voting_power_pct": "0.004188718656420282",
+      "public_keys": []
+    },
+    {
+      "name": "Tres Garcia",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 6285.33,
+      "total_voting_power_pct": "0.002681055155059674",
+      "public_keys": []
+    },
+    {
+      "name": "Tripp",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 652.78,
+      "total_voting_power_pct": "0.0002784482571511526",
+      "public_keys": []
+    },
+    {
       "name": "truesight-autopilot",
       "email": "admin@truesight.me",
       "roles": [
@@ -499,6 +4040,326 @@
           "last_active_at": "20260506 20:24:47"
         }
       ]
+    },
+    {
+      "name": "TrueTech Inc",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 4963.770000000005,
+      "total_voting_power_pct": "0.002117333719475441",
+      "public_keys": []
+    },
+    {
+      "name": "Tushar Sharma",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 608.34,
+      "total_voting_power_pct": "0.00025949203829059135",
+      "public_keys": []
+    },
+    {
+      "name": "UPS",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "USPS",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Val Lapidus",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 62143.00000000001,
+      "total_voting_power_pct": "0.026507567701437057",
+      "public_keys": []
+    },
+    {
+      "name": "Valentine Stockdale",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 250,
+      "total_voting_power_pct": "0.00010663939503016049",
+      "public_keys": []
+    },
+    {
+      "name": "Vanessa Walach - Shaman Better Daze",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Vanja",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 504,
+      "total_voting_power_pct": "0.00021498502038080355",
+      "public_keys": []
+    },
+    {
+      "name": "Varma Priyatham",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 77,
+      "total_voting_power_pct": "0.00003284493366928943",
+      "public_keys": []
+    },
+    {
+      "name": "Vibhu Mittal",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10161.33,
+      "total_voting_power_pct": "0.004334392335607283",
+      "public_keys": []
+    },
+    {
+      "name": "Victor Munoz",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5250,
+      "total_voting_power_pct": "0.00223942729563337",
+      "public_keys": []
+    },
+    {
+      "name": "Victor Pineda",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 403,
+      "total_voting_power_pct": "0.0001719027047886187",
+      "public_keys": []
+    },
+    {
+      "name": "Vina e Microbio De Bike",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.67,
+      "total_voting_power_pct": "0.000007110714860611102",
+      "public_keys": []
+    },
+    {
+      "name": "Vincent Song",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 316.67,
+      "total_voting_power_pct": "0.00013507798889680369",
+      "public_keys": []
+    },
+    {
+      "name": "Vishvajit",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1235,
+      "total_voting_power_pct": "0.0005267986114489928",
+      "public_keys": []
+    },
+    {
+      "name": "Vlatko Gigov",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50584.078375,
+      "total_voting_power_pct": "0.021577022064272894",
+      "public_keys": []
+    },
+    {
+      "name": "Walter Punsapy",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1000,
+      "total_voting_power_pct": "0.00042655758012064194",
+      "public_keys": []
+    },
+    {
+      "name": "Wayne - UX.APP",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": []
+    },
+    {
+      "name": "Will Chen",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 175,
+      "total_voting_power_pct": "0.00007464757652111234",
+      "public_keys": []
+    },
+    {
+      "name": "Windy Butler-Ehry",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 16.66,
+      "total_voting_power_pct": "0.000007106449284809895",
+      "public_keys": []
+    },
+    {
+      "name": "Yasmin",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 308.34000000000003,
+      "total_voting_power_pct": "0.00013152476425439875",
+      "public_keys": []
+    },
+    {
+      "name": "Youna Kim",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1050,
+      "total_voting_power_pct": "0.00044788545912667404",
+      "public_keys": []
+    },
+    {
+      "name": "Yousra Saad Kamoona",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 198.34000000000003,
+      "total_voting_power_pct": "0.00008460343044112814",
+      "public_keys": []
+    },
+    {
+      "name": "Yuan Luo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5000,
+      "total_voting_power_pct": "0.0021327879006032098",
+      "public_keys": []
+    },
+    {
+      "name": "Yukihiro",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 1300,
+      "total_voting_power_pct": "0.0005545248541568345",
+      "public_keys": []
+    },
+    {
+      "name": "Yuval Wirzberger",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 150,
+      "total_voting_power_pct": "0.00006398363701809629",
+      "public_keys": []
+    },
+    {
+      "name": "Zach Miltz",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Zach Roth",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 100,
+      "total_voting_power_pct": "0.00004265575801206419",
+      "public_keys": []
+    },
+    {
+      "name": "Zack Franklin",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 10,
+      "total_voting_power_pct": "0.0000042655758012064195",
+      "public_keys": []
+    },
+    {
+      "name": "Zake Zephylia",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 50,
+      "total_voting_power_pct": "0.000021327879006032096",
+      "public_keys": []
+    },
+    {
+      "name": "Zoran",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5100,
+      "total_voting_power_pct": "0.002175443658615274",
+      "public_keys": []
+    },
+    {
+      "name": "?z??m? Ch?kw?ny?r?",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 5278.33,
+      "total_voting_power_pct": "0.002251511671878188",
+      "public_keys": []
     }
   ]
 }
