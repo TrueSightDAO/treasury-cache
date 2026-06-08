@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T02:16:09.652Z",
+  "generated_at": "2026-06-08T03:16:45.908Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
@@ -1646,7 +1646,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
           "status": "ACTIVE",
           "created_at": "",
-          "last_active_at": "20260604 12:35:58"
+          "last_active_at": "20260607 20:03:24"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB",
@@ -1775,10 +1775,10 @@
           "last_active_at": "20260529 12:29:12"
         },
         {
-          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0sfJ5LymHHnpZRvzmaW183mO0Mj+RNMSDgPsw/1PdJUFHm5QS2n8lVJwALHnPcc9HIupyX99SYooWKlmQFLj+D5HK2aXEMu0PnbKFTEA9NDB3k+SszGYHIwf4M/0bd1uxX602ynprq237HdCxOzcbYjgAKWefEpeOEZxC009PSjIMgUEGf6q6tOgOZpzopCu4FBOL5uu/3vgg4VYANA3Sp2dqLu+WOQlULRsBlQ2kTqE2hpKQpzzhXFcqlE8X1VCo+0FXqjUfx+tgKWlWg7mZkUPaLLopTcdLfxv7tG5AyAw0++HqKqZTgMvHx7B+Ug6JKnumBoYCRucuSyWtA1q5wIDAQAB",
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqMmeMipeHODWq/baLnHPfDx8SFCY1BnT8cLsTMdTG/vJceMev1Z5vYb22cvsuo9sjxhw1AMdBfr45WSoJmCh3y2OkR2OUMy+Z5dhTRDN/gaLG7jrT0LncGbTygcVauepo0jqMvEWWojRammPZXsdAPFx5bfiqx+YRO7hL2inNrnjzhfllx43b+m2akRXxtmo4jw6iCJ5cmnNxs6qPAflnijh1uXd12EH5ChFvtFbfvIaxXIMyDYVN4ZWlEUCak2Fv1g84dSaBYHL86T6oUE6Cty6PrtnF20vWagB6Hq7HnQWJX7XyVXQ5rk9uMAXME1aSzyCTYHjwXPLwISTw6g8iwIDAQAB",
           "status": "ACTIVE",
-          "created_at": "2026-06-08T09:11:23.000Z",
-          "last_active_at": "2026-06-08T09:16:05.000Z"
+          "created_at": "2026-06-08T10:16:25.000Z",
+          "last_active_at": "2026-06-08T10:16:42.000Z"
         }
       ]
     },
