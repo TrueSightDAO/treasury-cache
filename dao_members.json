@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T18:41:48.912Z",
+  "generated_at": "2026-06-09T18:53:20.058Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
   "counts": {
     "contributors": 400,
-    "active_public_keys": 69,
+    "active_public_keys": 70,
     "governors": 10,
     "sentinels": 2,
     "contributors_with_email": 11
@@ -1863,6 +1863,12 @@
           "status": "ACTIVE",
           "created_at": "2026-06-10T01:41:30.000Z",
           "last_active_at": "2026-06-10T01:41:45.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0q7Abln5ZCNwyys5h8OtV/CAngKBe+3WwUHmK6m1dWxJeRWeE+1ADmwh5iICyTxnFm8SdpscbdBAQ7fwkDB0IJFh2pahFFbWcR2kzw1BAbnqXr8/Z4VWP39zhyRW973GdKIsB0aOpEYe5D5eXNuzfSePY/K45r91139z5xHbGnBMnGfs4+qhHsZPX4rcRjIAcTJdCEFttlNPZlVGMOKah6KUMSaVlQMPW697W5WIEr2L48G1LNSKAXI5aH8494TUe8t0K8s6FXuYEV9oYGJ4eH+QGOiZIxmKe2pgZOxZ5jgkL2fq+B8QpglzmrAkWM89BlzlEYboJV/AujBG9/CPxQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-06-10T01:53:00.000Z",
+          "last_active_at": "2026-06-10T01:53:16.000Z"
         }
       ]
     },
