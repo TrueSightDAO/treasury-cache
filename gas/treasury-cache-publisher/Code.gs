@@ -27,7 +27,13 @@
  * Aggregation logic mirrors tokenomics/google_app_scripts/tdg_inventory_management/web_app.gs
  * (listAllCurrenciesAcrossLedgers, getLedgerConfigsFromSheet, augmentWithLedgers).
  *
- * Currencies tab: columns P–Q supply **inventory_type** and **unit_format** on JSON items (schema v3+).
+ * Currencies tab:
+ *   P = inventory_type
+ *   Q = unit_format
+ *   R = GTIN (global trade item number, e.g. 00860010660256)
+ *   S = HS Code (harmonized system, e.g. 1801.00 for cacao beans)
+ * 
+ * Schema v4: adds optional gtin and hs_code fields to items[] and managers[].items[].
  */
 
 // ---------- Constants / defaults ----------
@@ -44,7 +50,7 @@ var MAIN_SHEET_NAME           = 'offchain asset location';
 var SHIPMENT_LEDGER_LISTING   = 'Shipment Ledger Listing';
 var CURRENCIES_SHEET_NAME     = 'Currencies';
 
-var SCHEMA_VERSION = 3;
+var SCHEMA_VERSION = 4;
 var LOCK_TIMEOUT_MS = 30000;
 
 // ---------- Script property helpers ----------
@@ -162,6 +168,8 @@ function buildSnapshot_(trigger) {
         unit_cost_usd: meta.unit_cost_usd != null ? meta.unit_cost_usd : null,
         inventory_type: meta.inventory_type != null ? meta.inventory_type : null,
         unit_format: meta.unit_format != null ? meta.unit_format : null,
+        gtin: meta.gtin != null ? meta.gtin : null,
+        hs_code: meta.hs_code != null ? meta.hs_code : null,
         total_quantity: 0,
         total_value_usd: 0,
         ledgers: {}
@@ -211,6 +219,8 @@ function buildSnapshot_(trigger) {
         if (mainMeta.unit_weight_g != null) mgrEntry.unit_weight_g = mainMeta.unit_weight_g;
         if (mainMeta.inventory_type != null) mgrEntry.inventory_type = mainMeta.inventory_type;
         if (mainMeta.unit_format != null) mgrEntry.unit_format = mainMeta.unit_format;
+        if (mainMeta.gtin != null) mgrEntry.gtin = mainMeta.gtin;
+        if (mainMeta.hs_code != null) mgrEntry.hs_code = mainMeta.hs_code;
         var uc = parseFloat(unitCostRaw);
         if (!isNaN(uc)) mgrEntry.unit_cost_usd = uc;
         var tv = parseFloat(totalValRaw);
@@ -273,6 +283,8 @@ function buildSnapshot_(trigger) {
           if (aglMeta.unit_weight_g != null) mgrEntry.unit_weight_g = aglMeta.unit_weight_g;
           if (aglMeta.inventory_type != null) mgrEntry.inventory_type = aglMeta.inventory_type;
           if (aglMeta.unit_format != null) mgrEntry.unit_format = aglMeta.unit_format;
+          if (aglMeta.gtin != null) mgrEntry.gtin = aglMeta.gtin;
+          if (aglMeta.hs_code != null) mgrEntry.hs_code = aglMeta.hs_code;
           if (unitCost != null) {
             mgrEntry.unit_cost_usd = unitCost;
             mgrEntry.total_value_usd = round2_(quantity * unitCost);
@@ -373,7 +385,8 @@ function getLedgerConfigsFromSheet_(mainSs) {
 }
 
 // Read the Main Ledger Currencies tab once: name (A) → catalog fields used by the snapshot.
-// A=name, B=unit_cost_usd, K=unit_weight_g, P=Inventory Type, Q=Unit format (Main Ledger Currencies).
+// A=name, B=unit_cost_usd, K=unit_weight_g, P=Inventory Type, Q=Unit format,
+// R=GTIN, S=HS Code.
 function getCurrenciesMap_(mainSs) {
   var map = {};
   var sheet = mainSs.getSheetByName(CURRENCIES_SHEET_NAME);
@@ -381,8 +394,8 @@ function getCurrenciesMap_(mainSs) {
   var lastRow = sheet.getLastRow();
   if (lastRow < 2) return map;
 
-  // Columns A..Q (17 cols): A=name, B=cost, K=weight_g, P=inventory_type, Q=unit_format
-  var rows = sheet.getRange(2, 1, lastRow - 1, 17).getValues();
+  // Columns A..S (19 cols)
+  var rows = sheet.getRange(2, 1, lastRow - 1, 19).getValues();
   rows.forEach(function(row) {
     var name = row[0] ? String(row[0]).trim() : '';
     if (!name) return;
@@ -390,11 +403,15 @@ function getCurrenciesMap_(mainSs) {
     var weight = parseFloat(row[10]);
     var invType = row[15] != null && String(row[15]).trim() ? String(row[15]).trim() : null;
     var unitFmt = row[16] != null && String(row[16]).trim() ? String(row[16]).trim() : null;
+    var gtin   = row[17] != null && String(row[17]).trim() ? String(row[17]).trim() : null;
+    var hsCode = row[18] != null && String(row[18]).trim() ? String(row[18]).trim() : null;
     map[name] = {
       unit_cost_usd: isNaN(cost) ? null : cost,
       unit_weight_g: isNaN(weight) || !(weight > 0) ? null : weight,
       inventory_type: invType,
-      unit_format: unitFmt
+      unit_format: unitFmt,
+      gtin: gtin,
+      hs_code: hsCode
     };
   });
   return map;
