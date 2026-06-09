@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-09T03:24:40.698Z",
+  "generated_at": "2026-06-09T18:16:47.975Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "cron",
+  "trigger": "edgar_webhook",
   "counts": {
     "contributors": 400,
-    "active_public_keys": 65,
+    "active_public_keys": 66,
     "governors": 10,
     "sentinels": 2,
     "contributors_with_email": 11
@@ -1646,7 +1646,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
           "status": "ACTIVE",
           "created_at": "",
-          "last_active_at": "20260607 20:03:24"
+          "last_active_at": "20260609 11:14:09"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB",
@@ -1839,6 +1839,12 @@
           "status": "ACTIVE",
           "created_at": "2026-06-08T11:19:54.000Z",
           "last_active_at": "2026-06-08T11:20:07.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuQyBfHbnm92wJvzFJ7uNUI75vMJFgPo1cjgyU7VgWdxxmwE1gfAW2/MgVTk8qGzw82exKM8vHcygf4lWPQjsgIBFg/j4TGdAhkiXPqWSXacLU/o7xvzfGzcDXsFiJ+aFbi5geZe/GC2m8aKmZMtAUh3y6AMZJ0lx9wVI1EwQuaZDg/hha02lLDCfTCyATbCp491txDHtzvvr8q3tBfLAx83m9mSWDPdYM0LK3TaEBAZ85ygaNQDdqhntUTyqgRsz3Y87m1EjlTuydDsWpzrBG4lD+ndupr3G+/mfqSsh1YxZJt+3kSSzLAhrIbg4d0Lp97zDXD3Dw2KEA15fYY0ocwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-06-10T00:42:20.000Z",
+          "last_active_at": "2026-06-10T01:16:44.000Z"
         }
       ]
     },
