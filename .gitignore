@@ -1,0 +1,20 @@
+# Secrets — never commit
+.env
+.env.local
+.env.*.local
+*.secret
+secrets/
+
+# Credential files
+*credentials*.json
+*token*.json
+google-service-account.json
+*.pem
+*.key
+*.p12
+
+# clasp auth (per-user)
+.clasprc.json
+
+# OS / editor cruft
+.DS_Store
