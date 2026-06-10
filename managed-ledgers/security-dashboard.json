@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T09:47:03.473647+00:00",
+  "generated_at": "2026-06-10T10:03:27.904248+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -288,6 +288,13 @@
               "state": "running",
               "type": "t3.small",
               "launch_time": "2026-05-28T20:25:28+00:00"
+            },
+            {
+              "id": "i-0b8c6d989594fb229",
+              "name": "dao-protocol-beta",
+              "state": "running",
+              "type": "t3.small",
+              "launch_time": "2026-06-09T21:50:15+00:00"
             }
           ],
           "key_pairs": [
@@ -308,6 +315,10 @@
               "fingerprint": "71:be:0c:4f:bb:6d:a6:75:24:ec:66:bf:54:1f:30:f6:e7:56:f6:93"
             },
             {
+              "name": "dao-protocol-beta-key",
+              "fingerprint": "p/9Z1L/k0oR/EWsNK2VNdzfFQlmMg4ZK514w028Amw0="
+            },
+            {
               "name": "TrueSight Protocol API",
               "fingerprint": "93:8e:80:cd:6e:98:36:72:68:02:c2:8e:7b:3d:f1:69:c5:14:c7:a7"
             },
@@ -321,6 +332,14 @@
             }
           ],
           "security_groups": [
+            {
+              "id": "sg-0346c37fdc8108ffc",
+              "name": "dao-protocol-beta-sg",
+              "open_ports": [
+                80,
+                443
+              ]
+            },
             {
               "id": "sg-0d3b6c10480d83248",
               "name": "governor-chatbot-sg",
@@ -406,11 +425,11 @@
         }
       },
       "totals": {
-        "instances": 17,
-        "instances_running": 17,
+        "instances": 18,
+        "instances_running": 18,
         "instances_stopped": 0,
-        "key_pairs": 9,
-        "security_groups": 21,
+        "key_pairs": 10,
+        "security_groups": 22,
         "open_ports": [
           22,
           80,
@@ -719,7 +738,7 @@
           "commonName": "affiliate.agroverse.shop"
         },
         "expiry": "2026-07-22T23:59:59+00:00",
-        "days_remaining": 43,
+        "days_remaining": 42,
         "error": null
       },
       "headers": {
@@ -760,7 +779,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-08-27T06:30:20+00:00",
-        "days_remaining": 78,
+        "days_remaining": 77,
         "error": null
       },
       "headers": {
@@ -847,7 +866,7 @@
           "commonName": "beta.agroverse.shop"
         },
         "expiry": "2026-08-18T13:39:19+00:00",
-        "days_remaining": 70,
+        "days_remaining": 69,
         "error": null
       },
       "headers": {
@@ -892,11 +911,52 @@
           "commonName": "beta.dapp.truesight.me"
         },
         "expiry": "2026-08-26T18:44:46+00:00",
-        "days_remaining": 78,
+        "days_remaining": 77,
         "error": null
       },
       "headers": {
         "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
+        "present": [],
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "beta.edgar.truesight.me",
+      "url": "https://beta.edgar.truesight.me",
+      "hosting": "ec2",
+      "target": "54.162.175.189",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "YE1"
+        },
+        "subject": {
+          "commonName": "beta.edgar.truesight.me"
+        },
+        "expiry": "2026-09-07T21:00:10+00:00",
+        "days_remaining": 89,
+        "error": null
+      },
+      "headers": {
+        "status_code": 404,
         "headers": {
           "CSP": null,
           "HSTS": null,
@@ -933,7 +993,7 @@
           "commonName": "beta.truesight.me"
         },
         "expiry": "2026-08-13T10:22:49+00:00",
-        "days_remaining": 65,
+        "days_remaining": 64,
         "error": null
       },
       "headers": {
@@ -995,7 +1055,7 @@
           "commonName": "butterfly-effect-club.truesight.me"
         },
         "expiry": "2026-08-20T20:17:12+00:00",
-        "days_remaining": 72,
+        "days_remaining": 71,
         "error": null
       },
       "headers": {
@@ -1036,7 +1096,7 @@
           "commonName": "capoeira.agroverse.shop"
         },
         "expiry": "2026-08-08T21:50:59+00:00",
-        "days_remaining": 60,
+        "days_remaining": 59,
         "error": null
       },
       "headers": {
@@ -1077,7 +1137,7 @@
           "commonName": "chatbot.truesight.me"
         },
         "expiry": "2026-11-08T23:59:59+00:00",
-        "days_remaining": 152,
+        "days_remaining": 151,
         "error": null
       },
       "headers": {
@@ -1125,7 +1185,7 @@
           "commonName": "dapp.truesight.me"
         },
         "expiry": "2026-07-31T17:06:49+00:00",
-        "days_remaining": 52,
+        "days_remaining": 51,
         "error": null
       },
       "headers": {
@@ -1170,7 +1230,7 @@
           "commonName": "edgar.truesight.me"
         },
         "expiry": "2026-08-08T23:12:36+00:00",
-        "days_remaining": 60,
+        "days_remaining": 59,
         "error": null
       },
       "headers": {
@@ -1221,7 +1281,7 @@
           "commonName": "heierling.truesight.me"
         },
         "expiry": "2026-08-12T03:41:19+00:00",
-        "days_remaining": 63,
+        "days_remaining": 62,
         "error": null
       },
       "headers": {
@@ -1262,7 +1322,7 @@
           "commonName": "oracle.truesight.me"
         },
         "expiry": "2026-08-08T00:37:15+00:00",
-        "days_remaining": 59,
+        "days_remaining": 58,
         "error": null
       },
       "headers": {
@@ -1324,7 +1384,7 @@
           "commonName": "sophia.truesight.me"
         },
         "expiry": "2026-08-28T22:13:40+00:00",
-        "days_remaining": 80,
+        "days_remaining": 79,
         "error": null
       },
       "headers": {
@@ -1378,7 +1438,7 @@
           "commonName": "tribomirimbahia.truesight.me"
         },
         "expiry": "2026-08-08T23:57:48+00:00",
-        "days_remaining": 60,
+        "days_remaining": 59,
         "error": null
       },
       "headers": {
@@ -1419,7 +1479,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 71,
+        "days_remaining": 70,
         "error": null
       },
       "headers": {
@@ -1464,7 +1524,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-08-27T06:30:20+00:00",
-        "days_remaining": 78,
+        "days_remaining": 77,
         "error": null
       },
       "headers": {
@@ -1509,7 +1569,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 71,
+        "days_remaining": 70,
         "error": null
       },
       "headers": {
@@ -2125,7 +2185,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-09T09:48:34.912080+00:00"
+    "scanned_at": "2026-06-10T10:05:22.633614+00:00"
   },
   "score": {
     "score": 25,
@@ -2142,6 +2202,7 @@
       "Missing headers on agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.dapp.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on beta.edgar.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on butterfly-effect-club.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on capoeira.agroverse.shop: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
