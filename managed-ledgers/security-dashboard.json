@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T10:03:27.904248+00:00",
+  "generated_at": "2026-06-11T10:27:50.491315+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -199,20 +199,6 @@
               "launch_time": "2026-02-03T01:37:41+00:00"
             },
             {
-              "id": "i-03224db5f5a49709c",
-              "name": "krake_sk_scaler",
-              "state": "running",
-              "type": "t2.micro",
-              "launch_time": "2025-10-16T19:04:32+00:00"
-            },
-            {
-              "id": "i-02599e3b3a03e38e4",
-              "name": "krake_sk_webhook",
-              "state": "running",
-              "type": "t2.small",
-              "launch_time": "2025-10-16T19:03:59+00:00"
-            },
-            {
               "id": "i-063dc4a3be90bd630",
               "name": "seni_ror_200250915",
               "state": "running",
@@ -220,25 +206,11 @@
               "launch_time": "2026-05-28T20:39:39+00:00"
             },
             {
-              "id": "i-0d63b472d8a8893f8",
-              "name": "GETDATA_CACHE",
-              "state": "running",
-              "type": "t2.micro",
-              "launch_time": "2025-10-23T06:11:44+00:00"
-            },
-            {
               "id": "i-07c76510b231d787f",
               "name": "krake_data",
               "state": "running",
               "type": "t3.medium",
               "launch_time": "2025-10-24T08:47:49+00:00"
-            },
-            {
-              "id": "i-06fc0dd44fa9cdbf2",
-              "name": "krake_sk_crawler",
-              "state": "running",
-              "type": "t2.small",
-              "launch_time": "2025-10-16T19:03:04+00:00"
             },
             {
               "id": "i-0df7a9e513dc537a6",
@@ -262,18 +234,18 @@
               "launch_time": "2026-05-28T20:48:40+00:00"
             },
             {
-              "id": "i-0b82138aa45b4029a",
-              "name": "krake_sk",
-              "state": "running",
-              "type": "t2.nano",
-              "launch_time": "2025-12-06T06:54:26+00:00"
-            },
-            {
               "id": "i-0dfeb7a93f1f78e8e",
               "name": "seni_sk_auto",
               "state": "running",
               "type": "t2.small",
               "launch_time": "2026-05-30T08:28:08+00:00"
+            },
+            {
+              "id": "i-05eb7c0c69349991d",
+              "name": "krake_sk_consolidated",
+              "state": "running",
+              "type": "t2.small",
+              "launch_time": "2026-06-11T01:50:44+00:00"
             },
             {
               "id": "i-08ebe96afbc649a95",
@@ -425,8 +397,8 @@
         }
       },
       "totals": {
-        "instances": 18,
-        "instances_running": 18,
+        "instances": 14,
+        "instances_running": 14,
         "instances_stopped": 0,
         "key_pairs": 10,
         "security_groups": 22,
@@ -738,7 +710,7 @@
           "commonName": "affiliate.agroverse.shop"
         },
         "expiry": "2026-07-22T23:59:59+00:00",
-        "days_remaining": 42,
+        "days_remaining": 41,
         "error": null
       },
       "headers": {
@@ -779,7 +751,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-08-27T06:30:20+00:00",
-        "days_remaining": 77,
+        "days_remaining": 76,
         "error": null
       },
       "headers": {
@@ -866,7 +838,7 @@
           "commonName": "beta.agroverse.shop"
         },
         "expiry": "2026-08-18T13:39:19+00:00",
-        "days_remaining": 69,
+        "days_remaining": 68,
         "error": null
       },
       "headers": {
@@ -911,7 +883,7 @@
           "commonName": "beta.dapp.truesight.me"
         },
         "expiry": "2026-08-26T18:44:46+00:00",
-        "days_remaining": 77,
+        "days_remaining": 76,
         "error": null
       },
       "headers": {
@@ -952,7 +924,7 @@
           "commonName": "beta.edgar.truesight.me"
         },
         "expiry": "2026-09-07T21:00:10+00:00",
-        "days_remaining": 89,
+        "days_remaining": 88,
         "error": null
       },
       "headers": {
@@ -993,7 +965,7 @@
           "commonName": "beta.truesight.me"
         },
         "expiry": "2026-08-13T10:22:49+00:00",
-        "days_remaining": 64,
+        "days_remaining": 62,
         "error": null
       },
       "headers": {
@@ -1055,7 +1027,7 @@
           "commonName": "butterfly-effect-club.truesight.me"
         },
         "expiry": "2026-08-20T20:17:12+00:00",
-        "days_remaining": 71,
+        "days_remaining": 70,
         "error": null
       },
       "headers": {
@@ -1096,7 +1068,7 @@
           "commonName": "capoeira.agroverse.shop"
         },
         "expiry": "2026-08-08T21:50:59+00:00",
-        "days_remaining": 59,
+        "days_remaining": 58,
         "error": null
       },
       "headers": {
@@ -1137,7 +1109,7 @@
           "commonName": "chatbot.truesight.me"
         },
         "expiry": "2026-11-08T23:59:59+00:00",
-        "days_remaining": 151,
+        "days_remaining": 150,
         "error": null
       },
       "headers": {
@@ -1185,7 +1157,7 @@
           "commonName": "dapp.truesight.me"
         },
         "expiry": "2026-07-31T17:06:49+00:00",
-        "days_remaining": 51,
+        "days_remaining": 50,
         "error": null
       },
       "headers": {
@@ -1230,7 +1202,7 @@
           "commonName": "edgar.truesight.me"
         },
         "expiry": "2026-08-08T23:12:36+00:00",
-        "days_remaining": 59,
+        "days_remaining": 58,
         "error": null
       },
       "headers": {
@@ -1281,7 +1253,7 @@
           "commonName": "heierling.truesight.me"
         },
         "expiry": "2026-08-12T03:41:19+00:00",
-        "days_remaining": 62,
+        "days_remaining": 61,
         "error": null
       },
       "headers": {
@@ -1322,7 +1294,7 @@
           "commonName": "oracle.truesight.me"
         },
         "expiry": "2026-08-08T00:37:15+00:00",
-        "days_remaining": 58,
+        "days_remaining": 57,
         "error": null
       },
       "headers": {
@@ -1384,7 +1356,7 @@
           "commonName": "sophia.truesight.me"
         },
         "expiry": "2026-08-28T22:13:40+00:00",
-        "days_remaining": 79,
+        "days_remaining": 78,
         "error": null
       },
       "headers": {
@@ -1438,7 +1410,7 @@
           "commonName": "tribomirimbahia.truesight.me"
         },
         "expiry": "2026-08-08T23:57:48+00:00",
-        "days_remaining": 59,
+        "days_remaining": 58,
         "error": null
       },
       "headers": {
@@ -1479,7 +1451,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 70,
+        "days_remaining": 69,
         "error": null
       },
       "headers": {
@@ -1524,7 +1496,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-08-27T06:30:20+00:00",
-        "days_remaining": 77,
+        "days_remaining": 76,
         "error": null
       },
       "headers": {
@@ -1569,7 +1541,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 70,
+        "days_remaining": 69,
         "error": null
       },
       "headers": {
@@ -2185,7 +2157,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-10T10:05:22.633614+00:00"
+    "scanned_at": "2026-06-11T10:29:40.871375+00:00"
   },
   "score": {
     "score": 25,
