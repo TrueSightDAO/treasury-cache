@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T23:34:50.473Z",
+  "generated_at": "2026-06-13T23:35:08.767Z",
   "source": "treasury-cache-publisher",
   "trigger": "sales_update_main",
   "schema_version": 4,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 19701.9946227269,
-      "total_value_usd": 19701.99,
+      "total_quantity": 19718.9946227269,
+      "total_value_usd": 19718.99,
       "ledgers": {
-        "Main Ledger": 3248.365773981744,
+        "Main Ledger": 3265.365773981744,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -161,10 +161,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 254,
-      "total_value_usd": -381,
+      "total_quantity": 255,
+      "total_value_usd": -382.5,
       "ledgers": {
-        "Main Ledger": 254
+        "Main Ledger": 255
       }
     },
     {
@@ -322,20 +322,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 9.019327088499999,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 41,
-      "total_value_usd": 369.79,
-      "ledgers": {
-        "Main Ledger": 41
-      }
-    },
-    {
       "currency": "USD - provisions for voting rights cash out",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
@@ -347,6 +333,20 @@
       "total_value_usd": 40.97,
       "ledgers": {
         "Main Ledger": 40.966435615857954
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 9.019327088499999,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 40,
+      "total_value_usd": 360.77,
+      "ledgers": {
+        "Main Ledger": 40
       }
     },
     {
@@ -1524,10 +1524,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3043.335773981744,
+          "amount": 3060.335773981744,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3043.335773981744
+          "total_value_usd": 3060.335773981744
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1640,15 +1640,6 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.509333333333332,
           "total_value_usd": 51.056
-        },
-        {
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 200,
-          "hs_code": "1803.1",
-          "unit_cost_usd": 9.019327088499999,
-          "total_value_usd": 9.019327088499999
         },
         {
           "currency": "USD",
@@ -2450,10 +2441,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 254,
+          "amount": 255,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -381
+          "total_value_usd": -382.5
         }
       ]
     },
@@ -2719,8 +2710,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30211.24697204075,
-    "total_value_usd": 38222.75,
+    "total_units": 30228.24697204075,
+    "total_value_usd": 38229.23,
     "ledgers_processed": 14,
     "managers_count": 39
   }
