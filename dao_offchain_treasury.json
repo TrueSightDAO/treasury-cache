@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T23:35:08.767Z",
+  "generated_at": "2026-06-13T23:35:29.810Z",
   "source": "treasury-cache-publisher",
   "trigger": "sales_update_main",
   "schema_version": 4,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 19718.9946227269,
-      "total_value_usd": 19718.99,
+      "total_quantity": 19752.9946227269,
+      "total_value_usd": 19752.99,
       "ledgers": {
-        "Main Ledger": 3265.365773981744,
+        "Main Ledger": 3299.365773981744,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -161,10 +161,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 255,
-      "total_value_usd": -382.5,
+      "total_quantity": 257,
+      "total_value_usd": -385.5,
       "ledgers": {
-        "Main Ledger": 255
+        "Main Ledger": 257
       }
     },
     {
@@ -406,20 +406,6 @@
       }
     },
     {
-      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-      "unit_weight_g": null,
-      "unit_cost_usd": 8.509333333333332,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 27,
-      "total_value_usd": 229.75,
-      "ledgers": {
-        "Main Ledger": 27
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.375283531111112,
@@ -445,6 +431,20 @@
       "total_value_usd": 30.94,
       "ledgers": {
         "Main Ledger": 26
+      }
+    },
+    {
+      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
+      "unit_weight_g": null,
+      "unit_cost_usd": 8.509333333333332,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 25,
+      "total_value_usd": 212.73,
+      "ledgers": {
+        "Main Ledger": 25
       }
     },
     {
@@ -1524,10 +1524,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3060.335773981744,
+          "amount": 3094.335773981744,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3060.335773981744
+          "total_value_usd": 3094.335773981744
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1636,10 +1636,10 @@
         },
         {
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-          "amount": 6,
+          "amount": 4,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.509333333333332,
-          "total_value_usd": 51.056
+          "total_value_usd": 34.03733333333333
         },
         {
           "currency": "USD",
@@ -2441,10 +2441,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 255,
+          "amount": 257,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -382.5
+          "total_value_usd": -385.5
         }
       ]
     },
@@ -2710,8 +2710,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30228.24697204075,
-    "total_value_usd": 38229.23,
+    "total_units": 30262.24697204075,
+    "total_value_usd": 38243.21,
     "ledgers_processed": 14,
     "managers_count": 39
   }
