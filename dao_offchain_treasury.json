@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T22:08:32.578Z",
+  "generated_at": "2026-06-13T22:48:32.733Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 19644.024622726898,
-      "total_value_usd": 19644.02,
+      "total_quantity": 19667.9946227269,
+      "total_value_usd": 19667.99,
       "ledgers": {
-        "Main Ledger": 3190.395773981744,
+        "Main Ledger": 3214.365773981744,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -161,10 +161,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 251,
-      "total_value_usd": -376.5,
+      "total_quantity": 252,
+      "total_value_usd": -378,
       "ledgers": {
-        "Main Ledger": 251
+        "Main Ledger": 252
       }
     },
     {
@@ -350,20 +350,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.493799803617641,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 40,
-      "total_value_usd": 339.75,
-      "ledgers": {
-        "Main Ledger": 40
-      }
-    },
-    {
       "currency": "Cacao Almonds KG from Oscar's farm - AGL14",
       "unit_weight_g": 1000,
       "unit_cost_usd": 11.41225,
@@ -387,6 +373,20 @@
       "hs_code": "1803.1",
       "total_quantity": 39,
       "total_value_usd": 612.11,
+      "ledgers": {
+        "Main Ledger": 39
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.493799803617641,
+      "inventory_type": "Cacao Mass",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 39,
+      "total_value_usd": 331.26,
       "ledgers": {
         "Main Ledger": 39
       }
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1683.0239000000001,
+      "unit_cost_usd": 1682.5563000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1505,8 +1505,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1683.0239000000001,
-          "total_value_usd": 7.997061003490927e-11
+          "unit_cost_usd": 1682.5563000000002,
+          "total_value_usd": 7.994839154041712e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1931,21 +1931,21 @@
       "items": [
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 3,
+          "amount": 2,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 25.481399410852923
+          "total_value_usd": 16.987599607235282
         },
         {
           "currency": "USD",
-          "amount": 23.97,
+          "amount": 47.94,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 23.97
+          "total_value_usd": 47.94
         }
       ]
     },
@@ -2450,10 +2450,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 251,
+          "amount": 252,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -376.5
+          "total_value_usd": -378
         }
       ]
     },
@@ -2719,8 +2719,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30153.27697204075,
-    "total_value_usd": 38195.81,
+    "total_units": 30177.24697204075,
+    "total_value_usd": 38209.79,
     "ledgers_processed": 14,
     "managers_count": 39
   }
