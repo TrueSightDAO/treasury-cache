@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:36:03.530Z",
+  "generated_at": "2026-06-13T23:36:13.526Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 19786.9946227269,
-      "total_value_usd": 19786.99,
+      "total_quantity": 19803.9946227269,
+      "total_value_usd": 19803.99,
       "ledgers": {
-        "Main Ledger": 3333.365773981744,
+        "Main Ledger": 3350.365773981744,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -161,10 +161,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 259,
-      "total_value_usd": -388.5,
+      "total_quantity": 260,
+      "total_value_usd": -390,
       "ledgers": {
-        "Main Ledger": 259
+        "Main Ledger": 260
       }
     },
     {
@@ -469,10 +469,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 23,
-      "total_value_usd": 195.71,
+      "total_quantity": 22,
+      "total_value_usd": 187.21,
       "ledgers": {
-        "Main Ledger": 23
+        "Main Ledger": 22
       }
     },
     {
@@ -1524,10 +1524,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3128.335773981744,
+          "amount": 3145.335773981744,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3128.335773981744
+          "total_value_usd": 3145.335773981744
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1636,10 +1636,10 @@
         },
         {
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-          "amount": 2,
+          "amount": 1,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.509333333333332,
-          "total_value_usd": 17.018666666666665
+          "total_value_usd": 8.509333333333332
         },
         {
           "currency": "USD",
@@ -2441,10 +2441,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 259,
+          "amount": 260,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -388.5
+          "total_value_usd": -390
         }
       ]
     },
@@ -2710,8 +2710,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30296.24697204075,
-    "total_value_usd": 38257.19,
+    "total_units": 30313.24697204075,
+    "total_value_usd": 38264.19,
     "ledgers_processed": 14,
     "managers_count": 39
   }
