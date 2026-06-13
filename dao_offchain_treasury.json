@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:35:43.051Z",
+  "generated_at": "2026-06-13T23:35:51.290Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 19752.9946227269,
-      "total_value_usd": 19752.99,
+      "total_quantity": 19786.9946227269,
+      "total_value_usd": 19786.99,
       "ledgers": {
-        "Main Ledger": 3299.365773981744,
+        "Main Ledger": 3333.365773981744,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 518.946,
@@ -161,10 +161,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 257,
-      "total_value_usd": -385.5,
+      "total_quantity": 259,
+      "total_value_usd": -388.5,
       "ledgers": {
-        "Main Ledger": 257
+        "Main Ledger": 259
       }
     },
     {
@@ -434,20 +434,6 @@
       }
     },
     {
-      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-      "unit_weight_g": null,
-      "unit_cost_usd": 8.509333333333332,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 25,
-      "total_value_usd": 212.73,
-      "ledgers": {
-        "Main Ledger": 25
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch CP340993268BR - Switzerland",
       "unit_weight_g": null,
       "unit_cost_usd": 9.9529856456974,
@@ -473,6 +459,20 @@
       "total_value_usd": 57.7,
       "ledgers": {
         "Main Ledger": 24
+      }
+    },
+    {
+      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
+      "unit_weight_g": null,
+      "unit_cost_usd": 8.509333333333332,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 23,
+      "total_value_usd": 195.71,
+      "ledgers": {
+        "Main Ledger": 23
       }
     },
     {
@@ -1524,10 +1524,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3094.335773981744,
+          "amount": 3128.335773981744,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3094.335773981744
+          "total_value_usd": 3128.335773981744
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1636,10 +1636,10 @@
         },
         {
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-          "amount": 4,
+          "amount": 2,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.509333333333332,
-          "total_value_usd": 34.03733333333333
+          "total_value_usd": 17.018666666666665
         },
         {
           "currency": "USD",
@@ -2441,10 +2441,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 257,
+          "amount": 259,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -385.5
+          "total_value_usd": -388.5
         }
       ]
     },
@@ -2710,8 +2710,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30262.24697204075,
-    "total_value_usd": 38243.21,
+    "total_units": 30296.24697204075,
+    "total_value_usd": 38257.19,
     "ledgers_processed": 14,
     "managers_count": 39
   }
