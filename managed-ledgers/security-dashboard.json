@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T09:18:12.129304+00:00",
+  "generated_at": "2026-06-14T09:36:51.120300+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -710,7 +710,7 @@
           "commonName": "affiliate.agroverse.shop"
         },
         "expiry": "2026-07-22T23:59:59+00:00",
-        "days_remaining": 39,
+        "days_remaining": 38,
         "error": null
       },
       "headers": {
@@ -751,7 +751,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-08-27T06:30:20+00:00",
-        "days_remaining": 74,
+        "days_remaining": 73,
         "error": null
       },
       "headers": {
@@ -838,7 +838,7 @@
           "commonName": "beta.agroverse.shop"
         },
         "expiry": "2026-08-18T13:39:19+00:00",
-        "days_remaining": 66,
+        "days_remaining": 65,
         "error": null
       },
       "headers": {
@@ -883,7 +883,7 @@
           "commonName": "beta.dapp.truesight.me"
         },
         "expiry": "2026-08-26T18:44:46+00:00",
-        "days_remaining": 74,
+        "days_remaining": 73,
         "error": null
       },
       "headers": {
@@ -924,7 +924,7 @@
           "commonName": "beta.edgar.truesight.me"
         },
         "expiry": "2026-09-07T21:00:10+00:00",
-        "days_remaining": 86,
+        "days_remaining": 85,
         "error": null
       },
       "headers": {
@@ -965,7 +965,7 @@
           "commonName": "beta.truesight.me"
         },
         "expiry": "2026-08-13T10:22:49+00:00",
-        "days_remaining": 61,
+        "days_remaining": 60,
         "error": null
       },
       "headers": {
@@ -1027,7 +1027,7 @@
           "commonName": "butterfly-effect-club.truesight.me"
         },
         "expiry": "2026-08-20T20:17:12+00:00",
-        "days_remaining": 68,
+        "days_remaining": 67,
         "error": null
       },
       "headers": {
@@ -1068,7 +1068,7 @@
           "commonName": "capoeira.agroverse.shop"
         },
         "expiry": "2026-08-08T21:50:59+00:00",
-        "days_remaining": 56,
+        "days_remaining": 55,
         "error": null
       },
       "headers": {
@@ -1109,7 +1109,7 @@
           "commonName": "chatbot.truesight.me"
         },
         "expiry": "2026-11-08T23:59:59+00:00",
-        "days_remaining": 148,
+        "days_remaining": 147,
         "error": null
       },
       "headers": {
@@ -1157,7 +1157,7 @@
           "commonName": "dapp.truesight.me"
         },
         "expiry": "2026-07-31T17:06:49+00:00",
-        "days_remaining": 48,
+        "days_remaining": 47,
         "error": null
       },
       "headers": {
@@ -1202,7 +1202,7 @@
           "commonName": "edgar.truesight.me"
         },
         "expiry": "2026-08-08T23:12:36+00:00",
-        "days_remaining": 56,
+        "days_remaining": 55,
         "error": null
       },
       "headers": {
@@ -1210,28 +1210,18 @@
         "headers": {
           "CSP": null,
           "HSTS": null,
-          "XFO": "SAMEORIGIN",
-          "XCTO": "nosniff",
-          "Referrer-Policy": "strict-origin-when-cross-origin",
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
           "Permissions-Policy": null
         },
-        "present": [
-          {
-            "header": "XFO",
-            "value": "SAMEORIGIN"
-          },
-          {
-            "header": "XCTO",
-            "value": "nosniff"
-          },
-          {
-            "header": "Referrer-Policy",
-            "value": "strict-origin-when-cross-origin"
-          }
-        ],
+        "present": [],
         "missing": [
           "CSP",
           "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
           "Permissions-Policy"
         ],
         "error": null
@@ -1253,7 +1243,7 @@
           "commonName": "heierling.truesight.me"
         },
         "expiry": "2026-08-12T03:41:19+00:00",
-        "days_remaining": 59,
+        "days_remaining": 58,
         "error": null
       },
       "headers": {
@@ -1294,7 +1284,7 @@
           "commonName": "oracle.truesight.me"
         },
         "expiry": "2026-08-08T00:37:15+00:00",
-        "days_remaining": 55,
+        "days_remaining": 54,
         "error": null
       },
       "headers": {
@@ -1314,6 +1304,57 @@
           "XFO",
           "XCTO",
           "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
+      }
+    },
+    {
+      "name": "perch.truesight.me",
+      "url": "https://perch.truesight.me",
+      "hosting": "ec2",
+      "target": "54.211.179.126",
+      "tls": {
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "YR1"
+        },
+        "subject": {
+          "commonName": "perch.truesight.me"
+        },
+        "expiry": "2026-09-11T22:05:13+00:00",
+        "days_remaining": 89,
+        "error": null
+      },
+      "headers": {
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": "SAMEORIGIN",
+          "XCTO": "nosniff",
+          "Referrer-Policy": "strict-origin-when-cross-origin",
+          "Permissions-Policy": null
+        },
+        "present": [
+          {
+            "header": "XFO",
+            "value": "SAMEORIGIN"
+          },
+          {
+            "header": "XCTO",
+            "value": "nosniff"
+          },
+          {
+            "header": "Referrer-Policy",
+            "value": "strict-origin-when-cross-origin"
+          }
+        ],
+        "missing": [
+          "CSP",
+          "HSTS",
           "Permissions-Policy"
         ],
         "error": null
@@ -1356,7 +1397,7 @@
           "commonName": "sophia.truesight.me"
         },
         "expiry": "2026-08-28T22:13:40+00:00",
-        "days_remaining": 76,
+        "days_remaining": 75,
         "error": null
       },
       "headers": {
@@ -1410,7 +1451,7 @@
           "commonName": "tribomirimbahia.truesight.me"
         },
         "expiry": "2026-08-08T23:57:48+00:00",
-        "days_remaining": 56,
+        "days_remaining": 55,
         "error": null
       },
       "headers": {
@@ -1451,7 +1492,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 67,
+        "days_remaining": 66,
         "error": null
       },
       "headers": {
@@ -1496,7 +1537,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-08-27T06:30:20+00:00",
-        "days_remaining": 74,
+        "days_remaining": 73,
         "error": null
       },
       "headers": {
@@ -1541,7 +1582,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 67,
+        "days_remaining": 66,
         "error": null
       },
       "headers": {
@@ -2157,7 +2198,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-06-13T09:19:56.478905+00:00"
+    "scanned_at": "2026-06-14T09:38:17.008419+00:00"
   },
   "score": {
     "score": 25,
@@ -2179,9 +2220,10 @@
       "Missing headers on butterfly-effect-club.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on capoeira.agroverse.shop: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on dapp.truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on edgar.truesight.me: CSP, HSTS, Permissions-Policy",
+      "Missing headers on edgar.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on heierling.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on oracle.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on perch.truesight.me: CSP, HSTS, Permissions-Policy",
       "Missing headers on sophia.truesight.me: CSP, Permissions-Policy",
       "Missing headers on tribomirimbahia.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
