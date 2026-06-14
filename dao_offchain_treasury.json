@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T23:56:59.937Z",
+  "generated_at": "2026-06-14T00:00:33.773Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_agl",
   "schema_version": 4,
   "items": [
     {
@@ -12,14 +12,14 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 19871.9946227269,
-      "total_value_usd": 19871.99,
+      "total_quantity": 19990.9946227269,
+      "total_value_usd": 19990.99,
       "ledgers": {
         "Main Ledger": 3418.365773981744,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
-        "AGL8": 518.946,
-        "AGL10": 228.82999999999998,
+        "AGL8": 552.946,
+        "AGL10": 313.83,
         "SEF1": 16,
         "AGL15": 5222.799999999998,
         "BEC": 93.12
@@ -203,10 +203,10 @@
       "unit_format": "Retail Ready",
       "gtin": null,
       "hs_code": "1803.1",
-      "total_quantity": 172,
-      "total_value_usd": 1783.64,
+      "total_quantity": 171,
+      "total_value_usd": 1773.27,
       "ledgers": {
-        "AGL8": 172
+        "AGL8": 171
       }
     },
     {
@@ -574,20 +574,6 @@
       }
     },
     {
-      "currency": "Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.08513,
-      "inventory_type": "Caramelized Cacao Bean",
-      "unit_format": "Retail Ready",
-      "gtin": "860010660249",
-      "hs_code": "1801",
-      "total_quantity": 12,
-      "total_value_usd": 97.02,
-      "ledgers": {
-        "AGL10": 12
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.517187353,
@@ -686,6 +672,20 @@
       }
     },
     {
+      "currency": "Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.08513,
+      "inventory_type": "Caramelized Cacao Bean",
+      "unit_format": "Retail Ready",
+      "gtin": "860010660249",
+      "hs_code": "1801",
+      "total_quantity": 7,
+      "total_value_usd": 56.6,
+      "ledgers": {
+        "AGL10": 7
+      }
+    },
+    {
       "currency": "8 Ounce Package Kraft Pouch - AGL2 + V2 bags",
       "unit_weight_g": null,
       "unit_cost_usd": 7.493683209035012,
@@ -728,20 +728,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 9.1754468485,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 5,
-      "total_value_usd": 45.88,
-      "ledgers": {
-        "AGL8": 5
-      }
-    },
-    {
       "currency": "Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409)",
       "unit_weight_g": null,
       "unit_cost_usd": 10.4535,
@@ -753,6 +739,20 @@
       "total_value_usd": 41.81,
       "ledgers": {
         "Main Ledger": 4
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 9.1754468485,
+      "inventory_type": "Cacao Mass",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 4,
+      "total_value_usd": 36.7,
+      "ledgers": {
+        "AGL8": 4
       }
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1678.1314,
+      "unit_cost_usd": 1679.9417,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1316,10 +1316,10 @@
         },
         {
           "currency": "[AGL10] USD",
-          "amount": 194.82999999999998,
+          "amount": 279.83,
           "ledger": "AGL10",
           "unit_cost_usd": 1,
-          "total_value_usd": 194.83
+          "total_value_usd": 279.83
         },
         {
           "currency": "[AGL15] USD",
@@ -1371,10 +1371,10 @@
         },
         {
           "currency": "[AGL8] USD",
-          "amount": 518.946,
+          "amount": 552.946,
           "ledger": "AGL8",
           "unit_cost_usd": 1,
-          "total_value_usd": 518.95
+          "total_value_usd": 552.95
         },
         {
           "currency": "[BEC] USD",
@@ -1505,8 +1505,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1678.1314,
-          "total_value_usd": 7.973813787001856e-11
+          "unit_cost_usd": 1679.9417,
+          "total_value_usd": 7.982415613473019e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1602,7 +1602,7 @@
       "items": [
         {
           "currency": "[AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
-          "amount": 6,
+          "amount": 1,
           "ledger": "AGL10",
           "unit_weight_g": 200,
           "inventory_type": "Caramelized Cacao Bean",
@@ -1610,29 +1610,18 @@
           "gtin": "860010660249",
           "hs_code": "1801",
           "unit_cost_usd": 8.08513,
-          "total_value_usd": 48.51
+          "total_value_usd": 8.09
         },
         {
-          "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
+          "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
           "amount": 1,
           "ledger": "AGL8",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
-          "unit_cost_usd": 9.1754468485,
-          "total_value_usd": 9.18
-        },
-        {
-          "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "amount": 2,
-          "ledger": "AGL8",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
           "unit_cost_usd": 10.37,
-          "total_value_usd": 20.74
+          "total_value_usd": 10.37
         },
         {
           "currency": "USD",
@@ -2703,8 +2692,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30381.24697204075,
-    "total_value_usd": 38292.18,
+    "total_units": 30493.24697204075,
+    "total_value_usd": 38351.21,
     "ledgers_processed": 14,
     "managers_count": 39
   }
