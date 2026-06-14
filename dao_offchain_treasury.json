@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-14T00:01:56.202Z",
+  "generated_at": "2026-06-14T00:48:29.624Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20024.9946227269,
-      "total_value_usd": 20024.99,
+      "total_quantity": 20090.9946227269,
+      "total_value_usd": 20090.99,
       "ledgers": {
-        "Main Ledger": 3418.365773981744,
+        "Main Ledger": 3484.365773981744,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1679.9417,
+      "unit_cost_usd": 1681.7882000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1505,8 +1505,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1679.9417,
-          "total_value_usd": 7.982415613473019e-11
+          "unit_cost_usd": 1681.7882000000002,
+          "total_value_usd": 7.991189447963988e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1524,10 +1524,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3213.335773981744,
+          "amount": 3345.335773981744,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3213.335773981744
+          "total_value_usd": 3345.335773981744
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1593,19 +1593,6 @@
           "hs_code": "1803.1",
           "unit_cost_usd": 8.375283531111112,
           "total_value_usd": 75.37755178
-        }
-      ]
-    },
-    {
-      "manager_name": "Green Gulch Zen Monastery",
-      "manager_key": "Green%20Gulch%20Zen%20Monastery",
-      "items": [
-        {
-          "currency": "USD",
-          "amount": 66,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 66
         }
       ]
     },
@@ -2669,9 +2656,9 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30525.24697204075,
-    "total_value_usd": 38366.75,
+    "total_units": 30591.24697204075,
+    "total_value_usd": 38432.75,
     "ledgers_processed": 14,
-    "managers_count": 39
+    "managers_count": 38
   }
 }
