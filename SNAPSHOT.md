@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-14T00:00:33.773Z` |
-| Trigger | `sales_update_agl` |
+| Generated at | `2026-06-14T00:01:56.202Z` |
+| Trigger | `movement` |
 | Schema version | `4` |
 | Item types | 82 |
-| Total units | 30493.24697204075 |
-| Total value USD | $38351.21 |
+| Total units | 30525.24697204075 |
+| Total value USD | $38366.75 |
 | Ledgers processed | 14 |
 | Managers | 39 |
 
@@ -18,7 +18,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 19990.9946227269 | $1.00 | $19990.99 | AGL10: 313.83, AGL15: 5222.799999999998, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 552.946, BEC: 93.12, Main Ledger: 3418.365773981744, SEF1: 16 |
+| USD | — | — | 20024.9946227269 | $1.00 | $20024.99 | AGL10: 330.83, AGL15: 5222.799999999998, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 3418.365773981744, SEF1: 16 |
 | Brazilian Reis | — | — | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -31,7 +31,7 @@
 | Cacao Tree To Be Planted | — | — | 264 | $-1.50 | $-396.00 | Main Ledger: 264 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 197 | $0.07 | $13.89 | Main Ledger: 197 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 171 | $10.37 | $1773.27 | AGL8: 171 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 170 | $10.37 | $1762.90 | AGL8: 170 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 157 | $0.55 | $86.98 | Main Ledger: 157 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 137 | $6.64 | $909.68 | Main Ledger: 137 |
 | Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 100 | $10.18 | $1018.23 | AGL13: 100 |
@@ -65,7 +65,7 @@
 | SunMint Tree Planting Pledge - QR Code | — | — | 10 | $0.00 | $0.00 | PP1: 10 |
 | 8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags | — | — | 7 | $8.34 | $58.41 | Main Ledger: 7 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 7 | $23.98 | $167.83 | Main Ledger: 7 |
-| Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | Caramelized Cacao Bean | Retail Ready | 7 | $8.09 | $56.60 | AGL10: 7 |
+| Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | Caramelized Cacao Bean | Retail Ready | 6 | $8.09 | $48.51 | AGL10: 6 |
 | 8 Ounce Package Kraft Pouch - AGL2 + V2 bags | — | — | 5 | $7.49 | $37.47 | Main Ledger: 5 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 5 | $8.32 | $41.58 | Main Ledger: 5 |
 | Large Cardboard Box for Moving Packaging 60x40x50 | — | — | 5 | $2.65 | $13.27 | Main Ledger: 5 |
@@ -105,13 +105,13 @@
 
 | Ledger | Distinct items | Total units |
 |---|---:|---:|
-| AGL10 | 4 | 322 |
+| AGL10 | 4 | 338 |
 | AGL13 | 3 | 136 |
 | AGL14 | 1 | 40 |
 | AGL15 | 1 | 5222.799999999998 |
 | AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1358.5853362811577 |
-| AGL8 | 7 | 1256.8613227979984 |
+| AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
 | Main Ledger | 67 | 12704.5328004976 |
 | PP1 | 1 | 10 |
@@ -127,10 +127,10 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 31 | 13706.154336778754 |
+| Gary Teh | 31 | 13740.154336778754 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
-| Green Gulch Zen Monastery | 3 | 68 |
+| Green Gulch Zen Monastery | 1 | 66 |
 | HackerDojo | 1 | 5 |
 | Heather - Ming's Lounge | 2 | 6 |
 | iChakras Smart Healing Center - Crystal via Chloe | 1 | 5 |
