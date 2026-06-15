@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-15T16:48:35.967Z` |
-| Trigger | `cron` |
+| Generated at | `2026-06-15T16:49:57.628Z` |
+| Trigger | `expense_processing` |
 | Schema version | `4` |
 | Item types | 82 |
 | Total units | 30583.246972040753 |
