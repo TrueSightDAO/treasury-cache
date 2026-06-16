@@ -1,0 +1,62 @@
+name: Update Buy-Back Reserve Cache
+
+on:
+  schedule:
+    # Run daily at 06:00 UTC
+    - cron: '0 6 * * *'
+  workflow_dispatch:
+    # Allow manual trigger from Actions tab
+
+jobs:
+  update-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout treasury-cache repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Checkout tokenomics repo (for the script)
+        uses: actions/checkout@v4
+        with:
+          repository: TrueSightDAO/tokenomics
+          path: tokenomics
+          token: ${{ secrets.GH_PAT_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install gspread requests
+
+      - name: Run cache builder
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        run: |
+          # Write service account key to temp file
+          echo "$GOOGLE_APPLICATION_CREDENTIALS_JSON" > /tmp/gcp-key.json
+          
+          # Create the expected path for the service account
+          mkdir -p ~/Applications/sentiment_importer/config
+          cp /tmp/gcp-key.json ~/Applications/sentiment_importer/config/cypher_defense_gdrive_key.json
+          
+          # Create the expected output directory
+          mkdir -p ~/Applications/treasury-cache
+          
+          # Run the script
+          python3 tokenomics/python_scripts/tdg_asset_management/update_buy_back_reserve_cache.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Sophia Truesight"
+          git config user.email "admin+sophia@truesight.me"
+          git add buy-back-reserve.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Update buy-back-reserve cache [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
