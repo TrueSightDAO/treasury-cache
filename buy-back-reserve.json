@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-16T16:06:35Z",
+  "generated_at": "2026-06-16T16:08:42Z",
   "source": "update_buy_back_reserve_cache.py",
   "reserve": {
     "total_usd": 41.26,
@@ -10,1353 +10,1353 @@
   "daily_buy_back_budget": null,
   "summary": {
     "total_provisions_count": 269,
-    "total_provisions_amount": 0
+    "total_provisions_amount": 41.44
   },
   "provisions": [
     {
       "date": "20250919",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20250920",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20250921",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20250922",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20250923",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20250924",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20250925",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20250926",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20250927",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20250928",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20250929",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20250930",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20251001",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20251002",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20251003",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20251004",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20251005",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.24
+      "amount": 0.24
     },
     {
       "date": "20251006",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.44
+      "amount": 0.44
     },
     {
       "date": "20251007",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.48
+      "amount": 0.48
     },
     {
       "date": "20251008",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.45
+      "amount": 0.45
     },
     {
       "date": "20251009",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.46
+      "amount": 0.46
     },
     {
       "date": "20251010",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.45
+      "amount": 0.45
     },
     {
       "date": "20251011",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.39
+      "amount": 0.39
     },
     {
       "date": "20251012",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.36
+      "amount": 0.36
     },
     {
       "date": "20251013",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.54
+      "amount": 0.54
     },
     {
       "date": "20251014",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.57
+      "amount": 0.57
     },
     {
       "date": "20251015",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.56
+      "amount": 0.56
     },
     {
       "date": "20251016",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.61
+      "amount": 0.61
     },
     {
       "date": "20251017",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.58
+      "amount": 0.58
     },
     {
       "date": "20251018",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.57
+      "amount": 0.57
     },
     {
       "date": "20251019",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.58
+      "amount": 0.58
     },
     {
       "date": "20251020",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.58
+      "amount": 0.58
     },
     {
       "date": "20251021",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.58
+      "amount": 0.58
     },
     {
       "date": "20251022",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.68
+      "amount": 0.68
     },
     {
       "date": "20251023",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.66
+      "amount": 0.66
     },
     {
       "date": "20251024",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.7
+      "amount": 0.7
     },
     {
       "date": "20251025",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.71
+      "amount": 0.71
     },
     {
       "date": "20251026",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.72
+      "amount": 0.72
     },
     {
       "date": "20251027",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.77
+      "amount": 0.77
     },
     {
       "date": "20251028",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.76
+      "amount": 0.76
     },
     {
       "date": "20251029",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251030",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251031",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251101",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251102",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251103",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251104",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20251105",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251106",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251107",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251108",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251109",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251110",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251111",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251112",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251113",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20251114",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20251115",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20251116",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251117",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251118",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251119",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251120",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251121",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251122",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20251123",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20251124",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20251125",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20251126",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251127",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251128",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251129",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20251130",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251201",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251202",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251203",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251204",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251205",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20251206",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20251207",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20251208",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20251209",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20251210",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20251211",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20251212",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251213",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20251214",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.1
+      "amount": 0.1
     },
     {
       "date": "20251215",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20251216",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20251217",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20251218",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20251219",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.13
+      "amount": 0.13
     },
     {
       "date": "20251220",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20251221",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20251222",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20251223",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20251224",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20251225",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20251226",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20251227",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.13
+      "amount": 0.13
     },
     {
       "date": "20251228",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.17
+      "amount": 0.17
     },
     {
       "date": "20251229",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.17
+      "amount": 0.17
     },
     {
       "date": "20251230",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.18
+      "amount": 0.18
     },
     {
       "date": "20251231",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260101",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.18
+      "amount": 0.18
     },
     {
       "date": "20260102",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.18
+      "amount": 0.18
     },
     {
       "date": "20260103",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.17
+      "amount": 0.17
     },
     {
       "date": "20260104",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.17
+      "amount": 0.17
     },
     {
       "date": "20260105",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20260106",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.14
+      "amount": 0.14
     },
     {
       "date": "20260107",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.14
+      "amount": 0.14
     },
     {
       "date": "20260108",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20260109",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20260110",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.12
+      "amount": 0.12
     },
     {
       "date": "20260111",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20260112",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20260113",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20260114",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.13
+      "amount": 0.13
     },
     {
       "date": "20260115",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.14
+      "amount": 0.14
     },
     {
       "date": "20260116",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.22
+      "amount": 0.22
     },
     {
       "date": "20260117",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.22
+      "amount": 0.22
     },
     {
       "date": "20260118",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.21
+      "amount": 0.21
     },
     {
       "date": "20260119",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.21
+      "amount": 0.21
     },
     {
       "date": "20260120",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.2
+      "amount": 0.2
     },
     {
       "date": "20260121",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.2
+      "amount": 0.2
     },
     {
       "date": "20260123",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.21
+      "amount": 0.21
     },
     {
       "date": "20260124",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.21
+      "amount": 0.21
     },
     {
       "date": "20260125",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.2
+      "amount": 0.2
     },
     {
       "date": "20260126",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.2
+      "amount": 0.2
     },
     {
       "date": "20260127",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.21
+      "amount": 0.21
     },
     {
       "date": "20260128",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260129",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260130",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.18
+      "amount": 0.18
     },
     {
       "date": "20260131",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.18
+      "amount": 0.18
     },
     {
       "date": "20260201",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260202",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260203",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.2
+      "amount": 0.2
     },
     {
       "date": "20260204",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.2
+      "amount": 0.2
     },
     {
       "date": "20260205",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260206",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260207",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260208",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260209",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260211",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.19
+      "amount": 0.19
     },
     {
       "date": "20260212",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.17
+      "amount": 0.17
     },
     {
       "date": "20260213",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.17
+      "amount": 0.17
     },
     {
       "date": "20260214",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.17
+      "amount": 0.17
     },
     {
       "date": "20260215",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20260216",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260217",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260218",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260219",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260220",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20260221",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.06
+      "amount": 0.06
     },
     {
       "date": "20260222",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260223",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260224",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260225",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260226",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260227",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260228",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260301",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260302",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260303",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260304",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.03
+      "amount": 0.03
     },
     {
       "date": "20260305",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260306",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260307",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260308",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260309",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260310",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260311",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260312",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260313",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260314",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260315",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260316",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260317",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260318",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.08
+      "amount": 0.08
     },
     {
       "date": "20260319",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20260320",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20260321",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20260322",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20260323",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20260324",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20260325",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20260326",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     },
     {
       "date": "20260327",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260328",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260329",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260330",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260331",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260401",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260402",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260403",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260404",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.07
+      "amount": 0.07
     },
     {
       "date": "20260405",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20260406",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20260407",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20260408",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20260409",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20260410",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.03
+      "amount": 0.03
     },
     {
       "date": "20260411",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20260412",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.02
+      "amount": 0.02
     },
     {
       "date": "20260413",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260414",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260415",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260416",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260417",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260418",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260419",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260420",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260421",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260422",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260423",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.1
+      "amount": 0.1
     },
     {
       "date": "20260424",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.1
+      "amount": 0.1
     },
     {
       "date": "20260425",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20260426",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20260427",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20260428",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20260429",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.11
+      "amount": 0.11
     },
     {
       "date": "20260430",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.22
+      "amount": 0.22
     },
     {
       "date": "20260501",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260502",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260503",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260504",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260505",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260506",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260507",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260508",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260509",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260510",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260511",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260512",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260513",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.26
+      "amount": 0.26
     },
     {
       "date": "20260514",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.24
+      "amount": 0.24
     },
     {
       "date": "20260515",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.24
+      "amount": 0.24
     },
     {
       "date": "20260516",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.24
+      "amount": 0.24
     },
     {
       "date": "20260517",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.24
+      "amount": 0.24
     },
     {
       "date": "20260518",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.24
+      "amount": 0.24
     },
     {
       "date": "20260519",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.23
+      "amount": 0.23
     },
     {
       "date": "20260520",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.23
+      "amount": 0.23
     },
     {
       "date": "20260521",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.23
+      "amount": 0.23
     },
     {
       "date": "20260522",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.23
+      "amount": 0.23
     },
     {
       "date": "20260523",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.23
+      "amount": 0.23
     },
     {
       "date": "20260524",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.23
+      "amount": 0.23
     },
     {
       "date": "20260525",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.17
+      "amount": 0.17
     },
     {
       "date": "20260526",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20260527",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20260528",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20260529",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20260530",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.16
+      "amount": 0.16
     },
     {
       "date": "20260531",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.15
+      "amount": 0.15
     },
     {
       "date": "20260601",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.01
+      "amount": 0.01
     },
     {
       "date": "20260602",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.03
+      "amount": 0.03
     },
     {
       "date": "20260603",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260604",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260605",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260606",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260607",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260608",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260609",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260610",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.05
+      "amount": 0.05
     },
     {
       "date": "20260611",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260612",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260613",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.04
+      "amount": 0.04
     },
     {
       "date": "20260614",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.1
+      "amount": 0.1
     },
     {
       "date": "20260615",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.1
+      "amount": 0.1
     },
     {
       "date": "20260616",
       "description": "[DAILY BUYBACK PROVISION]",
-      "amount": -0.09
+      "amount": 0.09
     }
   ]
 }
