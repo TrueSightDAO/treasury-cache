@@ -35,6 +35,7 @@ jobs:
       - name: Run cache builder
         env:
           GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+        working-directory: ${{ github.workspace }}
         run: |
           # Write service account key to temp file
           echo "$GOOGLE_APPLICATION_CREDENTIALS_JSON" > /tmp/gcp-key.json
@@ -43,10 +44,7 @@ jobs:
           mkdir -p ~/Applications/sentiment_importer/config
           cp /tmp/gcp-key.json ~/Applications/sentiment_importer/config/cypher_defense_gdrive_key.json
           
-          # Create the expected output directory
-          mkdir -p ~/Applications/treasury-cache
-          
-          # Run the script
+          # Run the script from the treasury-cache repo root so output lands here
           python3 tokenomics/python_scripts/tdg_asset_management/update_buy_back_reserve_cache.py
 
       - name: Commit and push changes
