@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16T03:22:19.897Z",
+  "generated_at": "2026-06-16T03:24:40.375Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "edgar_webhook",
+  "trigger": "cron",
   "counts": {
     "contributors": 400,
     "active_public_keys": 74,
