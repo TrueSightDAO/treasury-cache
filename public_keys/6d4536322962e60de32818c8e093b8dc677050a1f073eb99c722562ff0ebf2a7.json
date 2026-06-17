@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "6d4536322962e60de32818c8e093b8dc677050a1f073eb99c722562ff0ebf2a7",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6ZczaX6AGlJ+M46Oa+ehrqYNp45cPfU3OKbU9kjVr1w5iA8/7H3qLxCnzRiyyCdBaebSwGBXMlKgzLx4AIvWJX+5/VvLbP1eoyAH5NoYlm9VGlNh6ILlCUalTHbGWS1W1kiV7qIpkMSYgZ6sUrMpB7DZDTqH0LZHBRqXsRewRaQcwVYb4dR6/FtqgQvCP0R+bMo6gFnAv1OZF/6sW1RSXftNpHov4r1R1yJY7zuz34AParz1SHo2S8Lfx9x6LKG0WHG5pZ9OUkIKQYguUEo+kDBfUx8ZQbxETmFGqbrx+eUOQWrDyePXRo5k+8YnfOoBuMahZLqkseHovqXjMWu8EQIDAQAB",
+  "contributor": "Matheus Reis",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": null,
+  "last_active_at": "20250930 19:55:25",
+  "generated_at": "2026-06-17T05:57:27.419Z"
+}

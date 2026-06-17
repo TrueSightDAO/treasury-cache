@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "a1394ff37654e177f6b97c2e7f645dbc6c54b80375ee16ff6f6ebfc031c7bfa4",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqyl4/zsmqguaLuxVh5U1qE9VW60WHL3w3pCoPHagHyKSrVc3AeDpkwEVQ/IzVYSnObJ4aTSEKNjk05HmKuAbdR25BlLo/CSelPWCDq60RpQ0HdufrkU3/icV2mBQu/eD5WUTKyTn4JK4cuv3OUWme2cb2bMUatD9b4yZMBR/377TPFV4mlv4w6kAx1fXq96eN96vGpHlN2I+Xe3nuUwy6Hh2oyTK+MFWpkCrpjyEZZvbDU0/p75Lh3UvViJeXHwml2VlZUULZafTEb/dnz+TU4KP2/Bbm2YQcovrTK0aRqJJ0IXYluMSo00UhYzP943MMCQ1GZzaLItmo1tDqhlM2wIDAQAB",
+  "contributor": "Irene Hsu",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": null,
+  "last_active_at": null,
+  "generated_at": "2026-06-17T05:57:27.419Z"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "83d577e6b1877baf7d4797814cf9ae89eac8ee373bf6491d80a2a6585da956aa",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtauVtN8jJ/bf8tyS9aoICRtmyxhE5+h6VaVyNZmeCnwnBGt2WdTaqGqcFM+ydNKN2tRDNa79kbcRHz2uNWiDA8EU+k9+9qwVCYRSmyZK/EB3DWWiELghgNfLnImaIA6EiqekTT1UuJAkjv7kfuiK9wWDwcnA+9CGaGc5z3YDjB8JlTrqCPJa7XyWP0kim9KIeTyqsyy3LQxEUuuD4Hpu2A+DJl5JGpzf/D07hk+4LiddH7chqJ7y+s+DWG+1LlH3l/66hCGoQ0dCAr4uv8u6atqpizulnFwneR8xPpo5D6O80szkrg0LUC3pUuLtFPrrBQzUIjty/QzQqGuAwyhjmQIDAQAB",
+  "contributor": "Marta Lopes",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": null,
+  "last_active_at": null,
+  "generated_at": "2026-06-17T05:57:27.419Z"
+}

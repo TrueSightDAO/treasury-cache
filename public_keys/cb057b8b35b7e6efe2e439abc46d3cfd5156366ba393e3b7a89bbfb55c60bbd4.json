@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "cb057b8b35b7e6efe2e439abc46d3cfd5156366ba393e3b7a89bbfb55c60bbd4",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvKlwOh8HQ56tTihLiVw7N6FHuD+71TU3c1okQWnd1xDbNsSbjeJhth32AsUnZ32+vIpIAlOI5HRZNs+Kybnqp+RdLKg/t8nKPrNvXlJm9evXEcqdnQH0KCZS8PghYHf9MOBgcaSLJxNOLa/SrOjOc1fnchhnsfUmpqTBgsMKmBD4iWJ83ZeKxmEwHd/TA52kdhPA4u9/WMDwUdiO8AEptMBqAaF3Tl7gynvVpadGBsxKo7jpvTCvPmbOiPw8x1s1Lq0DFY6l8O0aZbmXBflwBXpUbG2pWe5QvS9qSTK8segIRXFsnneHumKd++0Eb1ukJ4PsQFFVwXFh00/XmEadyQIDAQAB",
+  "contributor": "ARPT",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": null,
+  "last_active_at": "20250730 20:01:40",
+  "generated_at": "2026-06-17T05:57:27.419Z"
+}
