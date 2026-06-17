@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "1b18c102308f9968ecd63ada755b67698faac39c64fb166e6e8ad3d992018944",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu+WcdQ80UGc07EoCBuONfVs7yo53qwPrFCUFTx4uafMe8pA7uth0v/99yYg2rqvd2ax65PzbIE49b8xpZNvP6BiYhARWU8fQlhIeDDzgZ/ebLBQv58ViwZB4vb7tJTjmmOE88vyqu24puT4k8zZt9Trgoe148TrRyPwI3uciC1rFE1KFduea1D8DYAxpyqD6jMfO7rUx+QUMeVJ6Pt/ZdP+czIr4m5sPWxpXbkZX2gFiYiSg2Q4nyCBbDjmiev3eCrnahvUubtGZ5Uz1RNFt77NoF6MuzGrYYIe42bNZFoYM6/0tpaS59MFqsuP2byhGAeHadb7WnYIU5VI74qqijwIDAQAB",
+  "contributor": "Elizabeth Wong",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": "Tue Apr 21 2026 03:16:17 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "TUE APR 21 2026 03:17:54 GMT-0700 (PACIFIC DAYLIGHT TIME)",
+  "generated_at": "2026-06-17T05:25:51.000Z"
+}

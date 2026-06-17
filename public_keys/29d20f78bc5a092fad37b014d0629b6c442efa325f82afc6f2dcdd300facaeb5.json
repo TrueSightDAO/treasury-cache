@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "29d20f78bc5a092fad37b014d0629b6c442efa325f82afc6f2dcdd300facaeb5",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
+  "contributor": "Alexandre Fernandes",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": "Wed Aug 27 2025 09:02:14 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "20260606 07:01:39",
+  "generated_at": "2026-06-17T05:25:51.000Z"
+}

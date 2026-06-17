@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "b874c157e6f701112d380a2855703bed6f0318418e404cfe70ed10e94eff0c52",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB",
+  "contributor": "Claude Anthropic",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": "Tue Jun 16 2026 21:21:35 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "TUE JUN 16 2026 21:29:46 GMT-0700 (PACIFIC DAYLIGHT TIME)",
+  "generated_at": "2026-06-17T05:25:51.000Z"
+}

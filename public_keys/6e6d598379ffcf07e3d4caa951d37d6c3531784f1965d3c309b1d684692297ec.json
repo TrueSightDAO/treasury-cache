@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "6e6d598379ffcf07e3d4caa951d37d6c3531784f1965d3c309b1d684692297ec",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAmODQbhdLN38Ta+UWoFqXv/ETTfJef2lBmI54T5f4oeh00sff2wAHtBIVeVMJzJAOU9VluS0ZuL7JXWPb/R6oFoVw/hBbb6szuv6NtpA96doDWMcQEiV1taXJpSqfl0g96kGSgaCL69MqLCe43l8b+Ae9g9XPnYYp0xljkJfuPcvpMUimVyPtaBrjg8tHEcSvg/9+299jGzH9GwfGlBE0ai8cr2BKocWcFn2lVZ7K2rdaaH5RWLTF8qnjKDhVTqglqzpMlXBuGY70tzzw/5uvsi3u3X8fZMpb0GdXZdvw3ZueD1M9d+h5u1EshtVNeXkv4dpKB/74Ec76DB/1YOPN+QIDAQAB",
+  "contributor": "Shahbaz Jamote",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": "Sun May 31 2026 06:55:37 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "SUN MAY 31 2026 06:56:28 GMT-0700 (PACIFIC DAYLIGHT TIME)",
+  "generated_at": "2026-06-17T05:25:51.000Z"
+}

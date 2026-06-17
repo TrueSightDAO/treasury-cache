@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "sha256": "19f19e073ee9069c1416029dae3cd8ba5cad2d62e0e8bb93fd6e46194de3e847",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WhcrS0l8HjG3kAoE0jBGm0PG8ArIfiLLcE4p9LGL1Z4iuFXOr0+wftjxKerBdqbznLqI0A0tRiNpMEFZMimN15DszxUYEusUM/4I2a8brwGgv4sg+IiJNQ+Q7MxzGB2A3jaRSIDIyxCEKN/Xto/rYbtbiffgk7ZS0dfnenuvnNwFWv7uU8e0vAIh0xqGumagBH8Fa1NhjACQQGifyRdwFq719M+Ll4dHfhnkE1UhjnqOhAUSB6nW1J4nACKEGFMRG04beNu8cxj8CKzdRCFnkcVILwo7Gxg8ErhveBgI4eEouTZz5ZhX+C1v6m6wSukXveJiGz7HPi7hzBeSOEU9wIDAQAB",
+  "contributor": "truesight-autopilot",
+  "roles": [
+    "member",
+    "sentinel"
+  ],
+  "status": "ACTIVE",
+  "created_at": "Thu May 07 2026 01:15:02 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "20260506 20:24:47",
+  "generated_at": "2026-06-17T05:25:51.000Z"
+}

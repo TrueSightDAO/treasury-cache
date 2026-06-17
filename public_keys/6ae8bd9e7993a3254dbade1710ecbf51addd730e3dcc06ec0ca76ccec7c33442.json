@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "6ae8bd9e7993a3254dbade1710ecbf51addd730e3dcc06ec0ca76ccec7c33442",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkUqth1W3tAA95M3tscNvGrNcdE5ElIHpwLF+FvRZnUEtEgt3ICamtU6cNKmf+eb+MKJldt5+w3FHbbjRuZkUiqztr2nF5uK62Hoi0raFuKkekrE64Nk9JKu7fnHps8w6VIVoshKpe+E+pse6NjBY9vEgawrw1EkJWTNtsXg8MBiiLj+TiawOBc0EQJTT4z7oNU4N5bxhtMYqIBPQ/Q75JFOByT2KC8zHR9KesCV4qzi8o26w/lOL25ozfxPGuKMGVOptgvFWKcUBuVpyC/+YCQzyJ9KvHJg93pghVAUduc6ruMRIlsoKkvUy96/912vlJqSWRe+926KKg+AZVpo5BwIDAQAB",
+  "contributor": "Sacred Earth Farms",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": "Tue Aug 19 2025 14:42:14 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "20250822 16:27:54",
+  "generated_at": "2026-06-17T05:25:51.000Z"
+}

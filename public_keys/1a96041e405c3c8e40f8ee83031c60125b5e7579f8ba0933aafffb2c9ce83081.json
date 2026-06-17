@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "1a96041e405c3c8e40f8ee83031c60125b5e7579f8ba0933aafffb2c9ce83081",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqmvBaw2dg1joG6gWhXAn32zCE+qAgRMLgvDYD5Wz+wz9UhByBZuCREVNK5oHv1ovHjC/5CRdirF0sFE56rE3GvPlx6mskEMy7uroHgtgDaosvj/zKJweBsaIJv2+GhdKFZ7dV3QkAl5+UiGeTNP5Kq2Fq8V0PzOvifgPSfAwxYdjwRxWnvBWv3oU1SMwSStyxmS6yAw8pqzW9x4qBICN9j0BcU4nHOL0NlkjjRaaMsQmy2E6kcRVuAKJ4Zq0gCdvlgFHUr/ZDwg3p4Yw2q1JdSZO/Jfw5UuuUS5F4wq9p41rKcb5LqZxVFuTAMau4iDV1P/bVJyWeEnhOTZ98wEnYQIDAQAB",
+  "contributor": "Maurillo Gomes",
+  "roles": [
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": "Wed Jul 30 2025 22:17:11 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "20250731 07:25:17",
+  "generated_at": "2026-06-17T05:25:51.000Z"
+}

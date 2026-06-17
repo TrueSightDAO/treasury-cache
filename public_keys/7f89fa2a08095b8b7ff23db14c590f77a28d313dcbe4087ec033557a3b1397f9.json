@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "sha256": "7f89fa2a08095b8b7ff23db14c590f77a28d313dcbe4087ec033557a3b1397f9",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA+CLpdqoO1JQKXNJIWuQfbGv4fkHVulzFlpVTmx5MSRHBaMiA07bouboU7p5j8/KR8tslZ08J88eJV3oRjTLgbdHcDtAERmv/5FSPP36NSYbBMJ30L0Cz4jc0s/hN8aOiyq711cY0aeKyUhZiryx0VkrC25O/lhJAGburnrUrq6MSPMBen45xeV6OxDhWdKtZdkh+tYcg/Oe+jl7AszrVa954N99PjYy0MGYgnoMh9cddrD5BcjXexLP21SILkjgzZYfTAMnw/MeJEryyuc7g7vwsWSin2KB+/nY/E+RNDSHLZMqRkh3mI2ovNXCbnc659gAlQBmYnQvn0IN7Iu+EDQIDAQAB",
+  "contributor": "Gary Teh",
+  "roles": [
+    "governor",
+    "member"
+  ],
+  "status": "ACTIVE",
+  "created_at": "Sun Apr 19 2026 03:30:06 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "20260421 12:14:40",
+  "generated_at": "2026-06-17T05:25:51.000Z"
+}
