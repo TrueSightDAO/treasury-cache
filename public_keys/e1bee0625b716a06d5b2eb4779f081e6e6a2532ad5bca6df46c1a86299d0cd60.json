@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "sha256": "e1bee0625b716a06d5b2eb4779f081e6e6a2532ad5bca6df46c1a86299d0cd60",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAri5quuXOixPS/nB7LF74ppNPWupz6gLVnEv3wKVy0Bigi6Yn8pxCSjK7qIVDMQW9qy9EORU5h46GeDj4HuKXVfuUQbkO0PAGL2m+2amVtyh4Vl3ARl+QSArHpsYn8miflSMU6F1vmNqEjMtZDrnl7fAEZw+I78YOUaQ13LzjSE6dlxBMIYiW3CEghdq81ErUz/TdXs9wK4r6XMAJB1+kKZl9rI9WNFK8PLVSVZsE9vNAxp4ob6rmmaxg/VUnbF2QYK4lAzVBI1CwhdkMzX88xK6EIHc8yntCvttc0KET2pE4yJ9vs/F1ME5iPMEcyP+oFspWyUriIpCM45ZugRArNQIDAQAB",
+  "contributor": "Kaon Krasniqi",
+  "roles": [
+    "member"
+  ],
+  "status": "VERIFYING",
+  "created_at": "Sat May 30 2026 16:42:32 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "20260530 09:44:58",
+  "generated_at": "2026-06-17T05:30:58.000Z"
+}

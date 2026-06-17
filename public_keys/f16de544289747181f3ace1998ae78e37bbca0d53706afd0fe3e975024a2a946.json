@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "sha256": "f16de544289747181f3ace1998ae78e37bbca0d53706afd0fe3e975024a2a946",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB",
+  "contributor": "Sophia Truesight",
+  "roles": [
+    "member",
+    "sentinel"
+  ],
+  "status": "VERIFYING",
+  "created_at": "Mon Jun 15 2026 03:18:21 GMT-0700 (Pacific Daylight Time)",
+  "last_active_at": "MON JUN 15 2026 03:18:21 GMT-0700 (PACIFIC DAYLIGHT TIME)",
+  "generated_at": "2026-06-17T05:30:58.000Z"
+}
