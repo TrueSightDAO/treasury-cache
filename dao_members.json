@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-06-16T23:47:35.700Z",
+  "generated_at": "2026-06-17T03:24:40.984Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "edgar_webhook",
+  "trigger": "cron",
   "counts": {
     "contributors": 401,
     "active_public_keys": 80,
@@ -1755,7 +1755,7 @@
         },
         {
           "public_key": "Mon May 04 2026 15:37:58 GMT-0700 (Pacific Daylight Time)",
-          "status": "20260616 10:43:43",
+          "status": "20260616 17:18:38",
           "created_at": "ACTIVE",
           "last_active_at": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB"
         },
