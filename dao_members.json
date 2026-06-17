@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-17T05:57:27.419Z",
+  "generated_at": "2026-06-17T06:41:31.009Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
   "counts": {
     "contributors": 401,
-    "active_public_keys": 94,
+    "active_public_keys": 95,
     "governors": 10,
     "sentinels": 2,
     "contributors_with_email": 13
@@ -1675,7 +1675,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB",
           "status": "ACTIVE",
           "created_at": null,
-          "last_active_at": "20260616 22:56:54"
+          "last_active_at": "20260616 23:20:03"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz757gZGBIAbXobcvJmJwDZWPSmfn0XbLu2xQXmjHw8pSfjk0QHnAElqvVhVphjfv4SFB11xdVWCPBneRNbCjxfyqSLONKcv7uryOXeTsJSe09iTuzAVA3ydIuKLmUNm048ViZk/fSOkE6L+HhTpotw5jxHrgzTLn5HeoQqKeNgVqy0HzFt7qsbp2cu1ANmduEHUUOIw3xCqP8Cjho7XqU/IFSErKiJI7FX4UmYeiv8LJQ1rxbNP5ptugOlXdV6EphAkGIpYydHsu1l8wuT/hoIPOnDEbF8JTNaK8nM5sQN+0wX+vAv36BoJUt4OzjReJnZlOPjpHjY8wstGGDjg16wIDAQAB",
@@ -2006,6 +2006,12 @@
           "status": "ACTIVE",
           "created_at": "2026-06-16T10:21:48.000Z",
           "last_active_at": "2026-06-16T10:22:17.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnRE25zfLDKWNE1fCTp5GMHpepGw1cUHGmPFHp6IZ1XhxswYklW4/U/BU5FaEcNW6e7SvnfvsemEN69gmlaTkpL/mNikZ1LHjJmvZZPsqgLxKipvtYiz5TI1QUdLIlgeYXzd5uUybC3ZBeWSqS15hrqm0VNU9/JXPBJLO1hfcTMpN8EXX6CYQI1ydRsA1asSjiMsCmk1BqVv8x4MY39TP3GUoqXL8I09DqQlp/JDKvrZNW07/YrmK8EutOJRgT3d7OJJwU2/uX6SSepHWr85fk89Ivfb1R87m/WXgkddndCZPrcGlReKEeMEd01MMEBVyu+fbWCwN0yO85vwKEuOMLwIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-06-17T13:41:06.000Z",
+          "last_active_at": "2026-06-17T13:41:28.000Z"
         }
       ]
     },
