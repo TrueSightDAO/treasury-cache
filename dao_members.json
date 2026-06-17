@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T07:06:44.124Z",
+  "generated_at": "2026-06-17T07:07:51.794Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
