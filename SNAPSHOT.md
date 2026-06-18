@@ -5,14 +5,14 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-18T23:21:25.654Z` |
+| Generated at | `2026-06-18T23:22:57.856Z` |
 | Trigger | `movement` |
 | Schema version | `4` |
 | Item types | 82 |
 | Total units | 30559.51697204075 |
 | Total value USD | $38363.53 |
 | Ledgers processed | 14 |
-| Managers | 38 |
+| Managers | 39 |
 
 ## Items (82, sorted by total quantity)
 
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1701.81 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1702.41 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -117,7 +117,7 @@
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (38)
+## Managers (39)
 
 | Manager | Line items | Total units |
 |---|---:|---:|
@@ -136,7 +136,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 17 | 1440 |
+| Kirsten Ritschel | 17 | 1438 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
@@ -151,6 +151,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 |
 | Shannon Barlow - Ponderosa | 2 | 6 |
 | Shuar Design Boutique | 3 | 37 |
+| SOHA - David Campbell | 1 | 2 |
 | SunMint Tree Planting Contract - agl4 | 1 | 267 |
 | Tess Walkowski | 2 | 13 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 |
