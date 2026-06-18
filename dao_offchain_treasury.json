@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-18T18:21:45.605Z",
+  "generated_at": "2026-06-18T18:48:35.274Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -476,20 +476,6 @@
       }
     },
     {
-      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-      "unit_weight_g": null,
-      "unit_cost_usd": 8.509333333333332,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 20,
-      "total_value_usd": 170.19,
-      "ledgers": {
-        "Main Ledger": 20
-      }
-    },
-    {
       "currency": "Cacao Husk (KG) - Ilheus, Brazil",
       "unit_weight_g": 1000,
       "unit_cost_usd": 17.785485299999998,
@@ -515,6 +501,20 @@
       "total_value_usd": 537.46,
       "ledgers": {
         "Main Ledger": 20
+      }
+    },
+    {
+      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
+      "unit_weight_g": null,
+      "unit_cost_usd": 8.509333333333332,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 19,
+      "total_value_usd": 161.68,
+      "ledgers": {
+        "Main Ledger": 19
       }
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1676.9483,
+      "unit_cost_usd": 1681.4969,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1391,13 +1391,6 @@
           "total_value_usd": 4.777
         },
         {
-          "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-          "amount": 9,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 8.509333333333332,
-          "total_value_usd": 76.58399999999999
-        },
-        {
           "currency": "ATOLOMOTOR Coffee Bean Roaster",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -1472,14 +1465,14 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 6,
+          "amount": 1,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 50.962798821705846
+          "total_value_usd": 8.493799803617641
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
@@ -1491,22 +1484,11 @@
           "total_value_usd": 8.375283531111112
         },
         {
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
-          "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 2.4043643608428553
-        },
-        {
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1676.9483,
-          "total_value_usd": 7.968192165779941e-11
+          "unit_cost_usd": 1681.4969,
+          "total_value_usd": 7.989805306080847e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1742,6 +1724,13 @@
           "total_value_usd": 8.52
         },
         {
+          "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
+          "amount": 8,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 8.509333333333332,
+          "total_value_usd": 68.07466666666666
+        },
+        {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
           "amount": 50,
           "ledger": "Main Ledger",
@@ -1784,25 +1773,25 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 13,
+          "amount": 18,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 110.41939744702933
+          "total_value_usd": 152.88839646511752
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 8,
+          "amount": 9,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 19.234914886742843
+          "total_value_usd": 21.639279247585698
         },
         {
           "currency": "Chocolate Mold from Rusty",
@@ -2656,8 +2645,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30527.246972040753,
-    "total_value_usd": 38368.75,
+    "total_units": 30526.246972040753,
+    "total_value_usd": 38360.24,
     "ledgers_processed": 14,
     "managers_count": 38
   }
