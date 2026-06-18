@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "sha256": "dce916cc4459e1069db89bdb74dee96ec694dd56eafaecf3080118a2cd8d1534",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtXffJY0bbI7BVP/i3B5UEHJkvmG2Y1Jf/dS4lqNTVqwC/fb65P7NphrnTMxkTCbah2NjPJDNaQlQiYRIG69x677/+CckZr7ZeSvCvyVOqV6bEZpCc8dmKn8AkqW3K7EWenWkxTKBOBL3cVqS42SAsAY3bHLzcZqs/8H7DPDRJZKsTOkTUjS/en4kbHELmfnAjgYpARIuFOdhfeBWI3qys96xvGaMBOtDLhAyIlnmtACMXRwp3f2pU/+HMP1KfH5HBV/4QKeP9WF19gNhfmS43QufTd0hjfinb6KgCRSzs/z/8dZHyWc+2O4yJX0obvO11sx1sgpwHmNw5z4s4YYhzwIDAQAB",
+  "contributor": "Kimi Moon",
+  "roles": [
+    "member",
+    "sentinel"
+  ],
+  "status": "ACTIVE",
+  "created_at": "2026-06-19T01:27:13.000Z",
+  "last_active_at": "2026-06-19T01:28:39.000Z",
+  "generated_at": "2026-06-18T18:28:43.547Z"
+}
