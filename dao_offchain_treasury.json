@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T19:10:52.521Z",
+  "generated_at": "2026-06-18T19:11:14.469Z",
   "source": "treasury-cache-publisher",
   "trigger": "process_sales",
   "schema_version": 4,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20044.201761924964,
-      "total_value_usd": 20044.2,
+      "total_quantity": 20061.701761924964,
+      "total_value_usd": 20061.7,
       "ledgers": {
-        "Main Ledger": 3462.5729131798066,
+        "Main Ledger": 3480.0729131798066,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -161,10 +161,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 265,
-      "total_value_usd": -397.5,
+      "total_quantity": 266,
+      "total_value_usd": -399,
       "ledgers": {
-        "Main Ledger": 265
+        "Main Ledger": 266
       }
     },
     {
@@ -385,10 +385,10 @@
       "unit_format": "Retail Ready",
       "gtin": null,
       "hs_code": "1803.1",
-      "total_quantity": 36,
-      "total_value_usd": 305.78,
+      "total_quantity": 35,
+      "total_value_usd": 297.28,
       "ledgers": {
-        "Main Ledger": 36
+        "Main Ledger": 35
       }
     },
     {
@@ -1506,10 +1506,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3323.5429131798064,
+          "amount": 3341.0429131798064,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3323.5429131798064
+          "total_value_usd": 3341.0429131798064
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1540,14 +1540,14 @@
       "items": [
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 9,
+          "amount": 8,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 76.44419823255876
+          "total_value_usd": 67.95039842894113
         }
       ]
     },
@@ -2376,10 +2376,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 265,
+          "amount": 266,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -397.5
+          "total_value_usd": -399
         }
       ]
     },
@@ -2645,8 +2645,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30543.746972040753,
-    "total_value_usd": 38367.75,
+    "total_units": 30561.246972040753,
+    "total_value_usd": 38375.25,
     "ledgers_processed": 14,
     "managers_count": 38
   }
