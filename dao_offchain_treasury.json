@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T23:03:35.439Z",
+  "generated_at": "2026-06-18T23:21:25.654Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 4,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20079.201761924964,
-      "total_value_usd": 20079.2,
+      "total_quantity": 20059.97176192496,
+      "total_value_usd": 20059.97,
       "ledgers": {
-        "Main Ledger": 3497.5729131798066,
+        "Main Ledger": 3478.3429131798066,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1705.5204,
+      "unit_cost_usd": 1701.8098,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1476,8 +1476,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1705.5204,
-          "total_value_usd": 8.103955434915836e-11
+          "unit_cost_usd": 1701.8098,
+          "total_value_usd": 8.086324137725372e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1495,10 +1495,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3358.5429131798064,
+          "amount": 3339.3129131798064,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3358.5429131798064
+          "total_value_usd": 3339.3129131798064
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -2634,8 +2634,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30578.746972040753,
-    "total_value_usd": 38382.76,
+    "total_units": 30559.51697204075,
+    "total_value_usd": 38363.53,
     "ledgers_processed": 14,
     "managers_count": 38
   }
