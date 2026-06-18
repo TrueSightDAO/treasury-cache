@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-18T18:19:46.425Z` |
+| Generated at | `2026-06-18T18:21:45.605Z` |
 | Trigger | `movement` |
 | Schema version | `4` |
 | Item types | 82 |
@@ -99,7 +99,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1677.98 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1676.95 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -127,7 +127,7 @@
 | Edge and Node | 4 | 31 |
 | Elinor Janelle | 1 | 1 |
 | Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 31 | 13808.154336778754 |
+| Gary Teh | 31 | 13804.154336778754 |
 | Gergana - The Way Home Shop | 1 | 10 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 |
 | HackerDojo | 1 | 5 |
@@ -136,7 +136,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 2 | 11 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 16 | 1421 |
+| Kirsten Ritschel | 16 | 1425 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
