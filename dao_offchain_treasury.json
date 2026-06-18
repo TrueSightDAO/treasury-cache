@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T18:19:46.425Z",
+  "generated_at": "2026-06-18T18:21:45.605Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 4,
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1677.9846,
+      "unit_cost_usd": 1676.9483,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1472,14 +1472,14 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 10,
+          "amount": 6,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 84.93799803617641
+          "total_value_usd": 50.962798821705846
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
@@ -1505,8 +1505,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1677.9846,
-          "total_value_usd": 7.973116251717115e-11
+          "unit_cost_usd": 1676.9483,
+          "total_value_usd": 7.968192165779941e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1784,14 +1784,14 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 9,
+          "amount": 13,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 76.44419823255876
+          "total_value_usd": 110.41939744702933
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
