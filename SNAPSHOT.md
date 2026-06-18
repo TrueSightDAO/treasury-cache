@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-18T18:48:35.274Z` |
-| Trigger | `cron` |
+| Generated at | `2026-06-18T18:49:54.477Z` |
+| Trigger | `process_sales` |
 | Schema version | `4` |
 | Item types | 82 |
 | Total units | 30526.246972040753 |
