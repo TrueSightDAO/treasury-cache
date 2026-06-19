@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T02:26:09.653Z",
+  "generated_at": "2026-06-19T02:48:36.247Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -252,6 +252,20 @@
       }
     },
     {
+      "currency": "Cacao Mass Bar CP340992687BR (loose grams)",
+      "unit_weight_g": 1,
+      "unit_cost_usd": 0.04308051948,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 96.57370000000003,
+      "total_value_usd": 4.16,
+      "ledgers": {
+        "Main Ledger": 96.57370000000003
+      }
+    },
+    {
       "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024",
       "unit_weight_g": 1000,
       "unit_cost_usd": 24.61847089,
@@ -329,10 +343,10 @@
       "unit_format": "Retail Ready",
       "gtin": null,
       "hs_code": "1803.1",
-      "total_quantity": 43,
-      "total_value_usd": 365.23,
+      "total_quantity": 48,
+      "total_value_usd": 407.7,
       "ledgers": {
-        "Main Ledger": 43
+        "Main Ledger": 48
       }
     },
     {
@@ -385,10 +399,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": "1803.1",
-      "total_quantity": 39,
-      "total_value_usd": 612.11,
+      "total_quantity": 38,
+      "total_value_usd": 596.41,
       "ledgers": {
-        "Main Ledger": 39
+        "Main Ledger": 38
       }
     },
     {
@@ -413,10 +427,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": "1803.1",
-      "total_quantity": 27,
-      "total_value_usd": 226.13,
+      "total_quantity": 26,
+      "total_value_usd": 217.76,
       "ledgers": {
-        "Main Ledger": 27
+        "Main Ledger": 26
       }
     },
     {
@@ -966,20 +980,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251107 | San Francisco - AGL8",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.315440379611111,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 1,
-      "total_value_usd": 8.32,
-      "ledgers": {
-        "Main Ledger": 1
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + Cacao Mass Bar CP340993299BR  San Francisco",
       "unit_weight_g": 200,
       "unit_cost_usd": 9.079170240500002,
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1705.8748,
+      "unit_cost_usd": 1703.2858,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1420,13 +1420,13 @@
           "total_value_usd": 232.29152828999995
         },
         {
-          "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024",
-          "amount": 1,
+          "currency": "Cacao Mass Bar CP340992687BR (loose grams)",
+          "amount": 96.57370000000003,
           "ledger": "Main Ledger",
-          "unit_weight_g": 500,
+          "unit_weight_g": 1,
           "hs_code": "1803.1",
-          "unit_cost_usd": 15.695100595,
-          "total_value_usd": 15.695100595
+          "unit_cost_usd": 0.04308051948,
+          "total_value_usd": 4.160445164105678
         },
         {
           "currency": "Cacao Molasses 250ml + 74 4476 6210 San Francisco",
@@ -1455,29 +1455,11 @@
           "total_value_usd": 49.98306679209784
         },
         {
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251107 | San Francisco - AGL8",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 200,
-          "hs_code": "1803.1",
-          "unit_cost_usd": 8.315440379611111,
-          "total_value_usd": 8.315440379611111
-        },
-        {
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 200,
-          "hs_code": "1803.1",
-          "unit_cost_usd": 8.375283531111112,
-          "total_value_usd": 8.375283531111112
-        },
-        {
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1705.8748,
-          "total_value_usd": 8.105639402932949e-11
+          "unit_cost_usd": 1703.2858,
+          "total_value_usd": 8.09333750339484e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1762,14 +1744,14 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 9,
+          "amount": 2,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 21.639279247585698
+          "total_value_usd": 4.808728721685711
         },
         {
           "currency": "Chocolate Mold from Rusty",
@@ -2354,14 +2336,25 @@
       "items": [
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 28,
+          "amount": 33,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 237.82639450129395
+          "total_value_usd": 280.2953935193822
+        },
+        {
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
+          "amount": 7,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 200,
+          "inventory_type": "Cacao Mass",
+          "unit_format": "Retail Ready",
+          "hs_code": "1803.1",
+          "unit_cost_usd": 2.4043643608428553,
+          "total_value_usd": 16.830550525899987
         }
       ]
     },
@@ -2640,8 +2633,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30568.51697204075,
-    "total_value_usd": 38439.97,
+    "total_units": 30667.09067204075,
+    "total_value_usd": 38454.21,
     "ledgers_processed": 14,
     "managers_count": 39
   }
