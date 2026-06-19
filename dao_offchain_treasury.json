@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T02:48:36.247Z",
+  "generated_at": "2026-06-19T03:07:38.717Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "movement",
   "schema_version": 4,
   "items": [
     {
@@ -588,20 +588,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.517187353,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 11,
-      "total_value_usd": 93.69,
-      "ledgers": {
-        "AGL6": 11
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch CP340992687BR",
       "unit_weight_g": null,
       "unit_cost_usd": 8.878783741,
@@ -630,20 +616,6 @@
       }
     },
     {
-      "currency": "8 Ounce Package Kraft Pouch - AGL6",
-      "unit_weight_g": null,
-      "unit_cost_usd": 9.214071463,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 10,
-      "total_value_usd": 92.14,
-      "ledgers": {
-        "AGL6": 10
-      }
-    },
-    {
       "currency": "SunMint Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 0,
@@ -655,6 +627,34 @@
       "total_value_usd": 0,
       "ledgers": {
         "PP1": 10
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.517187353,
+      "inventory_type": "Cacao Mass",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 9,
+      "total_value_usd": 76.65,
+      "ledgers": {
+        "AGL6": 9
+      }
+    },
+    {
+      "currency": "8 Ounce Package Kraft Pouch - AGL6",
+      "unit_weight_g": null,
+      "unit_cost_usd": 9.214071463,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 9,
+      "total_value_usd": 82.93,
+      "ledgers": {
+        "AGL6": 9
       }
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1703.2858,
+      "unit_cost_usd": 1705.5183000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1330,10 +1330,10 @@
         },
         {
           "currency": "[AGL6] 8 Ounce Package Kraft Pouch - AGL6",
-          "amount": 2,
+          "amount": 1,
           "ledger": "AGL6",
           "unit_cost_usd": 9.214071463,
-          "total_value_usd": 18.43
+          "total_value_usd": 9.21
         },
         {
           "currency": "[AGL6] USD",
@@ -1458,8 +1458,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1703.2858,
-          "total_value_usd": 8.09333750339484e-11
+          "unit_cost_usd": 1705.5183000000002,
+          "total_value_usd": 8.103945456550047e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1623,17 +1623,6 @@
       "manager_key": "Jenifer%20Runnion",
       "items": [
         {
-          "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
-          "amount": 1,
-          "ledger": "AGL6",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
-          "unit_cost_usd": 8.517187353,
-          "total_value_usd": 8.52
-        },
-        {
           "currency": "[PP1] SunMint Tree Planting Pledge - QR Code",
           "amount": 10,
           "ledger": "PP1",
@@ -1682,17 +1671,6 @@
           "hs_code": "1806.9",
           "unit_cost_usd": 0.73529,
           "total_value_usd": 0.74
-        },
-        {
-          "currency": "[AGL6] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6",
-          "amount": 1,
-          "ledger": "AGL6",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
-          "unit_cost_usd": 8.517187353,
-          "total_value_usd": 8.52
         },
         {
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
@@ -2633,8 +2611,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30667.09067204075,
-    "total_value_usd": 38454.21,
+    "total_units": 30664.09067204075,
+    "total_value_usd": 38427.96,
     "ledgers_processed": 14,
     "managers_count": 39
   }
