@@ -1,0 +1,51 @@
+name: Generate Review Queue Cache
+
+on:
+  schedule:
+    # Run every 15 minutes during business hours
+    - cron: '*/15 8-22 * * 1-5'
+  workflow_dispatch:
+    # Allow manual trigger from Actions tab
+
+jobs:
+  generate-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout treasury-cache repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_PAT_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: |
+          pip install gspread google-auth requests
+
+      - name: Run cache generator
+        env:
+          GOOGLE_APPLICATION_CREDENTIALS_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
+          SCORED_CHATLOGS_SHEET_ID: ${{ vars.SCORED_CHATLOGS_SHEET_ID || '1Tbj7H5ur_egQLRugdXUaSIhEYIKp0vvVv2IZ7WTLCUo' }}
+          REVIEW_QUEUE_DIR: ${{ vars.REVIEW_QUEUE_DIR || 'review-queue' }}
+          BETA_MODE: ${{ vars.BETA_MODE || 'false' }}
+        run: |
+          python3 scripts/generate_review_cache.py
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "Sophia Truesight"
+          git config user.email "admin+sophia@truesight.me"
+          REVIEW_DIR="${REVIEW_QUEUE_DIR:-review-queue}"
+          if [ "$BETA_MODE" = "true" ]; then
+            REVIEW_DIR="${REVIEW_DIR}-test"
+          fi
+          git add "$REVIEW_DIR/"
+          if git diff --cached --quiet; then
+            echo "No new cache files to commit."
+          else
+            git commit -m "Update review queue cache [$(date -u '+%Y-%m-%d %H:%M UTC')]"
+            git push
+          fi
