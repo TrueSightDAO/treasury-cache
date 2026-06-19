@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-06-19T03:27:52.036Z",
+  "generated_at": "2026-06-19T03:35:19.632Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "contributor_add",
+  "trigger": "edgar_webhook",
   "counts": {
     "contributors": 17,
     "active_public_keys": 79,
     "governors": 2,
-    "contributors_with_email": 13
+    "contributors_with_email": 13,
+    "sentinels": 4
   },
   "dao_totals": {
     "voting_rights_circulated": 2344349.383539669,
@@ -39,7 +40,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260618 20:24:42"
+          "last_active_at": "20260618 20:27:35"
         }
       ]
     },
@@ -47,7 +48,8 @@
       "name": "Claude Anthropic",
       "email": "admin+claude@truesight.me",
       "roles": [
-        "member"
+        "member",
+        "sentinel"
       ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
@@ -510,7 +512,8 @@
       "name": "Kimi Moon",
       "email": "admin+kimi@truesight.me",
       "roles": [
-        "member"
+        "member",
+        "sentinel"
       ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
@@ -659,7 +662,8 @@
       "name": "Sophia Truesight",
       "email": "admin+sophia@truesight.me",
       "roles": [
-        "member"
+        "member",
+        "sentinel"
       ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
@@ -676,7 +680,8 @@
       "name": "truesight-autopilot",
       "email": "admin@truesight.me",
       "roles": [
-        "member"
+        "member",
+        "sentinel"
       ],
       "voting_rights": 0,
       "total_voting_power_pct": null,
