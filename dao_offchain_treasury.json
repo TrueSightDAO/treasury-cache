@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T03:07:38.717Z",
+  "generated_at": "2026-06-19T03:08:33.095Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 4,
@@ -490,6 +490,20 @@
       }
     },
     {
+      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
+      "unit_weight_g": null,
+      "unit_cost_usd": 8.509333333333332,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 20,
+      "total_value_usd": 170.19,
+      "ledgers": {
+        "Main Ledger": 20
+      }
+    },
+    {
       "currency": "Cacao Husk (KG) - Ilheus, Brazil",
       "unit_weight_g": 1000,
       "unit_cost_usd": 17.785485299999998,
@@ -515,20 +529,6 @@
       "total_value_usd": 537.46,
       "ledgers": {
         "Main Ledger": 20
-      }
-    },
-    {
-      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-      "unit_weight_g": null,
-      "unit_cost_usd": 8.509333333333332,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 19,
-      "total_value_usd": 161.68,
-      "ledgers": {
-        "Main Ledger": 19
       }
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1705.5183000000002,
+      "unit_cost_usd": 1704.8792,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1458,8 +1458,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1705.5183000000002,
-          "total_value_usd": 8.103945456550047e-11
+          "unit_cost_usd": 1704.8792,
+          "total_value_usd": 8.100908707227989e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1674,10 +1674,10 @@
         },
         {
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-          "amount": 8,
+          "amount": 9,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.509333333333332,
-          "total_value_usd": 68.07466666666666
+          "total_value_usd": 76.58399999999999
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -2611,8 +2611,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30664.09067204075,
-    "total_value_usd": 38427.96,
+    "total_units": 30665.09067204075,
+    "total_value_usd": 38436.47,
     "ledgers_processed": 14,
     "managers_count": 39
   }
