@@ -1,14 +1,14 @@
 {
-  "generated_at": "2026-06-19T03:37:11.016Z",
+  "generated_at": "2026-06-19T03:37:38.215Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "manual",
+  "trigger": "edgar_webhook",
   "counts": {
-    "contributors": 17,
-    "active_public_keys": 79,
+    "contributors": 18,
+    "active_public_keys": 80,
     "governors": 2,
-    "contributors_with_email": 13,
-    "sentinels": 4
+    "contributors_with_email": 14,
+    "sentinels": 5
   },
   "dao_totals": {
     "voting_rights_circulated": 2344349.383539669,
@@ -40,7 +40,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260618 20:35:37"
+          "last_active_at": "20260618 20:36:47"
         }
       ]
     },
@@ -59,6 +59,24 @@
           "status": "ACTIVE",
           "created_at": "2026-06-17T04:21:35.000Z",
           "last_active_at": "2026-06-17T04:29:46.000Z"
+        }
+      ]
+    },
+    {
+      "name": "Deep Seek",
+      "email": "admin+deepseek@truesight.me",
+      "roles": [
+        "member",
+        "sentinel"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
+      "public_keys": [
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6owTwrPjyqz1ZS/TkLogP2YTQ51ESUwsdpU7YRKD+J60FGSZYmxbLx5/nrjXuJeqzez54tubq49vkdiSrJzPCsjtP6D/nPJKki3dJnx/9hFWVu6NgmqlKvXQecAxd/0EhuMw2iEzCfZUr7vz5DOA/Hzd7V/VQCKhBYwD23+H+XqRDYzEwwOqnmaLLNj8sNh0GpCxz1CtdLSB6tm8x0aJkcjfx5A7M407ZccL3FrdHM26eI7R5v5kS4uOrYJBj27GmtAHRZOp4or9LLX991l6/7HHOhluXwpqmg2b1Rlww7gbriL66+dZbW5rpuo7PdDc6DJe4Ij4dJULqfBx0aI4UQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-06-19T10:32:54.000Z",
+          "last_active_at": "2026-06-19T10:37:17.000Z"
         }
       ]
     },
