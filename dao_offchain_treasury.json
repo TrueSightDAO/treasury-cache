@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T22:43:48.734Z",
+  "generated_at": "2026-06-20T22:46:12.035Z",
   "source": "treasury-cache-publisher",
   "trigger": "sales_update_main",
   "schema_version": 4,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20314.97176192496,
-      "total_value_usd": 20314.97,
+      "total_quantity": 20637.97176192496,
+      "total_value_usd": 20637.97,
       "ledgers": {
-        "Main Ledger": 3733.3429131798066,
+        "Main Ledger": 4056.3429131798066,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -126,6 +126,20 @@
       }
     },
     {
+      "currency": "Cacao Tree To Be Planted",
+      "unit_weight_g": null,
+      "unit_cost_usd": -1.5,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 301,
+      "total_value_usd": -451.5,
+      "ledgers": {
+        "Main Ledger": 301
+      }
+    },
+    {
       "currency": "NovaGaia Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 7,
@@ -137,20 +151,6 @@
       "total_value_usd": 2079,
       "ledgers": {
         "SEF1": 297
-      }
-    },
-    {
-      "currency": "Cacao Tree To Be Planted",
-      "unit_weight_g": null,
-      "unit_cost_usd": -1.5,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 282,
-      "total_value_usd": -423,
-      "ledgers": {
-        "Main Ledger": 282
       }
     },
     {
@@ -406,20 +406,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.493799803617641,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 33,
-      "total_value_usd": 280.3,
-      "ledgers": {
-        "Main Ledger": 33
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.375283531111112,
@@ -469,10 +455,10 @@
       "unit_format": "Retail Ready",
       "gtin": null,
       "hs_code": "1803.1",
-      "total_quantity": 24,
-      "total_value_usd": 57.7,
+      "total_quantity": 23,
+      "total_value_usd": 55.3,
       "ledgers": {
-        "Main Ledger": 24
+        "Main Ledger": 23
       }
     },
     {
@@ -557,6 +543,20 @@
       "total_value_usd": 151.2,
       "ledgers": {
         "Main Ledger": 16
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.493799803617641,
+      "inventory_type": "Cacao Mass",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 15,
+      "total_value_usd": 127.41,
+      "ledgers": {
+        "Main Ledger": 15
       }
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1739.2858,
+      "unit_cost_usd": 1739.3629,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1458,8 +1458,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1739.2858,
-          "total_value_usd": 8.264395202650135e-11
+          "unit_cost_usd": 1739.3629,
+          "total_value_usd": 8.264761551222705e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1477,10 +1477,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3594.3129131798064,
+          "amount": 3917.3129131798064,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3594.3129131798064
+          "total_value_usd": 3917.3129131798064
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -2313,26 +2313,15 @@
       "manager_key": "SOHA%20-%20David%20Campbell",
       "items": [
         {
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
-          "amount": 18,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
-          "unit_cost_usd": 8.493799803617641,
-          "total_value_usd": 152.88839646511752
-        },
-        {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 7,
+          "amount": 6,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 16.830550525899987
+          "total_value_usd": 14.426186165057132
         }
       ]
     },
@@ -2342,10 +2331,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 282,
+          "amount": 301,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -423
+          "total_value_usd": -451.5
         }
       ]
     },
@@ -2611,8 +2600,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 30922.09067204075,
-    "total_value_usd": 38558.59,
+    "total_units": 31245.09067204075,
+    "total_value_usd": 38697.8,
     "ledgers_processed": 14,
     "managers_count": 39
   }
