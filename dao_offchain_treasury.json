@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T22:46:21.332Z",
+  "generated_at": "2026-06-20T22:46:42.086Z",
   "source": "treasury-cache-publisher",
   "trigger": "process_sales",
   "schema_version": 4,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20637.97176192496,
-      "total_value_usd": 20637.97,
+      "total_quantity": 20654.97176192496,
+      "total_value_usd": 20654.97,
       "ledgers": {
-        "Main Ledger": 4056.3429131798066,
+        "Main Ledger": 4073.3429131798066,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 301,
-      "total_value_usd": -451.5,
+      "total_quantity": 302,
+      "total_value_usd": -453,
       "ledgers": {
-        "Main Ledger": 301
+        "Main Ledger": 302
       }
     },
     {
@@ -448,20 +448,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 2.4043643608428553,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 23,
-      "total_value_usd": 55.3,
-      "ledgers": {
-        "Main Ledger": 23
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
       "unit_weight_g": null,
       "unit_cost_usd": 8.509333333333332,
@@ -471,6 +457,20 @@
       "hs_code": null,
       "total_quantity": 22,
       "total_value_usd": 187.21,
+      "ledgers": {
+        "Main Ledger": 22
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 2.4043643608428553,
+      "inventory_type": "Cacao Mass",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 22,
+      "total_value_usd": 52.9,
       "ledgers": {
         "Main Ledger": 22
       }
@@ -1477,10 +1477,10 @@
         },
         {
           "currency": "USD",
-          "amount": 3917.3129131798064,
+          "amount": 3934.3129131798064,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 3917.3129131798064
+          "total_value_usd": 3934.3129131798064
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -2314,14 +2314,14 @@
       "items": [
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 6,
+          "amount": 5,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 14.426186165057132
+          "total_value_usd": 12.021821804214277
         }
       ]
     },
@@ -2331,10 +2331,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 301,
+          "amount": 302,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -451.5
+          "total_value_usd": -453
         }
       ]
     },
@@ -2600,8 +2600,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 31245.09067204075,
-    "total_value_usd": 38697.8,
+    "total_units": 31262.09067204075,
+    "total_value_usd": 38710.9,
     "ledgers_processed": 14,
     "managers_count": 39
   }
