@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.654481+00:00",
+  "scoring_hash_key": "/d0hZD9pXgmKxiP4E7eh",
+  "scored_chatlogs_row": 6479,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Roadmap: shelve public Q&A tier (Track C) + Telegram forum-context guidance\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/210\n  \n  Details:\n  Recorded Gary's decision to shelve the public non-sensitive Q&A tier (token cost for non-ops users not worth it; public DAO facts already served by oracle.truesight.me + truesight.me llms.txt/stats). Updated the tracked roadmap (\u00a79 SHELVED, RESUME pointer) so no future session re-raises it; bot stays private to Gary. Also walked Gary through Telegram forum/topic setup to switch between autopilot contexts.\n  \n  PR: https://github.com/TrueSightDAO/agentic_ai_context/pull/210\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: fZGcF7/hxpsWxEHPJuP0EdQM5TU58dNk3r+zvMg9h1FQYRnFdGUqb8VxhQv7OdIn3DG588PKQNLxkAZcfRqlh9gXyg+fF1CfI/YVEOudpJwzjDCRloWAxFTPlmyYGnUEJCEj60ysvvNReKF4GuMZU4SnozyH38QIFaVIVAz9yqUYTjALahOGrMdc8cYswssJHIttHECtw9RYFp2TXPS0o0wjJT7JxSZxsCCZ7hl7CN2a87DemvA76YpEFpTAnKEq00El9RNgfRzcCjeBJffeT++SZkCIm5sfVwGHhSHrawfBMCxajB/aZDLAvmSKNbL6fqNn2/7JL+IL8dBrURGt9g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260526",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

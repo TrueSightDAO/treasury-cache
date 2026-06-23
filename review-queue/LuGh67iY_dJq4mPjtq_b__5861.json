@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.572172+00:00",
+  "scoring_hash_key": "LuGh67iY/dJq4mPjtq/b",
+  "scored_chatlogs_row": 5861,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Investigated the platform for https://platform.grovara.com/\r\n  \r\n  They charge USD$499 per year just to be listed.\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 50.00\r\n- Attached Filename: platform.grovara.com_accounts_01KMP42AJP6GDQ69KJNTVBT0VY_update_tab=subscriptions.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260326230216_gary_teh_platform.grovara.com_accounts_01kmp42ajp6gdq69kjntvbt0vy_update_tab_subscriptions.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: s78e5nn+0dGGDOK1BUOR0vT0GsOIADALv2eeBHUdhD+R+8GyIBE02RN1MPRPf3Hg4rfQr5541/vqelZf8XhY8C0+q1dyqmEj+FzDT+eYKxi34w0yNdJeYng162Rs/tJTphlGKBeqRLxlv82biT8IZNscKUFSut+LKscqsF05LP1SVzunvRbA7PW0Q6BZjfnRarAlQ3VPzIgituXoMK1zq7QVdqE/6Cy1UC679N9JnG50eBncE0JCSG49SBi0d5FkztZXDzBhhDZAevEquFNGHQq38uiE4br1mZGaRpa46HI1JF6kGDvejJ92Hz7toILECJB/guuO+2j/zjjPwqVXtg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260326",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

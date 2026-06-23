@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.600246+00:00",
+  "scoring_hash_key": "knSNjSxfoMs3oOo3qN+w",
+  "scored_chatlogs_row": 6108,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Correspondend with the way home shop to notify them that the bags have shipped\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: The Way Home Shop.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260428230110_gary_teh_the_way_home_shop.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: oP1VvQhtRRMweGUAEBpOTPKZO/2VciDvY8JPccJ1lt+LvVyEGcsBmoNTNqtHTYKz+RkcZrNwneE0UH3tNOpS5fVmZGNyCVAtoRew8caeW5+7LEpw0mTg+YPzSjlRdeWuKDEZ0xiyo4l6aUnFf8v3ohlpsx8HjrSb8bQ7JtbaO+HPFdgVJ+VA52lLeMxjb9R9pnzTSpq4UCOTHTLZSDC521Jwbh1LJzq1uKX900cqdKeNlyigRsdWWqmTr/lJrIQ9/3+SuneSjTnpE/HFRmyhGikoOld0JlydTlqy2hARZ3VqCjZ4Fva6t4zKkkCpKDjM/BTMes/tScyqAEvhfRcKaw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260428",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

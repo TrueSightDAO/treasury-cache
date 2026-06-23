@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.678971+00:00",
+  "scoring_hash_key": "UqAO39CL9rK1YRU06QVp",
+  "scored_chatlogs_row": 6701,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Butterfly Effect pipeline troubleshooting & fix\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/butterfly-effect-club/pull/3\n  \n  Details:\n  Troubleshot and fixed the butterfly-effect-club automation pipeline which had been silently failing since setup.\n  \n  Issues resolved:\n  1. Sync ERA Cohort workflow \u2014 empty ERA_SHEET_ID env var bug (PR #3 merged)\n  2. Mint Cohort Trees workflow \u2014 missing ERA_PAYMENT_PROOF_B64 secret (set from attached receipt image)\n  3. Mint Cohort Trees workflow \u2014 missing DAO_GOVERNOR_* secrets (generated keypair, set as repo secrets)\n  4. Key format issue \u2014 PEM vs DER base64 for governor private key (regenerated in correct format)\n  5. Sheet SA permissions \u2014 coordinated sharing with butterfly-effect-club@get-data-io.iam.gserviceaccount.com\n  \n  Result: Both workflows now passing. Run #27 (Sync) and #55 (Mint) both successful. 2 new cohort trees minted for Hajira Sajjid and Harram Gulfam.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 120\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: LRtsCY9ytC54VUgloW1Mdoaxt1OMvdHyWsrvfCeLxdwKg5j7z5/8vCBP6ok2tBsv6rsIfXlt6dHSIwphpHeL15qk5vg24wXGgVkg9b44U1tm86nN7JM8T7sq4W9ghC/+fLLcdXx+o8ptPaQzEFLiGaKVJ/pOlJLVmaMj92+eQt2vlUaVkmd6CGAcBp5HnHMKOuRPa5Cxvmr1gHAH7XnDjJjkRh1+wFjpia7Ihc3MOU7hGQiw/duCJJZZc3mV6YMxKPNWoz+co8gWQY+qRGbELjgk8r2aaR4NlmKLi4An3uiCoW7QTE1bUd+MuIvNFXOzHCC05y4eDDJOXFAhnX5JUA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "120",
+  "tdgs_issued": "0",
+  "contribution_date": "20260616",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

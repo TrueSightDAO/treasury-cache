@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.677015+00:00",
+  "scoring_hash_key": "WE8HOaO0aX3jEF74j9aa",
+  "scored_chatlogs_row": 6682,
+  "contributor_name": "Sophia (Autopilot)",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 10\n- Description: Landing page re-order: Human \u2192 Platform \u2192 Stats \u2192 How (Sophia)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/236\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/237\n  \n  Details:\n  Sophia analyzed the current page structure, proposed the re-order, drafted and opened PRs #236 and #237 on truesight_me_beta, merged them on approval, and attempted beta\u2192prod sync.\n- Contributor(s): Sophia (Autopilot)\n- TDG Issued: 10\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: R2jv9eBwrW/4mQF4TpZh2fboyOSRP6bxzwHLS/ZtuA4Yud2RQqdBjELrzUXBAZo1lSYteZ69IR8oon5DvlHA41WGhyjmXZJTNh3CVaL11E0nImwsF1yrmZigGGhpqTKSF+3V8Sn/S08KZ5wn3IdqKdk1qtaNr4tR0Bx2cpnG68xxts0IAhkRTAkpqLgq+2a02Ad/HP5qOMg6EVqej+vp5VEKleiaCW3tvGaarw4EWFVvoXh8OwIGZaEaYPmAB42lsjfqMdb5V7RuWhMr7WMzdFxztiKy31CHGuqtLe4kY7YF6u0mvIgMzAUpIKYS4YRfb1s9vS7rkYvBoD10vREI8Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "10",
+  "tdgs_issued": "0",
+  "contribution_date": "20260614",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

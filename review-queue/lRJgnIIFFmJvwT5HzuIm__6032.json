@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.591213+00:00",
+  "scoring_hash_key": "lRJgnIIFFmJvwT5HzuIm",
+  "scored_chatlogs_row": 6032,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Disabled the outdated contribution submission form trigger\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 8.33\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260424013734_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: ZXXgne8+weTr7ljEXASnD3pnHFjJfJQ8lYm+hsISe0EnD38EgwMIViNXCDQswSd1kIXIcCFmLQI4NKEymvH555yzFRtq59n2tOKxgQKEM7lkMdxi4J6tApxSmRPeTvAdkQHOvjNx2n0z89KbD8iNBdbv4rDSwIrnOwj6cFpnIp5veDyn0ymbBSfCZc7fjQ2cX4NxX5+q7aOiL/42gTgNfq8nI75gvk1SDuSqDH+n60GjBHruIBisZD2UWYjvTWqCdI3ANKRamin7JPRsmsW0/B0oUFIzc3Wu22uTV6VAYL1URva1/LiaqV9aGUKPSJ4HJFHq6xkiRkKgyKmT0FPKQw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "8.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260424",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

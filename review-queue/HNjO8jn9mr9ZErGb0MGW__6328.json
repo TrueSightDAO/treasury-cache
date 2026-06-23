@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.625791+00:00",
+  "scoring_hash_key": "HNjO8jn9mr9ZErGb0MGW",
+  "scored_chatlogs_row": 6328,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 240\r\n- Description: Figured out the micro-credentialing architecture \r\n  \r\n  Credentialing of students that went through a program \r\n  \r\n  Credentialing to allow recognized instructor\r\n  \r\n  Ability to allow credentialed instructors to credential students \r\n  \r\n  Setup of funding structure\r\n- Contributor(s): Gary Teh, Bilal\r\n- TDG Issued: 400.00\r\n- Attached Filename: IMG_1374.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260513212142_gary_teh_img_1374.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: j5KRac7kDnu9U0ZGbhdSid7HhwmLt6rfxzkr670/CQeeFyFG0Zos0vT1rsVi9c6qT5sd2jvSrMzRl82dms9xsLsQd8L/emn197luKy6i3+GiqqjBSIYQhWGNzODd2uVUpXE1AJM3VwcBgG74JLCfEKDOlGj/VcaKYiPtv2oiUra0N/C+ajZ2caGVzY3KyeWNDOE1+gelnSbv2CkLBI7Be9RjmeAcyHHtLz6IWVZ5ypUU7T/SxnIO4/VSZvSOEJEx6bmag7LBxbS7J+UFw0iZ7tOTumCkqRAlEbf0+hgfcYceV85iWKFHAXiyBDodsZefdZc793EXc5IhKZEe5ShqfA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "400",
+  "tdgs_issued": "0",
+  "contribution_date": "20260513",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.683555+00:00",
+  "scoring_hash_key": "VsTVtfKogKIiyHzXqnQ8",
+  "scored_chatlogs_row": 6744,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Hand off DApp Event Alignment plan to Sophia (thread 6416)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/556\n  \n  Details:\n  Handed off SOPHIA_DAPP_EVENT_ALIGNMENT_PLAN.md to Sophia (the autopilot): triggered her via ping_sophia (governor-signed) to read the plan, create the 'DApp Event Alignment' Telegram topic (message_thread_id 6416), and post the kickoff context (RESUME HERE = PR1 catalog merge UPDATE, one PR per turn, own-repo gate). Then registered the real thread_id in both HANDOFF_MANIFEST.md and SOPHIA_HANDOFFS.md on main (#556) so the adapter resolves the plan when the governor says 'go for it' in that topic. Parked GO-ready awaiting the governor's go.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: NrU83JoY6xSCvfxjlY5YNFFcqXjHywbUF1ihUpn4+qENksFcBeYAg27TS8RPm+PruH1herx0BPTmHN3SYI1N/wIISmysEPFUFKZqqoG/HpMa/QMLLMj/eyFKjGwu5zVtD0UvSS/FTDE8COxvUTBFQojNZPx+Aefb/zrqvnHCUXLr/RnXGgXELLUfE+apLznoJQmbWVWIxLyG6HSS1flMS6DzJaWA226eYjBb1+j6C8wnXVTdX9IPpbG/LTpd28uE7VYwQ9APXG691TyWt5HjAKYL3yjeNAFkfYO2il/M81TtBQ0FIb6TyRdQgGWmjS6eAZnO22LPMvhPaZOW20Wy+A==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

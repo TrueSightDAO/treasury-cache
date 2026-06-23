@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.683358+00:00",
+  "scoring_hash_key": "jMTfm0hjT+TBXwzP+0mP",
+  "scored_chatlogs_row": 6742,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 50\n- Description: DApp event alignment audit + roadmap; QR-sales doc corrections\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/554\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/552\n  - https://github.com/TrueSightDAO/dao_protocol/pull/122\n  \n  Details:\n  Corrected the misleading '[INVENTORY MOVEMENT] depletion' wording across OPERATING_INSTRUCTIONS + WORKSPACE_CONTEXT (#552) and the bulk_qr_sales_template (dao_protocol#122) \u2014 INVENTORY MOVEMENT transfers custody person-to-person; the [SALES EVENT] alone is sufficient (downstream auto-depletes). Then audited all ~30 DApp event types (parallel mapping of DApp pages, dao_client CLI modules, and Sophia's autopilot handling) and checked the live Edgar events-catalog. Key finding: the catalog is already complete (30 events w/ required_fields + canonical_labels), so the gaps are in CONSUMPTION not definitions \u2014 G1 catalog loads 120s post-boot, G2 merge never updates required fields for hardcoded events, G3 per-event normalization covers ~4 events so ~26 silently drop LLM keys, G4 no intent->event disambiguation, G5 stale 9-of-30 fallback. Produced SOPHIA_DAPP_EVENT_ALIGNMENT_PLAN.md (#554): sequenced PR1-PR5 (one PR per turn), per-event UAT matrix, resume tracker w/ Advance markers.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 83.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: dT1ttu4NEFEb2+RQGzLfhVtvpZ0KVlNuxfdqS4JM2mTh/cfr5uAvujwrj9DF33iLcL+lWxaq7k1HfKmiUsA0zB1egTeA9djkzCWxn/w4guPkajwevA6bStEK5abVO944R9srqZxJBcGml3jGC8h6ieXUrbwC9V/WX2wLDgQb5L2NwGP+VZmgU6XMu2SchWJUR+WAnp6HzohP/B8TIH85HMADmpH/ifpzvBc+5fpuriZbf+xu6YlFAOtkbBECzvZHMEaxUnMdVRnyCCB0oPORSvrrhDlSTOlmWo4q65Vsl67PU6Ce9wXthzx7CGKcYhC2lmFHaDH0p3ic6qNv+IpHeA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "83.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

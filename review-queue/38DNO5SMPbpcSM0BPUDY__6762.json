@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.685493+00:00",
+  "scoring_hash_key": "38DNO5SMPbpcSM0BPUDY",
+  "scored_chatlogs_row": 6762,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Created FSVP compliance roadmap & unit economics template for Indonesia cacao partner onboarding\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/581\n  - https://github.com/TrueSightDAO/agentic_ai_context/commit/0a3eca8252365a82deb1089e1ce246bab9c42f88\n  - https://github.com/TrueSightDAO/agentic_ai_context/commit/d467993eea7eff2371b424384626d6a21c6ccf5c\n  \n  Details:\n  Created two reference PDFs for onboarding Jessey / Conservana Spices as an Indonesia cacao supplier:\n  \n  1. **Unit Economics Template** \u2014 Blank cost-structure framework for Indonesia cacao (no prices, just slot labels). Jessey fills in their own numbers.\n     - Commit: https://github.com/TrueSightDAO/agentic_ai_context/commit/0a3eca8252365a82deb1089e1ce246bab9c42f88\n  \n  2. **FDA FSVP Compliance & First Shipment Roadmap** \u2014 Comprehensive 8-page document covering:\n     - All 25 documents needed from the Indonesia entity (entity registration, HACCP plan, facility info, supplier evaluation, product specs)\n     - Freight & logistics section with 5 recommended Indonesia\u2192USA freight forwarders, route options, and blank cost factors\n     - 5-phase end-to-end execution roadmap with checkpoints\n     - Estimated 10-18 week timeline from start to first shipment landing\n     - Commit: https://github.com/TrueSightDAO/agentic_ai_context/commit/d467993eea7eff2371b424384626d6a21c6ccf5c\n  \n  3. **Editable markdown version** of the unit economics template (PR #581) for easy copy-paste into Google Docs.\n     - PR: https://github.com/TrueSightDAO/agentic_ai_context/pull/581\n  \n  These documents facilitate the discussion with Jessey on unit economics, FDA compliance requirements, and logistics planning for Indonesia\u2192USA cacao distribution.\n- Contributor(s): Gary Teh, Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: G9vxwbW1dqJ/FLmQFnI3CxX96Dm54JWm93yZdVKZcIQuB+E98iRClmFdc+L0HVJAeHOA9C0i2aQZ5P6PCau26cRjKuPc44l29d+Il9NisObjcUBFcJ3qrooF3azUkYuxcqYoOynwG3uq7lVUG9a3aHHSW0i1rJy8+pawWdUwomwYKP9gmZgzWDcQMI8PFrvo025shXuWAiFb2CQRSWidz/NymAGoEQTSzKmw85YZwn3s6by6MmfhZozU278cVnWgIsF9CJxFf/LVYYWpqcYQfVUZdHXzOkmR/A4s1VyLMAst1oxivDtyl2SE4TanO/JMxIkwSydKnNSqfoM7mn3JtA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260619",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

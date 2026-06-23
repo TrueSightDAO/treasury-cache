@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.684835+00:00",
+  "scoring_hash_key": "zr0Z70Qdwe2BF6AL2bYU",
+  "scored_chatlogs_row": 6756,
+  "contributor_name": "Kirsten Ritschel",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Reporting the issue of mismatch inventory on the website\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 16.67\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260618232654_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: yolaV9Q/C9FR9dkKIWyA8MQ34HGveyL+vIh+0Fil24b8LeqRFFAmbqCxp6BMefckAxUr1DVjAP8FvYrQtJqqWYW8MD7MA/4oYtnbOTeu1H4X/L5ESr8tvgkh6vrlBBG1YUJ7RfCFIeNeeUvtnSRC94qQDObSzL8xkfiu2zT1KOQQIfL4Bo9WNKX0gqGtFZZzMBZJa2+fVTEmHqM+tFAQ00LLqmB85dQNMc3kuF0x/4d25jZnWyRCYZMCNcTW/Y8AZXWAStL2ZruN3o0BLsbYwrQLyaeqrfcUjmZWCaaoi5BeXw86bhdc9H/xB42FebJtZTF8O7zii//mN9dMWOnZBA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

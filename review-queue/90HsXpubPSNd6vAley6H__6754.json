@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.684639+00:00",
+  "scoring_hash_key": "90HsXpubPSNd6vAley6H",
+  "scored_chatlogs_row": 6754,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Fix Telegram Chat Logs column S+T + Sentinel role implementation\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/124\n  - https://github.com/TrueSightDAO/tokenomics/pull/363\n  \n  Details:\n  Root-caused Python port missing column S governor authority check. Added columns S+T to dao_protocol, updated GAS movement processor for sentinel auth, set sheet values, clasp-pushed both GAS projects. PRs: dao_protocol#124, tokenomics#363, tokenomics#365, agentic_ai_context#572.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: OfMWjNosRD0ztTPUV19R6ut1NsoI97GUCGko7tlnxH91+Qj2sXdmulo2tx6kjC/Os09dK2cFYGc0L+wnISmx9cEuNMBqPCyf3MoQuwVC3v0Ouicz1LUUI//K3v9k2erDPHq/UpikNaTJraU+fyvdzBmRXEG1tkdsZ2EhVDRDZNTER1nPGb9MqMeQforaiIxjqXnzyWQqmvgx32WNrwnItQ2AHF8cWlAFk8txhvgCp7M8oa5v/Y7TLf9KfUpeZI/nfCgIhnGOo6JJl5XssHjC5NpASVCj7LFvYZe2EGHY4kpF6jcUixKkVPbj4Mdbqpa/GCubC/4dWCh+0KZR3bOAMg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

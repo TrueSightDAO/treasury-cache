@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.652095+00:00",
+  "scoring_hash_key": "sf6oTGXZQ54P6D+oZ+3/",
+  "scored_chatlogs_row": 6456,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Description: dao_protocol PR5a: RSA signature verifier (port of SignatureVerifier) + PR5b/c spec\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/37\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/196\n  \n  Details:\n  PR5a of the Edgar to dao_protocol extraction (the crown jewel, sliced). Ported Rails SignatureVerifier to server/crypto/verify.py: parses the signed payload (event body + separator + public key + RSASSA-PKCS1-v1_5/SHA-256 signature), reconstructs the signed message, and verifies with the cryptography library (the inverse of edgar_client.py signing). Validated against the real known-good example payload \u2014 verifies True, proving byte-exact message reconstruction; tampered fails cleanly; malformed/bad-key raises. 5 tests (22 total). Also mapped and recorded the complete PR5b (intake: verify + Request-Transaction-ID dedup + Telegram Chat Logs append + governor authority) and PR5c (dispatch: WebhookTriggerWorker port + the 15 event-tag to GAS-webhook+action routing table replicating the Sidekiq business logic) into the execution roadmap as a turnkey resumable unit. These write the real ledger and hit real GAS, so they will be built gate-off with mocked tests and live-tested operator-driven per policy.\n- Contributor(s): Gary Teh\n- TDG Issued: 66.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: mBgJapxTAr+NaDz5sCJeS1F6XJT5u+k2VAmgSbT2iY6pZ8ZBIi1qN1d7QUTe+y7rVXb1fBDozlptkdd5ne48Kb6+stn/6ZmjvUap4LtLLzLkgkaFCjkWbRq5xxFuUbfPDiMXv0qv10UitmzU6Z9pnWzvPChH7DTor8HC0OufXAZ/0jWe4QqH2Diq6MsbAqF7doOBGQFeng2e/8UJChFCXBT/JIm9kA/lzfcrGonFz1VZ3GLFSrc4VVZ5LSmNeaAaD60f48FWDY+HKwpliT0cJAzEJZwASBIyxdO2a8klkYnO/lK2JBnmeas7BnrnoN9AoFQTuq68rGc46e/Devu5xw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "66.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260525",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

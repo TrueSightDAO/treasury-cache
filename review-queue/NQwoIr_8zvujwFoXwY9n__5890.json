@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.575027+00:00",
+  "scoring_hash_key": "NQwoIr/8zvujwFoXwY9n",
+  "scored_chatlogs_row": 5890,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 90\r\n- Description: Go the automation workflow up and running where our Agentic workflow\r\n  Monitors keywords with Buyer\u2019s intent using DataForSEO\r\n  Weekly pulls the performance of Agroverse.shop via Google Search Console APi to see how the site is ranking\r\n  Updates this https://docs.google.com/spreadsheets/d/1qRlufSUQusQbJc3AwonIvHtfiAQjwhnMtl79FFkGBt8/edit?gid=1547439519#gid=1547439519\r\n  \r\n  NEed to figure out how to delegate updating of content on Agroverse.shop to our Agentic workflow while still keeping humans in the loop but with low effort\r\n  \r\n  Codebase changes\r\n  https://github.com/TrueSightDAO/agroverse_shop_beta/pull/53\r\n  https://github.com/TrueSightDAO/go_to_market/pull/24\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 150.00\r\n- Attached Filename: None (proof: links in description)\r\n- Destination Contribution File Location: See description (URL(s))\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: vdMS4EkPUUHyGAFSHQUZSo5MTAy/SvYf5cNHQLrSLCs11f+zdIh7CW12DTZxKrQaLBIQZqZtxbF17eM/kKzzTo/QfqbNae5acs+UhBY0ZmJheFQzueNwyupevkIXwduietiwGIVXb8bU2rRXanxAXFOYRBVRPj2saVgHMJ7B1RJ8NQIjNgWe5kgOrC5RpI9trJ9+7yLge56qeibhhwEChXGxoJsYXgncqtvfYk/wA1hU+35oJyrI3Edc64mi1Cg0tjborRXAvasnu5Y1rDXvveysMxUpLA2LjhU4cA8eyd9PYsV121E3D3etC5MoG58gHKX6d/nxxZ1WZEcy+IR2Ag==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260402",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

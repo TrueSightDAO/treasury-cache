@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.662809+00:00",
+  "scoring_hash_key": "L6IPgtog/FtEaf8YUjWd",
+  "scored_chatlogs_row": 6555,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: @\u2068Kaon\u2069 when designing the experience module editor keep in mind Polyani\u2019s and Moravec\u2019s paradox \r\n  \r\n  Don\u2019t try to force the AI to do everything \r\n  \r\n  Leave room for the experience designer to manually inject their secret sauce that even they themselves might find hard to articulate in explicit rules that AIs will understand\r\n  \r\n  Otherwise it\u2019s going to end up being a very frustrating experience\r\n  \r\n  Also try to have 3-4 experience designers utilize your interface to create an experience and then have them use their outputs to really run an experience \r\n  \r\n  It will yield alot of insights as to what breaks\r\n  \r\n  The by-product is that you will probably end up spending alot of time doing face to face sessions with humans as opposed to sitting behind a computer getting the AI to do stuff for you\r\n  \r\n  Counter-intuitively where you end up spending less time with the LLM and more time with humans understanding their needs is when you are actually going down the right path \ud83d\ude0a\ud83d\ude4f\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: IMG_2138.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260602154458_gary_teh_img_2138.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: zPfSkPJNG60RcyEhV0dOS8VeG0BLOJT3tV3vMuiaqKFord5qUmRG2gsv1IMOip1vjA2WaypaRvfsK5+uzNDPqICotnh4LcGLT2sB5jjRcJm3f2FXuXh3eeo2vX7TGMWG75tiZhnY4RRUtvcQw+GTvW+vYg169keU/ZezwKc46+nOjpbjgMx+B/OUM1RfM6sy1MXKFd3DQibN/PHKQPOkBiG1Gf0uiGgq9llgAYS2CACFSwS5zZ3KrGKudOPCQqRMJZaPeL1tAeDqRFgdpJll2/BvV2PozVI9HdAvwVcEz7zotUtgz9gjNCkYXUbr4b7k7nd8wDIXwcgyzM1F2taIUw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260602",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

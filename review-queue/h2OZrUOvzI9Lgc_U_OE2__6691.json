@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.677952+00:00",
+  "scoring_hash_key": "h2OZrUOvzI9Lgc/U/OE2",
+  "scored_chatlogs_row": 6691,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Kopi Bar & Bakery partner page setup \u2014 execution\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/173\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/174\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/175\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/176\n  \n  Details:\n  Executed all code changes, image uploads, PRs, and deployments for the complete Kopi Bar & Bakery partner page setup on agroverse.shop.\n  \n  **What was done:**\n  - Added Kopi Bar entry to partners-data.js with Berkeley, CA coordinates\n  - Fixed nav (\"Stockists\" \u2192 \"Cacao Journeys\") and standardized footer on the detail page\n  - Found and downloaded Kopi Bar logo from their website, uploaded to assets\n  - Uploaded 5 photos (exterior, Nora with cacao, tasting session, hours signage, BAMPFA entrance) to the Kopi Bar detail page\n  - Updated Pacific West Coast path JS to use Nora's photo as the Kopi Bar stop image\n  - Replaced logo with storefront signage photo\n  - 4 PRs merged and promoted to prod\n  \n  **PRs:**\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/173\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/174\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/175\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/176\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: POHP1DjNAc3UoYIv/930c3K7QUvUsHo48NDGUQPORX4VmbbN45ED84CM8kxnQ8Bg8nVq30T+MAvZwgUe3Ra5wyBGUPoEFfDVtHdub+01Gc+Wf14OqwvwzfM91hhcByB34wehNYpZAH5D2PrpFMq8Y45x8stdm/HON3IvGTy9RXcb+0WedtWU5z0RcgCKrYMBs/UpX9cXLDvYJRw9M162cKf+74KKtUqci1V79QFNw7ameaAlG+LWI6qkO+FetZ0WayosV5L3yMbFpVW6cdrfie+wQW0py9wln5okx8rzVaVMNofR8unVT6JQYmoKiq8TaviJemDwCBpfn6nJvudYeA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260614",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

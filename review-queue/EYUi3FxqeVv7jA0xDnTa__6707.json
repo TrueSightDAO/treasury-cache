@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.679696+00:00",
+  "scoring_hash_key": "EYUi3FxqeVv7jA0xDnTa",
+  "scored_chatlogs_row": 6707,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 7\n- Description: Fix mobile text overflow on /vault/status page\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/218\n  \n  Details:\n  Gary spotted text spilling out of card containers on mobile view at /vault/status. Diagnosed as missing overflow-wrap: break-word in the mobile CSS media query. Fixed via PR #218 \u2014 added overflow-wrap: break-word to .card and .container, and word-break: break-all to code elements on mobile. Merged and deployed.\n  \n  Time breakdown:\n  - Gary: 2 min (spotting, screenshotting, 2 voice messages, merge approval)\n  - Sophia: 5 min (diagnosis, PR, merge, deploy)\n  - Total: 7 min\n- Contributor(s): Gary Teh, Sophia Truesight\n- TDG Issued: 0.7\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: XAyxlJL3hZR76ttc34xxw43Wjtii6Qy6r1itQDIqSI7I63Z6xysLj/kz0YJ2LQcUdRn1fLtAG3rSKYjUtVZYF17DFCTEr1ZrEkIUYKl8i5w9Sdn28r/7rdck2GydhqfE6/Kq138yuARpmRhNOpiDLQndcFlC+S2o21pYqjA0aCRMJZe4LYh++Th52e1xmVgQ/uWB0LuF4f/08k8c8py3wDnEck8Q53DU/6oQO6BglEauqjP/Gnd5/fRMUU6yDNiu4PjRa+hlfRxj+3JSLPSrkRs/7MrnLo/OGrW8onwlPTv2E3+qDp+tcHbUAZxcFen9znbPsCfTHktaee3Xiwz/TQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0.7",
+  "tdgs_issued": "0",
+  "contribution_date": "20260616",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

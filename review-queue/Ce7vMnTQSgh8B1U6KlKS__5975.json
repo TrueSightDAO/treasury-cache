@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.583854+00:00",
+  "scoring_hash_key": "Ce7vMnTQSgh8B1U6KlKS",
+  "scored_chatlogs_row": 5975,
+  "contributor_name": "John Tan",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Feedback on update fidelity in the Beer Hall\r\n- Contributor(s): John Tan\r\n- TDG Issued: 8.33\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260419221727_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: B4aBoIWC1iiB4pYyAVSDkDcboQb94YSCYpRnpOKOiHqOhSTgD3b1SXkJPqMtjgBbkWRrQUvwuYyLpcngWvMPF27LweIZht/JMEK5rXz8dTXIbsKBY5VekUH1FY/bq0YV3Nqrfc6+KZdoBW8A0dTZnhKYmTjWz/HLhjVu2ByYuaXBexZdsTVv4EgUBIecXndsBPuQ9iMYViDji8eN3ndT9a9sKGcif8UbN//q4Pta+gjyaGPFaJqanr+2/zFNBn8jBTjFgprCHmZQzNdm1r3aPJnNTsxnuBdIeEi8UEIc2SD4LjY7t/B49qe6HajTe6OXdGG0dN1maku7faq/rvH8HQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "8.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260419",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

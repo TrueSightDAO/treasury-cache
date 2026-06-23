@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.619069+00:00",
+  "scoring_hash_key": "7R5p60jrg+JsTY4YBqpM",
+  "scored_chatlogs_row": 6266,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Managed ledger infrastructure \u2014 create TRIBO_MIRIM_BAHIA ledger + document creation pattern\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/112\n  \n  Details:\n  TRIBO_MIRIM_BAHIA managed ledger creation:\n  \n  Google Sheets:\n  - Created spreadsheet 1_MjYZBMoUZAmQvMi6KOml3A6shQg2sJdFEFt1QHHxtM\n  - Copied all 6 tabs from AGL15 reference via Sheets API (preserves formulas + formatting)\n  - Unit Costing Economics, Balance, Transactions, State, Entities, Pricing Tiers\n  - Cleared AGL15-specific data rows, updated contract URLs to tribomirimbahia\n  - Shared with cypher-defense and garyjob@agroverse.shop as writers\n  \n  Shipment Ledger Listing (Main Ledger):\n  - Added row 1001: Transaction Type = Donation\n  - Ledger URL: https://truesight.me/tribomirimbahia\n  - Resolved URL: the actual Google Sheets URL\n  \n  GAS integration:\n  - All GAS scripts (capital_injection_processing.gs, currency_conversion_processing.gs, web_app.gs) read Shipment Ledger Listing dynamically \u2014 ledger is immediately discoverable\n  - DApp currency_conversion.html dropdown is also dynamic \u2014 no code changes needed\n  \n  Documentation:\n  - MANAGED_LEDGER_EXPLORER_PATTERN.md \u00a74: full creation process documented\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: iwBOljvr/ZIglaEaGQdwfPBPaNacNaYqMf8AZCZ0ppe2l1AqlM1st1z/Rl32q9UEHehRHXjvSSYaJeEQzzj5d/70AoVxWdIcXgY9HsaGo9wmLh3SMiwuQzO6lPp3qaNV6DuWYXS+/LuoUipQ4N4IeDDaus8AiA/GYBdeTI4/lD7NnHP6D1YKz6NmchlXjAw3LkYLA0ZvMmgfT/l9S0t/xHTpw85gc+2n50DfsOs9FKaEUE7MAalhr0LThFIRzZM9hYqfEc7g85NHS4Pp+ca1TNn/CekMboFEuzQkq3Sn65XtHozH1GWxrXmgw15CkI3MGo9ull2LayDsfwRqhWU/Bw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260511",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

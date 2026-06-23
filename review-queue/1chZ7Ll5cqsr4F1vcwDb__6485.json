@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.655099+00:00",
+  "scoring_hash_key": "1chZ7Ll5cqsr4F1vcwDb",
+  "scored_chatlogs_row": 6485,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Telegram bot reliability: empty-response + single-round tool-loop fixes\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/46\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/47\n  \n  Details:\n  Two further fixes after the thread-id fix, making the Telegram bot actually answer multi-step questions:\n  - truesight_autopilot#46: whitespace-only model output -> Telegram 400 'text must be non-empty'. Made /chat-blocking and the adapter whitespace-aware with non-empty fallbacks.\n  - truesight_autopilot#47: /chat-blocking ran a single tool round (the streaming path loops). Multi-step questions truncated and an intermittent text-format tool call leaked as the reply. Replaced with a multi-round loop (up to 8) executing structured tool_calls each round, with a guard that forces a clean text-only completion on exhaustion/blank/leak. Verified end-to-end on prod: Gary's exact 'events.json layer' query now returns a full 2.6k-char answer, no leaked tool-call syntax. 21 unit tests pass.\n  \n  PRs: https://github.com/TrueSightDAO/truesight_autopilot/pull/46 , https://github.com/TrueSightDAO/truesight_autopilot/pull/47\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: SfqY+jjOCwA0KKcygoHUqxOtykVmQaeWR7dMKy9+4gb6Qsmhn3zQM6gdzaFJtOOqRKYl1amCB/MIceBiTvneicXtVWGsLGD1P1HlI5u+UpCKHgltulcsyjt20+/Rr7x4AvwjB6dlu/BgrrtiGMtEa2ysRvDpOO+ezKLhrwx0h6Qf/ip1jt2okNkXSPLKnq+fV7ix92u/R/EsQP1WI7kR4O53Pimx9j8hqzs3oiDFWEsM4DB/brWxAz+rcKW6A7xgbD4Pahk0v/9R2tmFK7DtYKq5ETsJ/qKycibszG4tuaJMN9ndlElVvELCwEVjuDgojvVuMupEm4XJgDB3RqL6OA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260526",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

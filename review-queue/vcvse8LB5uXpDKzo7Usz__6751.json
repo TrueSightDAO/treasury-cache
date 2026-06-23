@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.684256+00:00",
+  "scoring_hash_key": "vcvse8LB5uXpDKzo7Usz",
+  "scored_chatlogs_row": 6751,
+  "contributor_name": "Sophia Truesight (admin+sophia@truesight.me)",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Built truesight-dao-add-contributor CLI + added David Campbell + fixed _NON_CANONICAL_KEYS bug\n- Contributor(s): Sophia Truesight (admin+sophia@truesight.me)\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: jdP38UY+lgzFpavZ5zzw9rqWZ6htfuQK0E5U+NydfPxZkvoMlV22DAqFwUwjFDLxyCRwKMoZv/37fpD8+gG5oHde3PXiJPb5MDPq/UHfVo33AgjxiH0Wv0Ng1tbE7G2oq9mX3VHDtFORxJmJ4ij5pCuqhNIqzBeVghntRu9nk2biYbaxkO9vJ+eJYD5hbctI7qgLQaEIHld8uWBm/PaXNGVohNrumBz/tUqDT5VZr+YBWIwYcdqZo5IzWcocW/zMuWFu9hKZrEPHZjOgHykNOhF2zqFkFnwO5tmVazcVlhZ8199EuF24N7eyT2Y7HTNw4XpX+iaXd0l+WS1Y7BHg1w==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

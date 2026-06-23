@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.674727+00:00",
+  "scoring_hash_key": "5d37Yly4VCgnV3jqiDQ7",
+  "scored_chatlogs_row": 6662,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 0\n- Description: Phase 1 PR-B: Add ruff lint+format check to CI\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/151\n  \n  Details:\n  ## What\n  \n  Added `ruff` (fast Python linter + formatter) to the dev toolchain and wired it into CI with a passing baseline.\n  \n  ### Changes\n  \n  1. **requirements-dev.txt** \u2014 added `ruff>=0.15,<1`\n  2. **pyproject.toml** \u2014 added `[tool.ruff]` config with a lenient baseline\n  3. **.github/workflows/smoke.yml** \u2014 added `ruff check` + `ruff format --check` steps\n  4. **Auto-fixes applied** \u2014 85 auto-fixes + format across 100 files\n  5. **Manual fixes** \u2014 B904, F821, E701/E702, F401, UP031 violations\n  6. **Bug fix** \u2014 pre-existing undefined `public_key` in `_run_tool` \u2192 uses `governor_name`\n  \n  ### Verification\n  \n  `ruff check` passes with zero errors. `ruff format --check` passes.\n  \n  ### Plan progress\n  \n  Completes Phase 1 PR-B of AUTOPILOT_HARDENING_PLAN.md. Next: PR-C (add mypy).\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: T4akOqWZ0ea+Mm2FHLQLRftxMPQQtidcccUM3x5IjefhgbD+fJw5keaR8Ra+ouXYUlbNytMQa8ZgmtX1pUkNUYF348OKCZucQduWpLp18vAv+XmD88EFR/KRW85ThLUyVIAwXQDXhxOW/M9vp9m4Bbr78HpYFpy5GIYfNJDeB5iiqLPPCkxwpXkhyCc891iz/0qsENM6FFj7LIhmyd66maev8SgqXnQbywSkVXc0jF11t/5jl8GswyRqqBhndNJE+cQ289BV+CXX6xp2+RnE72aU2OJIWyLZZMiVuEXRUgW0sFzRQ7zzmIBVFY7VVL53Uqz9RPw3eeO1R+9j6SS1gA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260611",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

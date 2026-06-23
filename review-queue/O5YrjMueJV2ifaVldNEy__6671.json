@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.675706+00:00",
+  "scoring_hash_key": "O5YrjMueJV2ifaVldNEy",
+  "scored_chatlogs_row": 6671,
+  "contributor_name": "AGL15",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 56.93\r\n- Description: Gasoline for driving around to attend Tech Fest 2026\r\n- Contributor(s): AGL15\r\n- TDG Issued: 56.93\r\n- Attached Filename: IMG_2548.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260613023613_gary_teh_img_2548.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: LJgRkamLbvj6CYjF2C4ri4vHlcAGW1Q3BUkbO4GqmUb75qQCBLW7q0yCokGvQBn3M8fIV2VMqh1L0YQlICh065/eKE4DgcRu/pmzxxYbIqmkFCgB+3ZvjVCK99fCbN9d92slGuVEhZTudLn51PaJvlNytEFfnDmNExJjU6sBZlDP93LP+t+3XlNSwSe/BMq4ZUYyhUVReO0+C+2Q7K6hzosHZRkfoYMqOEsVyxgOv7WJuIGoxaU+VniA8FcI1ikI1frjCKFDU8T4dhw6EnzojtLEluikzFpsIsN5Yym7DG9V1aCr92N6+/2VI9GXe/Fn5dGVf9J+wtSGwUEh5XXvjQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "56.93",
+  "tdgs_issued": "0",
+  "contribution_date": "20260613",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

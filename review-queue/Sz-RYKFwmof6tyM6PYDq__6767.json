@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.686011+00:00",
+  "scoring_hash_key": "Sz+RYKFwmof6tyM6PYDq",
+  "scored_chatlogs_row": 6767,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Smart Contracts catalog page review: inline RSA verification + signed payloads\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/261\n  \n  Details:\n  Reviewed and approved the /contracts/ page improvements: converted payload samples to canonical signed format with RSA-2048 signatures, added inline Verify buttons with Web Crypto client-side verification, removed standalone tryItInput, fixed base64 wrapping. PR: https://github.com/TrueSightDAO/truesight_me_beta/pull/261\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: mnghSlw5GidMWKalejEYoXbBCCL7Jx4zPM8gxbmbpTGmsLEDq3XzPVQMRBRCHiztLr/ihdFffFKnS+yEDyiyLGxTdqlj8za+/avQCFNC8ucv1cjUEQyqKO4h8OxpYp3JYNUISVkfnD7W4tTyEW6olXExOqB0xsJtVvUQEgIcI3DsAqlblZSWhntr6z/1+lsLBjXy2I3sAQ1n/Tq+ipe0/UUGBPt4aRwK6tt48qpdnSqDoD4vlCRJV+LvTarj3mtnriODlbyglXdv+HSCWBzh8vBcrOaiGt1Kiqv6LOt/EneaLzJWk0ghb99f+AQ4AvqIavlaRfCzKXFfop1ddtjf/Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260621",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

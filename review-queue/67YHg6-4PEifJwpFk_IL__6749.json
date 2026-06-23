@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.684065+00:00",
+  "scoring_hash_key": "67YHg6+4PEifJwpFk/IL",
+  "scored_chatlogs_row": 6749,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Found Chives' lost QR code and shared registration URL\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context\n  \n  Details:\n  Found Chives' lost QR code (2024PF_20250505_12) from the June 9, 2025 sales record in the QR Code Sales sheet. Shared the Edgar registration URL (edgar.truesight.me/agroverse/qr-code-check?qr_code=2024PF_20250505_12) so she can register her email for tree-planting updates.\n  \n  Proof: Screenshot of SMS sent to Chives with the QR code and registration link.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: PurG8ZTNptrbRjmi21mJ+X9VnQdyXxpyiTWC1Y2HVkf/H4wh3+MiBRlwbjFYYS8mbpOSmQ56D3b6X3ulX1RV+GmufuSzQtrVCQwJn799L9Xl4GztHgp8yKzDYhuc+IoQt5ZroWGN2I9qNpmA9+kcl1LHcy+Jpfa448l3FQmdGuDxHrVhaz1AePQf37iIu8bt3O7cFCNzqkbSC/T7+LbRG1WtVzbU+X2VrDhUIcu7+RjMnigZWUNAPqWtH3RAdLLsWzOkS/4nCmBs7gTo7Hcb5onVQLUkgqvXcl5Dq82aSmb/m4Vlt1AtREXuxq5sljGGrmNdC1q2NvoU/e3QP4Sdcg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

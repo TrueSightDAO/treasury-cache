@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.673506+00:00",
+  "scoring_hash_key": "oEBzOBFGH1EBUIyC3y2S",
+  "scored_chatlogs_row": 6652,
+  "contributor_name": "Sophia (Autopilot)",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 60\n- Description: PR2.2: Handle invoice.paid for Agroverse subscription renewals\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1091\n  - https://github.com/TrueSightDAO/dao_protocol/pull/99\n  - https://github.com/TrueSightDAO/dao_protocol/pull/100\n  - https://github.com/TrueSightDAO/dao_protocol/pull/101\n  - https://github.com/TrueSightDAO/dao_protocol/pull/102\n  \n  Details:\n  Rails webhook handler for Agroverse subscription invoice.paid and first subscription checkout.session.completed. Detects Agroverse subscriptions by metadata.source, delegates to dao_protocol's /subscription/obligation endpoint to create PENDING fulfillment queue rows. Idempotent on invoice_id. Existing Edgar SaaS subscription path untouched.\n- Contributor(s): Sophia (Autopilot)\n- TDG Issued: 60\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: iOL4J+pqUJtxKcGMXdUx9msYUyxoKiiB2VAU+R7j6raCECR3ZO90C/ryQp/DOFCMHKlVOom1yKXyJkcnLP4A9i2j3+NEC108V+1C22CXX92gF46ouNQ/Mh20Xt8pCMxpOzU1h+BxblxKFhFjx/7peGa0JUocoFQbHg9cb4LKs/jB2VPGW3QXrX7HIRXZCFPYmS/7cVtkhnQV3ZGFjXtIuUcJJtOskiInNUJzGA0RkUAbpYDXH5hVRRqu3RuIjwT5f70xOwJqeHnf2b4Z+mer7i7wDqtyHd3wObajlXlrd9AlG+CF0E1l2MlWkgu5YeNOBsGuQEAShrncXCkWrDTi4g==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "60",
+  "tdgs_issued": "0",
+  "contribution_date": "20260609",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

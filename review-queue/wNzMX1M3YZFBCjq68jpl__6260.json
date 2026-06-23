@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.618377+00:00",
+  "scoring_hash_key": "wNzMX1M3YZFBCjq68jpl",
+  "scored_chatlogs_row": 6260,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Capoeira platform \u2014 Phase 4C: Transparency explorer + managed ledger pattern + Claude publishing docs\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tribomirimbahia/pull/1\n  \n  Details:\n  Phase 4C: Transparency Explorer + Managed Ledger Pattern\n  \n  tribomirimbahia repo:\n  - Blockchain-explorer-style index.html (dark theme, JetBrains Mono, green/blue/amber tx badges)\n  - Summary cards: total inflow, fees, net to program, entry count\n  - Filterable transaction table (search + type dropdown)\n  - Flexible JSON schema normalization (Stripe, TransferWise, Pix)\n  - Graceful 404/empty state when ledger not initialized\n  - Live badge with pulse animation\n  \n  treasury-cache repo:\n  - Created managed-ledgers/ namespace for future ledgers\n  - Bootstrapped managed-ledgers/tribomirimbahia.json with zeroed schema\n  - Generic naming: treasury-cache/managed-ledgers/<ledger_name>.json\n  \n  agentic_ai_context:\n  - MANAGED_LEDGER_EXPLORER_PATTERN.md \u2014 reusable pattern for future donation/disbursement audit trails\n  - Updated CONTEXT_UPDATES.md\n  \n  tribomirimbahia/CLAUDE_PROMPT_LEDGER.md \u2014 self-contained prompt for the other Claude process\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: joWEgbsCyFBbe6NYZ0l6VpNbHUfy8zW3RrwrcziEfW3jOZj0S42q0FOS2uTniyeLcQf22Cgj1wSPwNj+B/293Ufe2wBQj31eaEcbCOX5oTGKHdNGBuzA8eaSglgoKiFW8Ssex+BZqd4dKeL02hzIiUxIgzLqzNF8VfxcsBIZO7hMW2cI+CC9ivWkI4KGJpIhT4v1bFTXdEu1JlvZXW5033vVRnZgbGcVJBucF76XtiEgmMnlPAJzBJCY1n8vkCOiOe/qb8VYgvT508flvG4Wvq9ZAxJ76C7EYvBgGkLiFQMDVy6NaZxPtuVJgoQQReaC6dcODM7f8O7rXhVStvEAEQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260510",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

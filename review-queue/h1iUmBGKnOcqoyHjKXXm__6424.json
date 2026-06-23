@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.636110+00:00",
+  "scoring_hash_key": "h1iUmBGKnOcqoyHjKXXm",
+  "scored_chatlogs_row": 6424,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Generated high level architecture design direction and then past it to Kimi, DeepSeek and Claude for discussions\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: butterfly_effect_onboarding.txt\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260522193104_gary_teh_butterfly_effect_onboarding.txt\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: meLiOuC0RoctbeGM0qUym2JBYyrqiOIuzoA6OqfQq7JkvJedI0Jvpz0X/QcD/Y2m0Uu6RLpX+FrFsW+Ydr11ElRvYE/2qQ281ugnmgfiTYi8Z0kDAUQVjdf6J1bOlG3LyhSm/w0O9LiApqvqOPvDTJUMPSGS9Y8eKLdAPwwB2dVOG55zOMJ9KEntwi6psR8pVPDIRXHOv/WkgrbqjQvL921jLHbdCdAiBdlhWkCEaxX/IzlqumrX3d7nxAr+wqz5cWH0o/OZhqfN6MAfMYUKsbzKOpvhmn4ccMXXPf8CXvVxX+W5JcIC0i7nZ7LYDPZwvcLV0qZF7mt7IRliHUwoqA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260522",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

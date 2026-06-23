@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.683456+00:00",
+  "scoring_hash_key": "Tlypz3pnXmJrVgii70tl",
+  "scored_chatlogs_row": 6743,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 35\n- Description: Remove prompt-level approval gate; refine DApp-event-alignment PR breakdown\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/254\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/555\n  \n  Details:\n  Found why the approval gate kept firing despite the code gate being off: a SECOND, prompt-level gate in app/context.py ordered the LLM to output a JSON proposal + 'Approve/Reject in DApp' before submit_contribution (the buttons are now a no-op). #254: replaced that block with 'submit directly \u2014 no approval gate'; deployed (HEAD d9df81c, idle, /health ok). Also executed an operator-requested INVENTORY MOVEMENT (QR 2024OSCAR_20260330_14, Gary Teh -> Kirsten Ritschel) via dao_client signed with Gary's identity (HTTP 200, verified). #555: refined SOPHIA_DAPP_EVENT_ALIGNMENT_PLAN.md per Gary \u2014 broke the 5 bundled PRs into 7 single-concern units + rollout, each one-turn-sized, with Advance markers gating the two real dependencies (PR5->PR4, PR7->PR6).\n- Contributor(s): Claude Anthropic\n- TDG Issued: 58.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: ZldB7gSde7iPJR9w9aNKDH0RJmHh95miWvft6OKAO4vYx1elJDzHoXzW8Uw2Q5BIh2m6fX89fT6SDDhQdY5rBtKINWfNirQSlXPc8Jcj1WCAnGmXUBHp8/sJNk4AW+p0/UHgq2F3BJxNciXaVY6OrjAaeMyeo/i6WKQB9GNw8EKfimJz+ACyBhjhnbT7NoRgm1ge2+qNO6+AJw4/TZhoWiY6h6gYAWfcSVfxeOe87W7+FBTEOhT+d7/aJH7UnsUAru65zqVQOD3DT6O8JLy2NiizdP/e+xzGZdhmdtphOXk9MfaZz1jokhbskUpoTopQWqdzby8yx76f5MeKVC0fWg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "58.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

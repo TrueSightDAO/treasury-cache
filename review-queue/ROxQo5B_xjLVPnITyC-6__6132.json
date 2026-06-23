@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.603667+00:00",
+  "scoring_hash_key": "ROxQo5B/xjLVPnITyC+6",
+  "scored_chatlogs_row": 6132,
+  "contributor_name": "Garyjob <garyjob@gmail.com>",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Draft truesight.me blog post + infographic on Discovered Protocols methodology\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/54\n  \n  Details:\n  Drafted the companion blog post to Kimi's Plug-and-play architecture post, framed as a methodology for protocol discovery and refinement (the 'process' counterpart to her 'shape'). Five-stage ladder (Sketch / Formalized / Indexed / Materialized / Authoritative) with forcing functions for each transition (usage frequency, side-effect needed, read frequency, non-obvious nuance). Concrete event distribution showing where TrueSight's events sit today. Original SVG infographic with vertical ladder + forcing-function arrows in the dark earth-tone palette matching Kimi's funnel SVG. Web3 placement as a single sentence, not a fight ('chain anchoring is an optimization layer, not the architecture itself'). Honest tradeoffs section named (latency, dedup-as-per-handler, schema evolution, read-side complexity). PR opened but not auto-merged \u2014 Gary should review the prose for tone/positioning before publishing publicly. Files: blog/posts/discovered-protocols-how-truesight-grows-its-dao-rules-through-use.html (~1500 words), assets/blog/discovered-protocols-ladder.svg, blog/index.html (card pinned above plug-and-play).\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: CGfLHvAgbdm105NDGmXlTIsKLw0PglDgEJbe63QPtf/lEHu6pL6+3GXd7eijiLB4aSZLJqI2kF+XLzmo2B+ghpRkBZb5+gjJ7KyxkTstPtIpL7kNb72rKGVAQxkUmZD6Dco5T6iRiD0SjzFqxSUvDaDIaDf3OSrYfAs0RPM62qqyXKttTtxICqmAyUrKk5aR2p6lNrcHHZu9izgIFGtwSSc7mUFHU91MoGnUjyXCvV9QIioy3MBQtoyIWTaRIYsTzxIbAt0G1l8kDrAOmvwgwm67lEr+T/naVcpLj5a9sX6+RagdhrAiEDdzrPWrJ6gM4b/bNtMILz/XjGTxJWoJ+g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260430",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.664237+00:00",
+  "scoring_hash_key": "GijFLS/CdKqSPA3BRzvy",
+  "scored_chatlogs_row": 6568,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Lineage self-serve program registration + landing/lineage UI polish\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/160\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/159\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/158\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/278\n  - https://github.com/TrueSightDAO/go_to_market/pull/150\n  \n  Details:\n  Built the request side of the two-step program-onboarding flow as a public self-serve form (truesight.me/lineage-register.html + js/lineage-register.js): auto-mints an anonymous RSA identity in the browser (capoeira-flow pattern, no wallet for the user) and fires two signed events to Edgar \u2014 [EMAIL REGISTERED EVENT] then [PROGRAM REGISTRATION REQUEST] \u2014 with a same-origin email-verification loop (handles ?vk=&em= on return). Wired lineage.html CTAs to it. Also: landing initiatives grid 2x2 + uniform portrait card crop (new lineage-card.jpg), fixed overflowing <code> URL on lineage.html, and removed the retired 'OpenClaw x Cursor / (not a manual post from Gary)' attribution from the daily digest. Updated PROGRAM_PARTNER_ONBOARDING.md build-order status.\n- Contributor(s): Gary Teh\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: QyTnnjlvxbZwYE78FFJC8MRhwCHp2ViieOuV5iiBr8H/lK02lkJCft4ZmGiBql/C3vzgQzDARNyxHWTgPEH7H6slv8v7wnwXlp12FLaYSwH6fnGH2yme/9kEnDWiVoJ6FT/bSWdYNbzUp+NS8ZWjUgBlrKD1Higav8nfCYkQ+zEE/XJEXL7lpH83VDwMVt18fXEDY8+H3cDAoCY9SWT85u6eYGXNL96A65E+NfToPfCdXR7KU2o/KA0Pu5fXL3bi42noOqVmrp55NiiefMOcH4F632dfRNJ42XTInQnKGsdq1A98pvek4iITdr5wlxjccqnyh64iUqY2kJWrwVhKqw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260603",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

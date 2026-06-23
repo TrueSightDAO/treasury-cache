@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.656904+00:00",
+  "scoring_hash_key": "IMmfLH41WEbZP6oMFCzP",
+  "scored_chatlogs_row": 6500,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Warmup queue perf: 37s\u21925s (fix the 504 on warmup_review + notification badge)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tokenomics/pull/313\n  \n  Details:\n  After fixing the GAS compile bug (#312), getWarmupReviewQueue was still ~37s warm (N+1 Gmail getPlainBody per draft) \u2192 exceeded Edgar's nginx proxy timeout \u2192 502/504 on warmup_review.html + the notifications 'warmup' badge. Made full Gmail bodies opt-in (?withBodies=true); default now returns fast on the sheet's 500-char body_preview (warmup_review.html falls back gracefully). Deployed @49. Verified live: direct GAS 37s\u21924.8s; via Edgar proxy 502\u2192HTTP 200 in 5.4s. tokenomics#313 (auto-merge once CI green; fix already deployed + verified).\n  \n  PR: https://github.com/TrueSightDAO/tokenomics/pull/313\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: K86FMKEOzWMldoLAfSXnXnjJmQXy8iEHR+OEgGyp9FUjycRekceMU45+/zGcP+9O2Aer4e2YG6DMfu2C4infc5lM4eR3EWDpaa2exXUV/gnoxqZpMJf+E5fj6dMN6b/vz4z9JII6ebrocJQ8D0Np7Km/GDxfYZU5JkUTjlkau/QZU/fi9ra0kCOCo9B2HxPi/LX2nG9WVANYIBhYf8hfy+pPdB6Owk5E4pZ33El6/Ba3gEP+5J8tPvjlya2+8qnR3EhmMJ+QIIU02yO0gdRFWYrvVf4qNzHzerXFgbOhEO3UFFaN0k4839PvOBKSW9fCpLERfUhd+CQQyS3PtemZrA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260527",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

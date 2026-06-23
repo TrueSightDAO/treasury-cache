@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.613960+00:00",
+  "scoring_hash_key": "iP0DMqcfTPqI5B7BKlFj",
+  "scored_chatlogs_row": 6220,
+  "contributor_name": "Garyjob <garyjob@gmail.com>",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: LLM provider abstraction docs + roadmap (autopilot Phase 0)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot_transcript/pull/1\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/20\n  \n  Details:\n  Phase 0 of the LLM provider abstraction + per-call usage-logging plan.\n  \n  Deliverables:\n  - truesight_autopilot_transcript: AGENTS.md (cross-LLM doorway), SCHEMA.md (canonical JSON/JSONL shapes for meta.json, messages.jsonl, usage.jsonl, _daily_summary.json, INDEX.json), PROVIDERS.md (DeepSeek/BigModel/Kimi/Grok/Gemini catalog with last-verified pricing + quirks), ROADMAP.md (6-phase rollout, each individually revertable), README.md (entry point pointing at AGENTS.md).\n  - truesight_autopilot: docs/LLM_PROVIDER_ROADMAP.md (internal mirror of the public roadmap with file-level migration plan), README.md Related section updated.\n  \n  Scope explicitly excludes any executable code change so the running production autopilot service (EC2 i-02c699d3d7efbdc82, systemd truesight-autopilot.service, plus the active QR-vision pipeline work in commits 16289ca/801c575/ff08826) is unaffected.\n  \n  Future phases land additively: Phase 1 adds app/llm/ alongside llm_client.py; Phase 2 makes LLMClient a delegating shim; Phase 3 wires usage-logging behind LLM_USAGE_LOG_ENABLED (default off); Phase 4 adds BigModelProvider as opt-in for the BIGMODEL_CN_API key just contributed; Phase 5 unifies Grok/Gemini under the ABC after the QR pipeline stabilizes; Phase 6 deletes legacy clients.\n  \n  PRs merged 2026-05-08:\n  - TrueSightDAO/truesight_autopilot_transcript#1 (squash 6fa0dd3)\n  - TrueSightDAO/truesight_autopilot#20 (squash 120f956)\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: KDyoveJeHV0VXsn0aNVe4zIhPsxzIHrIUlJ4uCU5A/7NOnzyZa2vx8IhZVCrHSWwxc2/+MNJcKskg8YYG5Y73zloe8WqEpf/KxC/CYqVy3xRuSAj3L8s57vbksJDegKl1JmHSW0WniWwJThz+eO8s5cG6LNNGwnXcS/V8AxLvGBaIjEiHmJHR0g9NzrEtJ/22Vjg+gJWuUAf4IHjp5CFsZ0msYOe8zXYC15pNaniDNa/lLFCyWuAsm2NEa3aXF0lnte/vDxWXYCN2Y6G1dKQlpnEMv2CR+gyYW1DMDk6gP4GDjHiRZZnqgFGoz/fWrIAkBNO0knH53aYp8s8ib0i/g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260508",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

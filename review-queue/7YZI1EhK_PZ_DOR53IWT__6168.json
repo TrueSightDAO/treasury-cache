@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.607382+00:00",
+  "scoring_hash_key": "7YZI1EhK/PZ/DOR53IWT",
+  "scored_chatlogs_row": 6168,
+  "contributor_name": "Edgar",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Autopilot agentic loop implementation + Edgar cache fix: SSE streaming, tool-based fix agent, dao_members.json governor roles repair (GAS v4 redeploy + sheet permissions), synchronous cache refresh on email verification, Edgar webhook URL update\n- Contributors: Garyjob <garyjob@gmail.com>\n- PR URLs: https://github.com/TrueSightDAO/truesight_autopilot/pull/1\n  https://github.com/TrueSightDAO/dapp/pull/210\n  https://github.com/TrueSightDAO/sentiment_importer/pull/1046\n  https://github.com/TrueSightDAO/tokenomics/pull/270\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAnuJ5oBi5FB6uh4OfZgzS6HAsoTMK3TJNROYv4Wxw6HITVZ7GCO8kRkl5ux6zoGkeIWe/RnIT2I+/O0d4jCyh0PSs3KmVPvdDjMeuCqBR6s187n1ojreFpmBYpInHX8b9pScHDDZpZjjEcOAt74soq1w0/Uu3U/bGq3ffQ3CuWSi1gpDlttWn1Ahhq5/4yy9BXtYxIdYLgnTMAO95SUaFG9KR4o+h1h8faACyZdi57wMqO7YdNplksN/TCL63VAJdJvRXz6MEvdXumLEGP5OgJk6kdis+y/kj/AKTKt4f6UOnWE37kANk9SWKIWz4a2mThdbYpYAN5BfFdSHMWPWRdQIDAQAB\n\nRequest Transaction ID: NpRX/ihJJ/GQCWSdU+S9T1qJ1KB2Nc08S95qqJEFdo+kAQY/c86tVoapU2LMHKOYmQ7TU0Ka3m/Z509qPwjXKThb9ijrJan8foqsMC7Xpq2ROL+XGDwoF1MongMpOJzXSMJVKfIKqDClP6FUYGBVBjoPTv+j/132uaU3nVO8a9/193igeCgr4CWGYh+iovtJvP68y96s3eNJrzKT/LmNqdXux2vQIoEr4lopWtUIKvDfsfZWbYmGtr9HiwnaqX3ZXIKF3/Nabkw4XsZB19fZC3oPfJMlW0IqqAcclZee+ipKPf4MPIMA1BYNpkiHJa42mhyCB7LZZ+d6moJFGfFMhg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260504",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

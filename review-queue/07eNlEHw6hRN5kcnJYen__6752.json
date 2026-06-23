@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.684431+00:00",
+  "scoring_hash_key": "07eNlEHw6hRN5kcnJYen",
+  "scored_chatlogs_row": 6752,
+  "contributor_name": "Sophia Truesight (admin+sophia@truesight.me)",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Built truesight-dao-add-contributor CLI + added David Campbell + fixed _NON_CANONICAL_KEYS bug\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/123\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/262\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/265\n  \n  Details:\n  ## Summary\n  \n  Built the `truesight-dao-add-contributor` CLI from scratch and shipped it end-to-end:\n  \n  ### Phase 1 \u2014 CLI Module\n  - Researched Edgar's event schema and GAS handler for CONTRIBUTOR ADD EVENT\n  - Wrote `add_contributor.py` module + `pyproject.toml` console script entry\n  - Merged PR #123 on `dao_protocol`\n  - Deployed to autopilot and verified with dry-run\n  \n  ### Phase 2 \u2014 Autopilot Integration\n  - Updated `submit_contribution` and `lookup_event_docs` tool descriptions to include CONTRIBUTOR ADD EVENT\n  - Merged PR #262 on `truesight_autopilot`\n  \n  ### Phase 3 \u2014 First Contributor Added\n  - Successfully submitted David Campbell (david@soha.center) as the first contributor via the CLI\n  - Edgar confirmed: status=success, signature_verification=success, googleSheetLogged=true\n  \n  ### Bug Fix\n  - Diagnosed and fixed `_NON_CANONICAL_KEYS` dropping canonical \"Type\" field for CONTRIBUTION EVENT\n  - PR #265 on `truesight_autopilot` \u2014 moved the drop check to after canonical label matching\n  \n  ### Debugging\n  - Traced through 24 SSH calls to find the root cause of the normalization bug (should have used read_repo_file instead \u2014 lesson learned)\n  - Debugged setuptools \"UNKNOWN\" package name issue (stale egg-info from old setuptools version)\n- Contributor(s): Sophia Truesight (admin+sophia@truesight.me)\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: Y4V3bpZ/7/oGz1Hu5o7Q4B/mnT7q/8KnXPuXtCIRVbAIel6kTh2iCbP6jekPklUxlrmjr7o7N13EwDzLlBOFTV/CBrAP8k3F+Z04iw5c3g2sohp3kdWxJGNecuxeV3mdEEFxzVoB++wu8ggTSO/KhXnMA46hIZry0yq5j1Hsm86QvNNqzC4bH8cFmJ2T2pNIkFJJKVZiSVloZB43LjFqF5PyA4JErWQUSs+nKmo2J5wDUyczNmrDgW2jbPkc8W2tmqXnLH9I002TQYvRwBuKwvVDxp/yNYTcUdWllBunO+k1MIQG1KGwgic1Q8dzFzpyDgPax0uTrkQmY82m3mnGFA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.572469+00:00",
+  "scoring_hash_key": "b91LRJHi35RqQNa/Uerx",
+  "scored_chatlogs_row": 5864,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 90\r\n- Description: Automated the human in the loop follow up for stores we visit\r\n  \r\n  https://github.com/TrueSightDAO/go_to_market/pull/20\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 150.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: kpi3CHvltGoB8f0rY+qLJXOJ6N7XiiVMLYbSq91KIs2v6ryzLLQiObJ9/H3KaSbhzFC/1GaPd8hATu7ESSFm2n2mvdoKxT1fQ3YYC0qEJZG7SynwWsEIxuFmPotKEO0nmRSBAjs+pqfyjIUTk94aE4qWb7AX+W/xniMbGrcELdjkYDuXgwATiCizHkdjyt0d3jlv6ubX/rw0i37KG2ifnU4OrOsmK3cxSN8fTiPexxnJv5mPBNTEPEMv8j6rv6eHOaHstlmZp0ufK02SLj71cCLNNUFi3ZNv+8FQiwPu6eZ19BMaqrdoSIgavtjVGxSIqZJ9k49VhI77aH+dJQ9o0Q==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260327",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

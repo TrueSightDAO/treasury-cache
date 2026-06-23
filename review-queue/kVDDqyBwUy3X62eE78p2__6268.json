@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.619265+00:00",
+  "scoring_hash_key": "kVDDqyBwUy3X62eE78p2",
+  "scored_chatlogs_row": 6268,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: capoeira: practice dashboard at top + per-move thumbnails + library demo modal\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/capoeira/pull/10\n  \n  Details:\n  Three UX additions to capoeira.agroverse.shop after Gary tried the local copy:\n  \n  1. practice.html landing shows the past-sessions dashboard at the top\n     (previously only visible after a session completed).\n  \n  2. Generated-session preview now shows a Bico Duro YouTube thumbnail per\n     move, each clickable to open the demo on YouTube in a new tab. Static\n     i.ytimg.com images with a centered play overlay \u2014 no iframes on the\n     preview (4-6 iframes per page is too heavy).\n  \n  3. library.html: click any move row \u2192 modal with embedded youtube-nocookie\n     demo + pedagogy notes + PT/EN transcripts. Close via x / Esc / click-\n     outside. Picked modal over inline-expand and over new-tab because users\n     scan many moves but go deep on one at a time.\n  \n  Gary's verdict on the bundle: \"I love the experience.\" Saved the validated\n  UX patterns to memory so future iterations don't drift back to heavier\n  inline iframe patterns.\n  \n  PR: TrueSightDAO/capoeira#10 (merged squash).\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: hkgpucLmP3S43PMBfixOz2emtDkK+oOiG31iqht2XVbCfXs7FXJ4y7VxI7SEHPdWDKc/MU7Gi0UXPz+Du4oI4n3YwzpziH+0vqQKtwNfOMQxNoiuCwhZxHfnTdxdyW/7tsMCfT7fJ/Gu19bMzHToJeVl36ZhpbaRBsiBf5qV0s7t/OHG/OcR/EHhWPXKHWVeFGmHJHxMcXk6iq/M7IaZjErKVRRDccK6U1hLAt/1Gv34kPfL7yaXwS5p/kMsiVPcZnG39mASBl1FZ4igUZSdV/GJxvtvZ1qLhFUME+0SAedy7tjLN9XVy8X3KAON0ftTgoxbe0fd5fBCbUipAcg2VA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260511",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

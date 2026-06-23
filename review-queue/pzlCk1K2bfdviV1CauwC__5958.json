@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.582134+00:00",
+  "scoring_hash_key": "pzlCk1K2bfdviV1CauwC",
+  "scored_chatlogs_row": 5958,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 30\r\n- Description: Extended market_research/scripts/generate_advisory_snapshot.py with an auto-computed Growth goals table. Added               \r\n    GROWTH_GOALS.json in agentic_ai_context (targets: $40K total QR sales + 100 USA Agroverse Partners by 2026-12-31). The script\r\n    fetches live progress from the main ledger Monthly Statistics tab and the Agroverse Partners tab (filtered to USA via a         \r\n    us_region predicate on the location column), and renders target/actual/%/days-left/pace in ADVISORY_SNAPSHOT.md so Grok advisors\r\n     can reason about gap vs timeline rather than generic activity.\r\n  \r\n    Merged PRs:\r\n                                                          \r\n    - https://github.com/TrueSightDAO/go_to_market/pull/53 \u2014 generate_advisory_snapshot.py goal-progress extension                                          \r\n    - https://github.com/TrueSightDAO/agentic_ai_context/commit/4450a6ebf83c7e55fc7fb735a79f34cd2a8af1dd \u2014 GROWTH_GOALS.json + operator stubs (constraints, weekly metrics)\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 50.00\r\n- Attached Filename: None (proof: links in description)\r\n- Destination Contribution File Location: See description (URL(s))\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: dQDoclINomA+1FiedbKitxkxgSkAZi11rG986ceJ9sp/v6QSEuXbJUvPNklu08TKh25+NKO5dsaij0r8jj8oT5MoNWJFFAXgyyMGFDgwFjZWO8gRJfkSDpGViZq0rZ+Xzp3sBdYpQR4CrBmTgRr6H8UMSN5t7fQXgZd0DcbYuOncOrLb0pkFFUBQV3ORmo6wK5oHVJ2U3Se1YX7qEKg0WF24GJ4U1U1vS49iNJLgNOyL0sdrc/D5R3t5PRqb/iw1Q7hPwSgo2EMhpGs0MEbkhbV+t9vEKGE2olPH8Zo7SfwuRaz1sklnVAL7IbofmWp+6kTpmJpty4Nfr52qFoSITg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260418",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

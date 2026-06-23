@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.680244+00:00",
+  "scoring_hash_key": "3b3PRo8YCfo7II+spU1V",
+  "scored_chatlogs_row": 6712,
+  "contributor_name": "Claude",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Diagnose + fix Sophia empty-response; codify one-PR-per-turn planning convention\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/227\n  \n  Details:\n  Root-caused the '\u26a0\ufe0f Autopilot produced an empty response' Sophia returned on the Public-Key Lookup Cache thread: a turn that exhausts CHAT_MAX_TOOL_ROUNDS (30) forces a text-only completion, DeepSeek emits DSML tool-call syntax as content, _strip_dsml empties it, and the streaming /chat path (Telegram) had no backstop -> empty done.response. Fixed in PR #227 (merged + deployed to the autopilot box, truesight-autopilot.service restarted): added _needs_clean_retry/_ensure_nonempty_final guards making the streaming path symmetric with the non-streaming handler, plus hermetic regression tests (529 passing). Also codified a workspace-wide one-PR-per-turn planning convention in agentic_ai_context OPERATING_INSTRUCTIONS.md section 5a and re-scoped the Public-Key Lookup Cache handoff (plan + HANDOFF_MANIFEST) so Sophia's round cap no longer chokes on whole-roadmap turns.\n- Contributor(s): Claude\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: ewS2UTW8aKV+Hahbcsh4IBtSEE2yIszBRsG6R3aa9mqRD8XAr1ihJabkCF4XvF7KRpFH3iKdcoTrmANqUgUcKZDfUag3XCarqXlLsrV6aeJOuapvwJ3t25zXC5TpWPqEpCziwCgOxzHVsny/biIeyxWB93aCuBb4pHQ7vwiFJCxYVtLAPSCVkR/cxG3z1SawtjfkOkbzYJVXyTu6swjPP3RKJHXUGxnB/26+YOt4g3JuEkArdvURb+hfdyLFBarxje5O6bLnVNBIpwTiQByDbTR1axswjE6ZvDHHOUy9EpY1/D5h+Ci78ltMwRf5I1omsEGzpOGfbx65KaDT/jqDMQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260616",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

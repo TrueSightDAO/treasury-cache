@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.594718+00:00",
+  "scoring_hash_key": "NTWBr6sh89y8n2tH0mx+",
+  "scored_chatlogs_row": 6055,
+  "contributor_name": "AGL15",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 35.94\r\n- Description: Parts for solar power system.\r\n- Contributor(s): AGL15\r\n- TDG Issued: 35.94\r\n- Attached Filename: IMG_0614.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260426045104_gary_teh_img_0614.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA1y5wLWcmZJ9qWdvJl7yoGj1wxR8fjxZVezo9IkwodBEZ6q2tIyKIpk8XyEokycPQ/M9ZocYr57manzU53Zh+V1DnvUnvHZpgSvPSw/wnBKuXNxg+1uy8h10X+2iBXsJBoK5cM20q1RxsGH4GBsDvPzLervRQVZPe12ht/VPVd0PbYPUBVVfs8q2KlaWrq7ZH4cJ0FHB1Km0cjgYs2rps0AgsyKseb8jCkQ788VFZwePZZzMRA6OXHCIuVFxbnAPZlNvckCFz+b2oM132aYaqgbkk2IgAbShxUuEwuv6yb2mQapsavUUShxMK8AHmyJ39v5lQ2xiTQTougTwTG5MzYwIDAQAB\r\n\r\nRequest Transaction ID: TGU8uq3oEtvVUP4RPQT7PhiDfXSvk8lRtdvQ/9AWfYf5YTXU6bQvVKTwiJ1iQOJNfYgxpuVCIfbONvZb/0DxBfGwEJswX2bd6qydh0UeMU2w0P7Y/PyueSwSs50yfXMz2hN5IzdGQp2x0Dg2LZ0V2AxfoJK2prle9Spy0Bb465hvUt+Y7N13KGK6LBQob4wsiFEZQc611uMYBr6Xm91UZX6p91GUQa2S1K88Z3amrcy5klquLyKy4BDE4agIrvajlArMzZj6cptKrOQiNXbwGncait2sPXxks8QyDGQB28m0TDSxLa+gR04P+dQ+MAb6Gw7PNYoRL9Ep2k4zC++tOA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "35.94",
+  "tdgs_issued": "0",
+  "contribution_date": "20260426",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

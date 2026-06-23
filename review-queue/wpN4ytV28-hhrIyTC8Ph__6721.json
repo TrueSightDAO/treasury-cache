@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.681161+00:00",
+  "scoring_hash_key": "wpN4ytV28+hhrIyTC8Ph",
+  "scored_chatlogs_row": 6721,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: GACC Registration Guides \u2014 Brazil to China (Gary Teh)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/537\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/538\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/539\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/540\n  \n  Details:\n  Created and reviewed GACC registration guides for three Brazilian cacao cooperatives exporting to Dongguan, China.\n  \n  **What changed:**\n  - Created GACC registration guides for Black King (Ilh\u00e9us, BA), Coopercabruca (Itabuna, BA), and CEPOTX (Altamira, PA)\n  - Updated freight forwarder contacts from Gmail (Omega Servi\u00e7os Log\u00edsticos)\n  - Removed Coopercabruca fallback section from Black King guide\n  - Removed Omega from CEPOTX guide (different region \u2014 Par\u00e1 vs Bahia)\n  - Generated companion PDFs for all three guides\n  \n  **Pull requests:**\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/537\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/538\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/539\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/540\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: UQN04uPjtacTwsDmxcdiShCWKzEf576Bis/2mWTrhCj3p73Ydi2WK7DzUpqwFy9juCQ9KS4qxrXCiyzTEN+GTSAUk1ILdJsdm/99YH1rbHhZM0Fk0cCqoy8A/Z68TLi/wHCF23bPcK0piBDizm/LjGw1Km9FyCa4YG/VZAGjPGaSgdO+W87k24b6NEGobXo+4szQNmboMS3bnu9ZPQ13LVXx5lrKeMCx6IsbM+0Wrx82D8r10r1no+LzT5BAXLQE3UWMPe70kInXUEGfVqIdAa4ncXtbTBtKuDGea0wsDCj1fMGmSoKzQocnZ6Da8WD2ZEIIt9juJv/tNUyuYF2/pg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260617",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

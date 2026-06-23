@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.599473+00:00",
+  "scoring_hash_key": "cEp4lzPOLyyu41Ney88b",
+  "scored_chatlogs_row": 6103,
+  "contributor_name": "GaryTeh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Software\n- Amount: 25 minutes\n- Description: Folded opening-hours + Google-listing backfills into the hourly hit_list_enrich_contact cron (PR #88), then extended the gap-fill set with Shop Type / Phone / Website using a canonical-taxonomy heuristic + 'Other' fallback (PR #89). Drained 96 rows of accumulated gaps; 0 blank Shop Type remaining. DApp views (stores_nearby, stores_by_status) already aligned with the 12-value canonical taxonomy \u2014 no DApp PR needed.\n- Contributor(s): Gary Teh\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: n2ZM0cYa/wY+uBw6zK+/bb07HEgdjE8edJzL/EvhbVtyzWmrGGoBvomBaV7tl1gX3gw3gbHhmkPCD4HLlWZQ6uI1MheOGy/bi/DWJXPXX3wG2MIVtpDE4G4Ch/zO5dG6lUSSIK2P1wC42Euh2/HFdt9zi+bGGJyJA3WFINNA57q28QuUTI8hnHfFhL7tHgaLm8dckFlNSJQ4qGwt+/I80/Ljfac2TOxHK2ICIBDby729DZW7UbquxIVuPXMEo4jUBslqcxohVt/ziEJAQeiZh+JOjIR8QgoFMZIVD39+4UCRLda3Poo09YRa571tgl9eex5+++gJ9vYmThUyDbzVsA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "41.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260428",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

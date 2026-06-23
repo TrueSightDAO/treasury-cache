@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.677519+00:00",
+  "scoring_hash_key": "v3E0c0jWlhROxbV4+6Rr",
+  "scored_chatlogs_row": 6687,
+  "contributor_name": "Nora - Kopi Bar and Bakery",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 0\n- Description: New wholesale partner onboarding: Nora Haron, Kopi Bar & Bakery, 2155 Center St 2nd Floor Berkeley CA 94704\n- Contributor(s): Nora - Kopi Bar and Bakery\n- TDG Issued: 0\n- Event Type: CONTRIBUTOR ADD EVENT\n- Email: nora@noraharon.com\n- Partner Type: Wholesale\n- Website: thekopibar.com\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: cVScHC0UTx7NeuPblk02GGpi2B910fGwTP1xabkKeSuE0YcWQwdsR9O5AwjU98GnjU2NLfwu2h1USyX6NBRuskPS1Uu4ZThri+cxTbAoY8kSWuL4jDfwyireFHaRcgnBTTEgI/asvdC3FpUG4+VBFshvhF0ApE3CsRMU1LpyE8w4BOK9qRNrCS3JpJK2Un9rXv49lJnR14S4BzHeMALl8qcZRJn/UH6Z7M28c7BO+Zkz50vyzdMpM9KvU+hBV7yYEQq92MYjgrEKAExWYm+ZRKkAR8l9pFsmbQUTM/viDWIy0MEDmcZdE+x+rX+TwX9X/V3Zc5pvd0MPhYRpMJGSJw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260614",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

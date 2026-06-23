@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.668531+00:00",
+  "scoring_hash_key": "7pxLsMzSgQQAhhUX7gnW",
+  "scored_chatlogs_row": 6609,
+  "contributor_name": "Lucas Root",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 210\r\n- Description: Lukas introduced by @\u2068Ken Nim - Bay Area \u2069 popped by just now at the cafe I am hanging out to chat\u2026 he arrived just after my handing off of the above process to Sophia \r\n  \r\n  _Key discussions_\r\n  \r\n  - didn\u2019t realize he built and ran a tequila brand from scratch for a while and expanded it across the entire USA. He walked me through the end to end distributor onboarding process. I think we already have all the parts was just missing the keywords and the communication protocol. Will extend Sophia to handle this process as well.\r\n  \r\n  - \u2060Apparently singularity is already here. We talked through the hardware to software tech stack for a full standalone\u2026 will probably spin one up running one of the Chinese open source models which is already outperforming the American frontier models\u2026 basically the ones I have been experimenting with.\r\n  \r\n  - walked through vending machine economics. Something we were considering when exploring how to scale up distribution of drinking chocolate across USA \r\n  \r\n  https://www.nimopc.com/products/refurbished-nimo-17-3-fhd-n172-amd-r9-6950h-laptop-grade-a?variant=47003315077371\r\n  \r\n  https://huggingface.co/Qwen/Qwen3.5-35B-A3B\r\n- Contributor(s): Gary Teh, Lucas Root\r\n- TDG Issued: 350.00\r\n- Attached Filename: None (proof: links in description)\r\n- Destination Contribution File Location: See description (URL(s))\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: Fa0SA0gOJD0AokKuriO7EUZjIinQT842zn5t8EZGcwQWmd97m4Yl0HcXCMvdy1crIIhL9p4F/1/v15RGnN2fXSCEqW2Jum1IcTwSIGcGy11oz8EBDX9uwAWsdITRDkSBqaSmqqEza7lgKK/V4jlj1S50kxK8p0aVIQPF/ZifY+JiY8mrV7D4oomIoy8qVpAEuUFWiSZc36HyLa+hWs2GQkB+PFdpR+1Bhs5CUrztd7J6OsQSZDRO9HAUNcQjP17yKBFFa+4SSIdhHI8XJ3turfVPVV9an43KCHVc511toLU1vDAw1HEc4035slWrY3GBEbnFIOom9CclyohTlfT0Gg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "350",
+  "tdgs_issued": "0",
+  "contribution_date": "20260606",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.661022+00:00",
+  "scoring_hash_key": "lzgpaA0vi1A6cm7XGbS8",
+  "scored_chatlogs_row": 6538,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: truesight_autopilot \u2014 production deploy of PRs #63 + #64 + #65\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/63\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/64\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/65\n  \n  Details:\n  Gary requested a production redeploy. Pre-flight: local main was 3 commits behind origin/main (#63 oracle-advisory endpoint, #64 main.py fix, #65 deploy tool fix); pulled local up first so workspace matches what shipped.\n  \n  Ran scripts/deploy.sh:\n  - ssh to truesight-autopilot EC2 host \u2192 git fetch + reset --hard origin/main\n  - pip install -r requirements.txt + truesight-dao-client@git\n  - helper logs script reinstalled\n  - systemctl daemon-reload + restart truesight-autopilot + truesight-autopilot-telegram\n  \n  Post-deploy verification:\n  - truesight-autopilot.service: active (uvicorn 0.0.0.0:8001, 2 workers), since 2026-05-30 14:44:17 UTC\n  - truesight-autopilot-telegram.service: active, allowlist=[2102593402] governor='Gary Teh' key_resolved=True\n  - /health \u2192 status=ok, version=0.2.0, dry_run=false, github_pat_set=true, gmail_token_set=true, deepseek_key_set=true, governors_count=38\n  - /oracle-advisory (new public endpoint from #63) \u2192 HTTP 200 in 3.1s, 766 B\n  - git HEAD on EC2 confirmed at f937528 (#65)\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: oTyZsTn2WkJ+FDD8wEZxS5jFo/vGMBku1lyqGJbcEakb8dpEg1E4gzmhAGtu2f8CKHSWOFk2+gfya706YM5dTTYGfdbQYZe6XfR9z/e+hKxM9G9eQ48ACu0JrdQLQSfBffQxBU8IuOXI5OMsOjhPBnVJBC3pqMD+WNddmjlY1371Zds8NPzqpP6Tk2RQyGui9bONDhG5nRv54YXjQUS9NwiutpDW5nnFxuqThNrOXaABElZYSq04hR4MthVjMFbmjBkkFak00CFkqvsltc6/oAcbcLXlMFnKNlvMdsFOyKVa971BeNPxZ9+HRreyytyt6knVYoaJvsfp6P8fK/ESIw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260530",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

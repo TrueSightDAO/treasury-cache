@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.658508+00:00",
+  "scoring_hash_key": "3tXnnth58d+DUi5nhIQQ",
+  "scored_chatlogs_row": 6515,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Speeding up the loading of this view via the use of cached JSON on Github\r\n  \r\n  https://beta.dapp.truesight.me/report_contribution.html\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: None (proof: links in description)\r\n- Destination Contribution File Location: See description (URL(s))\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7BRAcp0fSrcyY/nJaPkwGXYT+77YoIVI/kYdX72JbRo8d07JWlAOUnOou9JaA779DhOjFMsZLtyU82I53d8c4vC5T9dN+4P7k6Yv1vnGuAB+51yLhyFBaz0lAzT8lzVE1vK2WSw/LHuMAVteHwY8rsZIjNrel4wUhfF2aE77zuurHF8hbglLxQRIEVRCPv7BcrsqTQTbjGtdjiHt8TEpO9YzliIryXxv9QFoN5tDMZznSVwSn3ImpWXe4Tt6BaudW1L2L3ABA188bRdhPOCR4SVRB4wkbpxHoANnjXsyDMc5pmi+qOKhIZXTJy96yxlB6RvjoUIT/qgWqj/7faTDuQIDAQAB\r\n\r\nRequest Transaction ID: l1MdjwUDujwd0FXJq508OLveaUEsJbJG8GdQ1D2XEF3eFRZ5T463tiTPicokifaLTRbgLL/uqM+DeoX1EJoEKk6H5/PC4rEURqS7+2nrYEO1ySEm737RuYp6ztGwOz4x5BtZcewsGwSAUzK/XQQHAYxbiETC/LaLHpY7CoecE6FHLLvk3z+GONAxnLifWeKD7A52YyGAFaBaYW9ET4E6VwIWDo6LUNjyMixOTpkh6R2BZahFFbqro4d4K8yMLTeoLKmWsSTM0I7BLnwnt6FIx+Omt2huADhOuJvGmwdXfLR/ELV+ZXquoBpOiacaoQp+t987RtE4UD3DNxj6iUGAcw==\r\n\r\nThis submission was generated using https://beta.dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260529",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

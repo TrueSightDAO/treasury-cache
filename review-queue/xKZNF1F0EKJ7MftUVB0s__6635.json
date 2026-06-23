@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.671308+00:00",
+  "scoring_hash_key": "xKZNF1F0EKJ7MftUVB0s",
+  "scored_chatlogs_row": 6635,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Consolidated DAO-client integration fix list (oracle + capoeira) handed to Sophia at thread 3\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/368\n  \n  Details:\n  Consolidated all outstanding @truesight_dao/dao-client integration issues into one coordination punch-list (DAO_CLIENT_INTEGRATION_FIXES.md, agentic_ai_context PR #368) and handed it to Sophia at thread 3 as the single tracker. Issue 1 (BLOCKER, topic 1638): republish @1.0.1 fixing the browser global (window.DaoClient must BE the class, not the module namespace \u2014 the bug that broke oracle prod twice) plus a RUNTIME smoke test that loads the actual bundle (node --check can't catch an API-shape mismatch). Issue 2 (oracle, reverted to working inline): re-do the CDN adoption against @1.0.1 with correct load order, preserving canonical-signing + 3-state identity UX + SW kill-switch. Issue 3 (capoeira, parked): swap practice-event-submit.js generic helpers, keep capoeira-specific logic inline. Captured the shared Definition of Done for every consumer swap (depend on @1.0.1 + verify unpkg 200 in-PR, runtime test, fix load order, map-before-delete, open-PR-don't-auto-merge, Generated-by trailer) and the sequence (Issue 1 unblocks 2 and 3, which then run in parallel as reviewed PRs). Refreshed Sophia's clone; she confirmed, restated the plan, and reported she's on Issue 1 with 2 & 3 parked.\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: CNpyuf1Lu0hQb9rmba9YIdmqNhqZXnMzaLZsfxyeQ7TwWp/G3bgc3+kILPbFcUwx+rrX1PWYDQ30ydcOL2I2hVoWR7fg8TOtuSvuKScPRqK3RfnWHBoX3NAqVK7I6jLCjCNJ/uF+j/WPVZDoZyx8kqXxrlypeY6jMng3W0JrEJIBTCBcxHkNlITnJ0N5d9zCCvF8RvB16CxN6rHPrbtRkKMd5/4i0FQIYPoCAoT7uQlkZq4lTziaad9En+TuPQKhYyLxc8SxKwzwkTdnhEZnDxTTKt8beJOsfy9FLENDZxbgq3uFGqNoCaKVQT6ZnqnahKttq2eHtYNiV11ZxzBTBw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260608",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

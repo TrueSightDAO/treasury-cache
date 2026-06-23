@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.676804+00:00",
+  "scoring_hash_key": "MEp8HURHJyPbhQOAipx8",
+  "scored_chatlogs_row": 6681,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 10\n- Description: Landing page re-order: Human \u2192 Platform \u2192 Stats \u2192 How\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/236\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/237\n  \n  Details:\n  Re-ordered truesight.me landing page sections to follow a narrative arc: Who we are \u2192 What we build \u2192 See it in action \u2192 Proof it works \u2192 How to join.\n  \n  PRs:\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/236 (initial re-order)\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/237 (moved Ecosystem Updates below Community Initiatives)\n  \n  Gary resolved the beta\u2192prod sync conflict manually.\n- Contributor(s): Gary Teh\n- TDG Issued: 10\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: ZD82wnj2DcfbLotYswnfQ74SPlaUIZMm0/xXsIIv3IrGVJKQIgYBiIGmcFBPOmFNW1LhRklGZLVY+z7RO/aTbYv6D48v/YOCSFy8Wd2+gEQPwUImSao0bjCnZMSDzxTcZg91HvsgtE6if/cZwpk7imCICatOm1twBoCI3jS1JfAjwIMlNUKuRwR11DU4AFu/+Ni2OZpdxMDAQmVhiq3tvcuwYIrfHChb98RX2dSxS2LCkyXlsrHf0AORPRJu5xey7R9tZILC02PJvCFtC0cNmTTkYvPJax/rW2nqj1J0NtVQ0xM1mTTT2ByteALLuVRpNsDMGy7g8JB37ZVinnWwyw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "10",
+  "tdgs_issued": "0",
+  "contribution_date": "20260614",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

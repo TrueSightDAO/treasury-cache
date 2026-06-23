@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.595733+00:00",
+  "scoring_hash_key": "UwvwMmEj7DLmSvSwCdM3",
+  "scored_chatlogs_row": 6073,
+  "contributor_name": "Edgar",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\nTitle: WIP - Retail field report attachment/debug pipeline\nStatus: Work in progress\nSummary: Merged parser/thread-safety fix and added read-side normalization for Stores Visits Field Reports JSON keys. Investigating attachment upload path to store_interaction_attachments repository.\nNext Steps: redeploy store_interaction_history_api web app and verify GitHub upload logs from Edgar.\n--------",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260426",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.681560+00:00",
+  "scoring_hash_key": "MK4mD6W1mJH8C9Y1epFE",
+  "scored_chatlogs_row": 6725,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Sophia auto-advance feature \u2014 implemented PR1-PR3 + convention doc\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/244\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/245\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/246\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/545\n  \n  Details:\n  Implemented the full Sophia auto-advance feature (lets her run a handoff plan's PRs without a human prompt between each, pausing at explicit Advance-column gates) across 3 stacked PRs, all tests passing, all behind the AUTO_ADVANCE flag (default off). PR1 (#244): pure resume-tracker parser app/auto_advance.py (parse tracker / find RESUME HERE / classify auto|gate / next_action), fails closed to gate, 22 unit tests. PR2 (#245): brain emits the advance signal at turn-end (config AUTO_ADVANCE + AUTO_ADVANCE_MAX_TURNS, _extract_plan_file, _compute_advance_signal using open_fix_pr as the unit-completed signal), injected into the /chat done event + /chat-blocking response, 7 tests. PR3 (#246): adapter _run_turn_with_auto_advance loop \u2014 continue on auto with heartbeat, pause report on gate, plan-complete on done, consecutive-turn cap, governor-interrupt; call_chat_with_progress advance_out box; 6 tests. agentic#545 (merged): OPERATING_INSTRUCTIONS \u00a75c documenting the Advance-column convention. Full suite 568 pass (1 pre-existing unrelated vault_system_status failure). Own-repo gate: PRs opened for human merge + deploy + UAT (U1-U6), not self-merged.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: fY0JnRkXd8/DHuJI3NBsDRPy7D/oyArdSaN/R5dc+5iboH51r6y0PPObVZxK2RzRENrb5jd524yT/MvYK7LNmhAcu3pZLTdZIOMFQS3sFLYC4vJZHKw8ZKLZ5coaGquNCULODERfZH9AlwkxOxKJ1qngPIZU0zvW+EMoKBUcu7m0XEhyR5JKUOQnrUaS5r8D0JKQ1uRK9NnvnOHV35AElMAmMqnOJMKNc7UH4tgRhGyzmdNhYShVxKCbB0m4EMBCdBc1RaErUoOpmsmvMFLzsSxm2rrDurQz7mkM9bcLNf1c5GZeRePA2IGjZitHdoGpo/f7h6Z1n8C6AP0sV7u5yw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260617",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.586841+00:00",
+  "scoring_hash_key": "U7G2mhAE6PXVTAoXOGjY",
+  "scored_chatlogs_row": 6003,
+  "contributor_name": "Garyjob <garyjob@gmail.com>",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: AI Agent (software & documentation)\n- Amount: 0\n- Description: DApp Stores Nearby + Store Interaction History operator UX\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dapp/pull/169\n  \n  Details:\n  **GitHub**\n  - https://github.com/TrueSightDAO/dapp/pull/169\n  \n  **Time attributed:** 20 minutes (operator estimate for this session).\n  \n  **What changed**\n  - **Stores Nearby** (`stores_nearby.html`): After a successful Hit List `update_status`, the UI shows **Open interaction history** with context that the nearby list is not re-fetched (scroll-friendly). Merged PR adds `target=\"_blank\"` and `rel=\"noopener noreferrer\"` on that link so the map/list tab stays open.\n  - **Store Interaction History** (`store_interaction_history.html`): Help text clarifies updates are **text fields only**, **photo attachments are not supported**, and this flow does **not** go through Edgar (`sentiment_importer`).\n  \n  **Why**\n  - Improve field workflow: move detailed verification to the history page without forcing a disruptive list refresh on Stores Nearby; park business-card images until a future design.\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: M9s++hoPklkv/PmLieJJ0S3o2lQwZ5L6unVghuu+YXZhwxqkaTIQELBfqpvG+UOiMofaNtU/yE17HLijtecwoJPVH8zvjpY4JQavesu77cILXg9DFLqYgXzv81JLoLOGcCXlt+nd3nfHW3FFglHqLwaLHTHakxVPuygD5kVNBgr739lIFfajWPDMusa/lJLTp0YblFvLFJJUJ5nYqDGIHTy8aoNLitxpIm/5hdi5K6DO0f3wv2qr4Cyuvrl4bbKh9iD5Jfj/UNQBLALz6jjILJLod4JPKoI5yx1oyGNpgnwFB5sTBtS87iLXMNMHlbz1SFYWJ+AP//9IXl0koVkFVw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260421",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

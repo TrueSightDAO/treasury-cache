@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.618133+00:00",
+  "scoring_hash_key": "yQTpjLDXVN8kA/eOYkox",
+  "scored_chatlogs_row": 6258,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Capoeira platform \u2014 Switch to local MP3 playback\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/capoeira/pull/3\n  \n  Details:\n  Updated practice music playback from YouTube embeds to local MP3 files\n  \n  Changes:\n  - Added audio_url fields to all tracks in music_library.json\n  - Fixed malformed YouTube URLs (https:// \u2192 https://)\n  - Removed duplicate track entry\n  - Updated practice-flow.js to use HTML5 audio instead of YouTube iframes:\n    * loadMove stops existing audio before loading next move\n    * playMusicAndStart controls local audio element\n    * togglePause handles audio pause/resume\n    * stopTimer stops audio when timer ends\n  \n  Benefits:\n  \u2705 No YouTube ads during practice sessions\n  \u2705 Precise timing control for 45-minute sessions\n  \u2705 Offline capability (MP3 files work without internet)\n  \u2705 Better performance (no YouTube API dependencies)\n  \u2705 Simpler architecture (no iframe messaging)\n  \n  GitHub:\n  - https://github.com/TrueSightDAO/capoeira/pull/3\n  \n  This enables seamless capoeira practice sessions with local berimbau-tempo music playback, improving user experience significantly.\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: nYJwUJCX7GhwirNP/rZqAF/yJTLUxYyRTlKAES6boTIpfC0al8trD9FQC9osiXHuX0fE5ALV0WDaXc16KNY9Amy8RlDDoUjH2SH7clmmizdnlP/q8I2gGmdkvvB0lL45dhov5yWyxTt06dnINRBVq1pznRThp8GM6Nn9WuMhRJPhPbcxDaDk6NdTJOJ8Q8+VYNmVaYcG3drYX17FckcvwFqI8uaQy/rhga2jrGI1ihkoHL1vJapdtY0EH6P4sRDoxMKYkjqcNZNWF45FPGg7xL3iEToLQ5DzpzZkOKEOMDNX/kK8/4P00Jmw7/iCsb9NSrwhK2EBgcH1LxmPpE0B/g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260510",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

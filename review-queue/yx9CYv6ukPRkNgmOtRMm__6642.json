@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.672123+00:00",
+  "scoring_hash_key": "yx9CYv6ukPRkNgmOtRMm",
+  "scored_chatlogs_row": 6642,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: dao-client release flow documented + npm-token expiry hardened; Sophia notified\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/74\n  \n  Details:\n  Made the auto-publish flow durable + the token-expiry proactive (dao_protocol PR #74). README 'Publishing (automatic)' now documents: release = bump version \u2192 merge (CI publishes if new, smoke-test-gated), plus an explicit npm-token section (expires ~2026-09-06, lives ONLY as the NPM_TOKEN GH Actions secret \u2014 never on a server or in chat \u2014 governor-only rotation). The publish step prints a clear 'token likely expired \u2192 rotate' hint on failure. Added npm-token-health.yml: a weekly npm whoami that fails loudly so expiry is caught BEFORE it blocks a release; triggered it once to validate (success \u2014 token healthy). Notified Sophia of the bump-and-merge flow + the token rules via ping_sophia. Rotation remains tracked in OPEN_FOLLOWUPS (~2026-09-06).\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: hqi++E1CxaKBFYSX67u2miXIkqxWkVZM5SnsxrVhJJEEa8Bd2GV/CPUPz7wC/UhcpcFIfnaNuxKnr8V0FpG0QYL3HoERDm8WcOt82eNI9g+MuiD4TCmt3FFYD+Wd/SHpfBxe7x/m77i8S28dB8Z8l8avJ64lgz7BS4q+b3M4uwtetVqy0XAlupon1myTb1qYRHX/9uMcBkly0dK+fCw2sHnkrT2VuFMLNzy9z7oXvtGmx07TdlxqvGJT9/uSNAVFYq6h/6WM1IdhcOahydQHRhbZCyRBtgUO/06XBWzWBZW44vKxIQurbzbp2c2+p99pf/wCy/qiqwyHoe37zqPTlw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260608",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

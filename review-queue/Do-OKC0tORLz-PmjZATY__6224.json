@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.614359+00:00",
+  "scoring_hash_key": "Do+OKC0tORLz+PmjZATY",
+  "scored_chatlogs_row": 6224,
+  "contributor_name": "Edgar",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: [autopilot] truesight_autopilot: Fix the Grok fallback in scan_qr_from_file with three changes:\n  \n  1. **app/grok_client.py line 131**: \n- Contributors: truesight-autopilot\n- PR URL: https://github.com/TrueSightDAO/truesight_autopilot/pull/26\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WhcrS0l8HjG3kAoE0jBGm0PG8ArIfiLLcE4p9LGL1Z4iuFXOr0+wftjxKerBdqbznLqI0A0tRiNpMEFZMimN15DszxUYEusUM/4I2a8brwGgv4sg+IiJNQ+Q7MxzGB2A3jaRSIDIyxCEKN/Xto/rYbtbiffgk7ZS0dfnenuvnNwFWv7uU8e0vAIh0xqGumagBH8Fa1NhjACQQGifyRdwFq719M+Ll4dHfhnkE1UhjnqOhAUSB6nW1J4nACKEGFMRG04beNu8cxj8CKzdRCFnkcVILwo7Gxg8ErhveBgI4eEouTZz5ZhX+C1v6m6wSukXveJiGz7HPi7hzBeSOEU9wIDAQAB\n\nRequest Transaction ID: LdQLRUybvkoz6d1rYsTzQdmSp7AWJ0Z4JIWx+qAwhQ+TyC4cl6ODikzm3FqjBNxbbzV2U5wIh4hrI3BO3isK/Kin2qKTl/Bo27chLnk/WLSBUfVclgoVG+pq3KoIs5Y6GyeW9nQLw1tYR/AisQLUUskq3seLJs9yITbNcYHCjaIbvnNxTAHz3uGgAKP/1gKJ+2delmMVyRL6HaLjtQcBh6kMgPR0dnaV/uGif5zDzGqeUBdY+St68sXwlR2GsKgB8QlFHN6NHcNhve5tdK9dwFU+xwjSE74tfCCVrmK3cslW3nPA+XhgAEctVlSw5ZeeLRzKxxEbHOhfnfr+Bogrug==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "\"100TDG For every 1 hour of human effort",
+  "contribution_type": "\"100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "8.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260508",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

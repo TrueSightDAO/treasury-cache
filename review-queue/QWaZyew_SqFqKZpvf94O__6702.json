@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.679071+00:00",
+  "scoring_hash_key": "QWaZyew/SqFqKZpvf94O",
+  "scored_chatlogs_row": 6702,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Butterfly Effect pipeline troubleshooting \u2014 governance & direction\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/butterfly-effect-club/pull/3\n  \n  Details:\n  Directed and governed the troubleshooting of the butterfly-effect-club automation pipeline.\n  \n  Actions taken:\n  1. Granted SA permissions to the ERA Cohort Roster sheet\n  2. Provided the ERA $97 payment receipt image for ERA_PAYMENT_PROOF_B64 secret\n  3. Granted PAT scopes (secrets:write) when needed\n  4. Directed Sophia to use vault credentials, challenged assumptions on key formats\n  5. Made strategic decisions on approach throughout the debug session\n  \n  Result: Both workflows now passing. Pipeline fully operational for the first time since setup.\n- Contributor(s): Gary Teh\n- TDG Issued: 120\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAiVSeFubyZjHRMT5IkuQ5hRbCS5BMkaT7nb7ZLwuuCueXbOEs2Uj84p1T0alzESetiZ08SSN5rwOcVoSXS2Oi3LYNWigYqzNta/ctdDnKrOBJFnz7rXxU9BLWjZ6RPRNTaLwBgo9pYFwmXO3KQkHRJ/RsUJwUAQZzWlHf42G1k6plYU+xdEYv+pBO/P6GFPqcyz24SFa8tqaMKfUT/+RcGUvTlNcGSLMPc+kj7Uv9Z4yA310zT3MRfKhIJIwc6DHUxcxgtVbwUWQcgbyk03/MPFy3441R3vaLT6eFVngL98TuwiPoOaGC74uKyZKtVhdedfRD3Bs/yMJjQ4Gnfdu/fQIDAQAB\n\nRequest Transaction ID: Nxfj9GIQsDj8Gp4bKT8+bijRJdrQo18nOp6bs9UqI1n2RfU6YzX7+6eyIwXU5j66l1F3WLat2pJRmZO0h+HRHOd40/x8kt+cGHvO7FhIpoQF3LvEDUIT342xllS6KByu82Mr324dVvOreH/tf7KsMJRk/HHYnANsm8EGX7Hm6EYWziN4VYl4Yt3j8sndUE7L/xuKxEF02sO/tG4oFF56GmiG8SjJtdRVkO/nFxqv2O/CtRrCPq/ZsqwHvkSNBriLwu+/fRX3jCe8eUaPLmE6RpMGStK+7JrL0CZxjJ6F4zFIPXrEk4mhe2QTCI2O4SdldRkrNlZQyXXjIxZ09LaOwA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "120",
+  "tdgs_issued": "0",
+  "contribution_date": "20260616",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

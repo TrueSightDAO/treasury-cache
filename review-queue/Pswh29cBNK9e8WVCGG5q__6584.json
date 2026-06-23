@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.665907+00:00",
+  "scoring_hash_key": "Pswh29cBNK9e8WVCGG5q",
+  "scored_chatlogs_row": 6584,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: DTC paid-ads advisory brief for Hubert Yee (go_to_market PR #152)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/pull/152\n  \n  Details:\n  Researched and authored briefs/2026-06-05_dtc_paid_ads_brief_hubert_yee.md (+ generated shareable PDF) framing Agroverse's scope and the DTC paid-acquisition opportunity for advisory input from Hubert Yee (DAO member; performance-marketing veteran). Work included: pulling repeat-order evidence from Gmail (Shoreline WA customer, Dec 2025 + May 2026 Stripe orders ~1 bag/1.5mo consumption; The Way Home Shop zero-touch onboarding thread), Shipment Ledger Listing scope (18 managed ledgers), unit economics (USD25/200g bag with ~USD8 retailer commission as CAC headroom; new 50g chocolate bar USD10 retail / USD6 cost incl tree planting, first 40+ run sold out), single-estate vintage positioning, QR scan-to-buy + tree-update email retention loop, competitive landscape from ceremonial_cacao_seo Playwright crawls (Ora Cacao et al) and DataForSEO search volumes, and 9 specific questions on channel sequencing, budget floor, measurement stack, KPI framing, creative, entry-offer strategy, landing, process, and failure modes. PR: https://github.com/TrueSightDAO/go_to_market/pull/152 (merged).\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Tcff5J4MY5vnAUNIuSZbK90VgtAkze6LqVw2wpchIHnlFz2NEJKl7GTI2aNFg+Q3YGhfg/9/I8FZ8YeAmpDw1o7jAudrCiMk7FYnrUMm5W+o80LWCLDTdqeCKdzDzAwAZ6d6PSy/dp9vFCBiDgfu8TbWdt05IF4a6r78n6QzWPTE7x7CYP/l0qMdli0XV+dC5LFzgGLisLHHVYyZz9mL4Oyvll37f9vZy+6jKVfqH/70x8gpvESG3p+SACJNw0QYneF/CGk0Wsf4xII/D5LizH+j0bZF1A7+quByIb9QjZoly9ZjVTfjdGYeWuDr+VPtZilmC92OmsjXi+D4KSEyBA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260605",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.606456+00:00",
+  "scoring_hash_key": "doBlIKVjRK+aHAJWVEuq",
+  "scored_chatlogs_row": 6159,
+  "contributor_name": "Garyjob <garyjob@gmail.com>",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Spot-check warm-up email A/B as OPEN_FOLLOWUPS entry instead of /schedule routine\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/91\n  - https://github.com/TrueSightDAO/go_to_market/pull/74\n  \n  Details:\n  Triaged the user's /schedule request for a 2026-05-11 remote agent that would compare warm-up email open/click/reply rates pre vs post the go_to_market#74 cutover (PDF-only -> PDF + 2 packaging photos, merged 2026-04-27). Identified two hard blockers for a remote routine: (1) GitHub auth not connected for TrueSightDAO/dao_client in claude.ai cloud, and (2) credentials gap \u2014 private Hit List sheet needs google_credentials.json, Gmail reply detection needs OAuth, Edgar/Telegram have no MCP connectors. Per the user's standing memory rule (prefer OPEN_FOLLOWUPS over scattered /schedule routines), added the work as a dated follow-up entry sized to fit alongside the existing 'two_bahia_bars newsletter post-send read-out' entry. Scope: cohort split + 2-week-window time-controlled comparison + DApp Remarks row + dao_client contribution log on completion. Earliest sensible read: 2026-05-11. Shipped via agentic_ai_context PR #91.\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: pYz/70DC0V+uVoplusqve9M+f+SdmvOHzinft6c8sT0VnYTVhlIwUIEFOctWU/xABiWTiF1lIy5fnBpR5pQpVq69YWYyk//h9Y4WEBlFCQPdIEwve63NCj898TMF2BKEikyUYX2ohm3i5FFtuf8LwPgMN8jcSdWPKbHRdaqQFrTve2CJUlkI+zV/GiYOb6P3JfMVGEkOnG/YD9qHOUYxf36Vdz2EYY9vx/cyYqkFJCnoEI84jFuYoIf5h/L+kLDkEo8zmA2WRU8kY+goPVtniOIPVjn2R5KhcKKunAMxVmaR3g7UQJXpKhO7uw9ArgJEhrWUQ+HvmLAPaJBrGC3WUg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260503",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

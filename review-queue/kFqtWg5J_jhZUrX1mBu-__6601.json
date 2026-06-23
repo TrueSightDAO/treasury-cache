@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.667697+00:00",
+  "scoring_hash_key": "kFqtWg5J/jhZUrX1mBu+",
+  "scored_chatlogs_row": 6601,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: CDN purge automation + credentialing reprocess never-downgrade guard (permalink protection)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/lineage-credentials/pull/15\n  - https://github.com/TrueSightDAO/tokenomics/pull/333\n  \n  Details:\n  Shipped both parked follow-ups from the oracle-credential thread. (1) lineage-credentials build-cv-cache workflow now purges jsDelivr (the credential pages' primary CDN, 12h+ branch cache) for materially changed CV JSONs after each rebuild commit \u2014 filtered to diffs beyond the per-run generated_at timestamp line so ~750 noise purges per run don't hammer the purge API, capped 100/run; authored via API per the repo-class policy (no clone of the API-only repo). (2) Investigated the GAS Payload-JSON capture failure: the parser regex actually matches the recorded texts, but discovered a live clobber threat en route \u2014 reprocessCredentialingRow rebuilds event files from the original message and recommits, which would revert the backfilled oracle source_url permalinks to bare URLs via the 10-minute auto-backfill or the anonymous reprocess endpoint, since all 9 grounding intake rows sat PROCESSED with empty col M (armed). Mitigated immediately by filling intake col M from the original texts (auto-backfill now skips the rows), and patched the canonical GAS with fetchExistingPracticeEvent plus a never-downgrade guard (keep existing source_url when it extends the re-parse; keep existing payload when re-parse yields none). Clasp deploy of the patched GAS is staged but blocked on operator clasp login (local and box .clasprc.json tokens are empty). PRs: https://github.com/TrueSightDAO/lineage-credentials/pull/15 https://github.com/TrueSightDAO/tokenomics/pull/333\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: B06PhSsBmpS5JtizADNc8J1gf/wzVtcyyWshKCk6w4fGCKp3uLQnPjzggXI+R2t54glAAjj/518dFqkMFw2oq04LT6ffgJm2iB30V/wc4ZiiubRtjjSDb1wjM9XCxcTc2BhBP3xYWsUZdtf806IxBLXeSHzMI3mbWpu3Viivl/9NVS9bqS+xkOGGris9T0kqoNbTa1EuSwgpzaxLRY7DpTgE3zhVm2NEwJo5/CEgm1X75KxRv8v0ipG4JDX43ihEqCn3ubDGtkfGwhfAVQiQVtBwJ9xNPgeZWlhu7xgQ2xJ2aSSln50GM20w1s2tUXZAolYWf+myrayZMCXLjW/+1A==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260605",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

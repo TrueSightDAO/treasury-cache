@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.655602+00:00",
+  "scoring_hash_key": "QMybhWZkO5emYp90w1M0",
+  "scored_chatlogs_row": 6490,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Track A complete: beta.dapp.truesight.me DNS (Route53) \u2014 site live\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/222\n  \n  Details:\n  Set up the beta DApp DNS directly in Route53 (truesight.me zone Z0032474227N6EQ3Z4QU lives in the EXPLORYA AWS account, creds from truesight_autopilot/.env). Inspected the prod dapp record to mirror exactly, confirmed beta.dapp absent, then UPSERT CNAME beta.dapp.truesight.me -> truesightdao.github.io (TTL 300; change C0171027E43KCV4QPIY6) \u2014 touched no other records. Verified: resolves via public resolvers to GitHub Pages, serves HTTP 200 (HTTPS cert auto-provisioning). Track A functionally complete; roadmap tracker updated (agentic_ai_context#222).\n  \n  PR: https://github.com/TrueSightDAO/agentic_ai_context/pull/222\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: VCJY42CwrvenrxnLLG9i8iRZa8C5v/Xwaofk2zBGYB1DUh0N+iqlLWoDl/uyMxt29eRiGYkhCTLtgSyGFvy1IsA0+KySee7QEu6FtSpMxmFnrsZNldvArLrh8f5Pl+YLi2iflV+kT29oXneV0Bvg26KUASVXIZoRsyenGbF13hidqdWAiCqIP9VQwrYSwuFKxw8WvlRyrlnmTAoxFfqjjjmo0hyFF86JZvEDpgKr3piHjSXivWsIcVrkKyEVFy9SXoW9L4gSFmNBCisnvCQUhkjK7zKQ0Xn9mIPcd9f7aRnwxcp8NwgMB52+z7L7wPbaCvtHePYYFCU6Ae2IUc8bow==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260527",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

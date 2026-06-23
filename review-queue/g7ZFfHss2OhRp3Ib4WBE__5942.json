@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.580361+00:00",
+  "scoring_hash_key": "g7ZFfHss2OhRp3Ib4WBE",
+  "scored_chatlogs_row": 5942,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Correspond with AWS team\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260415201755_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: hLtVvvwGMtscLjuefFz+uCf1CvXSufH7zbswUyjebiDJRxx4tc5hIMqNnl5VumF3gx4T0MbRpiDn4l3aHFYazu/T5tA1HyK0yMk9MDGvxZatwRo6Hz325egESI6Y/Zu9dWmGm7w2rLVGeo6aPmPvEiM9HKmjh4lWW/qRvue5PyeYowKr0jPosc+P2e6JPj7HDSlJFi6dWAYOuIWTeSbXDUYgusgZuaHSBC7zDJbUhDqAa/DWA0C1JRYKioG8p3O/pbAyLzGyuzzA89bW4QUa5KQfeFt4iEa9tamYbDx8YXjjP+9TUHy8EvW9ABtvzDQCJuIbsu7detr3jEcnKX2m/w==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260415",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

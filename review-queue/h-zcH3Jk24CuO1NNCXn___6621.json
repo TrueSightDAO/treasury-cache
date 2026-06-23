@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.669814+00:00",
+  "scoring_hash_key": "h+zcH3Jk24CuO1NNCXn/",
+  "scored_chatlogs_row": 6621,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Drop abandoned HelloCash/POS invoice DAO endpoints (PR8b/c)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1088\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/345\n  \n  Details:\n  Dropped the abandoned HelloCash/POS invoice DAO endpoints from Edgar (Rails) instead of porting them.\n  \n  Per Gary (2026-06-07): the HelloCash payment/invoice flow is abandoned (Hans Martin not following up), so express_submit_contribution + link_upc are deleted, not ported to dao_protocol.\n  \n  - Verified both were called only by the dormant POS invoice integration (heierling-pos / point-of-sales-integrations create_invoice.html) and that their backing services have no other callers.\n  - Removed dao#express_submit_contribution, dao#link_upc, their routes + skip_before_action entries, the orphaned HelloCashService / Gdrive::InvoicesSheet / Gdrive::UpcBarcodeSheet, the invoice-only private helpers, and dead HelloCash config (incl. a hardcoded API token). ~1,117 lines; ruby -c clean; no specs referenced the surface.\n  - Updated the PR8 roadmap: PR8b/PR8c -> DROPPED; remaining /dao/* work = PR8a nginx ramp then PR8d delete of the 3 ported actions.\n  \n  PRs: sentiment_importer#1088, agentic_ai_context#345.\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: qt+/ONGmqtOdjtYN23HteNcqFAsJq5zMt5CPjhzs1AnPO1uSJutf5/STMXfteI9pMSkQYOajoPZUVxOIgWcmkkwK77nJRYtPAqo8jWa+rmaWLzMXp1feZPmVrmVea7Yfvt/leq+atc5W2WMbRi6jrTEUWqX2wBbXOfg70wQAl5Im1vyqInHmiy2knQ+BHaoeYeAetkR5GmnXB0cfWwvQJH9YLQYBUDR8XlUvCdTrlfcLjwTpo7qfOSGknf1+XqG8/X+5pRa60N8VWewmyLr/kKK4A3quMBLqTVA3m0dHQOmSmkegmzfe7m3V2iqyPzqtYaEKGr4Ff5cB9uaolUNylw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260607",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

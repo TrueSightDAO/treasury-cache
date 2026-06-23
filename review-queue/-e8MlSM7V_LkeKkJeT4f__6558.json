@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.663127+00:00",
+  "scoring_hash_key": "+e8MlSM7V/LkeKkJeT4f",
+  "scored_chatlogs_row": 6558,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 240\n- Description: ERA/Butterfly Effect Club \u2192 BEC tree issuance (95 trees minted + sold, end-to-end)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tokenomics/pull/329\n  - https://github.com/TrueSightDAO/tokenomics/pull/331\n  - https://github.com/TrueSightDAO/dao_protocol/pull/58\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/267\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/154\n  \n  Details:\n  Stood up the full ERA Professionals / Butterfly Effect Club tree-issuance pipeline and a reusable 'attestation \u2192 tree planting' template. Created the BEC managed ledger (sheet + Currencies row + Shipment Ledger Listing registration + treasury-cache JSON). Extended the donation-mint GAS: dynamic Currencies-tab currency validation (dropped the hardcoded allowlist), per-row landing_page override, and mint->managed-ledger accounting; deployed as admin@truesight.me and repointed the dao_protocol donation-mint webhook off the deprecated 1slQVojn script to the live 1MnAsIQA deployment. Built the link_attestations_to_trees orchestrator + mint_donation --landing-page/optional-email; minted 95 cohort tree QRs (qr_code==pk_hash, landing_page==profile_url, holder=Gary Teh) and sold them at $1 (proceeds to Gary Teh); $2 capital injection for the 2 unattested processed. Surfaced on truesight.me (/sunmint/bec redirect, sunmint.html BEC card, serialized listing refresh, /qr broken-farm-link fix). Documented the full battle-tested runbook in PROGRAM_PARTNER_ONBOARDING.md and ERA_COHORT_TREE_ISSUANCE_PLAN.md.\n- Contributor(s): Gary Teh\n- TDG Issued: 400.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: h1DtHSn3G7mD4nB3jmr/88EGo3flMWmTyvg1FltB7Uk0K28UlqDy8lh7Bzy/xas021ppAzFO13id1O2Iwq1HyGNHvWB6GsMgUvXAXoE1Zd4N97Ak5+lXm/euHDhhMwNvMx9B94/5EeYEtGKjPKovzyGShCi7SO+H/w9j3g629Yfclsh/206UbgbFC0QnFDAl+7T9niXYOSrv5acPT3sJwQ85wZ2mBUORjTKQMz9sszR3eqbIRTwZNWAlb/MyZfFWgHcbk7z83SrbgTv/69vJvjH3AzWFjdW5YtyStm40Nrf8TGNWLNngsy6Zgf/xDEtEdaCuWfIVKhKSLEeVtk7pAw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "400",
+  "tdgs_issued": "0",
+  "contribution_date": "20260602",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

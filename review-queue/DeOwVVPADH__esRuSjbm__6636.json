@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.671489+00:00",
+  "scoring_hash_key": "DeOwVVPADH//esRuSjbm",
+  "scored_chatlogs_row": 6636,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Fix handoff pipeline: corrected protocol doc + posted in-Telegram go for thread 3\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/369\n  \n  Details:\n  Diagnosed why a ping_sophia handoff didn't reach the Telegram-facing Sophia: ping_sophia POSTs to the HTTP /chat-blocking endpoint, which returns the reply to the caller and does NOT post into Telegram or share session memory with the Telegram-side Sophia \u2014 so a handoff to a pre-existing thread (3) was answered over HTTP but invisible in Telegram (governor saw 'no handoff'). Fixes: (1) Corrected SOPHIA_HANDOFFS.md (agentic_ai_context PR #369) \u2014 removed the false 'session_id bridges to the Telegram topic' claim; codified that the durable handoff is the committed plan + registry, and the ping is a TRIGGER that must instruct Sophia to create the topic if none exists, POST the kickoff+context INTO the Telegram topic, reply with the thread_id, and wait there, so the governor always finds her ready with context. (2) Posted a governor go-ahead with full context into Telegram thread 3 via the bot API (message 1690) authorizing Sophia to begin Issue 1. Flagged an incidental short-lived Google access-token print from sourcing the box .env; will grep single vars going forward.\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: CvkrW//xEiaLXYfcHUo3J4cFa/Z+5VOLWfoq0o10/GTnCZbjBitVFe00Y0ia06vhz1s35p7CSAhw0Ht0eEWel4qHdSzyjL+QlG4cVANmsE9hP6QVdyf6vIq6nEbvjo3pVIDmwSnOmB1F+tmflsGb1QKHp9RVHNoZOwwWFWt7SQ1LDDey2lJq1SR5/MxzfSJp5hOsByuc+411k/eyy3f1lrmOZeupbLs0aGTo+30M59Re8RAIeWkEY4D4FymaUZzJJC8bl1X8pk/fLFiIN9ku/BLhLV/fR+0yhNmpZNJna4S7e9Jy0fsWYugAZtt527F+uNFJguglsIbypkngVOYtfQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260608",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

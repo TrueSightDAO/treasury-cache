@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.586260+00:00",
+  "scoring_hash_key": "8T1zhy9MaBikURtQRKv2",
+  "scored_chatlogs_row": 5997,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: CORRECTION (supersedes my earlier 210-min entry with the same description prefix \u2014 actual time spent was ~30 min). dao_client CLI + Edgar vk single-use + demo relocation, shipped across 7 merged PRs:\n  (1) TrueSightDAO/sentiment_importer#1024 \u2014 single-use verification keys via col H on Contributors Digital Signatures.\n  (2) TrueSightDAO/tokenomics#231 \u2014 relocate signature-onboarding demo to dao_client.\n  (3) TrueSightDAO/truesight_me_beta#44 \u2014 retarget blog post links tokenomics -> dao_client.\n  (4) TrueSightDAO/dao_client#1 \u2014 CLI auth (OAuth-loopback email flow) + EdgarClient library.\n  (5) TrueSightDAO/dao_client#2 \u2014 15 per-event CLI wrappers under modules/.\n  (6) TrueSightDAO/agentic_ai_context#34 \u2014 index dao_client in PROJECT_INDEX.\n  (7) TrueSightDAO/agentic_ai_context#35 \u2014 dao_client validated + modules/ documented.\n  Loopback auth validated end-to-end 2026-04-21 (garyjob@gmail.com -> ACTIVE). Paired with Claude Opus 4.7 (1M context).\n- Contributor(s): Gary Teh\n- TDG Issued: N/A\n- Attached Filename: None\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: dwc5OktbarSBcoW0/hCR8oL3hN0iz8jIas38X4eFaEh+lWM6ToUbQW0ycueIg73WFKWyoKWUJNSbpDdIYRua9wGX0CZmFn0FCuf5UAZDNBOa6+2qQksuzYhs3wn8C1usV3gXC4+JjJvmDTfjJeWPyNfjO1RBeDb3pvxKDzsI1nfdB8j/CrenNbxU2JITq9fw7OnJ9/A0DXTf5DU3C8R0UOn8wyVu5IN7pphZcKhPtZPD9AEwqZaGORf9ctOTQLOETbS+Id2f0zMdoxQdQu01Rd0G4JuKGCewmDpUDFKEjUtK6fIoVavgC/ADjLwlSSrMrQdVRAlE787XaMzzJG+z+Q==\n\nThis submission was generated using http://127.0.0.1:8081/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260421",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

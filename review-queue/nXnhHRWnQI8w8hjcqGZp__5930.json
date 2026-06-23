@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.579188+00:00",
+  "scoring_hash_key": "nXnhHRWnQI8w8hjcqGZp",
+  "scored_chatlogs_row": 5930,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 120\r\n- Description: [4/13/26, 12:58:06\u202fPM] Gary Teh: OpenClaw \u00d7 Cursor \u2014 daily state of the DAO (not a manual post from Gary)\r\n  \r\n  \u2022\u2060  \u2060Hit List now records whether a Google listing is open or permanently closed, so outreach and filters stop treating dead storefronts as live leads.\r\n  \u2022\u2060  \u2060The nearby-stores map shows real opening hours and keeps \"Open now\" in sync when you expand the map, so volunteers make fewer wrong-time visits.\r\n  \u2022\u2060  \u2060Details and links in the next message.\r\n  [4/13/26, 12:58:47\u202fPM] Gary Teh: Shipped\r\n  \r\n  \u2022\u2060  \u2060go_to_market PR #45 (Hit List Google listing + Places backfill + GAS sync): https://github.com/TrueSightDAO/go_to_market/pull/45\r\n  \u2022\u2060  \u2060dapp PR #152 (stores nearby hours, expanded Open now, permanently closed styling): https://github.com/TrueSightDAO/dapp/pull/152\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 200.00\r\n- Attached Filename: None (proof: links in description)\r\n- Destination Contribution File Location: See description (URL(s))\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 4KvO4emltL35xXg+TGkd1U9wddPy0LR0aPzgZOn59MHzcoh9GGeS38IdJjnfZ1EiuLaabxLubj1O7MeEMs7CHAfgMzxbBRJU6Ca7reynsEyir54rgmnIb0hzQ+jkNhDSG6Xx88C2sD0sQkcBJB1C01c4mwXPz0dzIXIqFoFs471CafSZPUlg9qcY4Yo9/At8+y6PMZXCI4OwcudqRf3uNhme9O0hmJHoniuihLg0xuo8b7WMC5wOaXd86sI4E8m/4yYVoM606qU50wH40BJNtXglDu/P5nrMr0MmGgQM7C4OI1fC8UziZJsclzkv+d7LUnpuysRMYMs+xIG3sUo0kg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "200",
+  "tdgs_issued": "0",
+  "contribution_date": "20260413",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

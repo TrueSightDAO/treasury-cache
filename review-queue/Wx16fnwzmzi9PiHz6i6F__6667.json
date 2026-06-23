@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.675302+00:00",
+  "scoring_hash_key": "Wx16fnwzmzi9PiHz6i6F",
+  "scored_chatlogs_row": 6667,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 0.83\r\n- Description: Receipt for printing event placard for tomorrow\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 0.83\r\n- Attached Filename: Receipt SQLKKBYW6507.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260612011445_gary_teh_receipt_sqlkkbyw6507.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: nnSIkj//0wAl5EwlC7Sb8wr0ctbPpBa7ywcIs+V3iTdL/oA7F/YHVLKxBYQJJDcI2a85ujHl6svT8MTcjkVBhfQb4aCnqlHSPhQEOkgtnMcwepRVKGG1Frady+AZ5L3wtAtkj+5NGdaJU2p4ZutO0jC1fDbE+xhwX6+woEip7e/8lg8yK+HZXwRg09qt/Hbw7EuwHL+RH21w8Sz8RXg7hk9TWPQWUV2su+z6LYQ0tYmKur4Ls6PyzTJiP4ItmWpN7sC9AESPVcNthaatE0FLqSZPc33h9mtdGuvyiQyVn/7dG25FWjZTMlRYiLcKKvo0J4eDU+Xoq3/EmQv9VnUktw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "0.83",
+  "tdgs_issued": "0",
+  "contribution_date": "20260612",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

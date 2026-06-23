@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.668819+00:00",
+  "scoring_hash_key": "ezYIb6+zFznp/Yp3Xvxw",
+  "scored_chatlogs_row": 6612,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Activated Telegram attention watchdog + coordinated sophia upgrade with parallel agent session\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/327\n  \n  Details:\n  Operator completed the one-time MTProto activation of the Telegram attention watchdog: diagnosed the my.telegram.org code-delivery stall (codes arrive only in the in-app Telegram service chat and repeated requests silently rate-limit), obtained api_id/api_hash on a clean retry, performed the interactive Telethon login on the sophia EC2 box, and brought the truesight-autopilot-watchdog unit live (verified in journal: watchdog up as garyjob). Unanswered question-shaped Telegram DMs and mentions now nudge his Saved Messages on a 4h/2h SLA with a daily digest \u2014 closing the coordination failure mode that cancelled the June 12 cacao serving. Also coordinated the concurrent sophia hardware upgrade with the parallel agent session handling it: conveyed the AMI blue/green strategy decision (periodic AMI backups, spin replacement instance, repoint Elastic IP, retire old box) and the session-safety constraints documented in CONTEXT_UPDATES. Backlog entry closed in OPEN_FOLLOWUPS. Build-phase PRs were logged in earlier contribution entries; this entry covers the activation and coordination work only.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: D2f900+XoSDYtcZ1V7a/nDspB20+msS2QF1IeMwMDm4xANdOkQRczaSwbNBag4qLgKOf6Xi+5W5/pzGIYe7yNyOxiNS3MOKB8AontINDZnY2eTrQWiuRQOvI1CwhK7T3lNbAdQ05FYpFVhXlu6QJPzvdWre/lO/7PaTDWPxRl7JmVVNkEUenfht6cIFMyPbutkHpcu9gAl2Doi5+7AVXQSwN/Q6QPob8n3aMbtMPODAmJcG1mCYe9A+skdxKgGEQDVo8oFksKpaVXI7p04faIyXq4ecP2MreLYpOOU5Za9i8eT5HinJdtknX2U4oyU4HC4SBJ9jd2K1qmTAerM6taA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260606",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

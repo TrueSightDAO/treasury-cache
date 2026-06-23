@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.580560+00:00",
+  "scoring_hash_key": "QMFJepbTixaTSZyomlaM",
+  "scored_chatlogs_row": 5944,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 15\r\n- Description: Coordinating purchase of 100 kilogram from Coopercabruca\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 25.00\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260416231406_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvAPB5S11ORBm47JeoimSjK8xPxcEaTjEq8qLaWr7zNQ0DZoDnoBUEENtAI9/8QGeATiIxSI7yK8nPErTif0o+LJ8QH7WsmN6JQzcQ2AlGZVnU+0JZArJSm7XLeAkY3+A9UB/3/A1tB7KwGw5tPl+4NMFVRJbLs5jGZAiOCt3cX3FM1+vN2kgT0TyF1SMPLzkaI5dxLrhGxzKjHNBHqrqkHm4BVUAG994v0uZ1FwEWHXP4XMoPryV75TL2THX4EAGpHov++jBKMqM7Q8IctNW75goF7Mxi7JZWnEJ4WP7XJ1wkUz4aleyKFn4Oq9jT67/jV1guIqRDTPZp8LAWM9+zwIDAQAB\r\n\r\nRequest Transaction ID: WJq+dFzAnvvx+YN5nsme6uIkTZFB0qlyKbTf26207ftGiY9XREzPe6zBMF4OdQRCHYTnLCAakZre+5TqdUwNFzZyfIBJoatfLTtvW7Tb+4mlu+ARC6dDi3rmlzTUDz/pR1RTcu+OSjah3qyrr+XyYx/7rTdwWTZrrzAZyCXmPOpshwTkaPO3+xDJJffxs6OlfENjzRhq9ituZcZubNmIibl2G47RTJWX6omk3NLLhkxHnX37vT3LQP9tjKie3lctrcMt4Vm8cbGFAiQsmCMDMj5C/0TthrSqsvKAAHi9BY18l/bj/h6EiaLLXA3vpF6zMrMCOoPx1A6Db5+Ov06bpw==\r\n\r\nThis submission was generated using http://localhost:8001/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260416",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

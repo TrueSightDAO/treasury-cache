@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.651108+00:00",
+  "scoring_hash_key": "BBO8ChkR5pAoKtEiBDNp",
+  "scored_chatlogs_row": 6447,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Deploy QR-scan newsletter opt-in to production + fix QR web-service deploy/editor URLs\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tokenomics/pull/310\n  \n  Details:\n  Traced the live AGL QR-scan email-link to its real project (1y6JVYwq, deployment AKfycbxig \u2014 not the deprecated 1slQVojn nor the consolidated 1MnAsIQ), applied the newsletter opt-in (subscribe=true -> append to Agroverse News Letter Subscribers, Source=qr:<code>) to the correct source (web_app.gs), clasp push + redeployed AKfycbxig @23 (URL unchanged), and verified end-to-end (subscribed:true + row appended, test row cleaned up). Then fixed the root-cause documentation: corrected stale/missing Apps Script editor + deployment URLs in web_app.gs, qr_code_web_service.gs, process_donation_mint_telegram_logs.gs; added an Agroverse QR HTTP services deployment map to clasp_mirrors/PROJECT_INDEX.md; and synced the (previously untracked/stale) git web_app.gs to the deployed code. clasp authed as garyjob@agroverse.shop.\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: m/b8D8jVa8P/p5BkfFZSB3ilOwXZon/Xp7u3U09gkJMAAa7LxyTSNO2L670xVxXwNueMlB6LKnEP0tPtbG3jpTOttF3Y/QyCAqmwfqOM8PnN81MiDUI1okyg3mhBRMlF1Tjifmzw7InClhYPAo/go0vCuYcp7fj9FAMM1HzI3swGBc4RXfy/LQcP/U7KOm5uAfl1DPPmNpA0HdyBcD3m3nz8tKZgQRONgINkzbYd70FLZZ0Cdhbq4qLzoilqAznh5UX7BBhtcCBL5Vk490zdMFTK3ibonJdLIFxclSBi4/aYfNa/ZVIwRD8EO8bT0ycQNd8Hby/dg8JeH/N0K68IWw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260525",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

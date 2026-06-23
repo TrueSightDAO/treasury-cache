@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.673784+00:00",
+  "scoring_hash_key": "hf/xk+DmhxPhPjS3oI4+",
+  "scored_chatlogs_row": 6654,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 5\r\n- Description: Responding to Cory\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 8.33\r\n- Attached Filename: Quick Call to discuss AWS stuff?.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260610022422_gary_teh_quick_call_to_discuss_aws_stuff_.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: t7iDk9NcF3wmxdQraLVyeML/Hlwfjf7EIxWE9/mgAGO5FOkiNDiiqzYdMFRk3VAsY/w2/C7em2znzhPskmRRcJ718p7iymhEuEXkbeWwzSTTHnNLWDxh2Vhf/tUY2a2stHHO2B93Uucrz/MxOtsz1nunIwaIQs6Q5zBCopv2UNkYHwvu66E8a9nVa7/s6RBo/OIQkFrzTk8A2kvuWaOhUmt6qvnJMjIDw79ImydCnWwUmpzB7N7l1g4VBqJ4J9+SaXBouP0qp/Ubdb+Z7NkGb0JfTriQZ6yEnRnlDpPQDkLQe6RS2vgv7ETAh3hOhEBp+cl8X3+jqZqeuIBn4h9yTQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "8.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260610",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

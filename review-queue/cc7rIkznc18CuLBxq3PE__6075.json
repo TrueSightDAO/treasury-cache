@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.596036+00:00",
+  "scoring_hash_key": "cc7rIkznc18CuLBxq3PE",
+  "scored_chatlogs_row": 6075,
+  "contributor_name": "Garyjob <garyjob@gmail.com>",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: WIP: retail field report attachment pipeline\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1039\n  \n  Details:\n  Work in progress: merged Edgar parser/thread-safety fix and pushed Store Interaction History read-path normalization for Stores Visits Field Reports. Investigating why attachment URLs can appear in sheet rows while GitHub binary upload may still fail. Next steps: redeploy GAS web app and validate Edgar upload logs end-to-end.\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Aw1KzBT9lojQ6GCb3Azgg+JyRVhfDm6opKcuQ5wWHDpIzUpFuCC39tlUfY3qJpJD+h1czUCa1M7GnI90C0Y6keo/FPsI0/Llo6oNzA8IelDEuIeI9dTf1HCtbNAFCrIOQqfu1mP2ONrmY9ZJPWgx8Sw61q3xpgVWgHlfZ/gV+6AmO4Kg9jdSHnDlTkZm1pSjQM4loJd0TLXD3GGAbkmL0Go56wuhdyOP4EeA5BrS975NiBKe+WFnr2romGJ1jA9rKbc9zyIGDfRBwK/yVQP4sNvyosH5P9Rno1iobrMT+eeMFb6BaW/JWM6vfwp45YQkx5rpD3mEU3uH1kP+mo+mcA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260426",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

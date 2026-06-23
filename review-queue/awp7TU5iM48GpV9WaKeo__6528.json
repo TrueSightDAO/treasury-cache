@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.659989+00:00",
+  "scoring_hash_key": "awp7TU5iM48GpV9WaKeo",
+  "scored_chatlogs_row": 6528,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Whitepaper currency audit: refresh snapshot + draft 2024-2026 amendments\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/246\n  \n  Details:\n  Assessed whether the main whitepaper (truesight.me/whitepaper) is current given recent ecosystem changes. Pulled the live ~35KB Google Doc (the repo snapshot was the stale 1.7KB Feb-6 stub) and audited it: directionally intact (mission, values, metagame, guild lifecycle, 100 TDG/hr + 1 TDG/USD rates, governor cadence) but its amendments log ends Nov 2023 and the operational layer has diverged. Deliverables: (1) refreshed WHITEPAPER_SNAPSHOT.md to live content with a provenance header; (2) added proposal_drafts/WHITEPAPER_AMENDMENTS_2024-2026_DRAFT.md, a Town-Hall-ready redline (marked DRAFT, not ratified) covering signed-event/DApp/Edgar contribution intake, AI agents as contributors, Telegram-primary + archive-only Beer Hall, off-chain ledger + public transparency surfaces (on-chain deferred), managed ledgers/multi-currency/AGL syndicates, and new initiatives; plus a needs-a-decision section and an explicit not-changed list. Did NOT edit the governance-owned Google Doc.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: hSYAI8JZt27E5iMKx9322CzPPdf5xHqAjPBnaPE8NGpNcY8wE7tEVHqNPX5DFGAS7lbTqTjiDL+KOB52xYnwLSKDYibVrip1yVt0S+BgRHo3zktHsNGCiJDmB8g3RtGTRbLH0PuQgMa3nLmB7Hyn51kJh2E8cLofQBZn3OBqWt7yOhPQ82HNmkcgZunOZJM6U+ZPO60DGVtHrFzWtZriYXD7aQcL3ruk92J7xSPcU5OruYo23O9examgnJ/m0TQtEWSLyI6jplUd3njpgbvUgEdUPPBHL6DvwpszQxQ6+yrDawxiQ+LeTbEkp3LseMoOhchAcaHZIAVOFdoaBIt21Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260529",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

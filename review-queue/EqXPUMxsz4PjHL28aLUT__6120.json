@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.602020+00:00",
+  "scoring_hash_key": "EqXPUMxsz4PjHL28aLUT",
+  "scored_chatlogs_row": 6120,
+  "contributor_name": "Garyjob <garyjob@gmail.com>",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Stanford Farm cash sales + GAS fix + docs for future AIs\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/83\n  - https://github.com/TrueSightDAO/dao_client/pull/15\n  - https://github.com/TrueSightDAO/tokenomics/pull/258\n  \n  Details:\n  ## What\n  Sold 7 serialized QR-coded cacao bags to Will Chen at Stanford Farm, fixed a GAS log-noise bug, and documented three critical patterns for future AIs.\n  \n  ## Changes\n  - **7 [SALES EVENT] submissions**: Will Chen bought 6 ceremonial cacao + 1 nibs bag for 5 cash each (will.chen85@gmail.com)\n  - **GAS fix**: updateStripeCheckoutMetadata now validates cs_(live|test)_ prefix before searching Stripe checkout sheet \u2014 cash/manual sales skipped silently instead of logging errors\n  - **agentic_ai_context docs**: cash sale pattern (Stripe Session ID = (none)), ledger assignment \u2260 physical possession, downstream auto-depletion chain\n  - **dao_client template**: bulk_qr_sales_template.py updated with cash sale hints\n  \n  ## GitHub\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/83\n  - https://github.com/TrueSightDAO/dao_client/pull/15\n  - https://github.com/TrueSightDAO/tokenomics/pull/258\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: aigYH5jNiU/ZhWkAzmzq2WnmE2orWtWTh7lK/IAWgCegYGPues24UowtmTtfb1L7Yu4LuzWfWsotqGQMjF8K8PHLPh9ZCotjFR4qkLMlx4mPD3uJVPoMml5NVxRQ3BRXynIRY+mcWdm/wUoKy8AcftxkZfY+lcRhGgY2EOiBiUkjsCl/pyHOr142lhMw+0RWK42G6Is4ORumdV/iRdSxc/r6zYle2tVowh6LBzEV1h+9g0FiTrRHrgV4k7w4cM5ABXiWiq1320LZSP2oR+LOYLaq+uQ02nXWp1alfpFVwNAZ9LJnbujGA00s+hsmetmqXxtjTprtz2vvhM2BeT4DOQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260430",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

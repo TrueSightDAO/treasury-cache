@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.586544+00:00",
+  "scoring_hash_key": "ptWahPvG2lJqf0kxtCZS",
+  "scored_chatlogs_row": 6000,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: China GFW workaround for DApp:\n    - dapp #165: client-side probe in routes.js auto-detects when script.google.com is blocked and flips Routes.gas.* to route through Edgar. https://github.com/TrueSightDAO/dapp/pull/165\n    - sentiment_importer #1025: GET /proxy/gas/:name allowlist-backed passthrough on edgar.truesight.me with byte-identical response. https://github.com/TrueSightDAO/sentiment_importer/pull/1025\n    - dapp #167: Playwright smoke suite covers every page in both direct + proxy modes; 13/13 green against live Edgar proxy. https://github.com/TrueSightDAO/dapp/pull/167\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: None (proof: links in description)\n- Destination Contribution File Location: See description (URL(s))\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: XujSzPvucjjwyK69oF0VCsHbkOMIVbgpzvcl4EZpuqYNFAXAdpTcoXmlElNTQtTWn57mS9cE1ery0t/wAtmr/mhDRpki0gNDJzDBvkFbYgNt6bVXGeHe0R/rfn134fuvngP4RMVuZ6PdDfqVolU7B17O1MeIKfkzH3xIlxqpWf9ZA1tfWF9ecVbyhOfJg9G6ForptoTJuXgWUEiz+ujEYwsPLjKAgY86HprnVLjzc0gHkcii1Xw/Rt8NHfbO3pp7e0K0rukyz6DgGXsMyIU7jzbbfOnDuYAnVVSTNnY/GS8hH5yZfn5hKfJiHeBaTCJ0YMwHQUSlGDwQrUnf4LeRVQ==\n\nThis submission was generated using http://127.0.0.1:8081/report_contribution.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260421",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

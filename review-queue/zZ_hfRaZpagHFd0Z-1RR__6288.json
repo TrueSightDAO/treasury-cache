@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.621401+00:00",
+  "scoring_hash_key": "zZ/hfRaZpagHFd0Z+1RR",
+  "scored_chatlogs_row": 6288,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Fix beer hall digest: migrate Anthropic Claude \u2192 BigModel GLM-4.6 + regenerate missing feed\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/pull/119\n  \n  Details:\n  Diagnosed and fixed broken beer hall daily digest:\n  - Root cause: Anthropic API credits depleted (step 2 of 3-step pipeline)\n  - Migrated draft_beer_hall_digest.py: anthropic SDK \u2192 openai SDK, BIGMODEL_CN_API, glm-4.6\n  - Updated beer-hall-digest-daily.yml workflow secret + pip install\n  - Ran pipeline locally to generate missing May 11 digest\n  - Regenerated ecosystem_change_logs feed from all entries (was missing May 1-10 due to rebase conflict)\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: JMiKO+C77rClqJnXWprb0z5A12dIkQXpQkNfysLBCISkquokjMLPc5gUXbt2Sq9epDJzgrRdxitP1n7NsHX4H3g15KXN6qJzF4V3JDHCxGwNKDvSJv4MTR9TTswL5aGpWzRlVstdy68x+ESk9Cwv3h3c0Gt55uCdfMeLIaglKr/LgLcrwSgTz/LNl1Hew2eEvBJsLfhVrGLeP7l+4FEPFkFn00VaZGLUxhFe95k5ZfOo29w48LFQzrjZpr7D6eTqH0eJpFwurhJ6XK8t8M+gs5cNN7p8zJuAhuMKTfTfOBfPWfhLt2xfeQ21eAWecuN0xjOpNWi1i2tqI3YnVza4hQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260511",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

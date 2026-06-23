@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.622111+00:00",
+  "scoring_hash_key": "mY7LBadc2IrJyMpOTOJe",
+  "scored_chatlogs_row": 6294,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Resolve stale tokenomics PR #278 via clean cherry-pick (#279)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tokenomics/pull/279\n  \n  Details:\n  Resolve stale tokenomics PR #278 \u2014 cherry-pick clean SCHEMA col J fix\n  \n  PR #278 (\"ai/restock addresses ...\") was in DIRTY/CONFLICTING state. Inspection\n  showed it had branched off an old main (merge-base 2fcfa8d, the Shipment Ledger\n  Listing col A docs commit) and accumulated 7 commits \u2014 six of which were\n  duplicates of work that subsequently landed on main via PRs #271\u2013#277 under\n  different SHAs (snapshot_managed_ledgers.py, routeStripeCheckoutPurchasesToLedgers,\n  Asset Receipts dedup, currency conversion, etc.). The diff against current main\n  showed PR #278 would have **deleted** 84 lines of snapshot_managed_ledgers.py,\n  149 lines of currency_conversion_processing.gs, and 77 lines of\n  CURRENCY_CONVERSION_IMPLEMENTATION.md \u2014 reverting real recent work.\n  \n  The only genuinely new commit on the branch was b551262 \u2014 a 1-line SCHEMA.md\n  addition documenting Agroverse Partners column J 'address' as the canonical\n  ship-to for the Restock Recommender (Shipping Planner API parses into\n  street1/city/state/zip/country; falls back to legacy 'Partner addresses' sheet).\n  \n  Resolution: cherry-picked b551262 onto a fresh branch off current main, opened\n  TrueSightDAO/tokenomics#279, squash-merged it, and closed #278 with an\n  explanatory comment pointing at #279. No reversion of unrelated work, clean\n  history.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: hzclB/O0CqW503V3WIojjaRQZBE3/KzkiqHW6OHshA+itIsGxFzXLUMDMy2YAXhhdX61kmnsFtAzdCSMjXoBmcVbx9kDi++LCs4aMh9fz12BwsPBEZxFJ6z8YYHemqRx5C16deyv1pxl4SFjMNJnxjtJ7h8MH71c+mbbrtUYskzpoNP4fZQ+zOwfjBfK5u9Xoab3uxummf6hes0xfYuLIvC5xvGojiLuUjHC5azWOjF1fcpIql2o+WubPhH8p0icDYqfvYutGbVW9NBfZS/TVDL2hQ97UMSixQ0ryvIJyXHzKqSXTCpSJzDfVhWT7rbjzYFWKgSILGKc+e3OQH6fJA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260511",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

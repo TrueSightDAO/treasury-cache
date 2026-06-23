@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.604567+00:00",
+  "scoring_hash_key": "Cu9ELB7hbUJ/A6YEcFz+",
+  "scored_chatlogs_row": 6141,
+  "contributor_name": "AGL15",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 372.80\r\n- Description: Utilization of Google Places API for prospects information instead of driving around for the month of April\r\n- Contributor(s): AGL15\r\n- TDG Issued: 372.80\r\n- Attached Filename: google_places_api_cost.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260502045057_gary_teh_google_places_api_cost.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Yv7WhebVAr9o7X/IsLMYBlC3Oi2tR5HMT2wHuQfdQZnAVjA58tsFLkgRFGL05kaU2rm9M4GU/qXSm3XdYWeZObM4STBDm+D3+FGYC1CUuVhb+4HIWQYqxL5YBMwnLfBcxtTe2kuSL/k4JhhCSSQz8ZAU5RaY/B6/qI0HxcGA8UncGrP+n6uWJ9jW0NEOEUFMSNvIdCd0tj5BoyiDxIKLrFr8vh1PHcGAP1iKsXZiB29jWJRc0M79jYY2vOb7T1idi8AFcerFcfd50dXktU9koZ3d7uunzkDUf5C9XjKw28aJP6HN58E3J3s18KTkSWlJRMD1TFzquu4RSZ7rKuemCA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "372.8",
+  "tdgs_issued": "0",
+  "contribution_date": "20260502",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.605542+00:00",
+  "scoring_hash_key": "Wr0luFD1pu8zaEDOpuub",
+  "scored_chatlogs_row": 6150,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Diagnosed why Email Agent Follow Up Open/Click columns stayed at 0 despite recipients opening emails. Traced full data flow: draft creation \u2192 tracking pixel \u2192 Edgar \u2192 Google Sheets. Discovered Edgar service account (edgar-dapp-listener@get-data-io.iam.gserviceaccount.com) lacked Editor access to Hit List spreadsheet. Simulated live tracking pixel call against gmail_message_id 19de53b44da81d4f; confirmed Drafts Open incremented from 0\u21921 after permission fix. Documented the architectural distinction in HIT_LIST_CREDENTIALS.md: Email Agent Drafts = live engagement source (canonical for LLM tuning), Email Agent Follow Up = frozen send-time snapshot (useful for cadence only). Cross-referenced in agentic_ai_context/WORKSPACE_CONTEXT.md. go_to_market#98, agentic_ai_context#84.\n- Contributor(s): Kimi, Gary Teh\n- TDG Issued: 50\n- Destination Contribution File Location: go_to_market#98\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: eSavZIW8BfMRKaRyLX9vvQWPWOAvMrrhMVDlvClKnLFuS3+R2jlaLA5IA+Jp5T/Ugx3MFa7GOLBQbGD3rqgsMAnVEdvRke+HasO+weM5Ij1lwtI3epGNYtHH9Nq9qITzne4ih3lE7wGNTaSE2Vmqy5pSQB9kGTGvc6C1vs7U5zdeiHVWHEcD0FdkzSpOJJcGSmMfO8Rxv/01y3g1cM7RcUOS2kNsBOLV5cQTZRVwxXh69o5M47I05vIx8pkhIfpeBv2lMnTrLVJ/GdVWUitJK3ILNpC4VKBsqGJSQN4le0eockXBSFm2SMgITnqK6WeXRKOE2hSGQw32l0lyrwpoRg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260502",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

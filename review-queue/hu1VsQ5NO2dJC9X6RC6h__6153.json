@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.605836+00:00",
+  "scoring_hash_key": "hu1VsQ5NO2dJC9X6RC6h",
+  "scored_chatlogs_row": 6153,
+  "contributor_name": "Garyjob <garyjob@gmail.com>",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Bootstrap places-cache from existing Hit List sheet data\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/pull/103\n  \n  Details:\n  Per Gary 2026-05-03: 'if existing records on the Hit List are considered complete, why not just cache them already on Github?' New scripts/bootstrap_places_cache_from_hit_list.py walks the Hit List (669 rows), extracts the place_id from Notes, synthesizes a Place Details cache record from the sheet's columns (Shop Name \u2192 name, Address+City+State \u2192 formatted_address, Phone \u2192 formatted_phone_number, Website \u2192 website, Lat/Lng \u2192 geometry.location, per-day Open/Close \u2192 opening_hours.weekday_text), and writes to TrueSightDAO/places-cache via Contents API. fields_requested set to only what was synthesized so consumers needing other fields correctly cache-miss + refetch. Idempotent \u2014 uses GitHub Trees API to list already-cached place_ids once at start; skips them. --force overrides; --dry-run available. Smoke-tested via --dry-run --limit 5: 5 rows synthesized cleanly with 5-7 fields each. Estimated effect on full run: ~665 cache records created in ~30-60s. Future cron ticks see only cache hits (zero live API calls) for known places.\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: k3YJH0SJYGwIwHUOVAZrbKvpAR0DXNnSSbtirV46fTVuS8fddD4a+nRjbk0RD7sFyOWLDF3vk7YsWst7VjB3iLK1SCJA8TnoZ4xD4yK4VLzMpxTYKuriwLYuDMhXHZRj3j1CpJGKGa1j0SqLkjzJus5CQa3ow4AzjgpYjrkfMsjZDYwIT6rsXgQeCuajQ+keGJ3g1RML8KDriiUBIiO3TdQ+7nnMPU5np3yvMbA+XYqYOQ4vGRyMKMG7RvBpiMhrKIDhf6ilsmtIQCOYmlUGeGre0IL+8Eaabpcwcf35FI1vDbEciqiHZgIr0WgJzklIXlH07ozfIudHhdYsjoq8Qw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260503",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

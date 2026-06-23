@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.686704+00:00",
+  "scoring_hash_key": "CmaKRJxVJ80akiHy39mO",
+  "scored_chatlogs_row": 6774,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Scoring Review Queue: verify handoff + unblock PR4 (GAS review write-back) for deploy\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/608\n  - https://github.com/TrueSightDAO/tokenomics/pull/368\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/612\n  \n  Details:\n  Audited the Scoring Review Queue handoff against live code. Found the manifest's 'PR7 done / RESUME HERE = PR8' was not credible: PR4 (GAS processApprovalRejections write-back in the 1BHAGZd Grok project) was undeployed (live /exec probe returned 'No valid action specified'). Corrected the handoff (agentic_ai_context #608). PR4 handler then merged (tokenomics #367) but introduced a duplicate-doGet collision that would fail clasp push; fixed it in tokenomics #368 (deleted orphan Code.js, unified doGet, added idempotent installReviewProcessingTrigger 15-min safety-net cron; verified one doGet / zero duplicate functions / node --check clean). Updated the plan resume tracker + manifest to RESUME HERE = PR4-DEPLOY operator gate (agentic_ai_context #612). Debunked the 'add a cron to the transfer script' idea \u2014 processAllReviewedRows() already batches.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: kwfVbMae0h5Pb30G2QM0zGF+g/4PM0yn/9CwnVbmUNhSahKmgmatjV4kccrNCq+FOqxYsUdbkO+5lqs1ab3aLml6ultPdxyAv/F/d98Suwzo/qa1NfgWfypBu1UadbaQq9r5MDlYCP0FBRzYoW8+RJQfwGhgg/aOwaCtSnHpe7q8tUdmHbVW0eMkOlMLarycdMdTo+4PNnRhMIEDEAr8F0xd07RYM1PAP/ZhEfACrUWNRo7vqrhLUKzr0exSSR6PCc14HaliH02soNwrg2rU4jY2nBPjYRGg83eVoVM34clzww49+8wjV04pxZFIL4sxYNgtK/8Rm6n5zhbqlO1+0w==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260622",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

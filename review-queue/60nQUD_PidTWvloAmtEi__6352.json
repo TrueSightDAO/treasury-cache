@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.628535+00:00",
+  "scoring_hash_key": "60nQUD/PidTWvloAmtEi",
+  "scored_chatlogs_row": 6352,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 5\r\n- Description: Kimi API credits.\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 5.00\r\n- Attached Filename: Receipt-2602-3374.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260515220719_gary_teh_receipt_2602_3374.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: swr27qaLQaH8L5fs4R9JYsQXnC8GG000Okenm+WgJ9yXspIEtIhv8GuDcGTUf0I1N9kUVQpQtptoa+pb3UkpJslMeFFG1Iy7dAJDf+JX/pgZmOHt73A67jxCtuL/HWzLq2wTY/xG0UVeYo+M52O4g+s+fJpHkzXn9h0P1FseBx61zqNJUhwTdEoVHhBpdKEX/AVVqWwHB0/82+Oo+W7cFkSVWH+KwL9k9sh4Oub4VBAvTQA5Wre7zsO+k8SI77szwV2kye50zBHUtC9fe7QDEK6lGLy/laAubUKW9X72GX8rnBVzhElzx5SHFRHQN8viPLj0baO5pkV8V5mJJWHrLw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "5",
+  "tdgs_issued": "0",
+  "contribution_date": "20260515",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

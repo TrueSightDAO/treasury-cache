@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.666109+00:00",
+  "scoring_hash_key": "3tLYjFX91mRonm7fDTFf",
+  "scored_chatlogs_row": 6586,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Hubert Yee DTC paid-ads brief \u2014 iteration rounds + final PDF (go_to_market PRs #153-#155)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/pull/153\n  - https://github.com/TrueSightDAO/go_to_market/pull/154\n  - https://github.com/TrueSightDAO/go_to_market/pull/155\n  \n  Details:\n  Follow-on to the earlier 30-minute entry for go_to_market PR #152 (initial brief research + draft). This entry covers the operator-review iteration rounds and final PDF production for briefs/2026-06-05_dtc_paid_ads_brief_hubert_yee.md: (1) PR #153 \u2014 clarified QR-pay email capture happens simultaneously via Stripe checkout (no separate opt-in); (2) PR #154 \u2014 added ledger-sourced cost structure section 4a from Main Ledger tabs Currencies / Agroverse Cacao Processing Cost / Agroverse Price Components (farm-gate R$100/kg, Bahia processing rates, freight $0.12/oz, landed 200g bag $8.32-9.29, landed 50g bar ~$2.05, tree execution $1.50); (3) PR #155 \u2014 corrected events to offline, added USD5/unit tree-planting set-aside throughout the economics, corrected stale Feb 2026 crawl finding (Ora Cacao does sell on Amazon.com) and logged the correction to agentic_ai_context CONTEXT_UPDATES.md. Regenerated the styled weasyprint PDF after each round; final 7-page PDF attached.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: contribution_20260605174848_garyjob_2026_06_05_dtc_paid_ads_brief_hubert_yee.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260605174848_garyjob_2026_06_05_dtc_paid_ads_brief_hubert_yee.pdf\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: F50iM++Yb4q8MeSTMSdUss2X/0/j36RxZUoE0q/WzUAlfW++AKApR3QaNi6aUoXdzFN5Fbk6tvEvYkr60QKKVMWWnWP0+lLmFb+b89UEBFvZqFCVrdCPUdIzurTZGFOz0Wb3l+/ZX2u2JqnUYXN7aZVDQIImuR3KDZGAUYPR0UWEzHU9wwiNMC2potKBGb7dxOG/9j3JqmuEffsEsNKfqJy/S+CXF9ltI54KsT1jCjdZHqcH+Sh4jhtXsJMH6PFzn1PflhhmT8+CS7GEOHGyo0gd/d5A8OM/i/FPgKsDm0xMqRtNhqd87v3Mit8xl4//0xP9QbsD/tjUxiemkQfTvg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260605",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.636493+00:00",
+  "scoring_hash_key": "YNxCMf4UCPcV/KF6+Uj7",
+  "scored_chatlogs_row": 6428,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Butterfly Effect credentialing \u2014 end-to-end live (post-bootstrap work)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1056\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/142\n  \n  Details:\n  Second-half of today's session, building on the morning's scaffolding (180min logged earlier). End-to-end attestation flow now fully working: sign in \u2192 click Attest \u2192 Edgar receives signed event \u2192 central GAS commits to lineage-credentials \u2192 roster back-fills \u2192 public credential page renders. Specific deliverables: clasp-pushed tokenomics central GAS through v9 (paAuthorize helper for editor consent, header-keyed TCL column resolution with positional fallback, list_attested_rows action), bumped manifest endpoint URL across two truesight_me PRs with prod sync that this time preserved CNAME (memory landmine documented at feedback_truesight_me_cname_divergence). Admin panel iterations: stripped all crypto terminology from user-facing copy (4 separate UX revisions per Gary), single-email sign-in flow with WebCrypto behind the scenes, email-verification ?em=&vk= redirect handler, dynamic favicon+logo from config.json, clickable source-sheet link, Process-pending-events manual trigger, Already-attested section, tabs UX for queue/attested. Bugs fixed: Edgar payload missing '--------' separator, HTML escape on identity-card italic fallbacks, GAS column lookup. Edgar webhook config landed (sentiment_importer PR #1056) so attestations auto-process without manual button click after ./deploy.sh. Verified: first attestation (Ayesha Tabassum) round-tripped through every layer including cache build at lineage-credentials, alias resolution at truesight.me.\n- Contributor(s): Gary Teh\n- TDG Issued: 200.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: QdKhaaURDhxaH7ZcjaTTSVgIQSBA/8kustuLa0lgf6Zcn3O3CfJAjeXEDwvzKhtdU0haUuLH8AdS2fUiobLmzZaDe/NbD3cpB2uCokJ3cWR5YmMxuEvYa+U9WuFQs63LhN6clb1nXvxIe0xfshkVXe0Fl6RoiKzywCeBpmE04bdHhwnQ90WL+8JcurhqHO2Iy6dONnxI9eFkG1Aj/MvC2psFVdcCy9XBxR5N7PG80zQE3dF3nuQsdV2YkUwAr2bKju04bSjOJwM3soDHaN5lSF1V68ExIXkPOCK4ANgH8ls9YNK4nm+BQ9LwEdn36iT4Ygpc/Q0bIQYIloZJWXppcQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "200",
+  "tdgs_issued": "0",
+  "contribution_date": "20260522",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.684535+00:00",
+  "scoring_hash_key": "Z2UrntHiAaCuAb8uUsOH",
+  "scored_chatlogs_row": 6753,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Roadmap consolidation: Aora venue layout, track map refinements, SOP\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/567\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/568\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/257\n  \n  Details:\n  Continued roadmap work across this session:\n  \n  1. **Aora venue layout PDF** \u2014 Saved Jerri's 1-page consolidated event flow & venue layout to .github/attachments and linked from the roadmap page\n  2. **Track map dependency corrections** \u2014 Separated GACC/Brazil Compliance from China/Aora Events into distinct tracks. Fixed Legal Entity Structuring and GACC from \"blocking\" to \"parallel\" to Brazil Export Entity\n  3. **Anchor-linked track cards** \u2014 Added HTML anchor IDs so clicking a dependency name scrolls to that track's detail card\n  4. **Missing downstream tracks restored** \u2014 Chives Root (10 bags consignment), Michael Johnson consignment, Kopi Bar Jul 10 tasting, Graeme Read partnership all added as separate track cards\n  5. **ROADMAP_UPDATE_SOP.md** \u2014 Created standard operating procedure for any agent to update the roadmap\n  6. **append_to_transcript bug fix** \u2014 Filed PR #257 on truesight_autopilot\n  \n  PRs merged:\n  - agentic_ai_context#567 (dependency corrections)\n  - agentic_ai_context#568 (anchor links + missing tracks)\n  - truesight_me_beta direct push (venue layout link \u2014 should have been a PR)\n  \n  Docs saved:\n  - .github/attachments/2026-06-19_aora_event_flow_and_venue_layout.pdf\n  - .github/attachments/2026-06-19_matheus_cnae_timeline.jpg\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: fgeK8WLvJ4Aq2M5GBcAh9TLsxz8C/yIBl7W6Yyy//X520dwN077Sq02T53tA7Y5ZYSD6nqCv2WdsA8eZipruj6Gq4XfytEzsnssTIFuuDH3ubBIRKRiFp1ZZeCrejCbSRgG7xNIF80qdJtqJsbbX16gjhr15s4wQWyP1wNnyjmX1Y5bEcV8GyhjE13OJ5/6+poy+dqWnphodFORu57lQoxVIES3H+VKnu3TlhlFGiSvt+ZhYLywxc2uJ2iWrwvH3G1hcPQUNtmbCGZygsllfCNby0oyacPCE4CwQVTfAWSf6orprGKfAz/Skxh5Wf3Tx+IaNXuRlbuiG0rqS0RmKpg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260618",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

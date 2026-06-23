@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.662519+00:00",
+  "scoring_hash_key": "hSw8Y/rNFnz3hr92t5j8",
+  "scored_chatlogs_row": 6552,
+  "contributor_name": "Kirsten Ritschel",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: Fulfillment for Susie Fritsch, including note and drop off\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 100.00\r\n- Attached Filename: capture.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260601165118_kirsten_ritschel_capture.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: 36AM8T1E03iMzWyDIF1Qn2CfDTcjxHheMFSnL0Rn1v5XRKhBlEENEGzg8fwuFEcO4ymYqyvP2Vsz+kamq86SbGnPUpoLD8UQlJt3p5iVTCeYuRWOgbxDzR5HDn2EsA3fNXPV+WwH2iJrlMsPHE3xKvyfUPmbPthVm0fpATFqiNLmDNm5ZFadey0dzCIGD8udG9rFOIZ4oxi4i074b3r3pr4Bov3F+S6XHKbuGF6YUpEErumcsg3IN2k0pId/m+9F3pbBATgnLs+J+EngQdBHqRlPfAvqIRd6grOM9/ByF/G7/cEgmpIzgbvPnTrrwRdgTJQEypTAHT99HiQzV24g/A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260601",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

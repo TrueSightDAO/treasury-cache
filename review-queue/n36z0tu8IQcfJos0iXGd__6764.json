@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.685692+00:00",
+  "scoring_hash_key": "n36z0tu8IQcfJos0iXGd",
+  "scored_chatlogs_row": 6764,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Fix Edgar 500 + add Sophia batch-sale SOP guard (SOHA incident)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/267\n  \n  Details:\n  Root-caused and fixed Edgar 500 error on all signed submissions (email_registration.handle AttributeError in dao_protocol). Deployed fix, triggered GAS webhooks to process 40 SOHA sales events.\n  \n  Added hard and soft batch-sale safeguards to Sophia's autopilot:\n  - lookup_event_docs now returns batch_sales_sop field for SALES EVENT with 4 rules (one per QR, per-unit price, sold by \u2260 governor, Item = QR code ID)\n  - submit_contribution hard-gate rejects SALES EVENT if Item doesn't match QR code pattern\n  \n  Wrote SOPHIA_BATCH_SALES_PLAN.md \u00a70 in agentic_ai_context with intent interpretation rules.\n  \n  Investigated Sophia's SOHA thread: found she created 2 erroneous aggregate submissions (total $680, Sold by Gary Teh) because she misinterpreted governor's batch message.\n  \n  Commits: dao_protocol e36181e, agentic_ai_context 2614254 + bcd4cca, SOHA batch script in dao_client\n- Contributor(s): Gary Teh\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: fqtxXQffJw3QOQZ0Acxb6XipD6ioeN0GSuAGouv/umv3dHuhwERsmyFDIqzz2RA+mj/bzjKVwD5XS9dy6KyMu2IWdgDMGwRWf3r6l/5E11MZY8w3flQjXUk9aZeTfhulZZUmNo2yoKui3Xe1wyI8aEsGqLLwMWJRQLunCK03BXks0gwGdZq/WsfwHdh+LsgNwlmagiq/3DLHK2iaiMfoClfvUnyD7QUJue6P2t3aVIsnRj9fJ2ESg5pqVwGDiehq2T1m8BTbJ1CEniUj0c+m4ZqIAlIZcBX/PYW3ikx4G48bQtFM7lvevwbjtPpWxsccp+rDS4jre9pwWCdPGv9LGw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260620",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.614065+00:00",
+  "scoring_hash_key": "ZtIFmR4PUkopPMCFEk+8",
+  "scored_chatlogs_row": 6221,
+  "contributor_name": "Garyjob <garyjob@gmail.com>",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Hit-List state-machine diagnosis + autopilot self-improvement (3 PRs + 2 prod redeploys)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/19\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/21\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/22\n  \n  Details:\n  Diagnosed Hit-List \"warm-up dead-end\" bug as a state-machine gap (HIT_LIST_STATE_MACHINE.md line 62 explicitly says rows stay in Warm-up forever with no reply, leaving 26 stores over-warmed and 7 replied-but-untouched). Confirmed oracle's pipeline complaint was grounded in real ADVISORY_SNAPSHOT data, not hallucination.\n  \n  Spun up local autopilot on port 8011 to drive the fixes. The autopilot opened the substantive PRs and merged them; surfaced two latent bugs in deploy_autopilot itself (paramiko never imported; SSH config aliases not resolved) which were fixed by hand because the local autopilot session kept dying mid-task.\n  \n  Production redeployed twice via direct SSH (since deploy_autopilot itself was the thing being fixed). Prod now at c370298, systemd active.\n  \n  Shipped:\n  - truesight_autopilot#19 (allowlist: add go_to_market)\n  - truesight_autopilot#21 (chat: default draft PRs + raise tool-round cap 5 to 15, env-overridable)\n  - truesight_autopilot#22 (deploy: import paramiko + honor ~/.ssh/config aliases)\n  - agentic_ai_context#103 closed as superseded (will be redone with full doc by next agent)\n  \n  Handoff prompt prepared at /tmp/opencode_handoff_prompt.md for DeepSeek/OpenCode to take the actual go_to_market warmup-aged-out PR and full HIT_LIST_STATE_MACHINE doc rewrite. WebSocket /chat upgrade deferred per Gary.\n- Contributor(s): Garyjob <garyjob@gmail.com>\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: AGWh/KPnTSZdWlL3LJwKlp+N8vOON2FKHqQL3TYELi8/COdLHT/DDFB/3yIAgX5ID7YaZ4Xsw+WonSg2A5R2OqCphcH7RuPUTPA82U1G9mc9JWncvHBbAg45QAvTuHv29kdFRhWZ4ICQFs88LFaqwgx+y3lvf7oiJNG7zqgakkg3DIHxsbQXahF85dsIuK1VtHmKW9pJmjJphoa6gbdS4yiF9jcHHABQIqbIZQV0tlEB3HLq3VtZI6j4IBgH5OmQy8jMg8qgqwvV/NVCHbo2dmvUBf+5gYZQbAaLCrnNPTyGaJ2OWcMbWLhcE+9LLrhM3CTR1lb0FhAyyAaQ+1RPtg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260508",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.590447+00:00",
+  "scoring_hash_key": "owHVu6Id9QQ/lZcnLE0w",
+  "scored_chatlogs_row": 6027,
+  "contributor_name": "Edgar",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Documented Tokenomics clasp workflow for AI assistants: when the operator says clasp deploy, run clasp push from the correct clasp_mirrors folder (after syncing google_app_scripts sources), then clasp deploy; prefer clasp deploy --deploymentId for stable Web App exec URLs. Updated agentic_ai_context CONTEXT_UPDATES.md, NOTES_tokenomics.md, WORKSPACE_CONTEXT.md; merged PR #43.\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/43\n- TDG Issued: 16.67\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Baq2TH5fM8SXXRnTTZMxZWXz2SWBojsLp0CM+o8WICbH0DuvCw+62EOzXLsDoVJRzrV95haabm/YVsbTdDAsxgcDRn0J7Zi4m/gzNn6goYt3234iAR1HysKvN+7pEYs6mT/mdxxPh1S09twF55prVQODRRAaZTvM5Xgl2ggnDXeTJrIitr5WQ6/uI8L5c7Wpd7eCZn5c9CxO0b1u5c+YJJWEFMdRb1un6YZKHOaW3cYnHBkyGSK/GTuf+oWUln90LFl105VY2qDrKxx9ECEHvrDA17lFzEBhmtD2W0PkAS8i0n2ric0cgC4fFtNhxGaHyWohAFWjGqGvlj1af3E1bA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260424",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

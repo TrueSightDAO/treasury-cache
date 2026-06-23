@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.670393+00:00",
+  "scoring_hash_key": "Im4FbqwRWi2Gt564Bcxo",
+  "scored_chatlogs_row": 6626,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Resolved truesight_me beta\u2192prod merge conflict and promoted (CNAME-safe)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_me_prod/pull/18\n  \n  Details:\n  truesight_me_beta and truesight_me_prod had diverged (beta +25, prod +39 commits) so gh repo sync could not fast-forward. Diagnosed via a local test merge: two conflicts \u2014 stats/current.json (machine-regenerated every 6h) and blog/posts/the-scripture-is-not-the-point.html (add/add; prod had the correct Chinese \u6559\u5916\u522b\u4f20, beta had mojibake \u00b7&&&&&&, a beta-side regression). Resolved both in prod's favor; CNAME correctly stayed truesight.me because a real merge (not a force-sync) was used, avoiding the known beta.truesight.me clobber footgun. Net content promoted: beta's richer manifest markdown renderer in js/program-shell.js (headings, ordered/unordered lists, paragraph breaks); everything else beta had was already on prod. Pushed the merge as a branch to truesight_me_prod, opened and merged PR #18, and verified post-merge that prod CNAME == truesight.me and the blog line == \u6559\u5916\u522b\u4f20. Histories reconciled so the next promotion syncs cleanly. Restored the local beta checkout to its original state.\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: Y0SZjvOkWVgon6Fqwxn4Wp5XPvlz5fHIqZUzHc4EgkV5wUZWW9vbkGvzpfURRDDzwr3N4kW4njGSw4aUi9uREVFIB1rskw6OpFyUXl2K7VdDih5whtpIKtUIQi30Cp6QZVX0TC4Bz+hhQBLUYP/edpwTHx6j/QaUslEfUV0IDcfOsFRu2eBnos9az6cSGGAxu8WTnOAs08T1z5cGDFshekzIodCLY1ZACGJCLyQS2/f701UkwQJCI74t/30J9XjfmMJbxif9nvgcu7rFYNvbfidEBXCKQqgdrzEZFx+Nm6cygchJHGmHamBtimqog8DyvN1NSUyggVbnRi/Qgt9U5g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260608",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

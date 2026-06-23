@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.585846+00:00",
+  "scoring_hash_key": "GrUU1o/Ul0zK3oRMcoZo",
+  "scored_chatlogs_row": 5993,
+  "contributor_name": "Elizabeth Wong",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Reporting error with DApp not working in China because Google App Script is blocked...\r\n- Contributor(s): Gary Teh, Elizabeth Wong\r\n- TDG Issued: 16.67\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260421183800_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: 2+EuTXIpOgfMCZxQcpM0c2wAzzBxpMYmWfdBQDdPhP1CEfb6hEkYs0bHlvkXj70UQdK8BZnEbNNhg/iXLeK68CUVIyc//y/iErySMn0/hR1yveNPLfYHt2C3zgjrMIai9JsY4o3yzDbA9UfNQ73pgBLC0kxxsxpoIkcliWrfz0SGEdMNIjsLW/JhW7hffKy8zyBCii3QWaC2xS2KCXyhAOKvo24ZHZCF7rU+d2vfiIgRqHiRU7X6+ubmve5+gO1QY4Fd95Q2MfF0gnmZhTAlBGtDT3Z4eFFTLZO8p62CGUf+Zehq0IRr/bqsYwCESz7HYtEHIvAlyn505sXHiDzkvA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260421",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

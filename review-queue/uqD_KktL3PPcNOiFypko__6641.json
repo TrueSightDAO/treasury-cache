@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.672024+00:00",
+  "scoring_hash_key": "uqD/KktL3PPcNOiFypko",
+  "scored_chatlogs_row": 6641,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Automated dao-client npm publishing: publish-on-version-bump (gated, idempotent)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/73\n  \n  Details:\n  Made @truesight_dao/dao-client publishing fully automatic (dao_protocol PR #73). Upgraded npm-publish-dao-client.yml: on any push to main that changes packages/dao-client/package.json, CI installs, runs the runtime smoke test (npm test) as a publish gate, then publishes only if that exact version isn't already on npm. So a release is now just: bump the version in a PR \u2192 merge \u2192 it self-publishes \u2014 no manual workflow_dispatch, no token handling (uses the existing NPM_TOKEN GitHub Actions secret, never on the box). Idempotent (already-published version = no-op, so unrelated package.json edits and re-runs are safe) and gated (a failing smoke test blocks the publish). Retained workflow_dispatch + dao-client-v* tag triggers. To ship 1.1.0 final now: bump 1.1.0-rc.1 \u2192 1.1.0 and merge.\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: c9FrFlLoE15WaEU+TNAZTmFWiFd8D/qSGasQc2+r+QJAYzLBd/3uilBvv3NdIW6xXI+CgCCYhBQm69OS3B5sMeYo93PMF5I62F55eWt01V8ibegB3fhTRd512rUpAdpIJWydDH4ADbhzSIkQrG5VQBPRmU+WtoVS/H6tmzq7rM5w4BpOg0figR3oSe3lcnTJZExtgZLS1h0FnwFb7Ax/F86MXdyAxOpHOIUSQ03k/GCcnvWeiKWG2mTiqg5b1EduWonsfevkfjWKO4HW1O+eYF3eGUdLz3ujuZksIXaj0yCWmoFsHPC/jn23/11sKCJVwSYEN6h8pwpsGMjR+GJ1cg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260608",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

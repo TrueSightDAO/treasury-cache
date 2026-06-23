@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.578270+00:00",
+  "scoring_hash_key": "nTy+a7ts7cwJTNfyFmeB",
+  "scored_chatlogs_row": 5921,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 180\r\n- Description: Output for today, using AI generated scaffolding. Surprisingly did not use. as much Grok API credits as expected\r\n  https://www.youtube.com/watch?v=PGA1Ie1GElI\r\n  \r\n  Codebase\r\n  https://github.com/garyjob/ai_video_editor\r\n  \r\n  Tuned for the following kind of story archs\r\n  - cacao beans to hot chocolate\r\n  - \u2060cacao beans to cacao nibs\r\n  - \u2060cacao beans to chocolate bar\r\n  - \u2060festival highlights\r\n  - \u2060farm visits\r\n  - \u2060logistics movements\r\n  \r\n  Execution time for raw clips to compiled 30 second shorts is around 20 minutes for initial run. Likely gets shorter after the initial run since a lot of the time taken was for transcribing the conversations as well as detecting the objects within the frames within the raw clips for analysis by LLMs\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 300.00\r\n- Attached Filename: None (proof: links in description)\r\n- Destination Contribution File Location: See description (URL(s))\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: pi16KEWQvtPK7yk+MUrv3pS0bC0Xmc0KwjDuZRdF2HLUHRgFO6QE0Um05BvJgSGHiJCmytnUtE+5/Vo2wFk4dYwrSCw4huTOlM6WLH4rUZf+V/3lRFziiqghO9BaTMPY38nBISGCK0jpDklwlNcphF/NtG9LeH1wvx47dvsKKDpcOxdSizren0sx8sPHsqG6HbQKEP+9mcTpBr7nt/4fptKwLtjzP835t/XVryZyWZRInWwNc5qmndGDGsz0lw2xQatCCdYGLG6qnLBDGNrUstY+7FAXxEfg9RmVRIndh9rlf9mpdXPs3cRWm5IrXTVO7pPO3gjFo7ACKw8a/vdFWw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "300",
+  "tdgs_issued": "0",
+  "contribution_date": "20260409",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

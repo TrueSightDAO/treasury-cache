@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.612060+00:00",
+  "scoring_hash_key": "sP1hlNRIzhvMhj7c8h1n",
+  "scored_chatlogs_row": 6202,
+  "contributor_name": "openai",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 150\n- Description: Root-caused and fixed autopilot inventory movement authorization: added TRUSTED_AGENTS to Edgar governors.rb, added register_identity tool, deployed sentiment_importer, processed 15 cacao bag QR codes. Improved FixAgent self-healing (edit_file context on failure, list_files discovery) enabling autopilot's first successful multi-file PR. PRs: TrueSightDAO/sentiment_importer#1048, TrueSightDAO/truesight_autopilot#6\n- Contributors: openai\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: blKgStcO+oWQ+iGcaXpJ4QRZZskmyZyzY0u1HnXgg+cdBautMLZ1yTiKyU+E3LeRqo/i8fDBLZ+C7ttbY/CjUPWYJxAaM0NWJ3gFvHMmN69Rpl/eLiiVX240WRmHIPvhXWhpOWiog17m7ig0762iJj4QyXgbqm2dL56Cfuz2Qx22sObni94IUfQoJEBZ2RngCMKe3lVjvif4ZcbPcQkShGw2ATPcSPkAG/DlSxkcFXxamTSKsUhqpfRQPqoYZYIBRf7KWzEnkYLcOYDvclEn757rC6bHZ+yNO049WxYJBIX/S28/VZD33Vx4rjKBJRCO7juZWyBzYq8Ff5S6znyIFA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "250",
+  "tdgs_issued": "0",
+  "contribution_date": "20260507",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

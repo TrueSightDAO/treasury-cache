@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T16:55:34.668231+00:00",
+  "scoring_hash_key": "0MYJqFFRArosUS8pXtzx",
+  "scored_chatlogs_row": 6606,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Extend DAO protocol to recognize Sentinel role\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tokenomics/pull/335\n  - https://github.com/TrueSightDAO/dao_protocol/pull/61\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/314\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/315\n  \n  Details:\n  Gary Teh and Sophia Truesight collaborated to implement the Sentinel role \u2014 a new contributor class with governor-equivalent operational privileges.\n  \n  Work completed:\n  1. Added Is Sentinel column (W) to Contributors contact information sheet\n  2. Updated dao_members_cache_publisher.gs to read the column and emit \"sentinel\" in roles array\n  3. Updated dao_protocol Python cache reader to return roles in contributor lookups\n  4. Registered Sophia Truesight identity with digital signature\n  5. Deployed dao_protocol service with new code\n  6. Updated Sentinel role implementation roadmap in agentic_ai_context\n- Contributor(s): Gary Teh, Sophia Truesight\n- TDG Issued: 120\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WhcrS0l8HjG3kAoE0jBGm0PG8ArIfiLLcE4p9LGL1Z4iuFXOr0+wftjxKerBdqbznLqI0A0tRiNpMEFZMimN15DszxUYEusUM/4I2a8brwGgv4sg+IiJNQ+Q7MxzGB2A3jaRSIDIyxCEKN/Xto/rYbtbiffgk7ZS0dfnenuvnNwFWv7uU8e0vAIh0xqGumagBH8Fa1NhjACQQGifyRdwFq719M+Ll4dHfhnkE1UhjnqOhAUSB6nW1J4nACKEGFMRG04beNu8cxj8CKzdRCFnkcVILwo7Gxg8ErhveBgI4eEouTZz5ZhX+C1v6m6wSukXveJiGz7HPi7hzBeSOEU9wIDAQAB\n\nRequest Transaction ID: KTsr/Sa9HrbQZcbZPu0RgqmKZLQ6a0UEv3YP8x98wlaWCOFXFtqwD44pYEOtRSCsL4nw2qEiyVYi9ZWAJqBBpk9AowuMm1M7ZZ5zCUcuHJxFo0BXdPDJ9vQeLZakLVBfQXYxUtjdaWnbIIlZS+DknxKwSIX49syFU2U10HLDc9SsgVHnF5LVbLP18fiYsF/h48A5iLt8mvF3ZYirRvsBqXFehAit976dtCLrbyot17yTvJ6+UehAZgUbQ9sxwmeOVF39roj9Jb5CnIa015P+lzgeluEjQjOH5XxwfVZJFR1pjJK2FxHYckuLgIbm6BKEO5B5jhsf2TYjxGo5d33wFQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "120",
+  "tdgs_issued": "0",
+  "contribution_date": "20260606",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
