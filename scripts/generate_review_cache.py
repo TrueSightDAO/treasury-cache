@@ -6,8 +6,16 @@ Reads the Scored Chatlogs Google Sheet for rows with:
   - Status = "Pending Review" (Col F)
   - Cache Generated (Col N) is empty
 
-Generates one JSON cache file per row in treasury-cache/review-queue/<hash_key>.json,
-then marks Col N with a timestamp to prevent re-processing.
+Generates one JSON cache file per row in treasury-cache/review-queue/, then marks
+Col N with a timestamp to prevent re-processing.
+
+Cache filename: ``<safe_hash>__<sheet_row>.json``
+  - The raw Scoring Hash Key (Col K) is NOT filesystem-safe (it can contain ``/`` and
+    ``+``) and is NOT unique per row (a multi-contributor "split" contribution produces
+    one row per contributor sharing the hash). So the filename sanitises the hash
+    (``/``→``_``, ``+``→``-``, ``=`` dropped) and appends the sheet row number, which is
+    unique per row. The real hash lives inside the JSON (``scoring_hash_key``).
+  - Edgar deletes a row's cache file by the ``<safe_hash>__`` prefix on approval.
 
 Environment variables:
   GOOGLE_APPLICATION_CREDENTIALS_JSON — Service account key JSON string
@@ -42,21 +50,41 @@ BETA_MODE = os.environ.get("BETA_MODE", "false").lower() == "true"
 if BETA_MODE:
     REVIEW_QUEUE_DIR = f"{REVIEW_QUEUE_DIR}-test"
 
-# Column indices (0-indexed from the sheet data array)
-COL_STATUS = 5        # F — Status
-COL_TDGS_PROVISIONED = 4  # E — TDGs Provisioned
-COL_TDGS_ISSUED = 6       # G — TDGs Issued
-COL_CONTRIBUTOR_NAME = 0  # A — Contributor Name
-COL_CONTRIBUTION_DESC = 1 # B — Contribution Description
-COL_RUBRIC = 2            # C — Rubric
-COL_CONTRIBUTION_TYPE = 3 # D — Contribution Type
-COL_CONTRIBUTION_DATE = 7 # H — Contribution Date
-COL_FOUND_IN_CONTRIBUTORS = 8  # I — Found in Contributors
-COL_CONTRIBUTOR_EMAIL = 9      # J — Contributor Email
-COL_HASH_KEY = 10         # K — Scoring Hash Key
-COL_CACHE_GENERATED = 13  # N — Cache Generated (NEW)
+# Column indices (0-indexed). Verified against the live sheet header (row 3):
+# A Contributor Name | B Project Name | C Contribution Made | D Rubric classification |
+# E TDGs Provisioned | F Status | G TDGs Issued | H Status date | I Existing Contributor |
+# J Reporter Name | K Scoring Hash Key | … | N Cache Generated
+COL_CONTRIBUTOR_NAME = 0       # A
+COL_PROJECT_NAME = 1           # B
+COL_CONTRIBUTION_DESC = 2      # C — Contribution Made (the actual work text)
+COL_RUBRIC = 3                 # D — Rubric classification
+COL_CONTRIBUTION_TYPE = 3      # D — (no dedicated type column; type is inside the text)
+COL_TDGS_PROVISIONED = 4       # E
+COL_STATUS = 5                 # F
+COL_TDGS_ISSUED = 6            # G
+COL_CONTRIBUTION_DATE = 7      # H — Status date
+COL_FOUND_IN_CONTRIBUTORS = 8  # I — Existing Contributor
+COL_REPORTER_NAME = 9          # J — Reporter Name
+COL_HASH_KEY = 10              # K — Scoring Hash Key
+COL_CACHE_GENERATED = 13       # N — Cache Generated
 
 # ── Helpers ────────────────────────────────────────────────────────────
+
+def _cell(row, idx):
+    """Safe cell access — trailing empty columns are truncated by the Sheets API,
+    so a Pending Review row (empty Col N) is usually shorter than 14 columns."""
+    return (row[idx] if idx < len(row) else "") or ""
+
+
+def safe_hash(hash_key):
+    """Filesystem-safe form of a Scoring Hash Key (for filenames / Edgar deletion)."""
+    return hash_key.replace("/", "_").replace("+", "-").replace("=", "")
+
+
+def cache_filename(hash_key, actual_row):
+    """Unique, filesystem-safe cache filename: <safe_hash>__<sheet_row>.json."""
+    return f"{safe_hash(hash_key)}__{actual_row}.json"
+
 
 def get_sheet():
     """Authenticate and return the worksheet."""
@@ -74,26 +102,24 @@ def get_sheet():
 
 
 def get_all_rows(worksheet):
-    """Fetch all rows from the sheet starting at DATA_START_ROW."""
-    range_str = f"{SHEET_TAB}!A{O_DATA_START_ROW}:O"
-    return worksheet.get(range_str)
+    """Fetch all data rows (from DATA_START_ROW) as a list of lists."""
+    return worksheet.get(f"A{DATA_START_ROW}:O")
 
 
 def find_pending_review_rows(rows):
     """
-    Find rows that need cache generation:
-    - Status (Col F, index 5) == "Pending Review"
-    - Cache Generated (Col N, index 13) is empty or None
-    - Hash Key (Col K, index 10) is non-empty
+    Find rows needing cache generation:
+    - Status (Col F) == "Pending Review"
+    - Cache Generated (Col N) is empty
+    - Hash Key (Col K) is non-empty
     """
     pending = []
     for i, row in enumerate(rows):
-        if not row or len(row) < 14:
+        if not row:
             continue
-
-        status = (row[COL_STATUS] or "").strip()
-        cache_gen = (row[COL_CACHE_GENERATED] or "").strip()
-        hash_key = (row[COL_HASH_KEY] or "").strip()
+        status = _cell(row, COL_STATUS).strip()
+        cache_gen = _cell(row, COL_CACHE_GENERATED).strip()
+        hash_key = _cell(row, COL_HASH_KEY).strip()
 
         if status == "Pending Review" and not cache_gen and hash_key:
             pending.append((i, row))
@@ -101,29 +127,31 @@ def find_pending_review_rows(rows):
     return pending
 
 
-def build_cache_entry(row):
+def build_cache_entry(row, actual_row):
     """Build a JSON-serializable cache entry from a sheet row."""
     return {
         "schema_version": 1,
         "generated_at": datetime.now(timezone.utc).isoformat(),
-        "scoring_hash_key": (row[COL_HASH_KEY] or "").strip(),
-        "contributor_name": (row[COL_CONTRIBUTOR_NAME] or "").strip(),
-        "contribution_description": (row[COL_CONTRIBUTION_DESC] or "").strip(),
-        "rubric": (row[COL_RUBRIC] or "").strip(),
-        "contribution_type": (row[COL_CONTRIBUTION_TYPE] or "").strip(),
-        "tdgs_provisioned": (row[COL_TDGS_PROVISIONED] or "0").strip(),
-        "tdgs_issued": (row[COL_TDGS_ISSUED] or "0").strip(),
-        "contribution_date": (row[COL_CONTRIBUTION_DATE] or "").strip(),
-        "found_in_contributors": (row[COL_FOUND_IN_CONTRIBUTORS] or "").strip(),
-        "contributor_email": (row[COL_CONTRIBUTOR_EMAIL] or "").strip(),
-        "status": (row[COL_STATUS] or "").strip(),
+        "scoring_hash_key": _cell(row, COL_HASH_KEY).strip(),
+        "scored_chatlogs_row": actual_row,
+        "contributor_name": _cell(row, COL_CONTRIBUTOR_NAME).strip(),
+        "project_name": _cell(row, COL_PROJECT_NAME).strip(),
+        "contribution_description": _cell(row, COL_CONTRIBUTION_DESC).strip(),
+        "rubric": _cell(row, COL_RUBRIC).strip(),
+        "contribution_type": _cell(row, COL_CONTRIBUTION_TYPE).strip(),
+        "tdgs_provisioned": _cell(row, COL_TDGS_PROVISIONED).strip() or "0",
+        "tdgs_issued": _cell(row, COL_TDGS_ISSUED).strip() or "0",
+        "contribution_date": _cell(row, COL_CONTRIBUTION_DATE).strip(),
+        "found_in_contributors": _cell(row, COL_FOUND_IN_CONTRIBUTORS).strip(),
+        "reporter_name": _cell(row, COL_REPORTER_NAME).strip(),
+        "status": _cell(row, COL_STATUS).strip(),
     }
 
 
-def write_cache_file(hash_key, entry):
+def write_cache_file(hash_key, actual_row, entry):
     """Write a single JSON cache file to the review queue directory."""
     os.makedirs(REVIEW_QUEUE_DIR, exist_ok=True)
-    filename = f"{hash_key}.json"
+    filename = cache_filename(hash_key, actual_row)
     filepath = os.path.join(REVIEW_QUEUE_DIR, filename)
     with open(filepath, "w") as f:
         json.dump(entry, f, indent=2)
@@ -138,8 +166,9 @@ def mark_cache_generated(worksheet, sheet_row_index, timestamp):
     The actual sheet row number is DATA_START_ROW + sheet_row_index.
     """
     actual_row = DATA_START_ROW + sheet_row_index
-    cell_range = f"N{actual_row}"
-    worksheet.update(cell_range, [[timestamp]])
+    # update_cell(row, col, value) is stable across gspread 5.x/6.x (unlike update(),
+    # whose argument order changed). Col N = column 14.
+    worksheet.update_cell(actual_row, 14, timestamp)
 
 
 # ── Main ───────────────────────────────────────────────────────────────
@@ -164,15 +193,16 @@ def main():
     generated_count = 0
 
     for sheet_row_index, row in pending:
-        hash_key = (row[COL_HASH_KEY] or "").strip()
-        print(f"\nProcessing hash_key={hash_key}...")
+        actual_row = DATA_START_ROW + sheet_row_index
+        hash_key = _cell(row, COL_HASH_KEY).strip()
+        print(f"\nProcessing row {actual_row} hash_key={hash_key}...")
 
-        entry = build_cache_entry(row)
-        write_cache_file(hash_key, entry)
+        entry = build_cache_entry(row, actual_row)
+        write_cache_file(hash_key, actual_row, entry)
 
-        # Mark the sheet
+        # Mark the sheet so this row isn't regenerated next run
         mark_cache_generated(worksheet, sheet_row_index, timestamp)
-        print(f"  Marked sheet row {DATA_START_ROW + sheet_row_index} as cached")
+        print(f"  Marked sheet row {actual_row} as cached")
 
         generated_count += 1
 
