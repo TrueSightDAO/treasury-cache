@@ -1,0 +1,16 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-22T00:00:00Z",
+  "scoring_hash_key": "gppGkQJLL6W2NFGW5qYf",
+  "contributor_name": "Kirsten Ritschel",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 150\r\n- Description: Weighing, filling 38 pouches, QR code labeling\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 250.00\r\n- Attached Filename: IMG_9213.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260330230244_kirsten_ritschel_img_9213.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: wZ8XSMwgkZVKpen7ONlBBSFgMd+E8GTlNAN/cYlEdPFv4GkKulQ3u1+IP9CGmR0KjCDsshJPu+seu4mmLGuct8SMnqAAxj2er5yCKeHe22wC4nfrjkq5DmWCgwSPDuZz1mtZ/vcMSG1pZqKvpia/BLEIbMwjvCegDbkae2PFd9SPrpbyXQIDh0oqcewwv/UKjZRTsjVDC31iaN63jxyGnKxc9ZX1GqLeVKcSMrIzjox0tLGWFTTgRRLw43H/MfsUVqEuJA7oDkykWvWzgvnwwOwHmeEHSapE9S0M0c85Fa2n6xv7bVWn96jmwBLscgvvx0BNko0PoNXacFrr8hTnZg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "250",
+  "tdgs_issued": "0",
+  "contribution_date": "20260330",
+  "found_in_contributors": "TRUE",
+  "contributor_email": "Edgar",
+  "status": "Pending Review",
+  "_seed": "test-2026-06-22"
+}
