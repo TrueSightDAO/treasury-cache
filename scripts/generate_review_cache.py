@@ -159,18 +159,6 @@ def write_cache_file(hash_key, actual_row, entry):
     return filepath
 
 
-def mark_cache_generated(worksheet, sheet_row_index, timestamp):
-    """
-    Mark Col N (Cache Generated) with the timestamp.
-    sheet_row_index is the index into the rows array (0-based).
-    The actual sheet row number is DATA_START_ROW + sheet_row_index.
-    """
-    actual_row = DATA_START_ROW + sheet_row_index
-    # update_cell(row, col, value) is stable across gspread 5.x/6.x (unlike update(),
-    # whose argument order changed). Col N = column 14.
-    worksheet.update_cell(actual_row, 14, timestamp)
-
-
 # ── Main ───────────────────────────────────────────────────────────────
 
 def main():
@@ -190,23 +178,21 @@ def main():
         return
 
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
-    generated_count = 0
+    cells_to_mark = []
 
     for sheet_row_index, row in pending:
         actual_row = DATA_START_ROW + sheet_row_index
         hash_key = _cell(row, COL_HASH_KEY).strip()
-        print(f"\nProcessing row {actual_row} hash_key={hash_key}...")
-
         entry = build_cache_entry(row, actual_row)
         write_cache_file(hash_key, actual_row, entry)
+        cells_to_mark.append(gspread.Cell(actual_row, 14, timestamp))  # Col N
 
-        # Mark the sheet so this row isn't regenerated next run
-        mark_cache_generated(worksheet, sheet_row_index, timestamp)
-        print(f"  Marked sheet row {actual_row} as cached")
+    # Mark every processed row's Col N in ONE batch write — marking ~900 cells one-by-one
+    # would blow the Sheets per-minute write quota and time the Action out.
+    if cells_to_mark:
+        worksheet.update_cells(cells_to_mark)
 
-        generated_count += 1
-
-    print(f"\nDone. Generated {generated_count} cache file(s) in {REVIEW_QUEUE_DIR}/")
+    print(f"\nDone. Generated {len(cells_to_mark)} cache file(s) in {REVIEW_QUEUE_DIR}/ and marked Col N.")
 
 
 if __name__ == "__main__":
