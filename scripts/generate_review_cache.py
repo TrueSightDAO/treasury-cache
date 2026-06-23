@@ -149,10 +149,17 @@ def build_cache_entry(row, actual_row):
 
 
 def write_cache_file(hash_key, actual_row, entry):
-    """Write a single JSON cache file to the review queue directory."""
+    """Write a single JSON cache file to the review queue directory.
+
+    Skips if the file already exists — file existence is the primary dedup, so the
+    generator works even when it can't mark Col N (the service account currently has
+    read-only access to the sheet). Returns the path, or None if skipped.
+    """
     os.makedirs(REVIEW_QUEUE_DIR, exist_ok=True)
     filename = cache_filename(hash_key, actual_row)
     filepath = os.path.join(REVIEW_QUEUE_DIR, filename)
+    if os.path.exists(filepath):
+        return None
     with open(filepath, "w") as f:
         json.dump(entry, f, indent=2)
     print(f"  Wrote {filepath}")
@@ -178,21 +185,35 @@ def main():
         return
 
     timestamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+    written = 0
     cells_to_mark = []
 
     for sheet_row_index, row in pending:
         actual_row = DATA_START_ROW + sheet_row_index
         hash_key = _cell(row, COL_HASH_KEY).strip()
         entry = build_cache_entry(row, actual_row)
-        write_cache_file(hash_key, actual_row, entry)
+        if write_cache_file(hash_key, actual_row, entry):
+            written += 1
         cells_to_mark.append(gspread.Cell(actual_row, 14, timestamp))  # Col N
 
-    # Mark every processed row's Col N in ONE batch write — marking ~900 cells one-by-one
-    # would blow the Sheets per-minute write quota and time the Action out.
+    # Mark every processed row's Col N in ONE batch write. This is an optimization, not a
+    # requirement — file existence (write_cache_file skips existing) is the primary dedup.
+    # The service account currently has read-only access to the sheet, so this can 403;
+    # treat that as non-fatal so the generated files still get committed.
     if cells_to_mark:
-        worksheet.update_cells(cells_to_mark)
+        try:
+            worksheet.update_cells(cells_to_mark)
+            print(f"Marked {len(cells_to_mark)} rows' Col N as cached.")
+        except Exception as exc:  # noqa: BLE001
+            print(
+                f"WARNING: could not mark Col N ({exc}). Cache files were still generated; "
+                f"dedup falls back to file existence. Grant the service account write access "
+                f"to Scored Chatlogs to enable Col N marking.",
+                file=sys.stderr,
+            )
 
-    print(f"\nDone. Generated {len(cells_to_mark)} cache file(s) in {REVIEW_QUEUE_DIR}/ and marked Col N.")
+    print(f"\nDone. Wrote {written} new cache file(s) in {REVIEW_QUEUE_DIR}/ "
+          f"({len(pending)} pending rows scanned).")
 
 
 if __name__ == "__main__":
