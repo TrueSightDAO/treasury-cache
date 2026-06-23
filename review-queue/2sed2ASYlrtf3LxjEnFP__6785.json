@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-23T20:31:22.314195+00:00",
+  "scoring_hash_key": "2sed2ASYlrtf3LxjEnFP",
+  "scored_chatlogs_row": 6785,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Reviewed and merged PR #132 (Proposal CLI implementation); oversaw execution of PROPOSAL_CLI_IMPLEMENTATION_PLAN from go-signal through deploy.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: FW2VXNEQh8a3BOstVynLHZYavr4BjRHQ+E4pmZ89/rXaaIJriaRM85QZuW1UsF+cX/mdlAQqaFYmBtMbqpkVDm8QQGXZ44YWitt/KfY7m/w0JpY48HtjWLb6u+awUzUwDVHaBJqPYJi6989JYwMY/2pHednCfyjK8rbbszvYMYeHxVmAL66FeZ7LvwoleoAW+xliI0xMVZ5vyH+jq6k0Z7luy2GH+fqgQDJE0h+F4nJBxBJadAPlYYVs7A80t1zTCO+Sycks78wLfZuaby46WELoLYhNNCnXnKl1XvC7dQ7XtJ+xwDfkB4YoGbHJKnYgF1J+wEjMBaWNyTI8j+0TBA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260623",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
