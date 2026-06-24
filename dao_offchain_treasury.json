@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T17:30:21.215Z",
+  "generated_at": "2026-06-24T17:30:41.792Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 4,
@@ -12,8 +12,8 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20657.681761924963,
-      "total_value_usd": 20657.68,
+      "total_quantity": 20648.881761924964,
+      "total_value_usd": 20648.88,
       "ledgers": {
         "Main Ledger": 4157.512913179807,
         "AGL6": 1337.5853362811577,
@@ -21,7 +21,7 @@
         "AGL8": 569.946,
         "AGL10": 330.83,
         "SEF1": 16,
-        "AGL15": 5116.339999999998,
+        "AGL15": 5107.539999999998,
         "BEC": 93.12
       }
     },
@@ -1323,10 +1323,10 @@
         },
         {
           "currency": "[AGL15] USD",
-          "amount": 5116.339999999998,
+          "amount": 5107.539999999998,
           "ledger": "AGL15",
           "unit_cost_usd": 1,
-          "total_value_usd": 5116.34
+          "total_value_usd": 5107.54
         },
         {
           "currency": "[AGL6] 8 Ounce Package Kraft Pouch - AGL6",
@@ -2583,8 +2583,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 31264.800672040754,
-    "total_value_usd": 38694.08,
+    "total_units": 31256.000672040755,
+    "total_value_usd": 38685.28,
     "ledgers_processed": 14,
     "managers_count": 38
   }
