@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T05:43:05.786Z",
+  "generated_at": "2026-06-26T05:44:23.722Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "process_sales",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20642.681761924963,
-      "total_value_usd": 20642.68,
+      "total_quantity": 20667.681761924963,
+      "total_value_usd": 20667.68,
       "ledgers": {
-        "Main Ledger": 4157.512913179807,
+        "Main Ledger": 4182.512913179807,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 307,
-      "total_value_usd": -460.5,
+      "total_quantity": 308,
+      "total_value_usd": -462,
       "ledgers": {
-        "Main Ledger": 307
+        "Main Ledger": 308
       }
     },
     {
@@ -1477,10 +1477,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4018.4829131798065,
+          "amount": 4043.4829131798065,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4018.4829131798065
+          "total_value_usd": 4043.4829131798065
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -2314,10 +2314,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 307,
+          "amount": 308,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -460.5
+          "total_value_usd": -462
         }
       ]
     },
@@ -2583,8 +2583,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 31249.800672040754,
-    "total_value_usd": 38679.08,
+    "total_units": 31275.800672040754,
+    "total_value_usd": 38702.58,
     "ledgers_processed": 14,
     "managers_count": 38
   }
