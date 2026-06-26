@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T05:44:45.819Z",
+  "generated_at": "2026-06-26T05:48:33.982Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20667.681761924963,
-      "total_value_usd": 20667.68,
+      "total_quantity": 20692.681761924963,
+      "total_value_usd": 20692.68,
       "ledgers": {
-        "Main Ledger": 4182.512913179807,
+        "Main Ledger": 4207.512913179807,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 308,
-      "total_value_usd": -462,
+      "total_quantity": 309,
+      "total_value_usd": -463.5,
       "ledgers": {
-        "Main Ledger": 308
+        "Main Ledger": 309
       }
     },
     {
@@ -455,10 +455,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 22,
-      "total_value_usd": 187.21,
+      "total_quantity": 21,
+      "total_value_usd": 178.7,
       "ledgers": {
-        "Main Ledger": 22
+        "Main Ledger": 21
       }
     },
     {
@@ -1150,7 +1150,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1554.4724,
+      "unit_cost_usd": 1550.9665,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1458,8 +1458,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1554.4724,
-          "total_value_usd": 7.386235341662676e-11
+          "unit_cost_usd": 1550.9665,
+          "total_value_usd": 7.369576697556588e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1477,10 +1477,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4043.4829131798065,
+          "amount": 4068.4829131798065,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4043.4829131798065
+          "total_value_usd": 4068.4829131798065
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1674,10 +1674,10 @@
         },
         {
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-          "amount": 11,
+          "amount": 10,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.509333333333332,
-          "total_value_usd": 93.60266666666665
+          "total_value_usd": 85.09333333333332
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -2314,10 +2314,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 308,
+          "amount": 309,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -462
+          "total_value_usd": -463.5
         }
       ]
     },
@@ -2583,8 +2583,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 31275.800672040754,
-    "total_value_usd": 38702.58,
+    "total_units": 31300.800672040754,
+    "total_value_usd": 38717.57,
     "ledgers_processed": 14,
     "managers_count": 38
   }
