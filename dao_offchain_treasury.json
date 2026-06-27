@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T10:56:13.907Z",
+  "generated_at": "2026-06-27T10:56:30.655Z",
   "source": "treasury-cache-publisher",
   "trigger": "process_sales",
   "schema_version": 4,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20692.681761924963,
-      "total_value_usd": 20692.68,
+      "total_quantity": 20728.481761924962,
+      "total_value_usd": 20728.48,
       "ledgers": {
-        "Main Ledger": 4207.512913179807,
+        "Main Ledger": 4243.312913179806,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 309,
-      "total_value_usd": -463.5,
+      "total_quantity": 310,
+      "total_value_usd": -465,
       "ledgers": {
-        "Main Ledger": 309
+        "Main Ledger": 310
       }
     },
     {
@@ -1477,10 +1477,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4068.4829131798065,
+          "amount": 4104.282913179806,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4068.4829131798065
+          "total_value_usd": 4104.282913179806
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -2314,10 +2314,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 309,
+          "amount": 310,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -463.5
+          "total_value_usd": -465
         }
       ]
     },
@@ -2583,8 +2583,8 @@
   ],
   "totals": {
     "item_types": 82,
-    "total_units": 31300.800672040754,
-    "total_value_usd": 38717.57,
+    "total_units": 31337.600672040753,
+    "total_value_usd": 38751.87,
     "ledgers_processed": 14,
     "managers_count": 38
   }
