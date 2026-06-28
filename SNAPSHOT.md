@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-28T23:50:43.324Z` |
+| Generated at | `2026-06-28T23:54:14.205Z` |
 | Trigger | `expense_processing` |
 | Schema version | `4` |
 | Item types | 84 |
-| Total units | 31331.66067204075 |
-| Total value USD | $38751.51 |
+| Total units | 31327.66067204075 |
+| Total value USD | $38739.89 |
 | Ledgers processed | 14 |
 | Managers | 38 |
 
@@ -59,8 +59,8 @@
 | Cacao Almonds KG from Vivi's farm - AGL13 | Cacao Bean | Bulk | 15 | $7.87 | $118.05 | AGL13: 15 |
 | Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Tea | Bulk | 14.6802 | $0.00 | $0.00 | AGL8: 14.6802 |
 | 8 Ounce Package Kraft Pouch  CP340992735BR | — | — | 14 | $8.51 | $119.13 | Main Ledger: 14 |
-| Agroverse 81% Cacao Chocolate Bar 50g \| 8 Ounce Nibs CP340992735BR \| Kirsten 20260620 \| San Francisco - AGL4 | — | — | 14 | $2.90 | $40.65 | Main Ledger: 14 |
 | 8 Ounce Package Kraft Pouch CP340992687BR | — | — | 10 | $8.88 | $88.79 | Main Ledger: 10 |
+| Agroverse 81% Cacao Chocolate Bar 50g \| 8 Ounce Nibs CP340992735BR \| Kirsten 20260620 \| San Francisco - AGL4 | — | — | 10 | $2.90 | $29.03 | Main Ledger: 10 |
 | Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409) | — | — | 10 | $0.93 | $9.29 | Main Ledger: 10 |
 | SunMint Tree Planting Pledge - QR Code | — | — | 10 | $0.00 | $0.00 | PP1: 10 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | Cacao Mass | Retail Ready | 9 | $8.52 | $76.65 | AGL6: 9 |
@@ -101,7 +101,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1572.71 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1572.68 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -115,7 +115,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 69 | 13635.406500497602 |
+| Main Ledger | 69 | 13631.406500497602 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -138,7 +138,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 1 | 10 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 17 | 1390 |
+| Kirsten Ritschel | 17 | 1386 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
