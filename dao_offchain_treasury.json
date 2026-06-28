@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T23:50:43.324Z",
+  "generated_at": "2026-06-28T23:54:14.205Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 4,
@@ -588,20 +588,6 @@
       }
     },
     {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-      "unit_weight_g": null,
-      "unit_cost_usd": 2.903378,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 14,
-      "total_value_usd": 40.65,
-      "ledgers": {
-        "Main Ledger": 14
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch CP340992687BR",
       "unit_weight_g": null,
       "unit_cost_usd": 8.878783741,
@@ -611,6 +597,20 @@
       "hs_code": null,
       "total_quantity": 10,
       "total_value_usd": 88.79,
+      "ledgers": {
+        "Main Ledger": 10
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+      "unit_weight_g": null,
+      "unit_cost_usd": 2.903378,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 10,
+      "total_value_usd": 29.03,
       "ledgers": {
         "Main Ledger": 10
       }
@@ -1178,7 +1178,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1572.713,
+      "unit_cost_usd": 1572.6763,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1486,8 +1486,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1572.713,
-          "total_value_usd": 7.472907426913679e-11
+          "unit_cost_usd": 1572.6763,
+          "total_value_usd": 7.472733043092494e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1709,10 +1709,10 @@
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "amount": 14,
+          "amount": 10,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.903378,
-          "total_value_usd": 40.647292
+          "total_value_usd": 29.03378
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -2625,8 +2625,8 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 31331.66067204075,
-    "total_value_usd": 38751.51,
+    "total_units": 31327.66067204075,
+    "total_value_usd": 38739.89,
     "ledgers_processed": 14,
     "managers_count": 38
   }
