@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T22:48:30.108Z",
+  "generated_at": "2026-06-28T23:48:49.418Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 4,
@@ -105,10 +105,10 @@
       "unit_format": "Bulk",
       "gtin": null,
       "hs_code": "1803.1",
-      "total_quantity": 368,
-      "total_value_usd": 270.59,
+      "total_quantity": 365,
+      "total_value_usd": 268.38,
       "ledgers": {
-        "Main Ledger": 368
+        "Main Ledger": 365
       }
     },
     {
@@ -217,10 +217,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 157,
-      "total_value_usd": 86.98,
+      "total_quantity": 142,
+      "total_value_usd": 78.67,
       "ledgers": {
-        "Main Ledger": 157
+        "Main Ledger": 142
       }
     },
     {
@@ -322,20 +322,6 @@
       }
     },
     {
-      "currency": "RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.554,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 50,
-      "total_value_usd": 27.7,
-      "ledgers": {
-        "Main Ledger": 50
-      }
-    },
-    {
       "currency": "USD - provisions for voting rights cash out",
       "unit_weight_g": null,
       "unit_cost_usd": 1,
@@ -392,6 +378,20 @@
       }
     },
     {
+      "currency": "RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.554,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 35,
+      "total_value_usd": 19.39,
+      "ledgers": {
+        "Main Ledger": 35
+      }
+    },
+    {
       "currency": "1 Gallon Zip Loc Bags",
       "unit_weight_g": null,
       "unit_cost_usd": 0.1405,
@@ -445,20 +445,6 @@
       "total_value_usd": 238.87,
       "ledgers": {
         "Main Ledger": 24
-      }
-    },
-    {
-      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-      "unit_weight_g": null,
-      "unit_cost_usd": 8.509333333333332,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 21,
-      "total_value_usd": 178.7,
-      "ledgers": {
-        "Main Ledger": 21
       }
     },
     {
@@ -585,6 +571,34 @@
       "total_value_usd": 0,
       "ledgers": {
         "AGL8": 14.6802
+      }
+    },
+    {
+      "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
+      "unit_weight_g": null,
+      "unit_cost_usd": 8.509333333333332,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 14,
+      "total_value_usd": 119.13,
+      "ledgers": {
+        "Main Ledger": 14
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+      "unit_weight_g": null,
+      "unit_cost_usd": 2.903378,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 14,
+      "total_value_usd": 40.65,
+      "ledgers": {
+        "Main Ledger": 14
       }
     },
     {
@@ -849,6 +863,20 @@
       "hs_code": null,
       "total_quantity": 2,
       "total_value_usd": 24.29,
+      "ledgers": {
+        "Main Ledger": 2
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+      "unit_weight_g": null,
+      "unit_cost_usd": 11.613512,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2,
+      "total_value_usd": 23.23,
       "ledgers": {
         "Main Ledger": 2
       }
@@ -1150,7 +1178,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1559.4687000000001,
+      "unit_cost_usd": 1573.7668,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1458,8 +1486,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1559.4687000000001,
-          "total_value_usd": 7.409975774517932e-11
+          "unit_cost_usd": 1573.7668,
+          "total_value_usd": 7.477914665899102e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1674,10 +1702,17 @@
         },
         {
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-          "amount": 10,
+          "amount": 3,
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.509333333333332,
-          "total_value_usd": 85.09333333333332
+          "total_value_usd": 25.528
+        },
+        {
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+          "amount": 14,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 2.903378,
+          "total_value_usd": 40.647292
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -1712,13 +1747,20 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771",
-          "amount": 368,
+          "amount": 365,
           "ledger": "Main Ledger",
           "inventory_type": "Packaging Material",
           "unit_format": "Bulk",
           "hs_code": "1803.1",
           "unit_cost_usd": 0.73529,
-          "total_value_usd": 270.58672
+          "total_value_usd": 268.38085
+        },
+        {
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 11.613512,
+          "total_value_usd": 23.227024
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
@@ -1775,17 +1817,17 @@
         },
         {
           "currency": "RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467)",
-          "amount": 50,
+          "amount": 35,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.554,
-          "total_value_usd": 27.700000000000003
+          "total_value_usd": 19.39
         },
         {
           "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
-          "amount": 157,
+          "amount": 142,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.554,
-          "total_value_usd": 86.97800000000001
+          "total_value_usd": 78.668
         }
       ]
     },
@@ -2582,9 +2624,9 @@
     }
   ],
   "totals": {
-    "item_types": 82,
-    "total_units": 31355.66067204075,
-    "total_value_usd": 38766.03,
+    "item_types": 84,
+    "total_units": 31331.66067204075,
+    "total_value_usd": 38751.51,
     "ledgers_processed": 14,
     "managers_count": 38
   }
