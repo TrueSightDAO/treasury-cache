@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-29T12:27:41.940861+00:00",
+  "scoring_hash_key": "18VJ4iWtE2UId9+ihniQ",
+  "scored_chatlogs_row": 6815,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Post-repackaging cleanup: gap analysis, implementation plan & Sophia handoff\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/629\n  \n  Details:\n  Analyzed the four known post-repackaging gaps in dao_client and created a comprehensive implementation plan for closing them.\n  \n  **What changed:**\n  - Investigated batch b08d324b (7 nibs \u2192 3 ceremonial CC + 15 chocolate bar CB QRs) to verify the repackaging GAS writes only Currencies cols A/B/N/O\n  - Identified that dao_client cannot handle any of the 4 post-repackaging cleanup tasks today (deplete inputs, add output locations, set isSerializable/SKU/farm info, rebuild inventory snapshot)\n  - Drafted POST_REPACKAGING_CLEANUP_PLAN.md \u2014 full spec for a new post_repackaging_cleanup.py module (~579 lines)\n  - Registered the plan in SOPHIA_HANDOFFS.md, pinged Sophia, debugged stale-clone issue, re-parked her in thread 7987\n  - Created agentic_ai_context PR #629 to satisfy contribution audit trail\n  \n  **Why:**\n  Every repackaging batch currently requires ~20 min of manual gspread ad-hoc edits. The plan hands off the automation build to Sophia, with detailed CLI spec, 18 unit test cases, integration tests, 5 UAT scenarios, and acceptance criteria.\n  \n  **Evidence:**\n  - GitHub PR: https://github.com/TrueSightDAO/agentic_ai_context/pull/629\n  - Plan file: POST_REPACKAGING_CLEANUP_PLAN.md (commits a27bc48, ea9fdba)\n  - Sophia handoff: thread 7987 in TrueSight DAO Ops\n- Contributor(s): Gary Teh\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: NsrNo0I98KnJl7OVK1wsozxoHYqzMzEi7h2oz7BB1n/XtlqWxp/JwYeBucxGupJ30Vm3K/Bv3M5zoM7CeousSXZki8JGvFR9Vihl7zlMC7rlZ5R6E0ww5PVIhjzF2oMxD/tEk11yulyxkRPXjt/Dx9sqXQ9t/An4DToT97lG1iJRZSHpycCt2n7TWjPTMh5H+DPg4IqIWcFR4M+Z2fUAvRDXan9Kh5XThtcH27tjzgyWqdEYXuwAX/lw3xKllxMqjQaXILYMjWVM5dSd+9HNy1AnE3nmNpjy/FT6mj35LQ0pamN/a5vU7d0dnJreuetczRk+RAnq7MvprJbHY8vUrw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260628",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-29T12:27:41.940961+00:00",
+  "scoring_hash_key": "PHlSSKJz6u4ugtPivs2A",
+  "scored_chatlogs_row": 6816,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Round-cap resilience (prevent per-turn blowouts) + sentiment_importer/dao_protocol doc cleanup\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/630\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/275\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/631\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/632\n  \n  Details:\n  Diagnosed why Sophia still hit the per-turn tool-round cap despite AUTO_ADVANCE=true: AUTO_ADVANCE removes the between-PR human gate; the firing cap is CHAT_MAX_TOOL_ROUNDS=30 (per-turn, never raised). Root-caused the 2026-06-28 POST_REPACKAGING blowout (one turn merged PR4 + auto-advanced into PR5's live cross-repo Code.gs audit). Built three prevention mechanisms: (#1) \u00a75d Pre-flight Completeness authoring gate + tracked ROUND_CAP_RESILIENCE_PLAN.md [agentic_ai_context#630]; (#2 soft-budget + #3 one-PR-boundary) graceful convergence backstop in app/turn_convergence.py + main.py with 17 unit tests [truesight_autopilot#275, open \u2014 own-repo gate]. Also disassociated sentiment_importer from dao_protocol across current-state context docs [agentic_ai_context#631] and kept the roadmap resume tracker current [agentic_ai_context#632].\n- Contributor(s): Claude Anthropic\n- TDG Issued: 200.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: UhAtApmpqQekioLTieE/4ebZdjVtEd/Phf0jVKBhxHaJUN1urGCksRJ9Nn5xTEUhgp5fzb0CcazG1d9I1eTsIy/nvshdDA/tFkYSroQX47DN8EEu+1jDKSo93272+Avd17YVnfzjmwyP4PU2ukJEQ754u9mUBHdLL7XHrOOPbb9fs1Pm7MSLpXZ1sD3weCxJMahGeKTkidWJes5kXhQ2GFHcaUmjIGEcRGTk7xDDY/n93s4bZdL4RKoxpWALRFc0lG/yyqQxlgAAxrmSIn0G2S7at7mUU6rPLsYlsjDWVGaYC1k4id9aXPM/XYs5vymg1dMvJ7UZVmvvzuuBriYRuA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "200",
+  "tdgs_issued": "0",
+  "contribution_date": "20260628",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
