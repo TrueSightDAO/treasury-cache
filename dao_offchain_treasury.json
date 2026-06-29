@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T10:49:03.840Z",
+  "generated_at": "2026-06-29T10:49:24.884Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20786.981761924962,
-      "total_value_usd": 20786.98,
+      "total_quantity": 20797.09176192496,
+      "total_value_usd": 20797.09,
       "ledgers": {
-        "Main Ledger": 4301.812913179805,
+        "Main Ledger": 4311.922913179805,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 315,
-      "total_value_usd": -472.5,
+      "total_quantity": 316,
+      "total_value_usd": -474,
       "ledgers": {
-        "Main Ledger": 315
+        "Main Ledger": 316
       }
     },
     {
@@ -686,20 +686,6 @@
       }
     },
     {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-      "unit_weight_g": null,
-      "unit_cost_usd": 2.903378,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 6,
-      "total_value_usd": 17.42,
-      "ledgers": {
-        "Main Ledger": 6
-      }
-    },
-    {
       "currency": "Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.08513,
@@ -723,6 +709,20 @@
       "hs_code": null,
       "total_quantity": 5,
       "total_value_usd": 37.47,
+      "ledgers": {
+        "Main Ledger": 5
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+      "unit_weight_g": null,
+      "unit_cost_usd": 2.903378,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 5,
+      "total_value_usd": 14.52,
       "ledgers": {
         "Main Ledger": 5
       }
@@ -1178,7 +1178,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1577.1604,
+      "unit_cost_usd": 1576.9947,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1486,8 +1486,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1577.1604,
-          "total_value_usd": 7.494039705015567e-11
+          "unit_cost_usd": 1576.9947,
+          "total_value_usd": 7.493252364438717e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1505,10 +1505,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4162.782913179805,
+          "amount": 4172.892913179805,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4162.782913179805
+          "total_value_usd": 4172.892913179805
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1709,10 +1709,10 @@
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "amount": 6,
+          "amount": 5,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.903378,
-          "total_value_usd": 17.420268
+          "total_value_usd": 14.51689
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -2356,10 +2356,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 315,
+          "amount": 316,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -472.5
+          "total_value_usd": -474
         }
       ]
     },
@@ -2625,8 +2625,8 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 31368.100672040753,
-    "total_value_usd": 38762.72,
+    "total_units": 31378.21067204075,
+    "total_value_usd": 38768.43,
     "ledgers_processed": 14,
     "managers_count": 38
   }
