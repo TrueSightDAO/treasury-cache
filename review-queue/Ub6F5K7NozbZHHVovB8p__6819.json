@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-29T20:26:03.370944+00:00",
+  "scoring_hash_key": "Ub6F5K7NozbZHHVovB8p",
+  "scored_chatlogs_row": 6819,
+  "contributor_name": "Kirsten Ritschel",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 5.69\r\n- Description: Oat milk\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 5.69\r\n- Attached Filename: Screenshot 2026-06-29 at 11.45.20\u202fAM.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260629184913_kirsten_ritschel_screenshot_2026_06_29_at_11.45.20_am.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: s2Bf5zFIzogLbJoYYw4gpmqnGQRqVYY/mkXfmKSn6dJceXRHLOYiaZEZO3rfcdiA9Dkut8iEBsrmwXXquKNSraJntte8doQsrfvcR6e79bWpZll467DIjB5z8imWfh0hosCYHsyJAz3633OxQzrGGnfqbWblKhG4EKE+bCucT5RqtzCQJH+79kC3bnRBHPM28VcBT+dGJH6f5nyrSJV67JpcU1WnJ1j2nHnyZeVeAUhwtfErXLolN5sRV52nZCwo+Bm/XXQWLwWccUWp9d6KUBMerzOdVBR2N1/SC3Hq+F/akQ0cwMXDn5zCSfNQ3IAObHbyP2mLXnDwxlqiA/IkEw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "5.69",
+  "tdgs_issued": "0",
+  "contribution_date": "20260629",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-29T20:26:03.371161+00:00",
+  "scoring_hash_key": "KJ9OI7xDiUFPBmTUIwHD",
+  "scored_chatlogs_row": 6820,
+  "contributor_name": "Kirsten Ritschel",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 60\r\n- Description: First Etsy fullfillment\r\n- Contributor(s): Kirsten Ritschel\r\n- TDG Issued: 100.00\r\n- Attached Filename: None\r\n- Destination Contribution File Location: No file attached\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB\r\n\r\nRequest Transaction ID: xpydXgdmzE0pG3hM6KQDKdShNn3g6kpAPZ29395NKpv4TQ1SpdPDsun59aRPXWh7EWQtu92QGMVE7mN6NEpIKPlO/n667ABz/E7/e5AwZUOl2spgLbqV+8qPOMH6kAah5BytcgGbhs5SacgbzpRkBdnFTMbd26Usgczvee5+3lbBmi/4veOx6+EAiQ1US+nCaXixRijz1Qp7spnCzvn9cY0mGGFUAeW5vKUk9SHnwRsxDtPqAphFSid4pMY2diS8iS+gQRz1NTSgrRk0cjVSOkk49KrRmYyQhABMSIOfxO8aB2CtBkGXH4lekVGGKPH0r10CeoE5e9JUgUfRL6rcWA==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260629",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
