@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-29T10:48:40.824Z",
+  "generated_at": "2026-06-29T10:48:53.184Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "sales_update_main",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20746.54176192496,
-      "total_value_usd": 20746.54,
+      "total_quantity": 20786.981761924962,
+      "total_value_usd": 20786.98,
       "ledgers": {
-        "Main Ledger": 4261.372913179806,
+        "Main Ledger": 4301.812913179805,
         "AGL6": 1337.5853362811577,
         "AGL4": 9036.347512464,
         "AGL8": 569.946,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 311,
-      "total_value_usd": -466.5,
+      "total_quantity": 315,
+      "total_value_usd": -472.5,
       "ledgers": {
-        "Main Ledger": 311
+        "Main Ledger": 315
       }
     },
     {
@@ -602,20 +602,6 @@
       }
     },
     {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-      "unit_weight_g": null,
-      "unit_cost_usd": 2.903378,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 10,
-      "total_value_usd": 29.03,
-      "ledgers": {
-        "Main Ledger": 10
-      }
-    },
-    {
       "currency": "Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409)",
       "unit_weight_g": null,
       "unit_cost_usd": 0.9292,
@@ -697,6 +683,20 @@
       "total_value_usd": 167.83,
       "ledgers": {
         "Main Ledger": 7
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+      "unit_weight_g": null,
+      "unit_cost_usd": 2.903378,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 6,
+      "total_value_usd": 17.42,
+      "ledgers": {
+        "Main Ledger": 6
       }
     },
     {
@@ -1505,10 +1505,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4122.342913179807,
+          "amount": 4162.782913179805,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4122.342913179807
+          "total_value_usd": 4162.782913179805
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -1709,10 +1709,10 @@
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "amount": 10,
+          "amount": 6,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.903378,
-          "total_value_usd": 29.03378
+          "total_value_usd": 17.420268
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -2356,10 +2356,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 311,
+          "amount": 315,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -466.5
+          "total_value_usd": -472.5
         }
       ]
     },
@@ -2625,8 +2625,8 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 31327.66067204075,
-    "total_value_usd": 38739.89,
+    "total_units": 31368.100672040753,
+    "total_value_usd": 38762.72,
     "ledgers_processed": 14,
     "managers_count": 38
   }
