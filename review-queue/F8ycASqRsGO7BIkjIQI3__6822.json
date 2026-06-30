@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-06-30T10:53:11.308683+00:00",
+  "scoring_hash_key": "F8ycASqRsGO7BIkjIQI3",
+  "scored_chatlogs_row": 6822,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Verifying inventory level with Kirsten\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: IMG_3380.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260630065303_gary_teh_img_3380.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0HmX4PI2iDLqsAzKl752MEIMPwCteu1ozj7PFM1LkeRM8t55ceA6nMR/cizYZ+JYApNIYZ6hg6UKukCAjvM8MHdclfT5dCP5cy/bO/lsH70YLVPqMmA0VmAr0LEGz+mGSoJ5huClHqI20+oYFv0WRmRsDxU+qDsgQfBQz6xnLLYRkJZ6oClLREOamWmsN/d1Nhm6ijkJ91icTM81pSKU8Y0zpnhLbAUSr8D+F9pvgRaOw71S3nGBN5oAAv2/KCj1OtXiNgzX6ttP4FgPor62i1PW4mdn4xM1yHMlZ+TKzefJE/qGBCSTOg6KIwlT+FawINluD8Xo7koTumFYzD8FWQIDAQAB\r\n\r\nRequest Transaction ID: B2HuoaZ4Pd/Vf1z67wtYbkb6fq8HxYxBNXh7gCDJaSREZXbnE7MZmmuB7pPIr153+LDDdsHU7P09sxdVSgAkOdSNflUnw/Cffw+DeBOIVzZTkhKT4E73uUGjHmWezQE+/92qORkmprKHH47RcjjFV7gjMP3uVq4N6m4ghiOMMrp8tCGOd8kS50WFii8sKeHHq//ZN25CNaK6sXCfC3RLow0fncNeuGvw8pxQ1kNjcRFFoi7K7D1uradESLct+pFuuNzU4yRekN2Jh8UsFFmBPGMCUYRR1y0YZ3puiNLMKZX6k3oj2oq42hg/Du/A1keHddMHAL1U82B4eK9LtgjkBQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260630",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
