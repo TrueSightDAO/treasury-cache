@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-29T10:17:41Z",
+  "generated_at": "2026-06-30T08:52:16Z",
   "source": "update_buy_back_reserve_cache.py",
   "reserve": {
     "total_usd": 41.26,
