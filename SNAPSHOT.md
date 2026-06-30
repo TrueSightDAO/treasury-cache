@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-30T20:48:35.215Z` |
+| Generated at | `2026-06-30T21:48:34.456Z` |
 | Trigger | `cron` |
 | Schema version | `4` |
 | Item types | 83 |
-| Total units | 31458.48067204075 |
-| Total value USD | $38815.56 |
+| Total units | 31462.48067204075 |
+| Total value USD | $38827.18 |
 | Ledgers processed | 14 |
 | Managers | 38 |
 
@@ -64,13 +64,13 @@
 | SunMint Tree Planting Pledge - QR Code | — | — | 10 | $0.00 | $0.00 | PP1: 10 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | Cacao Mass | Retail Ready | 9 | $8.52 | $76.65 | AGL6: 9 |
 | 8 Ounce Package Kraft Pouch - AGL6 | — | — | 9 | $9.21 | $82.93 | AGL6: 9 |
+| Agroverse 81% Cacao Chocolate Bar 50g \| 8 Ounce Nibs CP340992735BR \| Kirsten 20260620 \| San Francisco - AGL4 | — | — | 8 | $2.90 | $23.23 | Main Ledger: 8 |
 | 8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags | — | — | 7 | $8.34 | $58.41 | Main Ledger: 7 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 7 | $23.98 | $167.83 | Main Ledger: 7 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | Caramelized Cacao Bean | Retail Ready | 6 | $8.09 | $48.51 | AGL10: 6 |
 | 8 Ounce Package Kraft Pouch - AGL2 + V2 bags | — | — | 5 | $7.49 | $37.47 | Main Ledger: 5 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 5 | $8.32 | $41.58 | Main Ledger: 5 |
 | Large Cardboard Box for Moving Packaging 60x40x50 | — | — | 5 | $2.65 | $13.27 | Main Ledger: 5 |
-| Agroverse 81% Cacao Chocolate Bar 50g \| 8 Ounce Nibs CP340992735BR \| Kirsten 20260620 \| San Francisco - AGL4 | — | — | 4 | $2.90 | $11.61 | Main Ledger: 4 |
 | Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409) | — | — | 4 | $10.45 | $41.81 | Main Ledger: 4 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8 | Cacao Mass | Retail Ready | 4 | $9.18 | $36.70 | AGL8: 4 |
 | Cacao Mass Bar (40grams) CP340993869BR - AGL8 | — | — | 3.25 | $1.90 | $6.16 | AGL8: 3.25 |
@@ -100,7 +100,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1573.02 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1569.50 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -114,7 +114,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 68 | 13762.226500497598 |
+| Main Ledger | 68 | 13766.226500497598 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -137,7 +137,7 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 1 | 10 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 16 | 1378 |
+| Kirsten Ritschel | 16 | 1382 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 |
 | Matheus Reis | 22 | 2012.7151227979998 |
 | Micheal Johnson | 5 | 72 |
