@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-06-30T01:18:54.808Z` |
-| Trigger | `process_sales` |
+| Generated at | `2026-06-30T01:23:06.294Z` |
+| Trigger | `expense_processing` |
 | Schema version | `4` |
 | Item types | 83 |
 | Total units | 31458.48067204075 |
@@ -100,7 +100,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1590.32 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1590.51 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
