@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-01T03:48:46.881Z",
+  "generated_at": "2026-07-01T04:45:42.583Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "manual",
   "schema_version": 4,
   "items": [
     {
@@ -12,12 +12,11 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 20876.36176192496,
-      "total_value_usd": 20876.36,
+      "total_quantity": 11840.01424946096,
+      "total_value_usd": 11840.01,
       "ledgers": {
         "Main Ledger": 4391.192913179804,
         "AGL6": 1337.5853362811577,
-        "AGL4": 9036.347512464,
         "AGL8": 569.946,
         "AGL10": 330.83,
         "SEF1": 16,
@@ -1164,7 +1163,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1586.623,
+      "unit_cost_usd": 1592.6000000000001,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1472,8 +1471,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1586.623,
-          "total_value_usd": 7.539002221264822e-11
+          "unit_cost_usd": 1592.6000000000001,
+          "total_value_usd": 7.567402550943959e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2404,19 +2403,6 @@
       ]
     },
     {
-      "manager_name": "TrueSight DAO",
-      "manager_key": "TrueSight%20DAO",
-      "items": [
-        {
-          "currency": "[AGL4] USD",
-          "amount": 9036.347512464,
-          "ledger": "AGL4",
-          "unit_cost_usd": 1,
-          "total_value_usd": 9036.35
-        }
-      ]
-    },
-    {
       "manager_name": "USPS",
       "manager_key": "USPS",
       "items": [
@@ -2604,9 +2590,9 @@
   ],
   "totals": {
     "item_types": 83,
-    "total_units": 31462.48067204075,
-    "total_value_usd": 38827.18,
+    "total_units": 22426.13315957675,
+    "total_value_usd": 29790.83,
     "ledgers_processed": 14,
-    "managers_count": 38
+    "managers_count": 37
   }
 }
