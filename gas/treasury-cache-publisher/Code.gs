@@ -13,12 +13,11 @@
  * (+ a human-readable SNAPSHOT.md) via the GitHub Contents API.
  *
  * Triggers (all call publishTreasuryCache_):
- *   - HTTP: GET ?action=publish&token=<TREASURY_CACHE_PUBLISH_SECRET>&trigger=movement|cron|manual
+ *   - HTTP: GET ?action=publish&trigger=movement|cron|manual
  *   - Time-driven: publishTreasuryCacheCron (install via Apps Script Triggers UI)
  *
  * Script properties (set in Project Settings → Script properties):
  *   - TREASURY_CACHE_PAT              (GitHub fine-grained PAT, contents:write on treasury-cache)
- *   - TREASURY_CACHE_PUBLISH_SECRET   (shared secret for the HTTP trigger)
  *   - INVENTORY_SPREADSHEET_ID        (default: Main Ledger 1GE7PUq-...)
  *   - TREASURY_CACHE_GITHUB_OWNER     (default: TrueSightDAO)
  *   - TREASURY_CACHE_GITHUB_REPO      (default: treasury-cache)
@@ -82,11 +81,6 @@ function doGet(e) {
   }
 
   if (action === 'publish') {
-    var token = (e && e.parameter ? String(e.parameter.token || '') : '').trim();
-    var expected = prop_('TREASURY_CACHE_PUBLISH_SECRET', '');
-    if (!expected || token !== expected) {
-      return jsonResponse_({ ok: false, error: 'unauthorized' });
-    }
     var trigger = (e.parameter.trigger || 'manual').toString().trim() || 'manual';
     return jsonResponse_(publishTreasuryCache_(trigger));
   }
@@ -95,7 +89,7 @@ function doGet(e) {
     ok: true,
     service: 'treasury-cache-publisher',
     schema_version: SCHEMA_VERSION,
-    hint: 'GET ?action=publish&token=<secret>&trigger=movement|cron|manual to regenerate and commit the treasury snapshot.'
+    hint: 'GET ?action=publish&trigger=movement|cron|manual to regenerate and commit the treasury snapshot.'
   });
 }
 
