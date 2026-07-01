@@ -1,0 +1,27 @@
+name: Poke lineage cache
+
+# When dao_members.json is pushed (the reliable heartbeat — refreshed on
+# every [EMAIL VERIFICATION EVENT] via Perch Sidekiq worker + daily
+# safety-net trigger), dispatch a build-cv-cache run on lineage-credentials.
+# This ties the index rebuild to a push event (never dropped) rather than
+# a cron schedule (sometimes dropped by GitHub).
+#
+# Requires: LINEAGE_DISPATCH_PAT secret (PAT with actions:write on
+# TrueSightDAO/lineage-credentials).
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'dao_members.json'
+
+jobs:
+  poke:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Dispatch build-cv-cache on lineage-credentials
+        env:
+          GH_TOKEN: ${{ secrets.LINEAGE_DISPATCH_PAT }}
+        run: |
+          gh workflow run build-cv-cache.yml \
+            --repo TrueSightDAO/lineage-credentials
