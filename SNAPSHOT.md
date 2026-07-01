@@ -5,20 +5,20 @@
 
 | | |
 |---|---|
-| Generated at | `2026-07-01T03:48:46.881Z` |
-| Trigger | `cron` |
+| Generated at | `2026-07-01T04:45:42.583Z` |
+| Trigger | `manual` |
 | Schema version | `4` |
 | Item types | 83 |
-| Total units | 31462.48067204075 |
-| Total value USD | $38827.18 |
+| Total units | 22426.13315957675 |
+| Total value USD | $29790.83 |
 | Ledgers processed | 14 |
-| Managers | 38 |
+| Managers | 37 |
 
 ## Items (83, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 20876.36176192496 | $1.00 | $20876.36 | AGL10: 330.83, AGL15: 5101.339999999998, AGL4: 9036.347512464, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4391.192913179804, SEF1: 16 |
+| USD | — | — | 11840.01424946096 | $1.00 | $11840.01 | AGL10: 330.83, AGL15: 5101.339999999998, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4391.192913179804, SEF1: 16 |
 | Brazilian Reis | — | — | 2748.8699999999985 | $0.23 | $638.56 | AGL8: 236.89999999999827, Main Ledger: 2511.9700000000003 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -100,7 +100,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1586.62 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1592.60 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -110,7 +110,6 @@
 | AGL13 | 3 | 136 |
 | AGL14 | 1 | 40 |
 | AGL15 | 1 | 5101.339999999998 |
-| AGL4 | 1 | 9036.347512464 |
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
@@ -118,7 +117,7 @@
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (38)
+## Managers (37)
 
 | Manager | Line items | Total units |
 |---|---:|---:|
@@ -156,7 +155,6 @@
 | Tess Walkowski | 2 | 13 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 |
-| TrueSight DAO | 1 | 9036.347512464 |
 | USPS | 1 | 49.09 |
 | Val Lapidus | 11 | 1270 |
 | Yasmin | 1 | 40 |
