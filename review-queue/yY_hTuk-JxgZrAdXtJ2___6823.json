@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-01T11:20:01.218030+00:00",
+  "scoring_hash_key": "yY/hTuk+JxgZrAdXtJ2/",
+  "scored_chatlogs_row": 6823,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Members page single-source: PR1 + PR2 (cron bump + event-driven poke)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/lineage-credentials/commit/2987dcdacd71a88cf468cd73e7b46f90684a101f\n  - https://github.com/TrueSightDAO/treasury-cache/commit/68c24d27cc0d39e6066f460a895b54bccc4c302f\n  \n  Details:\n  Executed first two units of MEMBERS_PAGE_SINGLE_SOURCE_PLAN.md:\n  \n  **PR1** \u2014 lineage-credentials: bumped build-cv-cache.yml cron from 0 */6 * * * \u2192 0 */2 * * * (6h\u21922h). Reduces staleness window. Auto-effective on commit.\n  \n  **PR2** \u2014 treasury-cache: created poke-lineage-cache.yml \u2014 event-driven dispatch that fires build-cv-cache on lineage-credentials whenever dao_members.json is pushed. Ties index rebuild to the reliable dao_members heartbeat.\n  \n  **Gate for PR2:** needs LINEAGE_DISPATCH_PAT secret added to treasury-cache repo settings.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: flE6t/S7+SQH0gLJJg9JjuZ5zF9osQQczWGuE4xdcd9cmm6F+uYsEJpd2InDfSSaXEtexqKPIvK0s7aqohW7zzhtenkBKPnkUGNnSQE3aizOI24FeIV0M0PcTolSvCKIu8i/w8JqkIu/2/cW4zCfGX03QTi3HcrsTChqRUjQFgAJ4vREiYL4E6Hj/y50ZuV4AQfWvQrGOhOlYxdGGQqF4vj5WtmH+VTvGyC5Y7muNx4mnJSRy9ito9MU3Ys1lKK/ea/J+79wqMU+7dvoFBYrJrLEd5uI84UVSY3DJU9sIWvWvgUE0kL/wPr0vYFWINo1dREFVu1GPGOJ+WHzDFk7bQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260701",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

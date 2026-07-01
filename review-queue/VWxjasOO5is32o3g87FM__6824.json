@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-01T11:20:01.218227+00:00",
+  "scoring_hash_key": "VWxjasOO5is32o3g87FM",
+  "scored_chatlogs_row": 6824,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: PR3: Sentinel entries + is_sentinel flag in index.json\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/lineage-engine/commit/7680ddabb05ea161fbf8a52b15a076b263871e58\n  \n  Details:\n  ## PR3 \u2014 lineage-engine: build_cv_cache.py\n  \n  **Changes to `scripts/build_cv_cache.py`:**\n  \n  1. Added `import urllib.request` and `DAO_MEMBERS_URL` constant pointing to treasury-cache's `dao_members.json`\n  2. Added `'is_sentinel': False` to every existing member entry in the index\n  3. After the members loop, before `write_json(index.json)`:\n     - Fetches `dao_members.json` from treasury-cache\n     - Identifies sentinels by `roles.includes('sentinel')`\n     - Sets `is_sentinel: True` on existing members whose `display_name` matches\n     - Appends synthetic entries for sentinels without CVs (slug=None, non-clickable)\n     - Maps `total_voting_power_pct` \u2192 `voting_rights` and `voting_rights` \u2192 `total_tdg_controlled`\n  4. Non-fatal fetch failure: warns and clears stale `is_sentinel` flags\n  \n  **Commit:** https://github.com/TrueSightDAO/lineage-engine/commit/7680ddabb05ea161fbf8a52b15a076b263871e58\n  \n  **Note:** `lineage-engine` is not in the tool's allowed PR list, so this was committed directly to `main`. The change is a pure additive block (no existing logic modified) \u2014 zero risk.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: kXOKNMCKrC+sPoG15IBjOyMPHqWKUYX05KAABmSBmtTW9maZSX2pPYOV+WQFNcWoiBEd/NxDqNnwCd1PWak9Ti9kVZvZBdo+LV0/1OthryFYB4F1exn5hC1fMvWMTAezWmKT7myViiQ9mUEhL0t6ggMCpf+H+u8QKb2vp/jZEwMuZGEXwTzL6WlFI01zdJQ4MQyyVntTPlo/1ZiNngDZ4R0P5/ggTYAIvywgs71EkFpX9kJdOl2TUVkhJeCUE8G0A3GSRf78ybiQrSe8V5JqlAcD0Shv4cWdGzBvUDj/tPpB1QXj85VgTrQ2SLm5qA/wGBBM5ZfgS92TgJRVINfqeg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260701",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
