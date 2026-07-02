@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-02T10:33:10.440328+00:00",
+  "scoring_hash_key": "i7LYWZ6AYUzrIqI+UrSo",
+  "scored_chatlogs_row": 6827,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Contributor(s): Sophia Truesight (admin+sophia@truesight.me)\n- Description: Fix: skip non-trading days in large dips date navigation. Two PRs: (1) controller validates date has trades, redirects to nearest trading day; (2) date nav pills query DB for actual trading days instead of calendar days. Merged and deployed to seni_ror.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: Pzid5nfHxi4fczYpwBcDhVZPQE2CexJLN2wxFVuSf3694MCzanwX6ResfFbA3W6NwAaVOjBSWUlWIAQJQq3e2G+f0GR6zo1Nuqkr/SXQSXKA5om5KZpLU1j/8ouLWLCki1cFHyfebEly13RV7SxlWiZxZNEEz1ysM0jNOIxuZBJxX2bPrPrLcsGv81JWXwbSvLZ8x7eH1SpN6vNNjHZGmhNZkMEky/8qB6oHMqtRkyXxfbeqxDQtfwGpLJKb9igbYqDm9KzugJuA/MabK682JTf1T5JTLWzcK8vywdiCF8MySkKznlj5LXDcPSavgoT60jwuu+TpHlLYfgMxjWGNgg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260701",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

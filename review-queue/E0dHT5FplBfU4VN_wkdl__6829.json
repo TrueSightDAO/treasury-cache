@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-02T10:33:10.440653+00:00",
+  "scoring_hash_key": "E0dHT5FplBfU4VN/wkdl",
+  "scored_chatlogs_row": 6829,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Follow up on Nelanco AWS Account hack charges in May\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: Case Details _ AWS Support Console.pdf\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260702015033_gary_teh_case_details___aws_support_console.pdf\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: fIaVbU4z1NPnvUsjJd0HdgIFkCdGPnK+kSXZekOfHTNNfN5o8RrouoGB3YO9mx8wNVNErOX5mFI6gq1q0DPf6XY20F09POwlv5PKZ3h37FBKqOL7zvWraS3/FLXZDB//ZuLqnfxBBavgAT27hzVTkX/6z1zlzYKqkhwiZGaea/YpM5WkDWLRfd16Azknvj85QiPJj1eljHRIMo/slbr8nkreOt7Hu1cc7VnYlRi2eU0JsXT2u6RU9s4Bp//RRyeDAK750bNtfQ3aBVuUH2X7hbTncz5+c5wmwovzaki3evUrbywhm7cTHo6O5a8W4nLACP0VLrgBrk4i7udJ8A+52A==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260702",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-02T10:33:10.440996+00:00",
+  "scoring_hash_key": "afjhFM+RsHA0aAS9uv8T",
+  "scored_chatlogs_row": 6832,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Large Spike Index (/large_spikes) \u2014 roadmap + Sophia handoff\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1098\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/639\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/640\n  \n  Details:\n  Designed and authored the execution roadmap for the Large Spike Index (/large_spikes) \u2014 the bullish/momentum mirror of the sell-off index (surfaces breakout/leadership names like MU, INTU for continuation trades, the 'other half' of /large_dips). Traced the full dip lifecycle in sentiment_importer, discovered the existing crypto spike stack + first_spike column, and scoped a \u00a75a one-PR-per-turn plan (migration + mark_large_spikes predicate, breadth index refresher, view + sector lens, backfill + UAT) with a \u00a75d-complete pre-flight. Merged the roadmap (sentiment_importer #1098), registered the handoff in HANDOFF_MANIFEST.md + SOPHIA_HANDOFFS.md (#639, #640), and parked Sophia GO-ready in Telegram thread 8297.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: Fk6x1+vQIkn4veOKUCsS94tGxqu9LfRwZdbaMp/7nzjjOOKPuX5JzGjzAAPS+3WU7WY3gCfjv8yrMS8eqg477kEjn295+HwsYnyljbgidREzSx27GtdwdUgCqFbF1dJp1MBWO7Te0/Wn8crRVjVMnml/nyp0cL7NJRVAEMKsBUF499HwzNsMrr9zMki/Yq0s5sBhPw8SNpexROgpAy59V78lAVJ6qXM7Wv8cV5mfkzF/X8raoAeEpcIGEPjk4TYpu40VBRwf52GptfORJr1mCU4eFP/OwzkTJcPzcLdPtUIJy5+81+0NTeEcu27O4Z51CX7ALNffWfb2tgj7CgaFNQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260702",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
