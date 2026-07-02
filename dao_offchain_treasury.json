@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T06:00:43.716Z",
+  "generated_at": "2026-07-02T06:49:19.777Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -1163,7 +1163,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1625.1691,
+      "unit_cost_usd": 1625.5096,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1471,8 +1471,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1625.1691,
-          "total_value_usd": 7.722157976299948e-11
+          "unit_cost_usd": 1624.7001,
+          "total_value_usd": 7.719929474606871e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1694,10 +1694,10 @@
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "amount": 8,
+          "amount": 1,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.903378,
-          "total_value_usd": 23.227024
+          "total_value_usd": 2.903378
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -1806,6 +1806,19 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.554,
           "total_value_usd": 78.668
+        }
+      ]
+    },
+    {
+      "manager_name": "Linda Gorski",
+      "manager_key": "Linda%20Gorski",
+      "items": [
+        {
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+          "amount": 7,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 2.903378,
+          "total_value_usd": 20.323646
         }
       ]
     },
@@ -2593,6 +2606,6 @@
     "total_units": 22376.13315957675,
     "total_value_usd": 29740.83,
     "ledgers_processed": 14,
-    "managers_count": 37
+    "managers_count": 38
   }
 }
