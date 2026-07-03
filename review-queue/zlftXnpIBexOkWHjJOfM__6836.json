@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-03T10:30:46.829944+00:00",
+  "scoring_hash_key": "zlftXnpIBexOkWHjJOfM",
+  "scored_chatlogs_row": 6836,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 1155\n- Description: Large Spike Index \u2014 code review rectification (RX1\u2013RX4) + regime gauge redesign\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1108\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1109\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1110\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1111\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1114\n  \n  Details:\n  Rectification of the /large_spikes feature based on Claude's code review (LARGE_SPIKE_INDEX_REVIEW_AND_RECTIFICATION.md).\n  \n  PRs shipped:\n  - #1108 (RX1): Wired LargeSpikeIndexRefresher at EOD (eod_hd_price_refresher.rb) and intraday (daily_trades_importer_intraday.rb) enqueue sites \u2014 fixes silent staleness where the spike index never refreshed at end-of-day.\n  - #1109 (RX2): Regenerated db/schema.rb with large_spike column + index via db:migrate \u2014 fixes fresh DB setups where the column was missing.\n  - #1110 (RX3): Added spike breadth chart \u2014 MacroIndicator.spike_* methods, chartjs_spike_* helpers, _spike_chart.html.erb partial plotting LARGE_SPIKE_INDEX (previously rendered the dip chart \u2014 wrong signal).\n  - #1111 (RX4): Request specs for /large_spikes \u2014 200, spikeChart rendering, non-trading-day redirect (required by OPERATING_INSTRUCTIONS \u00a79).\n  - #1114 (Regime Gauge): Redesigned breakout chart as a purpose-built regime gauge (Gary's specification). 3 series only: Participation, Norm, Over-extended threshold. Removed misleading 'Buy Zone' band. Y-axis in %, 'How to read this gauge' caption. Removed dead middle/lower bollinger code.\n  \n  Deployed to production (perch.truesight.me) via ./deploy.sh + db:migrate.\n- Contributor(s): Gary Teh\n- TDG Issued: 1925.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: LWVB4uObMt1PLbZjDowDSbk7a0InGT4DFVG82OkgbIfiN8TgDIa1k9LtFYARzLuw7eFmh6BysGrKZ/swvUk/Do5Yk+LiUIloJROPIg8UCK0U6DqWBQawnB5jzzWnhM3WKkIs3kFj/Lc2YsqYecIpc5qXw/5iCIzFFL8qj24RdUE34GG5YgXYcuqwJJimCyRrRoGbnp0FEmqCAnnHL7m6Ev+kwa8Neo/ox0Cb2w3Z4kI2acglucoEHFkEqyASg2jDAMxlF2/Ts1VtQ0RBoaquxVbl8qT+nGkJxKFdzni8Rys5HI6KmdEbV7sr2sLj6xwU2Q5STqR+C+GuXitXZFaLSg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "1925",
+  "tdgs_issued": "0",
+  "contribution_date": "20260703",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

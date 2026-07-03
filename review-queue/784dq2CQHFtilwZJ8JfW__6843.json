@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-03T10:30:46.830702+00:00",
+  "scoring_hash_key": "784dq2CQHFtilwZJ8JfW",
+  "scored_chatlogs_row": 6843,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: Diagnosed and resolved dao_members.json regression where only ~18 key-holders appeared instead of all 409 DAO contributors.\n  \n  Identified the issue as stale Google Apps Script deployments: the same DaoMembersCache.js was deployed at multiple versions, with sentiment_importer pointing to an old deployment (@19) that lacked the Pass-2 Contact sheet seeding. Directed AI agent to use clasp to redeploy all 6 stale deployments to latest version (@24-@29), resolving the intermittent 18-contributor commits.\n- Contributor(s): Gary Teh\n- TDG Issued: 8.33\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: h+FHpVxwRwVU3Ia0AYAnz6NZ93sVc0avsRZdht+X7cDl+8t/kW1Jq+UhNamL7M2ao/NwXeEKnQOkGx7KlIkMh9qOhGROD/9UzxuUiLqdwVHeJd9FQH+z0nh9rq3cfpIBXvbiKy1dDVABp4qTXczqfjvtdxTGr9ncg0uVY3qO9ndHDUhYJ0RpjpMbADl/VQCrLGxxJw93diJ0CIZVJnG37YvWzVQaG9cjIQprlbQYFLZzbSSd5nfdlly4D3Kp6OT8ejxzVoJkYgcyiKjAc9KI9PPp/RFmWYGymJJ2V/otkiHNhRuZXJKox2vzYFCZPfCJ2LaUOJEY9XuvQaz70F5aQA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "8.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260703",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

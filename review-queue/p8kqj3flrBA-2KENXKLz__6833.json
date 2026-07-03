@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-03T10:30:46.829494+00:00",
+  "scoring_hash_key": "p8kqj3flrBA+2KENXKLz",
+  "scored_chatlogs_row": 6833,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Code review + rectification roadmap: Large Spike Index (/large_spikes)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1107\n  \n  Details:\n  Reviewed DeepSeek's full /large_spikes implementation (PR0-PR7) in sentiment_importer by diffing each spike PR against the /large_dips reference across model, workers, helpers, controller, views, config, migration. Found 2 functional gaps (spike index never refreshes at EOD/intraday-inline enqueue sites; header chart plots dip breadth instead of the spike index), 2 correctness/process gaps (schema.rb not dumped with large_spike; promised request specs missing), plus low-priority notes. Authored a fully pre-flighted (one-PR-per-turn) rectification roadmap for DeepSeek handoff.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: OexsLBrKNa4beJcdIvkIMyAxAT/8c2cFgKilENjTOwkQW55M6QNqVgqMMKQC/gHtA5xXpjaT4bh3ukkRdcHKEAY5A49sP0j7jJqlDqB3aUpTVXLNBQxpV8Peb+ngxoIhWPviW/84FFvTktmDU8mPkWukShJk4uidc9LSoo6FiGIcxUnR9s9LxwzT2KikOJwSX0xVdwxikCVuZGVkU8oJHbeIWF4ItL181l4m43QHxG3LSxehfktgzgWP1x+ubSihZWIR526je7Oyl4+4QJjxyLln9Ct8rQ9MIuHq49811s+/Uml9mtrFF0G07pE96QQdpzziJFbeDlbE90qIko85Sg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260703",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

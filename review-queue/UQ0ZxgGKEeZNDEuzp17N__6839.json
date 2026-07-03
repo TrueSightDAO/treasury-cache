@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-03T10:30:46.830261+00:00",
+  "scoring_hash_key": "UQ0ZxgGKEeZNDEuzp17N",
+  "scored_chatlogs_row": 6839,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Implementation plan: make dao_client compute TDG (LLM-proof contribution submissions)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/137\n  \n  Details:\n  Root-caused why LLMs submit wrong TDG (the generic truesight-dao-report-contribution CLI stamps the caller's --tdg-issued verbatim, while the dapp + report_ai_agent already compute it), surveyed the Python client (build_event_cli factory, modules, rubric fn), and authored a complete paste-ready DeepSeek handoff plan: shared rubric.py (SSOT), a derive hook in build_event_cli, report_contribution recomputing TDG from Type+Amount with mismatched --tdg-issued ignored+warned (Gary's option a), report_ai_agent refactored to the shared rubric, plus tests. Corrected repo target (Python client lives inside TrueSightDAO/dao_protocol) and flagged the USDT rubric as an open decision.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 50.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: BivjFUn2zLEGnpwE+h1fEyzdjZ8nyUlxip4PF4Dm6claY/tsedcG4L+5OYlWQ7E6LrMSVxWxLTxl/aNiajEfuqifg9ZhGe4qyhWXwF89NdR8oZ2ZWCnrj4JLI6Fkb95/6GeVv4tmj4EHap8el7fIYB68eYbmxPtvS5Jp6OMWIO2y0+P1eboXvi83cjUCWm/1RswD87zHV2L8HRqlqhp3RJhyKDm16Lt9uN3CnWHJGVIL7/XXBN5gYzKHIhXTx4IIjHD1Tp6GqwXdlK5Hb9GP4xOOaOyGWpCYbHJkk24q1yr85naly5ndXUkfvSc9ek3PuJdTxH1Fq5lUviYVv/sayQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260703",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

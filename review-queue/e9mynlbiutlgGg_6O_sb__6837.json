@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-03T10:30:46.830049+00:00",
+  "scoring_hash_key": "e9mynlbiutlgGg/6O/sb",
+  "scored_chatlogs_row": 6837,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Design + review collaboration on the /large_spikes breakout dashboard (sentiment_importer): directed the code review of DeepSeek's implementation, worked through how a breakout-breadth chart should be used vs the sell-off chart, decided the breakout chart should be its own thing (regime gauge, not a sell-off clone), and steered the handoff plan for DeepSeek. Ref PRs #1107, #1112, #1113.\n- Contributor(s): Gary Teh\n- TDG Issued: 75\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: V8bUZzQBBf+kIysqmMPI4b+pmxkYoVrqdb8q12XcQTr737B5ZYKTLS9Qs4p+x/OY1c4gx23daKVRamw/UK+TjRqfec7lSrhFKW8JeCB5caxLuIq2umHawTwgH9r9IkDfa/24DaEP6QBTos8DTIoQfU5vMcZR7QovaY5YTK1CHAp2nL1z1ioPtmNXYbxUK+RokMVZKJ85b3+cuVXmtvZiRzsu5u7O0nwdMSj0znyKTce/aCaEWLCPNNQ6JUfrZantSUG55mOxxR1O+HwY421/emSZI/i7FCLE9/6lx2LrixulZN/9pAYPelIrvxrBaRx9t6KtTGU97/3O8ZFYN3EEUQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260703",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

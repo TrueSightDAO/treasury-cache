@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-03T10:30:46.829713+00:00",
+  "scoring_hash_key": "grZn/pFzbGcXnoJRzx+C",
+  "scored_chatlogs_row": 6834,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 35\n- Description: Breakout chart design (regime gauge) + ready-to-build implementation plan\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1112\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1113\n  \n  Details:\n  Reframed the /large_spikes breakout chart as its own purpose-built component (regime gauge) rather than a relabeled sell-off-chart clone, and authored a complete paste-ready implementation plan for DeepSeek. Includes the full replacement _spike_chart.html.erb (3 series: Breakout Participation + Norm/SMA + Over-extended threshold; drops the misleading lower 'Buy Zone' band), read-semantics, dead-helper cleanup, verify steps, and one-PR scope. Verified DeepSeek's interim progress (RX1 EOD/intraday enqueue wiring, RX2 schema dump, RX4 request specs now merged).\n- Contributor(s): Claude Anthropic\n- TDG Issued: 58.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: LrD5B0fRQR2J/m78YncueALCJ3A9hxwk8GZizrYUVAHsmSxG0omfPlJ9DMLtsWsO4bm60ybCYMp5eFH6qN9l48+oz2n926vJxcei8WRQsT8br7nX9pbRmqJgmtH31lcaaVUVEOQ6cGpR2GfikhDZgH2keMTONZWcyzVUpMIORL81n9so54gtN9YgqZj9D211wlq/YRUcoeBtc//Atb0qbTWM4RulZrW0uN1celAZLu3LqCiFa6tq4Sd+RpSx4hE29otY1KS4caga0fF7vEWTUPIp9kmj74wSBNXDz5S7ED2lAHfXGkE14ujtaGj9qEc8LYX+sLWhVq5ERqaSnDRg6w==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "58.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260703",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

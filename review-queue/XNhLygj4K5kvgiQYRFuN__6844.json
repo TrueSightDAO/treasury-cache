@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-03T10:30:46.830799+00:00",
+  "scoring_hash_key": "XNhLygj4K5kvgiQYRFuN",
+  "scored_chatlogs_row": 6844,
+  "contributor_name": "Deep Seek",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Root-caused and fixed dao_members.json regression (only key-holders appearing instead of all 409 contributors).\n  \n  Investigated commit history across TrueSightDAO/treasury-cache to identify two deployment versions of the same GAS script (DaoMembersCache.js) running concurrently. The sentiment_importer default webhook URL pointed to deployment @19 (pre-Pass-2 code) which only seeded from the Signatures sheet (~18 contributors), while the cron trigger ran @HEAD which included the Pass-2 Contact sheet seeding (~409 contributors).\n  \n  Used clasp to update all 6 stale GAS deployments (deployment IDs: @12, @18, @19, @20, @21, @22) to the latest code with the two-pass merge that seeds ALL names from Contributors contact information. Same URLs, now running latest code. No config changes needed.\n  \n  Verified: all 8 deployments now at @23-@29 (HEAD/latest) with contributor-all-names seeding.\n- Contributor(s): Deep Seek\n- TDG Issued: 25.00\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: UgWvKBLa0tfhxgFbcmaDnTOZssbkxJLrsLaDTtUVFlCrSPD1sAEhE/8V6xoSh5rWlVTKZ7R/NFX5ir9voOMpr6CgcXLiTHISB9Agr6DrXJFwiWJAj9QjQCGaUM0pYgkCedk8qN8e6Pso+GqrBmqpo6pBqcmvGD01/cwirI6W0ZkRHMq2ij7/pNP06Rm+VRqOui5YHtMW+3cKvbQ0EYEtY+B1t+TYTvYz1QxXTScv1iK9M9Xz8rrO1AsKPHoESapIk52Xv2PtasHc6HJb1vgQuhuzQevwLd1Wr4iTUe++A3CEX7+nrSoQsWOmKGNLIvno+tRPAG9Jsg2BKCbFk49Gpw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260703",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
