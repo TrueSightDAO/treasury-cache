@@ -5,14 +5,14 @@
 
 | | |
 |---|---|
-| Generated at | `2026-07-03T00:20:41.257Z` |
-| Trigger | `movement` |
+| Generated at | `2026-07-03T00:48:37.566Z` |
+| Trigger | `cron` |
 | Schema version | `4` |
 | Item types | 83 |
 | Total units | 22376.13315957675 |
 | Total value USD | $29740.83 |
 | Ledgers processed | 14 |
-| Managers | 38 |
+| Managers | 39 |
 
 ## Items (83, sorted by total quantity)
 
@@ -100,7 +100,7 @@
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1698.94 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1696.68 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -117,7 +117,7 @@
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (38)
+## Managers (39)
 
 | Manager | Line items | Total units |
 |---|---:|---:|
@@ -136,10 +136,11 @@
 | Jae Nice | 1 | 7 |
 | Jenifer Runnion | 1 | 10 |
 | Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 16 | 1375 |
+| Kirsten Ritschel | 15 | 1374 |
 | Linda Gorski | 1 | 7 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 |
 | Matheus Reis | 22 | 2012.7151227979998 |
+| Micaelly  Pinheiro | 1 | 1 |
 | Micheal Johnson | 5 | 72 |
 | Miss Tomato - Asad | 1 | 10 |
 | Nima Kaz | 1 | 3 |
