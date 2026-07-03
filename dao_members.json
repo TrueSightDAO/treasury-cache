@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-03T03:46:30.058Z",
+  "generated_at": "2026-07-03T04:02:10.819Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
@@ -1817,7 +1817,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjz65oTPCrTi5EtWlj08s/zjCI/tunYgccy3uPI7VH+b89IsRHcERebdiLivk19w4S0uE2CGDaoAhWoC6KN7KmzQXZUy6fBKk72jlzb6zSwPjD8T1PCu1nH/UxiiXSn80jgGE1zLZaytzOUoG+rClj2wslAvRNodneUsNPWEpHQ+sezhp+PW3g/MQcjOFE6XkG846bVJ+KbKlupGX+2LTrgs+MQHew5KToOvwHfprg6h0b2ecOUYa/WXrd+NswW36xNNIcjxXs+1c8rW9uRYTEJ3ZYfRYXBnChvYPRF82MFcbghZEQ/ZL8rjbAv17vdwfcxWPIyI+qFSlmTR8TS3EwIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-05-30T02:28:50.000Z",
-          "last_active_at": "20260702 20:38:18"
+          "last_active_at": "20260702 20:59:59"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqMmeMipeHODWq/baLnHPfDx8SFCY1BnT8cLsTMdTG/vJceMev1Z5vYb22cvsuo9sjxhw1AMdBfr45WSoJmCh3y2OkR2OUMy+Z5dhTRDN/gaLG7jrT0LncGbTygcVauepo0jqMvEWWojRammPZXsdAPFx5bfiqx+YRO7hL2inNrnjzhfllx43b+m2akRXxtmo4jw6iCJ5cmnNxs6qPAflnijh1uXd12EH5ChFvtFbfvIaxXIMyDYVN4ZWlEUCak2Fv1g84dSaBYHL86T6oUE6Cty6PrtnF20vWagB6Hq7HnQWJX7XyVXQ5rk9uMAXME1aSzyCTYHjwXPLwISTw6g8iwIDAQAB",
