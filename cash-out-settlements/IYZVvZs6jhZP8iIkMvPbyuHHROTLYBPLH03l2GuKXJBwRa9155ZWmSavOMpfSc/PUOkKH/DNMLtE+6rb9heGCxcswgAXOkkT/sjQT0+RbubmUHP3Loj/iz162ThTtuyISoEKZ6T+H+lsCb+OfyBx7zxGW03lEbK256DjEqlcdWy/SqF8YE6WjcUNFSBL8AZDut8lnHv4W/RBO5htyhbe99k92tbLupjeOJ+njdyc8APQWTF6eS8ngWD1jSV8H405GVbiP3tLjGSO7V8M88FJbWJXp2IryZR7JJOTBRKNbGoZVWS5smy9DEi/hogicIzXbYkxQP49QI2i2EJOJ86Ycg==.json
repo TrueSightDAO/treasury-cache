@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "settlement_id": "IYZVvZs6jhZP8iIkMvPbyuHHROTLYBPLH03l2GuKXJBwRa9155ZWmSavOMpfSc/PUOkKH/DNMLtE+6rb9heGCxcswgAXOkkT/sjQT0+RbubmUHP3Loj/iz162ThTtuyISoEKZ6T+H+lsCb+OfyBx7zxGW03lEbK256DjEqlcdWy/SqF8YE6WjcUNFSBL8AZDut8lnHv4W/RBO5htyhbe99k92tbLupjeOJ+njdyc8APQWTF6eS8ngWD1jSV8H405GVbiP3tLjGSO7V8M88FJbWJXp2IryZR7JJOTBRKNbGoZVWS5smy9DEi/hogicIzXbYkxQP49QI2i2EJOJ86Ycg==",
+  "generated_at": "2026-07-03T04:14:29.192Z",
+  "governor": {
+    "name": "Gary Teh",
+    "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjz65oTPCrTi5EtWlj08s/zjCI/tunYgccy3uPI7VH+b89IsRHcERebdiLivk19w4S0uE2CGDaoAhWoC6KN7KmzQXZUy6fBKk72jlzb6zSwPjD8T1PCu1nH/UxiiXSn80jgGE1zLZaytzOUoG+rClj2wslAvRNodneUsNPWEpHQ+sezhp+PW3g/MQcjOFE6XkG846bVJ+KbKlupGX+2LTrgs+MQHew5KToOvwHfprg6h0b2ecOUYa/WXrd+NswW36xNNIcjxXs+1c8rW9uRYTEJ3ZYfRYXBnChvYPRF82MFcbghZEQ/ZL8rjbAv17vdwfcxWPIyI+qFSlmTR8TS3EwIDAQAB"
+  },
+  "cash_out_request_id": null,
+  "contributor": "Linda Gorski",
+  "amount_tdg_deducted": 208,
+  "amount_paid_usd": 1.4,
+  "payment_reference": "",
+  "payment_method": "",
+  "proof_attachment_url": "(attached)",
+  "settlement_date": "20260703",
+  "notes": "I past Linda USD1.40 in cash",
+  "raw_settlement_text": "[VOTING RIGHTS WITHDRAWAL SETTLEMENT EVENT]\r\n- Contributor: Linda Gorski\r\n- Voting Rights Withdrawn (TDG): 208\r\n- Amount Paid (USD): 1.40\r\n- Settlement Reference: N/A\r\n- Settlement Method: Cash\r\n- Settlement Date: 20260703\r\n- Governor: Gary Teh\r\n- Notes: I past Linda USD1.40 in cash\r\n- Proof Attachment URL: (attached)\r\n- Submission Source: https://beta.dapp.truesight.me/withdraw_voting_rights_settlement.html\r\n--------\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvjz65oTPCrTi5EtWlj08s/zjCI/tunYgccy3uPI7VH+b89IsRHcERebdiLivk19w4S0uE2CGDaoAhWoC6KN7KmzQXZUy6fBKk72jlzb6zSwPjD8T1PCu1nH/UxiiXSn80jgGE1zLZaytzOUoG+rClj2wslAvRNodneUsNPWEpHQ+sezhp+PW3g/MQcjOFE6XkG846bVJ+KbKlupGX+2LTrgs+MQHew5KToOvwHfprg6h0b2ecOUYa/WXrd+NswW36xNNIcjxXs+1c8rW9uRYTEJ3ZYfRYXBnChvYPRF82MFcbghZEQ/ZL8rjbAv17vdwfcxWPIyI+qFSlmTR8TS3EwIDAQAB\r\nRequest Transaction ID: IYZVvZs6jhZP8iIkMvPbyuHHROTLYBPLH03l2GuKXJBwRa9155ZWmSavOMpfSc/PUOkKH/DNMLtE+6rb9heGCxcswgAXOkkT/sjQT0+RbubmUHP3Loj/iz162ThTtuyISoEKZ6T+H+lsCb+OfyBx7zxGW03lEbK256DjEqlcdWy/SqF8YE6WjcUNFSBL8AZDut8lnHv4W/RBO5htyhbe99k92tbLupjeOJ+njdyc8APQWTF6eS8ngWD1jSV8H405GVbiP3tLjGSO7V8M88FJbWJXp2IryZR7JJOTBRKNbGoZVWS5smy9DEi/hogicIzXbYkxQP49QI2i2EJOJ86Ycg==\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "signature": "IYZVvZs6jhZP8iIkMvPbyuHHROTLYBPLH03l2GuKXJBwRa9155ZWmSavOMpfSc/PUOkKH/DNMLtE+6rb9heGCxcswgAXOkkT/sjQT0+RbubmUHP3Loj/iz162ThTtuyISoEKZ6T+H+lsCb+OfyBx7zxGW03lEbK256DjEqlcdWy/SqF8YE6WjcUNFSBL8AZDut8lnHv4W/RBO5htyhbe99k92tbLupjeOJ+njdyc8APQWTF6eS8ngWD1jSV8H405GVbiP3tLjGSO7V8M88FJbWJXp2IryZR7JJOTBRKNbGoZVWS5smy9DEi/hogicIzXbYkxQP49QI2i2EJOJ86Ycg==",
+  "source_dapp": "https://beta.dapp.truesight.me/withdraw_voting_rights_settlement.html"
+}
