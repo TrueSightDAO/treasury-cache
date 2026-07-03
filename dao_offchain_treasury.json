@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T00:20:41.257Z",
+  "generated_at": "2026-07-03T00:48:37.566Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -1163,7 +1163,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1698.9407,
+      "unit_cost_usd": 1696.6845,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1471,8 +1471,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1698.9407,
-          "total_value_usd": 8.072691314255001e-11
+          "unit_cost_usd": 1696.6845,
+          "total_value_usd": 8.061970748114451e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1739,17 +1739,6 @@
           "hs_code": "1803.1",
           "unit_cost_usd": 0.73529,
           "total_value_usd": 268.38085
-        },
-        {
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
-          "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 2.4043643608428553
         },
         {
           "currency": "Chocolate Mold from Rusty",
@@ -2043,6 +2032,23 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 10.4535,
           "total_value_usd": 41.814
+        }
+      ]
+    },
+    {
+      "manager_name": "Micaelly  Pinheiro",
+      "manager_key": "Micaelly%20%20Pinheiro",
+      "items": [
+        {
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 200,
+          "inventory_type": "Cacao Mass",
+          "unit_format": "Retail Ready",
+          "hs_code": "1803.1",
+          "unit_cost_usd": 2.4043643608428553,
+          "total_value_usd": 2.4043643608428553
         }
       ]
     },
@@ -2606,6 +2612,6 @@
     "total_units": 22376.13315957675,
     "total_value_usd": 29740.83,
     "ledgers_processed": 14,
-    "managers_count": 38
+    "managers_count": 39
   }
 }
