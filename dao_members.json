@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-03T16:24:25.896Z",
+  "generated_at": "2026-07-04T03:24:39.938Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "edgar_webhook",
+  "trigger": "cron",
   "counts": {
     "contributors": 409,
     "active_public_keys": 82,
@@ -1619,7 +1619,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0D70xOu3BmuhnWJ5sAXdmJyglssswFUqcjjESrwdEeygjXkQaMcckbW4dt4Q6CmlHUKPshMDfy8Zrp+hVvr6WE6oC4cZe/faL20xNCmS0wos8w+USdvoGbvEC6yMop6XGR3r29fDwK1JohrXXrMpPYT3KYM6NlVvBnjOEejvOg0H1tWxwVXSMPwxfrPDJbfpY7oI+mK+lPbVsnuilKH7GCMTQMG1wlwo69nan5uIahtYl5WYCt7SuOYe91ziryNtJSweZK+9Vxv6k5oyopPxTZ+r5EMIneT0jsOZR7svp5rpSuEOP+1KSZ2dpHqgKw+OoGUXHbs0ANJwriV8erOAywIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-07-07T00:24:37.000Z",
-          "last_active_at": "20260416 19:06:02"
+          "last_active_at": "20260703 09:27:48"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtIsKqiUUFFsNS5djisbJ3Zf9XNMMZ9cmFabn2grfEmJlDLEHcdNbPqgwq40iLntHXnGgSr/4QsG6J46MGnc9D7lWBWfp0kFC4vLPOtxJP4RScwEZuVculnGaslZ3+BgItuT9mLVvPBJEvggOMegK85sHXyH6YKhZURqAlXpW1WUXOaRkMw5peBsGziNzJV0E5J1530qIs8EaUwx3JzBcqjsUB2rnycOucS+hjHe2wRE6GU9bVBv4hRZ4j98rN65JdLPh5PVkrFnG8Z57IEsaYAWkkRHZ19aep2E0TJTuUxL8bDdG3WGJec9cFMsBDOsr/soUOIeG7Ro0MT68wdL/WwIDAQAB",
@@ -1787,7 +1787,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-05-04T22:37:58.000Z",
-          "last_active_at": "20260703 09:20:50"
+          "last_active_at": "20260703 20:24:17"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAk3F3H+5sAFC9BJKUsU8uWmqblYNAXvR2jtJPGi2ihgIA3xwflOA3LbkxbO30toDnZ2hstgt1HxldfGd3Gy455E7/BIzvUazWEhUKHW+8+RA9eFxdk2iInJd8Q0VSGePdHL4M9QuGCLz0V/ZSAb+pAPTU0P05yWz6uXWfeNgqp9Q6bSOrps0tumxDk4EbipNN1GgH4m+Yktk4ZupgzeohV5QRIsTM+dE6ga+cJUsN+djSRFrBk3L+pRpsTwLnIlNpuC6jK9O4ha9uKcetrnzenejHUgsPdHENR174fX7Hk98f1f/02GEPEWUfuq+a6VE8ss2Fgh+VOmYPM6HcUTylQwIDAQAB",
@@ -3073,7 +3073,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwL4bzh+oRzwGk0S//SNQJ2/Eh7yDX8oF9D5YoTk4aCOZVR+y3nBDUm6TP/FquRHOxDgD4VLQNexkvvz/l61tVKKLfrNC62YYN7uSlATQRAZHdNvm6NDCyNtqDq6iQpau1dBoI+1AouBx/+9OkuE7ZxhWHl+X61E1QqVxY54Tkn0iWxcTeBTVDTkxj8zOOgq7v39FwgxIB7QrB1jcViYYF/IP1qwzs2ovpLAEIybkUOidJ8rKTn30DXIs1huIU0b5HvqBMDs9obawzGbh8ro1lnPBnwjm6THckYe6KaS2DQBAC9EsVcyh1IWF6SwAterdG+z9SQyy7a+k9sbgfHjVnQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-07-03T23:23:01.000Z",
-          "last_active_at": "2026-07-03T23:24:21.000Z"
+          "last_active_at": "20260703 10:43:12"
         }
       ]
     },
