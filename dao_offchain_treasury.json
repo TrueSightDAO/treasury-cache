@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T04:14:56.011Z",
+  "generated_at": "2026-07-05T04:48:29.656Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11822.614249460961,
-      "total_value_usd": 11822.61,
+      "total_quantity": 11839.614249460961,
+      "total_value_usd": 11839.61,
       "ledgers": {
-        "Main Ledger": 4373.792913179805,
+        "Main Ledger": 4390.792913179805,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 330.83,
@@ -132,10 +132,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 322,
-      "total_value_usd": -483,
+      "total_quantity": 323,
+      "total_value_usd": -484.5,
       "ledgers": {
-        "Main Ledger": 322
+        "Main Ledger": 323
       }
     },
     {
@@ -405,20 +405,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.375283531111112,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 26,
-      "total_value_usd": 217.76,
-      "ledgers": {
-        "Main Ledger": 26
-      }
-    },
-    {
       "currency": "Chocolate Mold - 4 X 6 slots",
       "unit_weight_g": null,
       "unit_cost_usd": 1.19,
@@ -430,6 +416,20 @@
       "total_value_usd": 30.94,
       "ledgers": {
         "Main Ledger": 26
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.375283531111112,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 25,
+      "total_value_usd": 209.38,
+      "ledgers": {
+        "Main Ledger": 25
       }
     },
     {
@@ -1163,7 +1163,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1763.0559,
+      "unit_cost_usd": 1769.5030000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1471,8 +1471,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1763.0559,
-          "total_value_usd": 8.377341275346475e-11
+          "unit_cost_usd": 1769.5030000000002,
+          "total_value_usd": 8.40797533348172e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1490,10 +1490,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4234.762913179805,
+          "amount": 4251.762913179805,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4234.762913179805
+          "total_value_usd": 4251.762913179805
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -2076,15 +2076,6 @@
           "total_value_usd": 34
         },
         {
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 200,
-          "hs_code": "1803.1",
-          "unit_cost_usd": 8.375283531111112,
-          "total_value_usd": 8.375283531111112
-        },
-        {
           "currency": "USD",
           "amount": 34,
           "ledger": "Main Ledger",
@@ -2344,10 +2335,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 322,
+          "amount": 323,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -483
+          "total_value_usd": -484.5
         }
       ]
     },
@@ -2600,8 +2591,8 @@
   ],
   "totals": {
     "item_types": 83,
-    "total_units": 22408.733159576754,
-    "total_value_usd": 29752.39,
+    "total_units": 22425.733159576754,
+    "total_value_usd": 29759.51,
     "ledgers_processed": 14,
     "managers_count": 39
   }
