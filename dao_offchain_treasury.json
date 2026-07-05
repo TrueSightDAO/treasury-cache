@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T05:00:19.846Z",
+  "generated_at": "2026-07-05T05:48:37.005Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_agl",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -12,13 +12,13 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11839.614249460961,
-      "total_value_usd": 11839.61,
+      "total_quantity": 11856.614249460961,
+      "total_value_usd": 11856.61,
       "ledgers": {
         "Main Ledger": 4390.792913179805,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
-        "AGL10": 330.83,
+        "AGL10": 347.83,
         "SEF1": 16,
         "AGL15": 5101.339999999998,
         "BEC": 93.12
@@ -699,20 +699,6 @@
       }
     },
     {
-      "currency": "Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.08513,
-      "inventory_type": "Caramelized Cacao Bean",
-      "unit_format": "Retail Ready",
-      "gtin": "860010660249",
-      "hs_code": "1801",
-      "total_quantity": 6,
-      "total_value_usd": 48.51,
-      "ledgers": {
-        "AGL10": 6
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch - AGL2 + V2 bags",
       "unit_weight_g": null,
       "unit_cost_usd": 7.493683209035012,
@@ -752,6 +738,20 @@
       "total_value_usd": 13.27,
       "ledgers": {
         "Main Ledger": 5
+      }
+    },
+    {
+      "currency": "Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.08513,
+      "inventory_type": "Caramelized Cacao Bean",
+      "unit_format": "Retail Ready",
+      "gtin": "860010660249",
+      "hs_code": "1801",
+      "total_quantity": 5,
+      "total_value_usd": 40.43,
+      "ledgers": {
+        "AGL10": 5
       }
     },
     {
@@ -1163,7 +1163,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1766.2586000000001,
+      "unit_cost_usd": 1759.8563000000001,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1471,8 +1471,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1766.2586000000001,
-          "total_value_usd": 8.392559233496612e-11
+          "unit_cost_usd": 1759.8563000000001,
+          "total_value_usd": 8.362138047164886e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2057,23 +2057,11 @@
       "manager_key": "Micheal%20Johnson",
       "items": [
         {
-          "currency": "[AGL10] Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10",
-          "amount": 1,
-          "ledger": "AGL10",
-          "unit_weight_g": 200,
-          "inventory_type": "Caramelized Cacao Bean",
-          "unit_format": "Retail Ready",
-          "gtin": "860010660249",
-          "hs_code": "1801",
-          "unit_cost_usd": 8.08513,
-          "total_value_usd": 8.09
-        },
-        {
           "currency": "[AGL10] USD",
-          "amount": 34,
+          "amount": 51,
           "ledger": "AGL10",
           "unit_cost_usd": 1,
-          "total_value_usd": 34
+          "total_value_usd": 51
         },
         {
           "currency": "USD",
@@ -2591,8 +2579,8 @@
   ],
   "totals": {
     "item_types": 83,
-    "total_units": 22425.733159576754,
-    "total_value_usd": 29759.51,
+    "total_units": 22441.733159576754,
+    "total_value_usd": 29768.43,
     "ledgers_processed": 14,
     "managers_count": 39
   }
