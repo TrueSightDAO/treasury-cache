@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-06T20:13:36.446033+00:00",
+  "scoring_hash_key": "C9zebbltpuWdGKb/78rj",
+  "scored_chatlogs_row": 6861,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: fix: align PRACTICE EVENT payloads with GAS canonical labels (Oracle + Capoeira)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/oracle/pull/62\n  - https://github.com/TrueSightDAO/capoeira/pull/34\n  \n  Details:\n  Traced and fixed two PRACTICE EVENT field mismatches against the GAS practice_event_processing.js parser. Oracle was sending raw reading fields (hexagrams, advisory_summary) instead of canonical labels. Capoeira was missing Practitioner Public Key and had session fields at top level instead of inside Payload JSON. Both now use: Program, Practice Type, Practitioner Public Key, Captured At, Source URL, Payload JSON.\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: h3hd25nOZJwDX2xzRAQeXHCKXggEYZK1UaheM+o2f7Zy7HfW1XV81O7CnE6sHR3v8dG8TfDD29hhpj4XW0roWlHTR9e9Hy5poBFDfFUiHnS9aiwBPhKBStAr8NwtcRfqD9H5dluKqYvJJ3Mf9BZo5R6Ot57jwX2msbdjoCFMi4RMT9h29fHZGPwaZrmYX/LtltniHXAQgBr/g378HBzSDU4ZCMLEBEzK3SCCnZrCG0chV2XApjR8zSRaJf6K/ausVAxYl6bWIGE0pXwoi+KjC4S4+WAF32vqXbqzFFNMlwpV9Bp4RTfQrcxgQ9u79BNHPKSU2MxU4VU4+wp2Zvn65g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260706",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
