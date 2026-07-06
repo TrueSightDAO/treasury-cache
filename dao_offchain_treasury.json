@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T17:00:34.860Z",
+  "generated_at": "2026-07-06T17:01:00.388Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 4,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11841.64424946096,
-      "total_value_usd": 11841.64,
+      "total_quantity": 11835.404249460962,
+      "total_value_usd": 11835.4,
       "ledgers": {
-        "Main Ledger": 4375.822913179804,
+        "Main Ledger": 4369.582913179805,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -1490,10 +1490,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4236.792913179805,
+          "amount": 4230.552913179805,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4236.792913179805
+          "total_value_usd": 4230.552913179805
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -2579,8 +2579,8 @@
   ],
   "totals": {
     "item_types": 83,
-    "total_units": 22426.763159576753,
-    "total_value_usd": 29753.46,
+    "total_units": 22420.523159576755,
+    "total_value_usd": 29747.22,
     "ledgers_processed": 14,
     "managers_count": 39
   }
