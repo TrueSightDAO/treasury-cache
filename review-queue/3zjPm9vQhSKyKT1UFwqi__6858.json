@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-06T18:07:34.233944+00:00",
+  "scoring_hash_key": "3zjPm9vQhSKyKT1UFwqi",
+  "scored_chatlogs_row": 6858,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: fix: harden update_qr_code CLI with canonical labels\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dao_protocol/pull/139\n  \n  Details:\n  Added canonical_labels (QR Code, Associated Member, New Status, etc.) to update_qr_code.py to prevent label drift vs GAS parser. Previously canonical_labels=[] forced all labels through --attr verbatim, causing 'Associate Member' to not match the GAS regex 'Associated Member'. Audited all 35 CLI modules \u2014 update_qr_code was the only one with this gap. Deployed to Sophia via pip install.\n- Contributor(s): Gary Teh\n- TDG Issued: 16.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: W4dlBjpHFjAMT3SXE0jfliKwg2IGBW7y/gN1mro8qepZZvPU9UnnWgf+F+KbOJSUNy3udYPMA6EQQBpWBRc8vfy1gHkHKwSX3Hkkx4VSA2EwgZBIx7+NCt01XaQvVEI2/MAqha2PcK2ezNfod+a9+CqTiRH+Kax6oQ0uGSXLNk1g3BZj+5faJSiTNK6mkkRxmVdgHuqzmhtWFTV3al7USnCsqPl2ednKIMczSVjDaDtjgdCGzxgubEw6UPZeQJfB3VSfhcu8aR7T3XhSzvmyadQItbQ9SmNGJC5m1O5puU6tMpMKQXl/nnmvldp8P4InNXcqrIHInzMcq8dY0b2ixw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260706",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
