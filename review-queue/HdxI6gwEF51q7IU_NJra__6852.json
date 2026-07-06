@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-06T11:59:04.694853+00:00",
+  "scoring_hash_key": "HdxI6gwEF51q7IU/NJra",
+  "scored_chatlogs_row": 6852,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Processed the sale of 4 bags of cacao held by Michael Johnson\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 16.67\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260705041450_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: cnKzH3cx01Ilp/uPsNuBSgictG1ADOmUkajk1p7uOVXrbyGm6javKoI7oeT8mVN9twSixdAQKEcch2PADB+47otAia199LKtsicW69ObSSdvZFXVa8CV2xgIdwsWskQNafmtML35PNqji6seuo2iLrQcVYNTo3Ztw17SQyOhM8jpIQ8JQ06XmoyZMXh87czYi0HrI4TseV1WfyjfOck6yEpEI73y6qwE9AnTRs5qc5XMN9PJPoMLCilKzJK0jl7N3FjHqkrsz5iHYiZbN+V/i+yQBYxQxZN+ONHvBVwgCM+0KgynC6DeFhkzEpWsV9kaS6tCRijgZQC73eadv+vBuw==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260705",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

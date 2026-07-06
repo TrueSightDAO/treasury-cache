@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-06T11:59:04.694960+00:00",
+  "scoring_hash_key": "FY8hE7UBL5IQBcCHeD9j",
+  "scored_chatlogs_row": 6853,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: /large_spikes cards fix + breakout-gauge legibility \u2014 analysis, roadmap & verification\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/644\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1124\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1125\n  \n  Details:\n  Diagnosed two defects on perch.truesight.me/large_spikes: (1) company cards vanished on 3/10/20/30-year lookbacks (period-keyed S3 cache miss \u2014 selector offers periods the refresher never caches); (2) breakout gauge hard to read (over-extended band unshaded, no numeric readout). Authored the tracked execution roadmap LARGE_SPIKES_CARD_FIX_AND_CHART_LEGIBILITY_PLAN.md (full pre-flight, one-PR-per-turn, resume tracker, UAT), registered the Sophia handoff (manifest+registry), verified both implementation PRs match the plan (ERB parses, specs real, Chart.js v2.9.3 fill correct), and surfaced the live review date 2026-07-02. Pull requests: agentic_ai_context#644, sentiment_importer#1124, sentiment_importer#1125.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: HNCUNTg/CaLN9YNvFUg4cneTsbENnCOgmx4wlMMNMKeQjKYWs2BE/KnKpGUjT//WPX7ubPb8a4+/1DGuwzIPvGPtdHB8KkbIoL3iWB6NNrVyDvzPXwalBUgOm43N5q9NLQX7QS2vlvrOnR9nWjt2y5BMeeVsrbV8wXIUc5c/vda3WxE+DppStxOlHMHyCUAvAvkVVQ3GKTGFcsits9k+GF8lzJBhWJiAqaHhJu2a5LgtR4TQvhyX/vTuQehx45p7HBN0slkJJzH5XYxmz0/Zj8WBZyhFQ0TDJp9YzAsxT2JEc5chOqYIO44fCWWPDLGKp1bJh/3go8v0pGhjlSyPCA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260705",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

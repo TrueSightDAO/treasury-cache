@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-06T11:59:04.695058+00:00",
+  "scoring_hash_key": "vSwc0OvMxhivO3CuKDfl",
+  "scored_chatlogs_row": 6854,
+  "contributor_name": "Deep Seek",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: /large_spikes cards fix + breakout-gauge legibility \u2014 implementation (PR1 + PR2)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1124\n  - https://github.com/TrueSightDAO/sentiment_importer/pull/1125\n  \n  Details:\n  Implemented the plan in sentiment_importer (Perch). PR1 (#1124): wired the card list to the fixed 180-day company lookback (@the_company_period) so the grid resolves on every lookback period, ending the vanishing-cards regression; +regression spec. PR2 (#1125): shaded the over-extended band (Chart.js v2.9.3 fill:'end') and added a today-vs-norm regime headline to the breakout gauge; +specs. Pull requests: sentiment_importer#1124, sentiment_importer#1125.\n- Contributor(s): Deep Seek\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: bDEYArl9U/3/mkoun144tM9Dq0/lR5I97cnImHWSP3fnesEuqPdMx9kDaSr3vFgcCU0K8WGZZwaUdmiGcXBYaLlsdiT6auviUTTRMIT15mAMRiw9Uf3mZlleKefVP1/nwpzDeehuCXM9eTKK2ZovYEc+IliRjEfC33WeS9MDmA9rLI6mzU6gcva9uuqsOIgyx5RAR92W9vf4al++FV9u9ClnHMITmtiaZp+40/4UrFuZkvqsro50994yAz3C2Gx1JgfipjzdrohHsOGqBccjfbiHLJMOJErdPjQ8dRLVUk1sck3iHJKsRkQYbCruH6udijzsqJVrrDF0sRQUW5Ilcg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260705",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
