@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T03:24:41.598Z",
+  "generated_at": "2026-07-09T03:24:42.224Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
