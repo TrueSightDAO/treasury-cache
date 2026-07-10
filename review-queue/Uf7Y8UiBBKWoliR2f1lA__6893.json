@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-10T21:40:38.548002+00:00",
+  "scoring_hash_key": "Uf7Y8UiBBKWoliR2f1lA",
+  "scored_chatlogs_row": 6893,
+  "contributor_name": "DeepSeek",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: S\u00e3o Jorge farm page \u2014 split video/photo grids, fix image styling\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/181\n  \n  Details:\n  Fixed layout on Fazenda S\u00e3o Jorge farm page \u2014 split mixed video+photo grid into two separate sections (\"Videos from the farm\" and \"Photos from the farm\") so portrait YouTube embeds and landscape images don't fight over the same CSS aspect-ratio containers. Photos restored to original 16:9 .farm-video-container markup; videos kept at 9:16 portrait embed ratios.\n- Contributor(s): DeepSeek\n- TDG Issued: 8.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: FkqAIeQI5WowwuLNBQ53gu4pW+/BMbFO907i3+rbkVmat7KGWJfZ/jMbXlvt40IeoG05DHb60qay+G4wv7wrcdyXh1NyWz2/mQMD5AsIi31v5nWcYpa3gQyvWJXyZXKu4RwDDcN/ox2+CQovKbLDlGdVtCZhdO46by0tUBbC1NMasMto1v/CeIPymrxqQxDZqnP6YtnxLRSkQfyXaJyl0LtjFAzPTo/NHIzPrC/MAs09DD34/t+ijfiLgHaGeeyS6HTbDelJu9OZVcDooR5gT589P+2E8kCT/TjiguURMpjmMS8cTYrxcnAMjUiWtlj+qGmXrVT6ud7xf/j8Zcej8A==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "8.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260710",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
