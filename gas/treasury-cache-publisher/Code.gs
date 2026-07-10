@@ -31,8 +31,16 @@
  *   Q = unit_format
  *   R = GTIN (global trade item number, e.g. 00860010660256)
  *   S = HS Code (harmonized system, e.g. 1801.00 for cacao beans)
- * 
+ *
+ * Agroverse QR codes tab:
+ *   A = qr_code
+ *   C = ledger_shortcut
+ *   D = status (non-SOLD rows only)
+ *   I = currency
+ *   U = contributor_name (maps to manager_name)
+ *
  * Schema v4: adds optional gtin and hs_code fields to items[] and managers[].items[].
+ * Schema v5: adds optional qr_codes[] to each managers[] entry (from Agroverse QR codes tab).
  */
 
 // ---------- Constants / defaults ----------
@@ -49,7 +57,7 @@ var MAIN_SHEET_NAME           = 'offchain asset location';
 var SHIPMENT_LEDGER_LISTING   = 'Shipment Ledger Listing';
 var CURRENCIES_SHEET_NAME     = 'Currencies';
 
-var SCHEMA_VERSION = 4;
+var SCHEMA_VERSION = 5;
 var LOCK_TIMEOUT_MS = 30000;
 
 // ---------- Script property helpers ----------
@@ -177,7 +185,8 @@ function buildSnapshot_(trigger) {
       managersByName[name] = {
         manager_name: name,
         manager_key: encodeURIComponent(name),
-        items: []
+        items: [],
+        qr_codes: []
       };
     }
     return managersByName[name];
@@ -293,6 +302,29 @@ function buildSnapshot_(trigger) {
     }
   });
 
+  // 3) QR codes from "Agroverse QR codes" tab — attach per-manager for DApp fast path
+  var qrSheet = ss.getSheetByName('Agroverse QR codes');
+  if (qrSheet) {
+    var qrLastRow = qrSheet.getLastRow();
+    if (qrLastRow >= 2) {
+      var qrRange = qrSheet.getRange(2, 1, qrLastRow - 1, 21).getValues();
+      qrRange.forEach(function(row) {
+        var status = String(row[3] || '').toUpperCase().trim();
+        if (status === 'SOLD') return;
+        var contributor = String(row[20] || '').trim();
+        if (!contributor) return;
+        var mgr = managersByName[contributor];
+        if (!mgr) return;
+        mgr.qr_codes.push({
+          qr_code: String(row[0] || '').trim(),
+          status: status,
+          currency: String(row[8] || '').trim(),
+          ledger_shortcut: String(row[2] || '').trim()
+        });
+      });
+    }
+  }
+
   // Finalize items: compute total_value_usd, filter zero, sort
   var items = [];
   Object.keys(itemsByName).forEach(function(name) {
@@ -323,6 +355,10 @@ function buildSnapshot_(trigger) {
     return s + (it.total_value_usd != null ? it.total_value_usd : 0);
   }, 0);
 
+  var totalQrCodes = managers.reduce(function(s, m) {
+    return s + (m.qr_codes ? m.qr_codes.length : 0);
+  }, 0);
+
   return {
     generated_at: new Date().toISOString(),
     source: 'treasury-cache-publisher',
@@ -338,7 +374,8 @@ function buildSnapshot_(trigger) {
       total_units: totalUnits,
       total_value_usd: round2_(totalValue),
       ledgers_processed: ledgersProcessed,
-      managers_count: managers.length
+      managers_count: managers.length,
+      qr_codes_assigned: totalQrCodes
     }
   };
 }
@@ -452,6 +489,7 @@ function renderMarkdown_(snapshot) {
   lines.push('| Total value USD | ' + (snapshot.totals.total_value_usd != null ? '$' + snapshot.totals.total_value_usd.toFixed(2) : '—') + ' |');
   lines.push('| Ledgers processed | ' + snapshot.totals.ledgers_processed + ' |');
   lines.push('| Managers | ' + snapshot.totals.managers_count + ' |');
+  lines.push('| QR codes assigned | ' + (snapshot.totals.qr_codes_assigned || 0) + ' |');
   lines.push('');
 
   // Full items table, sorted by total quantity desc
@@ -492,11 +530,12 @@ function renderMarkdown_(snapshot) {
   // Managers summary
   lines.push('## Managers (' + snapshot.managers.length + ')');
   lines.push('');
-  lines.push('| Manager | Line items | Total units |');
-  lines.push('|---|---:|---:|');
+  lines.push('| Manager | Line items | Total units | QR codes |');
+  lines.push('|---|---:|---:|---:|');
   snapshot.managers.forEach(function(m) {
     var units = m.items.reduce(function(s, it) { return s + (parseFloat(it.amount) || 0); }, 0);
-    lines.push('| ' + escapePipes_(m.manager_name) + ' | ' + m.items.length + ' | ' + units + ' |');
+    var qrCount = (m.qr_codes && m.qr_codes.length) ? String(m.qr_codes.length) : '—';
+    lines.push('| ' + escapePipes_(m.manager_name) + ' | ' + m.items.length + ' | ' + units + ' | ' + qrCount + ' |');
   });
   lines.push('');
 
