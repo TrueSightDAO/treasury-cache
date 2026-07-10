@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T21:26:19.573Z",
+  "generated_at": "2026-07-10T21:27:24.757Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 4,
@@ -1191,7 +1191,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1790.4001,
+      "unit_cost_usd": 1790.7481,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1433,10 +1433,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 24,
+          "amount": 18,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 134.97851034482758
+          "total_value_usd": 101.23388275862068
         },
         {
           "currency": "ATOLOMOTOR Coffee Bean Roaster",
@@ -1513,8 +1513,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1790.4001,
-          "total_value_usd": 8.507270051456937e-11
+          "unit_cost_usd": 1790.7481,
+          "total_value_usd": 8.508923609216405e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1736,10 +1736,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 1,
+          "amount": 7,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 5.624104597701149
+          "total_value_usd": 39.368732183908044
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
