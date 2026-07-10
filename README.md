@@ -24,7 +24,9 @@ The authoritative data lives in Google Sheets:
 
 If this JSON looks wrong, the Sheets are authoritative. Regenerate by calling the publisher webhook (see [`gas/treasury-cache-publisher/README.md`](gas/treasury-cache-publisher/README.md)) — do **not** edit the JSON directly; the next run will overwrite your change.
 
-## `dao_offchain_treasury.json` schema (v4)
+## `dao_offchain_treasury.json` schema (v5)
+
+`schema_version` **5** adds optional **`qr_codes[]`** on each `managers[]` entry, sourced from the `Agroverse QR codes` tab (same spreadsheet). Each QR entry has `qr_code`, `status`, `currency`, and `ledger_shortcut`. Rows with status `SOLD` or empty `contributor_name` are excluded. Older consumers may ignore this key.
 
 `schema_version` **4** adds optional **`gtin`** and **`hs_code`** on each aggregate `items[]` row and on each `managers[].items[]` line, copied from Main Ledger **Currencies** columns R and S when the currency name matches. Older consumers may ignore these keys; they are `null` when the sheet cell is blank or the name is not in Currencies.
 
@@ -55,22 +57,30 @@ If this JSON looks wrong, the Sheets are authoritative. Regenerate by calling th
   ],
 
   "managers": [
-    {
-      "manager_name": "Matheus Reis",
-      "manager_key": "Matheus%20Reis",
-      "items": [
-        {
-          "currency": "[AGL14] Oscar Bahia Ceremonial Cacao 200g",
-          "amount": 40,
-          "ledger": "AGL14",
-          "unit_weight_g": 200,
-          "unit_cost_usd": 7.12,
-          "inventory_type": "Cacao Bean",
-          "unit_format": "Retail ready",
-          "total_value_usd": 284.80
-        }
-      ]
-    }
+     {
+       "manager_name": "Matheus Reis",
+       "manager_key": "Matheus%20Reis",
+       "items": [
+         {
+           "currency": "[AGL14] Oscar Bahia Ceremonial Cacao 200g",
+           "amount": 40,
+           "ledger": "AGL14",
+           "unit_weight_g": 200,
+           "unit_cost_usd": 7.12,
+           "inventory_type": "Cacao Bean",
+           "unit_format": "Retail ready",
+           "total_value_usd": 284.80
+         }
+       ],
+       "qr_codes": [
+         {
+           "qr_code": "2024SA_20260121_5",
+           "status": "MINTED",
+           "currency": "Ceremonial Cacao Kraft Pouch...",
+           "ledger_shortcut": "agl15"
+         }
+       ]
+     }
   ],
 
   "ledgers": [
@@ -89,6 +99,7 @@ If this JSON looks wrong, the Sheets are authoritative. Regenerate by calling th
 
 ### Changelog
 
+- **v5 (2026-07-10)** — optional **`qr_codes[]`** on each `managers[]` entry, sourced from the `Agroverse QR codes` tab (non-SOLD rows with non-empty contributor_name). Each entry: `qr_code`, `status`, `currency`, `ledger_shortcut`. Used by `view_inventory_holdings.html` as a fast-path replacement for the GAS `list_with_members` endpoint.
 - **v4 (2026-06-04)** — optional **`gtin`** and **`hs_code`** on `items[]` and `managers[].items[]`, from Main Ledger **Currencies** columns R and S. Used by `shipping_planner.html` for freight/customs documentation and by inventory-holding consumers for product identification.
 - **v3 (2026-04-26)** — optional **`inventory_type`** and **`unit_format`** on `items[]` and `managers[].items[]`, from Main Ledger **Currencies** columns P and Q (matched by currency name). Additive; older clients may ignore.
 - **v2 (2026-04-21)** — added `unit_weight_g` to `managers[].items[]` (needed by `shipping_planner.html` → `get_inventory` compat). `schema_version` bumped. Additive only; v1 consumers keep working.
