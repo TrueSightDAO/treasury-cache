@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-10T18:53:45.025Z",
+  "generated_at": "2026-07-10T19:48:30.621Z",
   "source": "treasury-cache-publisher",
-  "trigger": "repackaging_ingest",
+  "trigger": "cron",
   "schema_version": 4,
   "items": [
     {
@@ -178,6 +178,20 @@
       "total_value_usd": 11.51,
       "ledgers": {
         "Main Ledger": 240
+      }
+    },
+    {
+      "currency": "Cacao Tea 1g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.11248209195402298,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 229,
+      "total_value_usd": 25.76,
+      "ledgers": {
+        "Main Ledger": 229
       }
     },
     {
@@ -416,6 +430,20 @@
       "total_value_usd": 30.94,
       "ledgers": {
         "Main Ledger": 26
+      }
+    },
+    {
+      "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+      "unit_weight_g": null,
+      "unit_cost_usd": 5.624104597701149,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 25,
+      "total_value_usd": 140.6,
+      "ledgers": {
+        "Main Ledger": 25
       }
     },
     {
@@ -839,20 +867,6 @@
       }
     },
     {
-      "currency": "Cacao Almonds KG - Organic",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 100.886,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 2.3025149999999996,
-      "total_value_usd": 232.29,
-      "ledgers": {
-        "Main Ledger": 2.3025149999999996
-      }
-    },
-    {
       "currency": "Cacao Molasses 250ml + 74 4476 6210 San Francisco",
       "unit_weight_g": 250,
       "unit_cost_usd": 12.143,
@@ -1147,6 +1161,20 @@
       }
     },
     {
+      "currency": "Cacao Almonds KG - Organic",
+      "unit_weight_g": 1000,
+      "unit_cost_usd": 100.886,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 0.6535149999999996,
+      "total_value_usd": 65.93,
+      "ledgers": {
+        "Main Ledger": 0.6535149999999996
+      }
+    },
+    {
       "currency": "Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10",
       "unit_weight_g": 1000,
       "unit_cost_usd": 36.7492,
@@ -1163,7 +1191,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1786.4905,
+      "unit_cost_usd": 1795.0636000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1404,6 +1432,13 @@
           "total_value_usd": 4.777
         },
         {
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "amount": 25,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 5.624104597701149,
+          "total_value_usd": 140.60261494252873
+        },
+        {
           "currency": "ATOLOMOTOR Coffee Bean Roaster",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -1426,11 +1461,11 @@
         },
         {
           "currency": "Cacao Almonds KG - Organic",
-          "amount": 2.3025149999999996,
+          "amount": 0.6535149999999996,
           "ledger": "Main Ledger",
           "unit_weight_g": 1000,
           "unit_cost_usd": 100.886,
-          "total_value_usd": 232.29152828999995
+          "total_value_usd": 65.93051428999996
         },
         {
           "currency": "Cacao Mass Bar CP340992687BR (loose grams)",
@@ -1458,6 +1493,13 @@
           "total_value_usd": 20.400000000000002
         },
         {
+          "currency": "Cacao Tea 1g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "amount": 229,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.11248209195402298,
+          "total_value_usd": 25.758399057471262
+        },
+        {
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
           "amount": 74,
           "ledger": "Main Ledger",
@@ -1471,8 +1513,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1786.4905,
-          "total_value_usd": 8.488693185317812e-11
+          "unit_cost_usd": 1795.0636000000002,
+          "total_value_usd": 8.529429150914634e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2561,8 +2603,8 @@
     }
   ],
   "totals": {
-    "item_types": 83,
-    "total_units": 21670.02315957675,
+    "item_types": 85,
+    "total_units": 21922.374159576753,
     "total_value_usd": 29593.85,
     "ledgers_processed": 14,
     "managers_count": 38
