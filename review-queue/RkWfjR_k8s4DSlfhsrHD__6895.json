@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-10T22:39:23.315201+00:00",
+  "scoring_hash_key": "RkWfjR/k8s4DSlfhsrHD",
+  "scored_chatlogs_row": 6895,
+  "contributor_name": "Deep Seek",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Reorganize agentic_ai_context + transfer 25 S\u00e3o Jorge chocolate bars to Kirsten\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/651\n  \n  Details:\n  1. Reorganized agentic_ai_context: moved ~168 root files into 13 new folders (conventions, sops, whitepapers, agroverse, sophia, autopilot, brazil, partner, credentials, oracle, handoffs, dao, growth) + fed 6 existing folders (plans, notes, references, proposal_drafts, briefs, infrastructure). Root reduced from 222 to 76 entries.\n  \n  2. Fixed 5 files in truesight_autopilot with stale file-path references after reorg. Deployed to Sophia EC2.\n  \n  3. Generated 25 QR codes for S\u00e3o Jorge 81% dark chocolate bars (2024_20260710_1 through _26), submitted 25 individual [INVENTORY MOVEMENT] events transferring bars from Gary Teh to Kirsten Ritschel. Compiled QR PNG labels and zipped for sharing. Fixed product image on Currencies + QR codes tabs for checkout flow.\n  \n  4. Fixed QR manifest schema (ran seed_from_sheet.py) and rebuilt qrs_index.json (1676 QRs) for truesight.me/physical-assets/serialized/ to show the new 25 bars.\n- Contributor(s): Deep Seek\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: eAGm97T5fMwsrgFnhgOuB6vATI+u5IQEG4dIJ0CUtqu9q1db/sBY4Seu06z3YO1+E6Zgyhu7zrcJoMdzlto93EK+Eu7pK+VpN9LJO14EFsC/dMoRh1kBYqcQk/zpRyHM+Y4Llu5jIFQi1zEfNZrpdnz/iIB+MmtgmDR9TsfTfQb92iuLBpZ1eqh5C4v8PMSWKgJJZ0gdNC7b0liVVkdPZOz0lLSs3s5R3wZFSryWnEAqmNyihyOtOBQZJOQb/W/4OAlr3jn4pleErzkWq344MyOTkIBLGHBbgH5aLsNVkWv6CPCWN6EVhaS20e0Ce5iZXBCob1/x4hsxawrvTbbdFQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260710",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
