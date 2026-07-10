@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-10T20:37:05.271181+00:00",
+  "scoring_hash_key": "neXd1JsGKELrDuKqtA2n",
+  "scored_chatlogs_row": 6885,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Cache-first signature verification \u2014 review & direction\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/dapp_beta/pull/59\n  \n  Details:\n  Human sponsor (Gary Teh) time on the cache-first signature verification work: diagnosed the slow 'Verifying your digital signature...' UX, chose the verify-against-treasury-cache approach, set rollout scope (full rollout + fallback hardening), reviewed the localhost pages, and approved merge + promotion to production.\n  \n  Paired with AI agent DeepSeek (separately clocked at 47 min execution).\n  \n  Pull requests:\n  - https://github.com/TrueSightDAO/dapp_beta/pull/59\n- Contributor(s): Gary Teh\n- TDG Issued: 16.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: gWoayqNiDvDLGI4qgCbE437VOQic89v7laXKGec7T6BeuPEmdj0Da9yf3cyO29EMLgQ2ZevjIdcJ9BoJnknhxml/MGluUC4aCEQ5rwRl+6TH1Y41vAEw1tTy9E57cSfwqgvWuci8F8VW4hMVTzCMaJU6G0tdgJfeRw67rwkLmabC6oTd25Ij/QFVvO9RXNHHWx4gqx25c5Ru2oqPxeNMHkPl2NXzBLWRlP968CHbZ4VigxQV1nHCP9u2qFGwiV5f5NCljyub9K/Xc7o/Yx9i+Cz4wfJmpxPDs0FuuQpF2rtFq/X4uBDpzJLT/KspKypwaFd90tDdHGFYMLRCGS3Z6Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260710",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

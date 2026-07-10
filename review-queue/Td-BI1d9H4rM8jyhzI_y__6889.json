@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-10T20:37:05.271815+00:00",
+  "scoring_hash_key": "Td+BI1d9H4rM8jyhzI/y",
+  "scored_chatlogs_row": 6889,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 4\n- Description: Slow TDG badge fix \u2014 review & direction\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tokenomics/pull/379\n  \n  Details:\n  Human sponsor (Gary Teh) time on the TDG holdings badge fix: flagged the slow 'Loading your TDG holdings...' delay on the homepage, suggested retrieving the refresh secret via Sophia's box/vault, reviewed the localhost badge, and approved merge + prod sync.\n  \n  Paired with AI agent Deep Seek (separately clocked at 44 min execution).\n  \n  Pull requests:\n  - https://github.com/TrueSightDAO/tokenomics/pull/379\n- Contributor(s): Gary Teh\n- TDG Issued: 6.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: iFyZ7XP1mirIphYJo9lkbl4xUNZPLiDvBa3+YC/kTxwXxWQYbBQtPU8stjdRTUqwO+8Tt+t7o11DABn0WZlwW3hVvl5rRKqMPMjG11mZJFo6JkYpYKlu1qzh9DbTEvLgDWx5SxfHz86u4M3Z9Mpx/dTiWfBy6p1Fj0DckP9HJnZgKNw4AOlXFjMlfTAjKtalvLS/MB1INi34W3iQ5166ASpsDnTvuQNy71Xyg1hY/0zDB3/7xqqZl3rWGKrmAGdcaNJm5dxocpcl6php+M/dH+opiI4BBatSFLCjyY86cv3gQJi/6cLyO+EEGKkQBOhtXtSsNJWQFF5ymGFwIjfGGg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "6.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260710",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
