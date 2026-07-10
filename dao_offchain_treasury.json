@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-10T21:25:34.375Z",
+  "generated_at": "2026-07-10T21:26:19.573Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 4,
@@ -1433,10 +1433,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 25,
+          "amount": 24,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 140.60261494252873
+          "total_value_usd": 134.97851034482758
         },
         {
           "currency": "ATOLOMOTOR Coffee Bean Roaster",
@@ -1733,6 +1733,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.509333333333332,
           "total_value_usd": 25.528
+        },
+        {
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 5.624104597701149,
+          "total_value_usd": 5.624104597701149
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
