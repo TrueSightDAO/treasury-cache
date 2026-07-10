@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-10T13:08:32.836065+00:00",
+  "scoring_hash_key": "W8gySqELpuYFg0HqKUVC",
+  "scored_chatlogs_row": 6873,
+  "contributor_name": "Val Lapidus",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 10\r\n- Description: Coordinating pickup of cacao from Liz\r\n- Contributor(s): Gary Teh, Val Lapidus\r\n- TDG Issued: 16.67\r\n- Attached Filename: IMG_4200.jpeg\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260710071457_gary_teh_img_4200.jpeg\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: KEEq5YrC5j67Yo8Y2BTz2u8sN8skNQos68CEQdd4+aUw+eaeDbpzF0clRR2IUt+Dod1qy5VYup7aOmlSUZT2F80bsr82kqKteqnlg6ShUadF1myQqwuVNIoBhkpy953Om7UwIX73lPzk59vZzK1QeXJ7h0DWWs1zuNSD3OSdcjHZuOesNZtEtMGJWdNxriLq7Qq3IzanRKlGqmhLyfoAfwDAm0oc0MOuU0v6lKO4YjNF5uAi9+5K7Y4HP8/Tgt1FRjzLcdD7Wznw+47eAA7sUh7FwrAr9sX9hXJEK7yoPIdQPTBHxPU3hEpyLRuEvGlvJiobBlATUDHdJ5b5QjLsfg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260710",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
