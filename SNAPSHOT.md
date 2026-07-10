@@ -5,14 +5,15 @@
 
 | | |
 |---|---|
-| Generated at | `2026-07-10T21:50:43.752Z` |
+| Generated at | `2026-07-10T21:51:26.152Z` |
 | Trigger | `manual` |
-| Schema version | `4` |
+| Schema version | `5` |
 | Item types | 85 |
 | Total units | 21922.374159576753 |
 | Total value USD | $29593.85 |
 | Ledgers processed | 14 |
 | Managers | 38 |
+| QR codes assigned | 1092 |
 
 ## Items (85, sorted by total quantity)
 
@@ -121,46 +122,46 @@
 
 ## Managers (38)
 
-| Manager | Line items | Total units |
-|---|---:|---:|
-| Aga Marecka | 1 | 20 |
-| Andrea Catalina Falcon Rios De Pabst | 3 | 223 |
-| Coopercabruca | 1 | 1706 |
-| Edge and Node | 4 | 31 |
-| Elinor Janelle | 1 | 1 |
-| Elora - Eugene Oregon | 2 | 9 |
-| Gary Teh | 27 | 14185.629036778755 |
-| Gergana - The Way Home Shop | 1 | 7 |
-| Go Ask Alice - Niccolina Ammerman | 2 | 14 |
-| HackerDojo | 1 | 5 |
-| Heather - Ming's Lounge | 2 | 6 |
-| iChakras Smart Healing Center - Crystal via Chloe | 1 | 5 |
-| Jae Nice | 1 | 7 |
-| Jenifer Runnion | 1 | 10 |
-| Kelly Springer | 2 | 16 |
-| Kirsten Ritschel | 16 | 1399 |
-| Linda Gorski | 1 | 7 |
-| Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 |
-| Matheus Reis | 22 | 2012.7151227979998 |
-| Micheal Johnson | 2 | 85 |
-| Miss Tomato - Asad | 1 | 10 |
-| Nima Kaz | 1 | 3 |
-| Paulo Hernandez | 1 | 10 |
-| Queen Hippie Gypsy - Lily | 1 | 8 |
-| RAVEN things collected | 1 | 1 |
-| Rune Shields | 2 | 5 |
-| Sacred Earth Farms | 3 | 316 |
-| Sammi Whitchurch | 1 | 5 |
-| Secrets of the Garden - Kirstin | 5 | 10 |
-| Shannon Barlow - Ponderosa | 2 | 6 |
-| Shuar Design Boutique | 3 | 37 |
-| SunMint Tree Planting Contract - agl4 | 1 | 324 |
-| Tess Walkowski | 2 | 13 |
-| The Enchanted Forest Boutique - Chris and Monique | 1 | 10 |
-| The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 |
-| USPS | 1 | 49.09 |
-| Val Lapidus | 11 | 1270 |
-| Yasmin | 1 | 40 |
+| Manager | Line items | Total units | QR codes |
+|---|---:|---:|---:|
+| Aga Marecka | 1 | 20 | — |
+| Andrea Catalina Falcon Rios De Pabst | 3 | 223 | — |
+| Coopercabruca | 1 | 1706 | — |
+| Edge and Node | 4 | 31 | — |
+| Elinor Janelle | 1 | 1 | 4 |
+| Elora - Eugene Oregon | 2 | 9 | — |
+| Gary Teh | 27 | 14185.629036778755 | 239 |
+| Gergana - The Way Home Shop | 1 | 7 | 7 |
+| Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
+| HackerDojo | 1 | 5 | 5 |
+| Heather - Ming's Lounge | 2 | 6 | — |
+| iChakras Smart Healing Center - Crystal via Chloe | 1 | 5 | 5 |
+| Jae Nice | 1 | 7 | 7 |
+| Jenifer Runnion | 1 | 10 | 10 |
+| Kelly Springer | 2 | 16 | 15 |
+| Kirsten Ritschel | 16 | 1399 | 67 |
+| Linda Gorski | 1 | 7 | 7 |
+| Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 | 3 |
+| Matheus Reis | 22 | 2012.7151227979998 | 326 |
+| Micheal Johnson | 2 | 85 | — |
+| Miss Tomato - Asad | 1 | 10 | — |
+| Nima Kaz | 1 | 3 | — |
+| Paulo Hernandez | 1 | 10 | — |
+| Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
+| RAVEN things collected | 1 | 1 | — |
+| Rune Shields | 2 | 5 | 5 |
+| Sacred Earth Farms | 3 | 316 | 316 |
+| Sammi Whitchurch | 1 | 5 | 5 |
+| Secrets of the Garden - Kirstin | 5 | 10 | 6 |
+| Shannon Barlow - Ponderosa | 2 | 6 | — |
+| Shuar Design Boutique | 3 | 37 | 29 |
+| SunMint Tree Planting Contract - agl4 | 1 | 324 | — |
+| Tess Walkowski | 2 | 13 | 9 |
+| The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
+| The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 | 5 |
+| USPS | 1 | 49.09 | — |
+| Val Lapidus | 11 | 1270 | — |
+| Yasmin | 1 | 40 | — |
 
 ---
 
