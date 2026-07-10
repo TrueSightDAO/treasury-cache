@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-07-09T09:00:05Z",
+  "generated_at": "2026-07-10T08:56:36Z",
   "source": "update_buy_back_reserve_cache.py",
   "reserve": {
-    "total_usd": 39.86,
+    "total_usd": 47.16,
     "label": "Accumulated Buy-Back Reserve",
     "description": "Total USD provisions set aside for buy-back and voting rights cash-out. Funded by daily allocations from DAO treasury revenue."
   },
   "daily_buy_back_budget": null,
   "summary": {
-    "total_provisions_count": 269,
-    "total_provisions_amount": 41.44
+    "total_provisions_count": 292,
+    "total_provisions_amount": 47.33
   },
   "provisions": [
     {
@@ -602,11 +602,6 @@
       "date": "20260114",
       "description": "[DAILY BUYBACK PROVISION]",
       "amount": 0.13
-    },
-    {
-      "date": "20260115",
-      "description": "[DAILY BUYBACK PROVISION]",
-      "amount": 0.14
     },
     {
       "date": "20260116",
@@ -1357,6 +1352,126 @@
       "date": "20260616",
       "description": "[DAILY BUYBACK PROVISION]",
       "amount": 0.09
+    },
+    {
+      "date": "20260617",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.08
+    },
+    {
+      "date": "20260618",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.1
+    },
+    {
+      "date": "20260619",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.1
+    },
+    {
+      "date": "20260620",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.25
+    },
+    {
+      "date": "20260621",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.25
+    },
+    {
+      "date": "20260622",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.25
+    },
+    {
+      "date": "20260623",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.25
+    },
+    {
+      "date": "20260624",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.25
+    },
+    {
+      "date": "20260625",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.25
+    },
+    {
+      "date": "20260626",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.26
+    },
+    {
+      "date": "20260627",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.27
+    },
+    {
+      "date": "20260628",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.27
+    },
+    {
+      "date": "20260629",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.29
+    },
+    {
+      "date": "20260630",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.3
+    },
+    {
+      "date": "20260701",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.3
+    },
+    {
+      "date": "20260702",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.29
+    },
+    {
+      "date": "20260703",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.27
+    },
+    {
+      "date": "20260704",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.27
+    },
+    {
+      "date": "20260705",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.28
+    },
+    {
+      "date": "20260706",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.29
+    },
+    {
+      "date": "20260707",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.29
+    },
+    {
+      "date": "20260708",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.29
+    },
+    {
+      "date": "20260709",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.29
+    },
+    {
+      "date": "20260710",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.29
     }
   ]
 }
