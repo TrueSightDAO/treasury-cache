@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-10T20:02:32.714Z",
+  "generated_at": "2026-07-11T03:25:08.893Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "edgar_webhook",
+  "trigger": "cron",
   "counts": {
     "contributors": 409,
     "active_public_keys": 82,
@@ -362,7 +362,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260702 20:45:14"
+          "last_active_at": "20260710 13:02:12"
         }
       ]
     },
@@ -1918,7 +1918,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA0q7Abln5ZCNwyys5h8OtV/CAngKBe+3WwUHmK6m1dWxJeRWeE+1ADmwh5iICyTxnFm8SdpscbdBAQ7fwkDB0IJFh2pahFFbWcR2kzw1BAbnqXr8/Z4VWP39zhyRW973GdKIsB0aOpEYe5D5eXNuzfSePY/K45r91139z5xHbGnBMnGfs4+qhHsZPX4rcRjIAcTJdCEFttlNPZlVGMOKah6KUMSaVlQMPW697W5WIEr2L48G1LNSKAXI5aH8494TUe8t0K8s6FXuYEV9oYGJ4eH+QGOiZIxmKe2pgZOxZ5jgkL2fq+B8QpglzmrAkWM89BlzlEYboJV/AujBG9/CPxQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-06-10T01:53:00.000Z",
-          "last_active_at": "20260710 12:40:01"
+          "last_active_at": "20260710 13:12:20"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA37mJolJw4E13tYySlg8UC9TNfXZhzsax2VWM3t+bMk/PMY9uePEcdH5cEFceslHnMJ0ljV+XesSzbMVve4/6nYzY4aD3U392SWNvsGaZpdgTwzoLYYP89SmOkot94AJjCJ72sV4U8QIZR3d/ERs6upBKjrLlDm3vIzQj6mobnvid8hWslJ3IIfBHkC3uafHkd1UGV2y6kYHT7n5WSgqa+PLzb/dYACEfSvAqzNHx5HPFeCkNgFN7feNEbVOODFQR40rWeZ0RXf1t+M3YbWnwewI97OXzQTo8x5PHDuhGsX/pgGHLZYqHNOvwbR3bEcx0LkmBvWwinN5QrwwvBMciAwIDAQAB",
