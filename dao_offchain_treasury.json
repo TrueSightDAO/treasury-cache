@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T20:15:31.125Z",
+  "generated_at": "2026-07-14T20:16:32.390Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11628.397574178754,
-      "total_value_usd": 11628.4,
+      "total_quantity": 11638.507574178753,
+      "total_value_usd": 11638.51,
       "ledgers": {
-        "Main Ledger": 4394.8962378975975,
+        "Main Ledger": 4405.006237897597,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -132,10 +132,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 324,
-      "total_value_usd": -486,
+      "total_quantity": 325,
+      "total_value_usd": -487.5,
       "ledgers": {
-        "Main Ledger": 324
+        "Main Ledger": 325
       }
     },
     {
@@ -685,20 +685,6 @@
       }
     },
     {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-      "unit_weight_g": null,
-      "unit_cost_usd": 2.903378,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 8,
-      "total_value_usd": 23.23,
-      "ledgers": {
-        "Main Ledger": 8
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags",
       "unit_weight_g": null,
       "unit_cost_usd": 8.343880378,
@@ -708,6 +694,20 @@
       "hs_code": null,
       "total_quantity": 7,
       "total_value_usd": 58.41,
+      "ledgers": {
+        "Main Ledger": 7
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
+      "unit_weight_g": null,
+      "unit_cost_usd": 2.903378,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 7,
+      "total_value_usd": 20.32,
       "ledgers": {
         "Main Ledger": 7
       }
@@ -1191,7 +1191,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1874.9561,
+      "unit_cost_usd": 1875.2862,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1537,8 +1537,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1874.9561,
-          "total_value_usd": 8.909046574185568e-11
+          "unit_cost_usd": 1875.2862,
+          "total_value_usd": 8.910615078255683e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1556,10 +1556,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4255.866237897598,
+          "amount": 4265.9762378975975,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4255.866237897598
+          "total_value_usd": 4265.9762378975975
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -3595,13 +3595,6 @@
           "total_value_usd": 140.60261494252873
         },
         {
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 2.903378,
-          "total_value_usd": 2.903378
-        },
-        {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
           "amount": 50,
           "ledger": "Main Ledger",
@@ -4116,38 +4109,7 @@
           "total_value_usd": 20.323646
         }
       ],
-      "qr_codes": [
-        {
-          "qr_code": "2024OSCAR_CB_20260620_10",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CB_20260620_11",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CB_20260620_12",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CB_20260620_13",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CB_20260620_14",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        }
-      ]
+      "qr_codes": []
     },
     {
       "manager_name": "Lumin Earth Apothecary - Summer and Sierra",
@@ -8854,10 +8816,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 324,
+          "amount": 325,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -486
+          "total_value_usd": -487.5
         }
       ],
       "qr_codes": []
@@ -9203,10 +9165,10 @@
   ],
   "totals": {
     "item_types": 85,
-    "total_units": 21690.054159576754,
-    "total_value_usd": 29361.53,
+    "total_units": 21700.16415957675,
+    "total_value_usd": 29367.23,
     "ledgers_processed": 14,
     "managers_count": 38,
-    "qr_codes_assigned": 1090
+    "qr_codes_assigned": 1085
   }
 }
