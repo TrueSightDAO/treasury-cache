@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T20:17:22.460Z",
+  "generated_at": "2026-07-14T20:17:35.594Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11689.057574178752,
-      "total_value_usd": 11689.06,
+      "total_quantity": 11709.277574178752,
+      "total_value_usd": 11709.28,
       "ledgers": {
-        "Main Ledger": 4455.556237897596,
+        "Main Ledger": 4475.776237897595,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -132,10 +132,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 330,
-      "total_value_usd": -495,
+      "total_quantity": 332,
+      "total_value_usd": -498,
       "ledgers": {
-        "Main Ledger": 330
+        "Main Ledger": 332
       }
     },
     {
@@ -1556,10 +1556,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4316.526237897596,
+          "amount": 4336.746237897595,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4316.526237897596
+          "total_value_usd": 4336.746237897595
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -8816,10 +8816,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 330,
+          "amount": 332,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -495
+          "total_value_usd": -498
         }
       ],
       "qr_codes": []
@@ -9165,8 +9165,8 @@
   ],
   "totals": {
     "item_types": 85,
-    "total_units": 21755.714159576753,
-    "total_value_usd": 29410.28,
+    "total_units": 21777.93415957675,
+    "total_value_usd": 29427.5,
     "ledgers_processed": 14,
     "managers_count": 38,
     "qr_codes_assigned": 1085
