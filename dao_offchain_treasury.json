@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T19:48:32.747Z",
+  "generated_at": "2026-07-14T20:15:09.244Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -1191,7 +1191,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1878.2596,
+      "unit_cost_usd": 1874.9561,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1537,8 +1537,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1878.2596,
-          "total_value_usd": 8.92474349389362e-11
+          "unit_cost_usd": 1874.9561,
+          "total_value_usd": 8.909046574185568e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4117,12 +4117,6 @@
         }
       ],
       "qr_codes": [
-        {
-          "qr_code": "2024OSCAR_CB_20260620_8",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
         {
           "qr_code": "2024OSCAR_CB_20260620_9",
           "status": "MINTED",
@@ -9219,6 +9213,6 @@
     "total_value_usd": 29361.53,
     "ledgers_processed": 14,
     "managers_count": 38,
-    "qr_codes_assigned": 1092
+    "qr_codes_assigned": 1091
   }
 }
