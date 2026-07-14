@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T20:16:32.390Z",
+  "generated_at": "2026-07-14T20:16:45.719Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11638.507574178753,
-      "total_value_usd": 11638.51,
+      "total_quantity": 11678.947574178752,
+      "total_value_usd": 11678.95,
       "ledgers": {
-        "Main Ledger": 4405.006237897597,
+        "Main Ledger": 4445.446237897596,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -132,10 +132,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 325,
-      "total_value_usd": -487.5,
+      "total_quantity": 329,
+      "total_value_usd": -493.5,
       "ledgers": {
-        "Main Ledger": 325
+        "Main Ledger": 329
       }
     },
     {
@@ -1556,10 +1556,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4265.9762378975975,
+          "amount": 4306.416237897596,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4265.9762378975975
+          "total_value_usd": 4306.416237897596
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -8816,10 +8816,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 325,
+          "amount": 329,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -487.5
+          "total_value_usd": -493.5
         }
       ],
       "qr_codes": []
@@ -9165,8 +9165,8 @@
   ],
   "totals": {
     "item_types": 85,
-    "total_units": 21700.16415957675,
-    "total_value_usd": 29367.23,
+    "total_units": 21744.604159576753,
+    "total_value_usd": 29401.67,
     "ledgers_processed": 14,
     "managers_count": 38,
     "qr_codes_assigned": 1085
