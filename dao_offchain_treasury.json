@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T20:43:48.133Z",
+  "generated_at": "2026-07-14T20:45:00.468Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -195,20 +195,6 @@
       }
     },
     {
-      "currency": "Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.0705,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 197,
-      "total_value_usd": 13.89,
-      "ledgers": {
-        "Main Ledger": 197
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
       "unit_weight_g": 200,
       "unit_cost_usd": 10.37,
@@ -220,6 +206,20 @@
       "total_value_usd": 1762.9,
       "ledgers": {
         "AGL8": 170
+      }
+    },
+    {
+      "currency": "Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.0705,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 169,
+      "total_value_usd": 11.91,
+      "ledgers": {
+        "Main Ledger": 169
       }
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1875.1770000000001,
+      "unit_cost_usd": 1875.352,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1523,8 +1523,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1875.1770000000001,
-          "total_value_usd": 8.910096203234609e-11
+          "unit_cost_usd": 1875.352,
+          "total_value_usd": 8.9109277337171e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3651,10 +3651,10 @@
         },
         {
           "currency": "Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033)",
-          "amount": 197,
+          "amount": 169,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.0705,
-          "total_value_usd": 13.888499999999999
+          "total_value_usd": 11.914499999999999
         },
         {
           "currency": "Label Maker",
@@ -9137,8 +9137,8 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 21787.044159576748,
-    "total_value_usd": 29443.91,
+    "total_units": 21759.044159576748,
+    "total_value_usd": 29441.93,
     "ledgers_processed": 14,
     "managers_count": 37,
     "qr_codes_assigned": 1085
