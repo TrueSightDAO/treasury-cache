@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-14T23:11:52.866550+00:00",
+  "scoring_hash_key": "tcFLAI/nIorXJanxbSTt",
+  "scored_chatlogs_row": 6916,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 35\n- Description: Provisioned the Nelanco Claude Code box (Gate B): EC2 + EIP + DNS\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/660\n  \n  Details:\n  Executed Gate B of the Nelanco interactive Claude Code box. Read-only AWS discovery with the local Nelanco keys (verified account 767697632458, enumerated SGs/subnets/keypairs, inspected SG ingress to avoid the world-open default SGs, confirmed Explorya Route53 truesight.me zone). Provisioned: EC2 i-01ad5eca707e4445f (t3.medium, encrypted 30GB, launch-wizard-1 SG, subnet-de8102b9, latest Ubuntu 22.04 via SSM) running the PR1 user-data (Claude Code 2.1.197 + tmux + Sophia-parity toolchain, cloud-init done); allocated + associated a dedicated Elastic IP 100.57.50.48; created Route53 A record claude.truesight.me -> 100.57.50.48 in the Explorya account; added the 'nelanco-claude' alias to the operator ~/.ssh/config and verified SSH. Recorded provisioned state in the tracked plan (PR #660). Remaining: Gate C laydown (repos + creds + dedicated fleet SSH key) + interactive claude login.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 58.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: J1ZvxvJSh1j8BvHXAJWuzUmzPeFZyZABcI/xw6tViibPv23qhscXvo7Y1naGOPPFMFriIJ3Y+QZOqB2O1YHVKdKHTbkTvrq8Rsc/Z/admxtAQ2+Xiwjh8nB5VtCbokZkD+Dnh3aT9DSInHLlqYSm80bewoMqN6d4hFiUMbofPyQtG26JbcKrb+EPypgSIJsnWzS3NL4yyC5Qi2oUkxtoOzkWYwZdgSpjMTuAqsWb7b3nzGo+vlLKp5Prhu7FHIHsyn/9PaPRYZJtb70tfAbTbxEAsJ1kC9WRMMwsxqiiINNzQZxMtkvk8s19lfpQjif8iELF5UKMfHdyBRfsJ+0v2w==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "58.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260714",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
