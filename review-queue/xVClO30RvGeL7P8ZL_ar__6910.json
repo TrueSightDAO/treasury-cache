@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-14T22:13:48.833393+00:00",
+  "scoring_hash_key": "xVClO30RvGeL7P8ZL/ar",
+  "scored_chatlogs_row": 6910,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Roadmap: Nelanco Claude Code box (2nd Sophia + mobile remote-control)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/657\n  \n  Details:\n  Researched and authored the execution roadmap for a new EC2 in the Nelanco AWS account that runs the full truesight_autopilot stack AND an interactive Claude Code session drivable from the Claude mobile app via 'claude --remote-control'. Work: (1) verified via docs that --remote-control (not --cloud) keeps execution + credentials on the box with the mobile app as a window; (2) mapped Sophia's current credential/deploy model and the Nelanco EC2 topology; (3) wrote a \u00a75-compliant roadmap (pre-flight completeness, one-PR-per-turn sequence with always-stop gates for identity/infra/creds/autonomy, resume tracker, 6-step UAT) plus 5 open decisions. Merged as PR #657.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: BJVgysKiFiGQTC5e0n26J1CyfbuQjcxsaNE6THxn8t+ffSbbzltZk6yWoJzZ/UER50sAQY04U2STYCtN+P/amKDE44LVF2gaPKE8Fd0t0WcDzXpj5NjJYdc3xySWBvHy0eTiaEIpvgsn8qD9lX81E76EtMWlvT3zXwPugf/4Aj9SMM0BeMIGabsgfe46PWuhtdOZ4PRZSLHzYUfLg6FYHlKrc28QYMYzxDVO6Fk6qf2SGk+3gwZntUiEK8YZhpWC16wILf4oETGx00CT3kaC6jeK8IOT4KU3U3njc0l+zfYSyQ4Tr9S6MCKRYLjslZWquqN6IYv3muMOsIBgIpaLoA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260714",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

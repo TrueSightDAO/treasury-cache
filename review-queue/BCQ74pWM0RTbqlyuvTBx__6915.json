@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-14T22:13:48.834069+00:00",
+  "scoring_hash_key": "BCQ74pWM0RTbqlyuvTBx",
+  "scored_chatlogs_row": 6915,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Description: Nelanco Claude Code box: scope correction + PR1 provisioning artifacts\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/658\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/276\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/659\n  \n  Details:\n  Continued the Nelanco interactive-Claude-Code-box initiative. (1) Corrected the roadmap scope after Gary clarified: the box runs PLAIN interactive Claude Code (ssh -> tmux -> claude -> remote-control from the mobile app) with Sophia-parity environment + full fleet SSH \u2014 NOT a second autonomous Sophia; removed the autonomous stack + collision decision, promoted SSH-access parity to a first-class deliverable (PR #658). (2) Built PR1 provisioning artifacts in truesight_autopilot: launch_ec2_nelanco_claude.sh (account-guarded t3.medium in Nelanco, SSM-resolved Ubuntu AMI, encrypted EBS, EIP, no hardcoded Explorya values) + user-data-claude.sh (Sophia-parity toolchain + tmux + Claude Code, no autopilot services); both pass bash -n (PR #276). (3) Advanced the resume tracker to PR2 (PR #659). Code-only; launches no infra until Gate B.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 66.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: TlxopDZbTwAURq5ZQHmIMZ3eGgHZ0DQyAeC8L2Kzrfeh8S9dyuPqw7GBxjx5KHCVfYK2/joUmOR+eXBGn/tPR9EoyrCoeQ1vUVUDIYhGndmy0KX0iym0LUFBe7jg7fHmxE5YJli0+KD0QHvosJqn9+/k/SeJwF96lhH4wTO/rvdkqur+Ozmhi/TAurywSQ+n3A4RnoHoOfxYTXCMub2afBP7RPu8GOyFnluuqd2pHDNjnyzKImmxIDvrlqUr4i8PcjToJ93GnY0pVUt9G7O6WDQkwL23I4LU+gWTnLRNLjoiEuoPYUUYXoUxryYyuwBhsTCpjXBlZUP643VFv5CaZA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "66.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260714",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
