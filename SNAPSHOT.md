@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-07-14T20:38:44.141Z` |
+| Generated at | `2026-07-14T20:41:22.863Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
-| Item types | 85 |
-| Total units | 21789.044159576748 |
-| Total value USD | $29436.11 |
+| Item types | 84 |
+| Total units | 21785.044159576748 |
+| Total value USD | $29432.66 |
 | Ledgers processed | 14 |
-| Managers | 38 |
+| Managers | 37 |
 | QR codes assigned | 1085 |
 
-## Items (85, sorted by total quantity)
+## Items (84, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -48,8 +48,8 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 38 | $9.02 | $342.73 | Main Ledger: 38 |
 | RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467) | — | — | 35 | $0.55 | $19.39 | Main Ledger: 35 |
 | 1 Gallon Zip Loc Bags | — | — | 34 | $0.14 | $4.78 | Main Ledger: 34 |
+| 81% Dark Chocolate Bar 50g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 28 | $5.62 | $157.47 | Main Ledger: 28 |
 | Chocolate Mold - 4 X 6 slots | — | — | 26 | $1.19 | $30.94 | Main Ledger: 26 |
-| 81% Dark Chocolate Bar 50g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 25 | $5.62 | $140.60 | Main Ledger: 25 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | — | — | 25 | $8.38 | $209.38 | Main Ledger: 25 |
 | 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | — | — | 24 | $9.95 | $238.87 | Main Ledger: 24 |
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 21 | $10.18 | $213.83 | AGL13: 21 |
@@ -68,7 +68,6 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | Cacao Mass | Retail Ready | 9 | $8.52 | $76.65 | AGL6: 9 |
 | 8 Ounce Package Kraft Pouch - AGL6 | — | — | 9 | $9.21 | $82.93 | AGL6: 9 |
 | 8 Ounce Package Kraft Pouch - CP340992695BR + v2 bags | — | — | 7 | $8.34 | $58.41 | Main Ledger: 7 |
-| Agroverse 81% Cacao Chocolate Bar 50g \| 8 Ounce Nibs CP340992735BR \| Kirsten 20260620 \| San Francisco - AGL4 | — | — | 7 | $2.90 | $20.32 | Main Ledger: 7 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 7 | $23.98 | $167.83 | Main Ledger: 7 |
 | 8 Ounce Package Kraft Pouch - AGL2 + V2 bags | — | — | 5 | $7.49 | $37.47 | Main Ledger: 5 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 5 | $8.32 | $41.58 | Main Ledger: 5 |
@@ -103,7 +102,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1875.68 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1875.40 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -116,11 +115,11 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 70 | 13345.457500497596 |
+| Main Ledger | 69 | 13341.457500497596 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (38)
+## Managers (37)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -130,7 +129,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 27 | 14044.29903677875 | 239 |
+| Gary Teh | 28 | 14047.29903677875 | 239 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -140,7 +139,6 @@
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 15 | 1398 | 67 |
-| Linda Gorski | 1 | 7 | — |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 | 3 |
 | Matheus Reis | 22 | 2012.7151227979998 | 326 |
 | Micheal Johnson | 2 | 85 | — |
