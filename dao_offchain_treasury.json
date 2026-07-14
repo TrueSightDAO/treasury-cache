@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T20:38:44.141Z",
+  "generated_at": "2026-07-14T20:41:22.863Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -419,6 +419,20 @@
       }
     },
     {
+      "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+      "unit_weight_g": null,
+      "unit_cost_usd": 5.624104597701149,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 28,
+      "total_value_usd": 157.47,
+      "ledgers": {
+        "Main Ledger": 28
+      }
+    },
+    {
       "currency": "Chocolate Mold - 4 X 6 slots",
       "unit_weight_g": null,
       "unit_cost_usd": 1.19,
@@ -430,20 +444,6 @@
       "total_value_usd": 30.94,
       "ledgers": {
         "Main Ledger": 26
-      }
-    },
-    {
-      "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-      "unit_weight_g": null,
-      "unit_cost_usd": 5.624104597701149,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 25,
-      "total_value_usd": 140.6,
-      "ledgers": {
-        "Main Ledger": 25
       }
     },
     {
@@ -694,20 +694,6 @@
       "hs_code": null,
       "total_quantity": 7,
       "total_value_usd": 58.41,
-      "ledgers": {
-        "Main Ledger": 7
-      }
-    },
-    {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-      "unit_weight_g": null,
-      "unit_cost_usd": 2.903378,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 7,
-      "total_value_usd": 20.32,
       "ledgers": {
         "Main Ledger": 7
       }
@@ -1191,7 +1177,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1875.6807000000001,
+      "unit_cost_usd": 1875.3986,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1463,6 +1449,13 @@
           "total_value_usd": 4.777
         },
         {
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "amount": 3,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 5.624104597701149,
+          "total_value_usd": 16.872313793103448
+        },
+        {
           "currency": "ATOLOMOTOR Coffee Bean Roaster",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -1537,8 +1530,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1875.6807000000001,
-          "total_value_usd": 8.912489585543356e-11
+          "unit_cost_usd": 1875.3986,
+          "total_value_usd": 8.911149158405581e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4096,20 +4089,6 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         }
       ]
-    },
-    {
-      "manager_name": "Linda Gorski",
-      "manager_key": "Linda%20Gorski",
-      "items": [
-        {
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "amount": 7,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 2.903378,
-          "total_value_usd": 20.323646
-        }
-      ],
-      "qr_codes": []
     },
     {
       "manager_name": "Lumin Earth Apothecary - Summer and Sierra",
@@ -9164,11 +9143,11 @@
     }
   ],
   "totals": {
-    "item_types": 85,
-    "total_units": 21789.044159576748,
-    "total_value_usd": 29436.11,
+    "item_types": 84,
+    "total_units": 21785.044159576748,
+    "total_value_usd": 29432.66,
     "ledgers_processed": 14,
-    "managers_count": 38,
+    "managers_count": 37,
     "qr_codes_assigned": 1085
   }
 }
