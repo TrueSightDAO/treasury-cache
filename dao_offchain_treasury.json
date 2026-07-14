@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T20:15:09.244Z",
+  "generated_at": "2026-07-14T20:15:31.125Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 5,
   "items": [
     {
@@ -4117,12 +4117,6 @@
         }
       ],
       "qr_codes": [
-        {
-          "qr_code": "2024OSCAR_CB_20260620_9",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
         {
           "qr_code": "2024OSCAR_CB_20260620_10",
           "status": "MINTED",
@@ -9213,6 +9207,6 @@
     "total_value_usd": 29361.53,
     "ledgers_processed": 14,
     "managers_count": 38,
-    "qr_codes_assigned": 1091
+    "qr_codes_assigned": 1090
   }
 }
