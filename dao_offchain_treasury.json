@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T20:54:53.635Z",
+  "generated_at": "2026-07-14T21:48:33.202Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -426,10 +426,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 30,
-      "total_value_usd": 168.72,
+      "total_quantity": 28,
+      "total_value_usd": 157.47,
       "ledgers": {
-        "Main Ledger": 30
+        "Main Ledger": 28
       }
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1874.0504,
+      "unit_cost_usd": 1877.4022,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1523,8 +1523,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1874.0504,
-          "total_value_usd": 8.90474304756847e-11
+          "unit_cost_usd": 1877.4022,
+          "total_value_usd": 8.920669469689689e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3575,10 +3575,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 30,
+          "amount": 28,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 168.72313793103447
+          "total_value_usd": 157.47492873563218
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -9137,8 +9137,8 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 21509.284159576753,
-    "total_value_usd": 29202.16,
+    "total_units": 21507.284159576753,
+    "total_value_usd": 29190.91,
     "ledgers_processed": 14,
     "managers_count": 37,
     "qr_codes_assigned": 1085
