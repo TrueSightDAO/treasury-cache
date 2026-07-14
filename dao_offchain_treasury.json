@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T20:45:00.468Z",
+  "generated_at": "2026-07-14T20:48:49.303Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -223,20 +223,6 @@
       }
     },
     {
-      "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.554,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 142,
-      "total_value_usd": 78.67,
-      "ledgers": {
-        "Main Ledger": 142
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
       "unit_weight_g": null,
       "unit_cost_usd": 6.64,
@@ -248,6 +234,20 @@
       "total_value_usd": 909.68,
       "ledgers": {
         "Main Ledger": 137
+      }
+    },
+    {
+      "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.554,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 114,
+      "total_value_usd": 63.16,
+      "ledgers": {
+        "Main Ledger": 114
       }
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1875.352,
+      "unit_cost_usd": 1873.9929000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1523,8 +1523,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1875.352,
-          "total_value_usd": 8.9109277337171e-11
+          "unit_cost_usd": 1873.9929000000002,
+          "total_value_usd": 8.904469830409938e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3672,10 +3672,10 @@
         },
         {
           "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
-          "amount": 142,
+          "amount": 114,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.554,
-          "total_value_usd": 78.668
+          "total_value_usd": 63.156000000000006
         }
       ],
       "qr_codes": [
@@ -9137,8 +9137,8 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 21759.044159576748,
-    "total_value_usd": 29441.93,
+    "total_units": 21731.044159576748,
+    "total_value_usd": 29426.42,
     "ledgers_processed": 14,
     "managers_count": 37,
     "qr_codes_assigned": 1085
