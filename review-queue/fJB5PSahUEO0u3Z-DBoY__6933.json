@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-15T20:54:46.557576+00:00",
+  "scoring_hash_key": "fJB5PSahUEO0u3Z+DBoY",
+  "scored_chatlogs_row": 6933,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Contributor(s): Gary Teh\n- Description: Resolve CNAME merge conflict during beta\u2192prod sync for Beer Hall updates fix (truesight_me_prod CNAME divergence)\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: ePkSCUE4Bd1X3sqDk2N4FTNWozWXADQ0/EBSRiyGOREIWgr63npmM/vjl1n+TgnLB/tnAQhMTttpjWiMza8Q2m4gbnl+IldpziYKJnI/l6n01CFDy/XQFgRCOjEiaKsbKBQ43fOFSCI43eWd2PemuO/y/e4Ekl3sI4PYi2HtNizjMG47rlM9evrfiYVG5PNTXfKbeOk1y2jfe8jUU9F021KcEWUIyOuQwcQTj1EDodIA5yE1yAoFYY/aDXZSXe50PjiT3GanrGFW7/0VsQZ7+MUaRshidguRj59JRpUc16UBvCVYtN+po6HkuULvjB+L8CfpMimEeWxiM+UZVL/ROg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260715",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

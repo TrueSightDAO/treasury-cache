@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-15T20:54:46.557469+00:00",
+  "scoring_hash_key": "hfoBNpxVAxfIQOdwvoUm",
+  "scored_chatlogs_row": 6932,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Contributor(s): Sophia Truesight\n- Description: Investigate and fix Beer Hall updates page CDN caching issue \u2014 diagnosed stale jsDelivr cache, swapped fetch order to raw.githubusercontent.com primary, opened PR #282 on truesight_me_beta\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: JhBp8qkMugDm4OiXiNzT7trGcqZ7/qomuhM+x+6iLv4UzWKME89y1fapQXf+ocVyAl8q5nKSZA5wsQAt89JEL2ZkskJzLpj53XYCst0GoaAeAq6MEqCaAnHNB8dfAftxmgcC0FRUGD1tbVLsinKu4e+7A52RAiOqtL9LO933Le1FNCsRX9XhOpZwqXZbul/E6IMFZ/5aFIR+s1DlEEDThMkZSxJYjZ4cPykCUAkS3w+0ZIz4YGyULodmfZtYPzl1TT4rQe1mKZne273jzbiNcYak032ENS8yvEzxU0vzaZ5bEVOOhl5oxpMXANI8pr3RDwZOt2ZCzjXEIP8Zm1fjHw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260715",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
