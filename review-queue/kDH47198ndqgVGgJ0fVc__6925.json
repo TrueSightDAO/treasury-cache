@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-15T14:44:35.209519+00:00",
+  "scoring_hash_key": "kDH47198ndqgVGgJ0fVc",
+  "scored_chatlogs_row": 6925,
+  "contributor_name": "AGL15",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: USD\r\n- Amount: 154.50\r\n- Description: Monthly parking while in China to expand cacao distribution\r\n- Contributor(s): AGL15\r\n- TDG Issued: 154.50\r\n- Attached Filename: IMG_4484.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260715132422_gary_teh_img_4484.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: f2GYn7h+3a8IiV7Du7e1OhsQc7lV9YaePbojnHujnE1kjulDeZ56fIVUE/y18LoUdjx6k1+Wjq425zN3ZkCQSK4hcmFXOhWslszOJ/OZeh/Y24pyfEbrx4n4+nC82Pu0i+WwGHrz76X6SjfQ5ruJswv/Y5owuGAQlhPP5NvQi2MXiVqI/v1dP5d7R3j+id6DxZEFNT2/ZKYRYYxiUNQEoeUqcdBoTqHQi6gFcUNh6dTDRIt0yZiLgW/qH4CiEnwKS/shN422DcCbI3nFy7V8khppoPpiCOC20k4O2l9NWAoo27J3MGjydlatQ1mxbs00q9sX8Dh0p0HvI0NlOc2LGg==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "154.5",
+  "tdgs_issued": "0",
+  "contribution_date": "20260715",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
