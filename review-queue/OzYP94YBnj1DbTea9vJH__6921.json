@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-15T12:53:43.852763+00:00",
+  "scoring_hash_key": "OzYP94YBnj1DbTea9vJH",
+  "scored_chatlogs_row": 6921,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 65\n- Description: Migrated Sophia (autopilot) Explorya->Nelanco via AMI lift-and-shift\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/Cypher-Defense/pull/41\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/666\n  \n  Details:\n  Executed the Sophia autopilot migration from the Explorya AWS account to Nelanco, co-locating her with the fleet. Method (Gary's suggestion): AMI lift-and-shift for a byte-for-byte clone. Created a fresh AMI of the live box --no-reboot (no disruption), shared+copied it into Nelanco (ami-049ff1f01152ef25d), launched the new box i-05276b8ae82d6b88c PASSIVE (user-data disabled the 4 services + DRY_RUN so it couldn't double-act), associated a reused idle EIP 3.214.167.219 (account was at allocation cap), and validated it as a faithful clone (Edgar identity, Telethon session, code all intact). Cutover: stopped old services, flipped the new box to production (all 4 systemd units active, health 200), re-pointed Route53 sophia.truesight.me -> 3.214.167.219 (HTTPS 200 on the new box), retargeted the weekly AMI backup to the new box (Cypher-Defense PR #41: sophia-nelanco tag + Nelanco CYPHER_DEFENCE creds), and STOPPED the old Explorya box (kept for rollback). Updated the AWS infra doc + migration plan (agentic_ai_context PR #666). Pending hand-offs (auto-mode gated): fleet SG allowlist swap in dao-protocol-beta-sg.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 108.33\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: ZTt4UiNTmtlS1MP6U3Jx0ka8SX7dHdP2yErKmqU9QI4o3xmue58Xjfe7gZLOlM1aYTtUrf/WgNeCLGh981D6Oe1HXBKkMOQAc2yFRdo14PK8fcfz747NsxPy7H5/4e7XHR52/P/SHSuL3d9hJC8DcwoCDQVFSuFw+hf0N1elnevB/EWFT7gWEZivpbf9Sqm81Kt8JAwU+YZXwMx1RfaiAYw0I+oP0ig+mHE84GHeLz2F8V8nT9uhoiqunDs8X5fYjEVL7viaEIgvXOYV9PkLoJDa7DjEWe1xVWfyvbXCai64ahdDWatC4kdiRO5mBw0os8vhvd7E0b2Bpu7oj5nV7Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "108.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260715",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
