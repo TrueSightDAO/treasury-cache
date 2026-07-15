@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-15T09:57:08.566210+00:00",
+  "scoring_hash_key": "x6JvrnhMnFqK88YwRpwX",
+  "scored_chatlogs_row": 6917,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 55\n- Description: Nelanco Claude Code box Gate C laydown + Sophia migration plan\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/661\n  \n  Details:\n  Completed Gate C of the Nelanco interactive Claude Code box and drafted the Sophia migration roadmap. (1) Cloned all 47 workspace repos onto the box into /opt/claude_workspace (TrueSightDAO + KrakeIO via the appropriate PATs, remotes scrubbed to clean HTTPS). (2) Mirrored 64 gitignored secret files (.envs, Google SAs, Gmail/OAuth tokens, .pem keys, DAO identities) + 3 clasp tokens onto the box preserving layout, perms 600. (3) Fleet SSH parity: copied sophia_infra to the box (fleet already authorizes it) rather than distributing a new key to 14 prod hosts for zero added isolation; wrote all 14 fleet aliases into the box ssh config; verified the full DAO/Agroverse fleet is reachable+authenticated (dao_protocol, seni_ror, seni_sk, seni_sql, seni_redis, getdata_redis). (4) Box git: Claude Anthropic identity + DAO-PAT credential helper (HTTPS push verified) + generated a dedicated ed25519 push key. (5) Wrote plans/SOPHIA_NELANCO_MIGRATION_PLAN.md (blue-green M1..M6 to relocate Sophia from Explorya to Nelanco). Only remaining step is Gary's interactive claude login. Merged as PR #661.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 91.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: q1sZHSP9TCN3phABZJH2JaSCaPVn+ZdIZ6M1IWiFGi+cjKSjMWX8wPINCBO85ZAyOY21TjqotKCv+Wh3LuWKfAvEaGlCsOINKa0i5Cw9yWjCkfnnKHLhXrlR+56lzUTJJDSrSxlVXhMA1vJMnqoHFNtN27yUSv7yaKKoNaN5Sg6OvN0kOxBRF2JV1bTalbESnCP53KSfwlydsjK5CXWEa3hPvQ7MvvMitFoSLP8InpWKrAdMCDbv7REu3rinxcodFKQaOEJnXlYX4D0B9C8VZTig5/mv4MGvQsTeTZMWl3ji3wQiKf+F68vLoY5kVAzA3hyTJX0GjOwO5ayx0EvNPA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "91.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260715",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
