@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-15T19:54:37.210186+00:00",
+  "scoring_hash_key": "u0JoSNTzMJb7wFGzBQac",
+  "scored_chatlogs_row": 6926,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Unblocked Sophia (autopilot) ssh_run tool on sophia-nelanco box (i-05276b8ae82d6b88c): verified new host identity via AWS EC2 before trusting reimaged host key, purged stale known_hosts entries for sophia.truesight.me (operator Mac) and 127.0.0.1 loopback (autopilot box), re-seeded via ssh-keyscan, verified loopback SSH with sophia_infra key using exact ssh_run invocation, pulled agentic_ai_context to HEAD bae6f0d at /opt/truesight_autopilot/context/agentic_ai_context and corrected Sophia's wrong repo path assumption (~/agentic_ai_context)\n- Contributor(s): Gary Teh\n- TDG Issued: 50.00\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: MQEqS24v/NS38sxs95fxBLwTVU3t8ZDZTCs1fS87W42CISwi1bhNKaJadO656Sa96r5Qrj1PJT5APtBgWoCkioQ2Fg+NQPC03eGVBgbkpxeO/dMn6UD88XFvvZd/unTZvFLiZogPwApWYiUCWM3SomFwWF/z2ZPiFzF7MX49MzABtRwi7a8eghU4TMEPPNoQ3mdIOPiwY/QubvJjOWZsDaA7iM+XmsFr4qHSeDXZd+lvgZEldtmrwRfTDDe+QpNGRfkdYeEdv/1xdnNADThG6g3lfwO0TAxeG5B1p8A6uUh1JD7CbXwHwhMTBRg1NDoU13Qq4+KjKLA+58CmAknB9Q==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260715",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

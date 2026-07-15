@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-15T19:54:37.210367+00:00",
+  "scoring_hash_key": "7lnmVneVXAaBTzGiP0IN",
+  "scored_chatlogs_row": 6927,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Diagnosed and resolved USD Treasury Balance discrepancy between landing page and /treasury/ page\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/tokenomics/pull/381\n  \n  Details:\n  ## Summary\n  \n  Gary noticed the USD Treasury Balance figures differed between truesight.me (landing page) and truesight.me/treasury/. \n  \n  **Root cause:** The landing page reads from the Performance Statistics sheet (cached by GAS cron), while the /treasury/ page computes live. The sheet value was stale because the formula in the \"off chain asset balance\" sheet had an error.\n  \n  **Actions taken:**\n  1. Gary fixed the formula in the \"off chain asset balance\" sheet\n  2. Refreshed the treasury breakdown cache via ?type=treasury_breakdown&refresh=1\n  3. Refreshed the AUM stat via ?type=recalculate_aum\n  4. Synced USD_TREASURY_BALANCE to Performance Statistics via ?type=sync_treasury\n  \n  **Result:** Both pages now show $17,270.40 USD \u2014 in sync.\n  \n  **Note:** The ?type=sync_treasury endpoint already existed in the deployed GAS code (added in a previous deploy), so PR #381 was a no-op and has been closed.\n- Contributor(s): Gary Teh, Sophia Truesight\n- TDG Issued: 50\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: C2mRBcPC9Z7dTRfWal8xHQWJxuf+WfFSWjphK6/HciMDeLhSufEgjs+Artgm1PWo2qjT2+7wtDQHtLZVdBDYXTYlQ9uEnF7RZBBYxp9WzDp3vkRIc2wLUCXvPdcB1qTJysemzlJBkFm6SN+fC1tCB9ePi70SwTDy0Dh9q+T19y+c3YsR8EvJhp4i4tAzefejs65hkEwitpc118K1KCDGA9so/RCZuwyrD8dTIXLxLfmBjfQxt223nIK8zYGaEl8ynoeum8r5B4ss/CT6I+Cg9XZYdIH6u76ip/H6Gdlq76cAD5Dxlp0dKr4DEHdGs2i2DNFWMB3d36dJlUa/HtjkgQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260715",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
