@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T08:11:50.055007+00:00",
+  "generated_at": "2026-07-16T08:15:08.580932+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -601,7 +601,7 @@
             {
               "id": "i-02c699d3d7efbdc82",
               "name": "truesight-autopilot",
-              "state": "running",
+              "state": "stopped",
               "type": "t3.medium",
               "launch_time": "2026-06-06T21:56:28+00:00"
             },
@@ -692,8 +692,8 @@
       },
       "totals": {
         "instances": 3,
-        "instances_running": 1,
-        "instances_stopped": 2,
+        "instances_running": 0,
+        "instances_stopped": 3,
         "key_pairs": 7,
         "security_groups": 16,
         "open_ports": [
@@ -724,7 +724,7 @@
           "commonName": "affiliate.agroverse.shop"
         },
         "expiry": "2026-09-20T23:59:59+00:00",
-        "days_remaining": 67,
+        "days_remaining": 66,
         "error": null
       },
       "headers": {
@@ -765,7 +765,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-08-27T06:30:20+00:00",
-        "days_remaining": 42,
+        "days_remaining": 41,
         "error": null
       },
       "headers": {
@@ -852,14 +852,14 @@
           "commonName": "beta.agroverse.shop"
         },
         "expiry": "2026-08-18T13:39:19+00:00",
-        "days_remaining": 34,
+        "days_remaining": 33,
         "error": null
       },
       "headers": {
-        "status_code": 404,
+        "status_code": 200,
         "headers": {
-          "CSP": "default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'",
-          "HSTS": null,
+          "CSP": null,
+          "HSTS": "max-age=31556952",
           "XFO": null,
           "XCTO": null,
           "Referrer-Policy": null,
@@ -867,12 +867,12 @@
         },
         "present": [
           {
-            "header": "CSP",
-            "value": "default-src 'none'; style-src 'unsafe-inline'; img-src data:; connect-src 'self'"
+            "header": "HSTS",
+            "value": "max-age=31556952"
           }
         ],
         "missing": [
-          "HSTS",
+          "CSP",
           "XFO",
           "XCTO",
           "Referrer-Policy",
@@ -897,7 +897,7 @@
           "commonName": "beta.dapp.truesight.me"
         },
         "expiry": "2026-08-26T18:44:46+00:00",
-        "days_remaining": 42,
+        "days_remaining": 41,
         "error": null
       },
       "headers": {
@@ -938,7 +938,7 @@
           "commonName": "beta.edgar.truesight.me"
         },
         "expiry": "2026-09-07T21:00:10+00:00",
-        "days_remaining": 54,
+        "days_remaining": 53,
         "error": null
       },
       "headers": {
@@ -979,7 +979,7 @@
           "commonName": "beta.truesight.me"
         },
         "expiry": "2026-10-12T13:16:49+00:00",
-        "days_remaining": 89,
+        "days_remaining": 88,
         "error": null
       },
       "headers": {
@@ -1041,7 +1041,7 @@
           "commonName": "butterfly-effect-club.truesight.me"
         },
         "expiry": "2026-08-20T20:17:12+00:00",
-        "days_remaining": 36,
+        "days_remaining": 35,
         "error": null
       },
       "headers": {
@@ -1082,7 +1082,7 @@
           "commonName": "capoeira.agroverse.shop"
         },
         "expiry": "2026-10-07T21:52:18+00:00",
-        "days_remaining": 84,
+        "days_remaining": 83,
         "error": null
       },
       "headers": {
@@ -1123,7 +1123,7 @@
           "commonName": "chatbot.truesight.me"
         },
         "expiry": "2026-11-08T23:59:59+00:00",
-        "days_remaining": 116,
+        "days_remaining": 115,
         "error": null
       },
       "headers": {
@@ -1166,7 +1166,7 @@
         "headers": {},
         "present": [],
         "missing": [],
-        "error": "HTTPSConnectionPool(host='claude.truesight.me', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='claude.truesight.me', port=443) at 0x7f8d02dd2790>, 'Connection to claude.truesight.me timed out. (connect timeout=15)'))"
+        "error": "HTTPSConnectionPool(host='claude.truesight.me', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='claude.truesight.me', port=443) at 0x7feb9ef7cc90>, 'Connection to claude.truesight.me timed out. (connect timeout=15)'))"
       }
     },
     {
@@ -1196,18 +1196,12 @@
       "hosting": "github-pages",
       "target": "truesightdao.github.io",
       "tls": {
-        "valid": true,
-        "issuer": {
-          "countryName": "US",
-          "organizationName": "Let's Encrypt",
-          "commonName": "YR1"
-        },
-        "subject": {
-          "commonName": "dapp.truesight.me"
-        },
-        "expiry": "2026-09-29T22:10:49+00:00",
-        "days_remaining": 76,
-        "error": null
+        "valid": false,
+        "issuer": null,
+        "subject": null,
+        "expiry": null,
+        "days_remaining": null,
+        "error": "[Errno 104] Connection reset by peer"
       },
       "headers": {
         "status_code": 200,
@@ -1251,7 +1245,7 @@
           "commonName": "edgar.truesight.me"
         },
         "expiry": "2026-08-08T23:12:36+00:00",
-        "days_remaining": 24,
+        "days_remaining": 23,
         "error": null
       },
       "headers": {
@@ -1292,7 +1286,7 @@
           "commonName": "heierling.truesight.me"
         },
         "expiry": "2026-10-11T19:04:20+00:00",
-        "days_remaining": 88,
+        "days_remaining": 87,
         "error": null
       },
       "headers": {
@@ -1333,7 +1327,7 @@
           "commonName": "oracle.truesight.me"
         },
         "expiry": "2026-10-07T11:02:48+00:00",
-        "days_remaining": 84,
+        "days_remaining": 83,
         "error": null
       },
       "headers": {
@@ -1374,7 +1368,7 @@
           "commonName": "perch.truesight.me"
         },
         "expiry": "2026-09-11T22:05:13+00:00",
-        "days_remaining": 58,
+        "days_remaining": 57,
         "error": null
       },
       "headers": {
@@ -1434,7 +1428,7 @@
       "name": "sophia.truesight.me",
       "url": "https://sophia.truesight.me",
       "hosting": "ec2",
-      "target": "52.200.38.206",
+      "target": "3.214.167.219",
       "tls": {
         "valid": true,
         "issuer": {
@@ -1446,11 +1440,11 @@
           "commonName": "sophia.truesight.me"
         },
         "expiry": "2026-08-28T22:13:40+00:00",
-        "days_remaining": 44,
+        "days_remaining": 43,
         "error": null
       },
       "headers": {
-        "status_code": 502,
+        "status_code": 200,
         "headers": {
           "CSP": null,
           "HSTS": "max-age=63072000; includeSubDomains; preload",
@@ -1500,7 +1494,7 @@
           "commonName": "tribomirimbahia.truesight.me"
         },
         "expiry": "2026-10-08T03:43:19+00:00",
-        "days_remaining": 84,
+        "days_remaining": 83,
         "error": null
       },
       "headers": {
@@ -1541,7 +1535,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 35,
+        "days_remaining": 34,
         "error": null
       },
       "headers": {
@@ -1586,7 +1580,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-08-27T06:30:20+00:00",
-        "days_remaining": 42,
+        "days_remaining": 41,
         "error": null
       },
       "headers": {
@@ -1631,7 +1625,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-08-20T00:15:51+00:00",
-        "days_remaining": 35,
+        "days_remaining": 34,
         "error": null
       },
       "headers": {
@@ -2267,7 +2261,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-07-15T08:13:29.850919+00:00"
+    "scanned_at": "2026-07-16T08:17:00.037507+00:00"
   },
   "score": {
     "score": 20,
@@ -2281,10 +2275,11 @@
       "TLS error on api.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.truesight.me'. (_ssl.c:1016)",
       "TLS error on blog.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'blog.truesight.me'. (_ssl.c:1016)",
       "TLS error on claude.truesight.me: timed out",
-      "TLS expiring: edgar.truesight.me (24d)",
+      "TLS error on dapp.truesight.me: [Errno 104] Connection reset by peer",
+      "TLS expiring: edgar.truesight.me (23d)",
       "Missing headers on affiliate.agroverse.shop: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "Missing headers on beta.agroverse.shop: HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on beta.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.dapp.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.edgar.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
