@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-16T22:40:29.087696+00:00",
+  "scoring_hash_key": "CtgSWme7PhevtbZh81gh",
+  "scored_chatlogs_row": 6937,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Description: HTS code infrastructure documentation: researched existing HS codes on Currencies sheet, created SCHEMA.md PR #382 adding Currencies section + HTS Code column, generated PDF with complete product-to-HTS mapping for partner sharing\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: U2PZiXQcOpp6G6JW24IL/PlhuzMlhv3NqcU/9iMQHpXzswhRT1o391xdGyEmLW0/hQYUnVAkD9BlZ+DrzWAYPDeygdylekQVByVodpMeiHKm9VEVgq7X/swG3YCgDLLJT7BQRSDSQfIWEpIfNeJilki4arjH5sEsIb8xjx2msDOV44BBJ7gJG0qv5tNPUJhcYCQMYmWmPxjAW3/sGtn2Ga3HAuXrt7dIiV//MDuIHOSV9xFgPHcHsHM3WrsqHsGYfV32otqD69brvHml/dHb2jotvw2tIGiWvsFa1sWHCKmF2pGxQKQB6iZTqmn9ri3dd/2PlSuxLC9LMjbWRU74Pw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260716",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
