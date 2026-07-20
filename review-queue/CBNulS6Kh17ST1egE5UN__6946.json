@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-20T10:46:33.589116+00:00",
+  "scoring_hash_key": "CBNulS6Kh17ST1egE5UN",
+  "scored_chatlogs_row": 6946,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Contributor(s): Gary Teh\n- Description: getdata.io SSL recovery: direction, go-signals, issue identification (CSS not loading), QA oversight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: Qf5QKRPIebCO6xlt3YE3idqg7MB/ggjEk/UAvLcsLOFTp1s4jacU7ciY/1BU1EZaJs+b4J6xE7Pk832uiSYxRMlnJT0y/0Cxp/VTIE8ThXUbQ51MsUbpSOaTKZXEK/hEzlaKDHQ6tbIxcLo6QqUeBpuXa/W7mJwTwaCtvIvfh45GcxXPg2OMnvvb1h+7IyVf4zQpvBt+jqqvAhtbNIRhpHMdJj6eseAkIRtQKNza6CxnAODYFMS57KO+5Y8njYC/wSwA3DZKTeIDyAdT1tS5vVnVaUlaJrd7znld3Eg3YQI8uh7GYcndRSImFo+/UEQ4SHYKt77X5Y9i0Y55umVgZw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260718",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

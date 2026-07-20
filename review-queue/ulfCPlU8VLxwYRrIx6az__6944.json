@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-20T10:46:33.588874+00:00",
+  "scoring_hash_key": "ulfCPlU8VLxwYRrIx6az",
+  "scored_chatlogs_row": 6944,
+  "contributor_name": "admin+sophia@truesight.me",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Contributor(s): admin+sophia@truesight.me\n- Description: Opened PR #693 for Claude's handoff registry consolidation (Claude had the code but no PAT with PR scope). Fixed formatting, force-pushed, opened PR.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: U9tEsA37Y+4CiI3Xs7AftPDaOtv/ZeAELWPsPJF7/XsXUkA/xeoDXKsnRmFKzwLm4UtVnfdwjMvqLGol7d30DavAWsJ8KQhZIY89Mrq45EXCaMLWRu76pyPiNPALQwr1kDkathfN9m1JE4Bi8Oc6n/9cu1ASo1Mmi033MH1l2TWELhCtWMsSo260QyklB9GIi31HZbOZsZrW0TUYc/7EFt3Y3O7pdNckqFREFgL0BXrtJTYmrRdsxqlxEpR4wCr4vB0Qo0fLu0BdYXmKJv1IYJyVubIOT/m8mlbLJCyM5943Bf7gTnL5tHvfArcQ73eF8MqsLPzxGF1+BDT3Zvyorg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260718",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

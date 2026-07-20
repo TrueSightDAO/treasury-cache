@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-20T10:46:33.588766+00:00",
+  "scoring_hash_key": "rEPsj9jwpUGar+CWknZK",
+  "scored_chatlogs_row": 6943,
+  "contributor_name": "admin+claude@truesight.me",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): admin+claude@truesight.me\n- Description: Consolidate handoff registry: wrote plan, validation script, tests, CI workflow, updated OPERATING_INSTRUCTIONS \u00a711, merged SOPHIA_HANDOFFS.md into HANDOFF_MANIFEST.md. PR #693.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: Q9hrNhN7IIS5fZ347CvTXlOnhyZIhhiW2izKV5jSt4Eq3kywMrLZCqPulMJ7MQ7/m6sK3cGs78pEqJIsw8XI8J2Xy1/e15T3+s0zSlxSTagS3HYjmNa6j4JU4tEyf2x8yJH0EbmC4Ejv81vsOLDHh41GqUlwZo0+W+2aR/CJ+FZXK0zXS+b2RB1htEl4aEwQ+HqOk54ZiN6K7EzK98BT7aGUgAM+Lp4B4FJelpAVMnzsK9Ad+2mtef8zEXZLny/39e7oPSJ4ytDmvY+e8lQkD/bVuAijrOo3c0qmK4jtmC+Fh4fLyCRqfC5BIN2vBVSLWPAH7/2ECGu6vLLS1oPuOg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260718",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

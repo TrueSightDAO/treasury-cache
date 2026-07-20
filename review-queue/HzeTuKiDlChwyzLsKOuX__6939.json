@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-20T10:46:33.588076+00:00",
+  "scoring_hash_key": "HzeTuKiDlChwyzLsKOuX",
+  "scored_chatlogs_row": 6939,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Contributor(s): Gary Teh (garyjob@agroverse.shop)\n- Description: Sugar deal sourcing \u2014 provided historical context from Milena/Enam, dictated requirements for Anabel (\u51ef\u5fc3) RFQ, reviewed and corrected bilingual PDF output.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: PeCr94sH+A2iSO3vAJaS2KtaPpZmmMKIEw1z2UOpFpMECRHMXeaelGCQ07857XeDFJ8HlwP0I9RIe4kc14IU3bFNH6a6O43bXpyJbOn7yqQa5+8zfWBGBEfddixkKrYDQh+O/IjVR3g9ZO+1ItAOXLEVkWh31uwLDXvBGMhmTA60raaOEQkDOzc94Vy8K6UoNrtbjeJubjuW0VcV3JoYSASJdA8LEn5PePri1SThqZrYx5PTCAclwN8aULsbzAEvfCJhVL1UdsbRwRrXYKRLyH8+b1A0ZffG60VS4Sx6xV7gjltzzQluQfKUuPWUrWjuvhKvkUgm89lG6EfAuHXM+w==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260718",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

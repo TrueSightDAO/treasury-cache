@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-20T10:46:33.588979+00:00",
+  "scoring_hash_key": "PokPa5QOhjy7TILCOoX7",
+  "scored_chatlogs_row": 6945,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 70\n- Contributor(s): Sophia Truesight (admin+sophia@truesight.me)\n- Description: getdata.io SSL recovery: ACM cert request + DNS validation, ALB cert attach, expired cert cleanup, krake-ror Rails app restart, CloudFront expired cert diagnosis + replacement across 3 distributions, health check port fix, end-to-end verification\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAlJTFcRP5UGCIe4HsSEqicbYpSlWohOfGM1UyoqYVhG2ckyX8wx5OSrZlUNxK5/Er5wORrtcbKZqC4qZ5H8en8noFVP5hR/raeu2coXXNTONQyfyEOf9fJdM50R+16d4dsxWdhtayp2/fDZk0vKVKD9umktW6ZVP+Z/ddMsY1YXYYhzXXQo35vaJa3c6wy1YOxMl6Kk2BBGgLvYeu/Uv3CJThRNlU4lhyPPMv/Iwow5845nHflEbbTD9s4coK101+u3xzO20j0tCh2HRoyP3+kDqa3JQZgqD7G/z/w8pRw2IS2I8dyZjdhvT5ywY+4P5Q4uvElu93RRuPGO+mi1s2WwIDAQAB\n\nRequest Transaction ID: E8xuoZoU9LeUnbpD5S0swWSDe6MexTy5XPFBkfgR4EFGqnRD/C7459HxlbsBSHQpk2xKz/J/v/tODH1PULOMCW4GRA1pfBoMWtypz4PIPhmNXiqt/TTMCiGslWTpOT1U/KXGgRag8hbfLHPBggd2O91v2SuFxsPHZqB9g/Nc5BS7yFhy8wkOr3X5/Sey8QaMLNKs3D6joKSxIG+ze7aJWly29UCcT+gV0N1GO/DpHJzf6hzQEOydGft2IU00pxPIscc22CKdqTubYC51MJalzy9RDWU3Zczz06Mn5nXUU27XjKRqY1w1UGJbVtMuqpy3yPorTFkzIMBsoU3bvUGxnA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260718",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

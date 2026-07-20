@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-20T10:46:33.588559+00:00",
+  "scoring_hash_key": "DGirGsylIrIphx1nQtwp",
+  "scored_chatlogs_row": 6941,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 240\n- Description: White-label checkout: stale GAS URL + shipping field-name fixes, prod sync, E2E policy\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/193\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/194\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/195\n  - https://github.com/TrueSightDAO/agroverse_shop_prod/pull/2\n  - https://github.com/TrueSightDAO/agroverse_shop_prod/pull/3\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/685\n  \n  Details:\n  Investigated and fixed a live production checkout outage on agroverse.shop (stale Google Apps Script deployment URL causing checkout to silently fail with a 404) and a second latent bug found during E2E verification (white-label.js reading wrong field names from the shipping-rates response, breaking every white-label order total with NaN). Both fixed and merged to beta and synced to prod. Built and committed a real Playwright E2E script (register->verify->upload->order->real Stripe checkout) plus a documented pre-merge policy in agentic_ai_context so future checkout/GAS changes are verified end-to-end before merge. Time estimated via reconstructed timeline of git/PR/screenshot timestamps across the engagement (2026-07-15 to 2026-07-18).\n- Contributor(s): Claude Anthropic\n- TDG Issued: 400.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: kaGyWTp8G1GHkQI54Px4koOYTk0jA1mn61cBWZxjcv5oux9vilD9kqtTsb9X3X5JrQlOT7S4yTC5tzD0BdDq/938Xj4gAD6prw/ebCLszJ9+ZKXk9Q50/zraVXn9gsgePgS9Son+G5gI+Zry+dNd93gDez29G9UH7cuIOCpnJpMs+cu0XUtVDtUJxIMBL46T/uYurCddohp7hFBkduF18EqnzIeYtTQ2UxPfUA/t5CK6EYZgLOWadyZBDXpTcN8GOsWjTZDJQvtA0zzixKg/F8TT9Gh5IqlMoJ5sS8PjGtLS4UIJnyaxZHpN2HCNaSoUbBfYb9wRXxxXe3C6TxhYJA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "400",
+  "tdgs_issued": "0",
+  "contribution_date": "20260718",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
