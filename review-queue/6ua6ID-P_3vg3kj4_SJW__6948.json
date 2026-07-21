@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-21T10:21:20.965743+00:00",
+  "scoring_hash_key": "6ua6ID+P/3vg3kj4/SJW",
+  "scored_chatlogs_row": 6948,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 240\n- Description: Warm-up conversion improvement: stats audit + segmented outreach + recurring readout\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/pull/170\n  - https://github.com/TrueSightDAO/go_to_market/pull/169\n  - https://github.com/TrueSightDAO/go_to_market/pull/171\n  \n  Details:\n  Investigated a 6-week reply-rate collapse (6% -> 0.3%) in the B2B warm-up auto-send channel via full-333-thread Gmail audit + Sheets stats deep-dive. Wrote WARMUP_CONVERSION_IMPROVEMENT_PLAN.md and shipped: PR1 dedupe + auto-park of confirmed dead-end auto-responder addresses (#170, Sophia); PR2 segmented first-touch templates by Shop Type/Hosts Circles with human UAT read-through before merge (#169); PR3 Hosts Circles fast-lane visibility + monthly reply-rate-by-segment/channel readout workflow, verified live end-to-end via manual dispatch (#171). All merged and confirmed running in production (go_to_market main has no beta/staging split).\n- Contributor(s): Claude Anthropic\n- TDG Issued: 400.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: wFnAKGuHhpGon4/caGEvd/fsiybqWnmzYCip2mSFw1ghUMuDlaUVxDrekrcCqgeYnTVnICGpVtXVUQqHWTPvVyZPn0LmRCQkz4RbNEPD5j10QgGHlzuZ1O1FmHi3G/AF1v8UIl0MCoJqqUzRnygYaHoLgmFt0xRaN2Tn3d94ly1Ber+U36cMBtAHyPxu6Hh+nX1TtJ5Sy5w9hOjkmevmNvUdQ2ajAHs2RfNxvAsVhsI/jTCnhClbwB76wQ4CtJBKiiH1vvzmKb40T3frbu5d4jfh0l38LgJ5m7Ob1GAmecCZDb77M4xoUFpVoFgm2PgCqW7Nm+wNsEGXDdACqVd5hA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "400",
+  "tdgs_issued": "0",
+  "contribution_date": "20260721",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

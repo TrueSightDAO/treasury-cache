@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-21T10:21:20.965929+00:00",
+  "scoring_hash_key": "5fWrj4pIBhOlu/uMtGdH",
+  "scored_chatlogs_row": 6949,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 210\n- Description: Handoff registry consolidation, 3 production bug fixes, and deploy\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/693\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/278\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/279\n  \n  Details:\n  Consolidated HANDOFF_MANIFEST.md and SOPHIA_HANDOFFS.md into a single source of truth after finding live drift (conflicting statuses, a missing row, a reused Telegram message_thread_id across 3 plans); added scripts/validate_handoff_manifest.py with unit + integration tests and a CI gate (agentic_ai_context #693). Investigated a Telegram handoff thread that got a generic reply instead of its plan context and found + fixed two independent bugs in the handoff-plan resolver (wrong repo path, a Status-substring filter that never matched any real value) plus the same class of bug in the Morning Oracle Standup daily briefing fetch (truesight_autopilot #278, #279), each with regression tests. Also found and fixed a live NameError bug in submit_contribution (missing lookup_event_docs import, merged directly \u2014 no PR URL, see repo history commit f1f599a/dd707dc) and a missing-sudo bug in scripts/deploy.sh blocking deploys (direct commit 9b1b9a0, also no PR). Merged all four fixes to main and deployed to the live autopilot box, verified via health check and service logs post-restart.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 350.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: A6LNbEch9zhtqJbdYb5cvtrQG0SINQc17FF4VpghimEI0mX9yqO+tUGs1vXIySOPUrFznb7dp2mdi2hdJf/TrnPA3KF4xZ3zMzXzGhpwiN0iiH2byZSbMp2TOml3FRuSXosvYqvEABrsgMHSevTSY1trzJeDiz64lGGzwgmP0bf8/XlnJrLH+0hmiCduNJvdXf13lqv8BaE5ndulFHeE+FvFNPXsx5k9oJtEGHKT9wax0MIy59mgT21c/woW1qGLWpR9ndENm01uP03Crb2uM4GYSyuskx7zIN2JqPrzU7KNQ6+XDuSBNlukCXLcul7qXOG+3uBVz2Lzjoz5fsL/rA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "350",
+  "tdgs_issued": "0",
+  "contribution_date": "20260721",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
