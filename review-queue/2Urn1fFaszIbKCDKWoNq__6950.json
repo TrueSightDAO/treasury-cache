@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-22T10:21:06.054290+00:00",
+  "scoring_hash_key": "2Urn1fFaszIbKCDKWoNq",
+  "scored_chatlogs_row": 6950,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 63\n- Description: Personal contributor backlog: registry, Sophia push tool, worktree convention\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/699\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/702\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/706\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/280\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/708\n  \n  Details:\n  Built the opt-in PERSONAL_CONTRIBUTOR_BACKLOGS.md registry (agentic_ai_context) letting contributors register a private repo for personal, non-DAO work logging. Implemented push_to_personal_repo (truesight_autopilot) \u2014 a Sophia tool that reads the registry, cross-checks calling-governor identity against the registered repo, pulls a named vault credential server-side only (never returned to chat, never persisted in the pushed repo's git config), and pushes via branch+PR (never a default branch), mirroring git_tools.py's guardrails. 10 tests including a real file:// round-trip proving the token never leaks. Also added OPERATING_INSTRUCTIONS.md Section 12: mandatory git worktree per concurrent session, after two real branch-collision incidents from sessions sharing one on-disk checkout. Deployed to sophia.truesight.me and verified healthy (service status, external HTTPS health check, tool-registry confirmation) post-deploy.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 105.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: hcj28dsOR8nefZbxRC7+lIYOuMo4WHxSPFw1Us7CaUmju22HGY0iGAEzNKX368XU3g6k115N8xe972PAeEvCpaF4hHfKagWAn9CaTWVw6NS9d99MIGAw5vJ/9JOCkUQx5TTc91yie1u+icEAlQpetlzTxrQ/PALTXPVQ1azNwSzy4ffMexrVIeNtO5DyxN6VKbekt3EAk8nkYUAL4H3TkNl9aiduNXcSFo9MLbwLeMDQh26cLltFyJNWCZaxNDEecR01PQ7LQ7oLlnZ7PhQ/SMadSvq/f2hs65OEGQzE3c5ExYc9WoMc5oWzQFdV2+KkyJ6W+rIilgZqXzHp/vUHwQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "105",
+  "tdgs_issued": "0",
+  "contribution_date": "20260722",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
