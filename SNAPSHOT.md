@@ -5,11 +5,11 @@
 
 | | |
 |---|---|
-| Generated at | `2026-07-22T02:48:35.603Z` |
+| Generated at | `2026-07-22T03:48:35.984Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 84 |
-| Total units | 21198.28415957675 |
+| Total units | 21198.284159576753 |
 | Total value USD | $28881.90 |
 | Ledgers processed | 14 |
 | Managers | 37 |
@@ -19,7 +19,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 11185.812444599267 | $1.00 | $11185.81 | AGL10: 347.83, AGL15: 4327.149999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4494.181108318109, SEF1: 16 |
+| USD | — | — | 11185.71144756289 | $1.00 | $11185.71 | AGL10: 347.83, AGL15: 4327.149999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4494.080111281733, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Brazilian Reis | — | — | 1965.9899999999984 | $0.23 | $456.70 | AGL8: 236.89999999999827, Main Ledger: 1729.0900000000001 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -40,7 +40,7 @@
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 | Cacao Nib | Bulk | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
-| USD - provisions for voting rights cash out | — | — | 50.1411012794885 | $1.00 | $50.14 | Main Ledger: 50.1411012794885 |
+| USD - provisions for voting rights cash out | — | — | 50.24209831586484 | $1.00 | $50.24 | Main Ledger: 50.24209831586484 |
 | Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
 | Chocolate Mold from Rusty | — | — | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | Cacao Almonds KG from Oscar's farm - AGL14 | Cacao Bean | Bulk | 40 | $11.41 | $456.49 | AGL14: 40 |
@@ -102,7 +102,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1928.59 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1929.64 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -115,7 +115,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 69 | 13296.567500497598 |
+| Main Ledger | 69 | 13296.567500497596 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
