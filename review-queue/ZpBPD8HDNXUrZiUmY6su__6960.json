@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-23T14:29:13.237867+00:00",
+  "scoring_hash_key": "ZpBPD8HDNXUrZiUmY6su",
+  "scored_chatlogs_row": 6960,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\r\n- Type: Time (Minutes)\r\n- Amount: 50\r\n- Description: Discussion with Vini on setting up CNPJ\r\n  \r\n  - Need to get document from Honduras government and then translated to Portugese\r\n  - Need to get CNPJ registered for Honduras entity\r\n  - BR.gov\r\n  - Tax resident Identity\r\n  - Accountant is BR$8,000 to BR$10,000 per year\r\n  - CNPJ renewal is USd$200 per year\r\n- Contributor(s): Gary Teh\r\n- TDG Issued: 83.33\r\n- Attached Filename: image.png\r\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/contribution_20260723115420_gary_teh_image.png\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Ep6RtMRFWrFf9MsYExjRFUhIO9IZxWRDykgmKQ4ee7z2prtC0NbVRlCj1BkWmppWNqn804njxzDNvYbmgoh3kZNzTDogrDejjmVVbgaGGI8tZ2cqKBdrrfDGv87Vqiti1WUcsDCZHpq9iGEGI0Kc655TH3NX5PLSCaSZFsklPhN99lNV0je2rd+XyGmD2gsg1iL8Jeud+vWBYn5W/jqi/s4MjU9P19Y2GgFye0/b2smh9AUkLzj2p9VmNUNMXVYfwiiJFI+GvA/+hZhrq3CAB5V+PbrrhkNjAII6CVLlqjFGniy+ISD1NmjgQJ4NvBZdsKalKU/MNWgurbxENwJF7g==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_contribution.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "83.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260723",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
