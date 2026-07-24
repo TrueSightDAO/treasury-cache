@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-07-24T10:11:39.209038+00:00",
+  "scoring_hash_key": "GUxp7UY20SpLHDOoZjFY",
+  "scored_chatlogs_row": 6965,
+  "contributor_name": "Elizabeth Wong",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Dinner meeting with cousin (\u8868\u54e5) \u2014 market research gathering on cacao beverage market gap in China, product feedback and insights\n- Contributor(s): Elizabeth Wong\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: HjGCePUXFRDx1aF0FX/RIC3mZCyHc9kno1bBZuNDj+T7UARyIXg/kyC77zWKLeb+ltYY+EtcjaRDCop40BCysufb/8X9zfVLwKMoDzmhJrFJNEQwvu9t+5kV2FYQT/HLRDJnU/9QgepgscCBiD1U/qb2a2sjgRyp754q5Ro7qUgpcPlNSdja5W4DJCtpmn7yI5Tsg+5pMJDvtJSSm3SBA64+Lphx4gGrovXcMyuUbgveP6zwc8mAOdUs/JbZ3d+Tx2oIUI644uyghWkorvZ6Vo6nzSLQR2CM/ztdKXwsQ+eHVYvpM1s1+YDYWMTdsiQBqa/h2HMN/e92IXUAOKLMQQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260724",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
