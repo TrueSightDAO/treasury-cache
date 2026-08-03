@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-03T13:56:59.081750+00:00",
+  "scoring_hash_key": "H1SFdaNdl3PdEcmwct1h",
+  "scored_chatlogs_row": 6975,
+  "contributor_name": "Gary",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Contributor(s): Gary Teh, Paloma Lecheta\n- Description: Working session: notarization + sworn translation (EN\u2192PT) of TrueSight DAO LLC Pr\u00f3spera ZEDE Operating Agreement for Brazilian CNPJ setup \u2014 engaged sworn translator Adriana Maciel, sent signed OA, CC Paloma, requested quote. 20 min combined (Gary + Paloma).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: kRLPDv3bozA6Ie0lRddkJ79CWFKMbaVXlIjrk91f0t/oEZJ0Ih6rI0dd911wunFKLQmzSX54rtw77guri+cgpaSvBAaU39OxRlhSy9kVlsq7kCKsRmbFZ3aA0sRq8LgTnL8c+azeCj0sk/y4t2Ksw5AS7b5duGSm5rwm7l2x9INWrzzK8yIy6c1UPH+OG5bm+thIOzMEiNcphUl6I2ULHFYajK6kzxc4hOMuG7uci59emFwCnbz2gmCA5NfhcEL1GHP4ViPo51AXAA41cf80ql0CQC6xrpEJ1sapp8OW0Uc7ogdvahsviJsB8jUCq/2hTjuu5RkDMQW662AFkOWCBg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260803",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
