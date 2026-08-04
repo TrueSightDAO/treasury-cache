@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-04T10:32:17.525230+00:00",
+  "scoring_hash_key": "u4X5JOuiz5Zwg80MaMzA",
+  "scored_chatlogs_row": 6979,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 25\n- Description: Assembled bilingual supply-chain traceability white paper (EN + zh-CN) and shared with Evans\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/727\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/729\n  \n  Details:\n  Assembled the draft white paper v1.1 \"Verifiable Supply-Chain Traceability for China's Exporters\" \u2014 covering the MSCI ESG ratings gap (AAA/AA ~1.9% leaders in MSCI China Index; 2% vs 34% disclosure), EU/US compliance regimes (CSRD/CSDDD/EUDR/UFLPA), the live TrueSight lineage stack in Brazil (QR serialization, lineage manifests, TrueChain anchoring, credentialing, notarization, verification surfaces), MSCI Key Issue \u2192 component mapping, SDG alignment (2/8/9/12/13/15/16/17), and the BRICS + Belt & Road digitization-export play. Generated both EN and zh-CN PDF drafts (CJK-capable pipeline) and shared them for review.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: HtYA3XgjCtVYBQ1DObdj7wW9dSYN27lPo0RwysdJ81FxyvwY+MGC80cGYnlNeP06UKVU9i5k7+rHBPcwtVDebejUccoagTawbTQrwErLhb0vuqlwayWXELHgcWbs3M4+o7EycEgJoqcSvJL4Rat4fUM3Ghdd2R1WAarPGRcfXAYPAStBf9kUyr8MbOdlrhz6F2I0Y2G0HfQiIWifxRlP5DO6Lj75KkeWmlRz8GvBuz8+RMXmxxFfkBlXi35nUKcvLuHLb+tTEtQg23JZ+2jgpUWMzOg/AoBUXRcV05S09Txpz0E5Tvl6VsqQ92hHCgRd/RiLPHbFbnaa9aQkj8VLfQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260804",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
