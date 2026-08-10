@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-10T09:13:25.723780+00:00",
+  "scoring_hash_key": "XKVpZHg5WGjAsyLm/Huy",
+  "scored_chatlogs_row": 6984,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Oversight + direction for TLS certificate incident response (2026-08-08/09): directed diagnosis of expired edgar.truesight.me cert, approved cert re-issue + monitoring automation, requested fleet-wide TLS automation and runbook documentation\n- Contributor(s): Gary Teh\n- TDG Issued: 25.00\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: XobilzTrzYY3PJx4dVOKcW+aLw+Xz2Lmb6aRH65L85TZUXALzopjYEPO1e0l2zv2XXNKUk/+2k6p0bSbNXFssW3hkvEaH+UHmZ4LCE6SmcoI/kBujavFKvuf5F+uWx+7YdNU3ehbK79ga9zxOybhsKU7+HVbabf6c5MPKVqPACmdHj8XOji63pEBszmT5IOi/m58UeMlqEwouYu5vsq3HfZldd2+CL/uAIlGAK0xJ7YW8ZLeZ0/47WRmrkSQ1Hob3AC39uYUTvEnVdfysjS5BeV/1cPwQlUaSEnnYBUONwx6GFpYnYVo72yTSqKi9ZwCs/ckr3P5PlT+yq4aVbJ/9Q==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260809",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
