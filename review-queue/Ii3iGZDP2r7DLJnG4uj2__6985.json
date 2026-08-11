@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-11T12:28:33.909309+00:00",
+  "scoring_hash_key": "Ii3iGZDP2r7DLJnG4uj2",
+  "scored_chatlogs_row": 6985,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 240\n- Description: Sunmint Farmer App (tree-planting DApp)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sunmint_beta/pull/1\n  \n  Details:\n  Built the Sunmint Farmer App (sunmint_beta/sunmint_prod): bilingual (PT/EN) RSA-signed email-link + tree-planting report, offline IndexedDB queue-and-flush (mirrors capoeira/assets/js/practice-event-submit.js), live camera capture, cacao-variety species dropdown (Criolla/Trinitario/Forestero), GitHub Pages + DNS + fork-based beta->prod promotion setup, and linked the app from truesight.me/sunmint.html (beta + prod). Spans TrueSightDAO/sunmint_beta PRs #1, #2, #3, #4, #5; TrueSightDAO/sunmint_prod fork-sync promotions; TrueSightDAO/truesight_me_beta#291; TrueSightDAO/truesight_me_prod#20.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 400.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: ynjWOBC9Jqa6FmJM1N8ruwJ2ANPs5k/aMHWZ3F8XF75Ht2C8uIxdTM1j8Uy3/ttlQz6XoiJSW7nL0CoIMhOTFlUQJzpOMM3UM11+jWDrY3laZYJ6ZbfH8Kipz7FRcv9zuaO1DugZoX74oPV98xI1KX+52yPNKsEN42Fn4ue3QB6RCdJVpN662+BT0GMQDhC0W645inS3+fHmkrRBp25+55gk2C3eTZma/a3xhuC5d75H6Nofz9FgVqgiLMefr6/bXSeBx0BphlEJxqr3e94GhheuTzo+WELF3Tck+P1NE6OVngOOPiOgiFIHv2bchtamPrvW/TIkehFEotZk/Norfw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "400",
+  "tdgs_issued": "0",
+  "contribution_date": "20260811",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
