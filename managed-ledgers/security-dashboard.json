@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T07:08:27.712348+00:00",
+  "generated_at": "2026-08-12T07:25:41.406926+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -739,7 +739,7 @@
           "commonName": "affiliate.agroverse.shop"
         },
         "expiry": "2026-09-20T23:59:59+00:00",
-        "days_remaining": 40,
+        "days_remaining": 39,
         "error": null
       },
       "headers": {
@@ -780,7 +780,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-10-26T08:35:20+00:00",
-        "days_remaining": 76,
+        "days_remaining": 75,
         "error": null
       },
       "headers": {
@@ -867,7 +867,7 @@
           "commonName": "beta.agroverse.shop"
         },
         "expiry": "2026-10-17T16:37:20+00:00",
-        "days_remaining": 67,
+        "days_remaining": 66,
         "error": null
       },
       "headers": {
@@ -912,7 +912,7 @@
           "commonName": "beta.dapp.truesight.me"
         },
         "expiry": "2026-10-25T20:00:48+00:00",
-        "days_remaining": 75,
+        "days_remaining": 74,
         "error": null
       },
       "headers": {
@@ -953,7 +953,7 @@
           "commonName": "beta.edgar.truesight.me"
         },
         "expiry": "2026-11-07T01:53:31+00:00",
-        "days_remaining": 87,
+        "days_remaining": 86,
         "error": null
       },
       "headers": {
@@ -984,19 +984,39 @@
       "hosting": "github-pages",
       "target": "truesightdao.github.io",
       "tls": {
-        "valid": false,
-        "issuer": null,
-        "subject": null,
-        "expiry": null,
-        "days_remaining": null,
-        "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'beta.sunmint.truesight.me'. (_ssl.c:1016)"
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "YR1"
+        },
+        "subject": {
+          "commonName": "beta.sunmint.truesight.me"
+        },
+        "expiry": "2026-11-09T06:16:52+00:00",
+        "days_remaining": 88,
+        "error": null
       },
       "headers": {
-        "status_code": null,
-        "headers": {},
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
         "present": [],
-        "missing": [],
-        "error": "HTTPSConnectionPool(host='beta.sunmint.truesight.me', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'beta.sunmint.truesight.me'. (_ssl.c:1016)\")))"
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
       }
     },
     {
@@ -1015,7 +1035,7 @@
           "commonName": "beta.truesight.me"
         },
         "expiry": "2026-10-12T13:16:49+00:00",
-        "days_remaining": 62,
+        "days_remaining": 61,
         "error": null
       },
       "headers": {
@@ -1077,7 +1097,7 @@
           "commonName": "butterfly-effect-club.truesight.me"
         },
         "expiry": "2026-10-20T09:03:49+00:00",
-        "days_remaining": 70,
+        "days_remaining": 69,
         "error": null
       },
       "headers": {
@@ -1118,7 +1138,7 @@
           "commonName": "capoeira.agroverse.shop"
         },
         "expiry": "2026-10-07T21:52:18+00:00",
-        "days_remaining": 57,
+        "days_remaining": 56,
         "error": null
       },
       "headers": {
@@ -1159,7 +1179,7 @@
           "commonName": "chatbot.truesight.me"
         },
         "expiry": "2026-11-08T23:59:59+00:00",
-        "days_remaining": 89,
+        "days_remaining": 88,
         "error": null
       },
       "headers": {
@@ -1188,7 +1208,7 @@
         "headers": {},
         "present": [],
         "missing": [],
-        "error": "HTTPSConnectionPool(host='claude.truesight.me', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='claude.truesight.me', port=443) at 0x7fc5b5708210>, 'Connection to claude.truesight.me timed out. (connect timeout=15)'))"
+        "error": "HTTPSConnectionPool(host='claude.truesight.me', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='claude.truesight.me', port=443) at 0x7fefa053dbd0>, 'Connection to claude.truesight.me timed out. (connect timeout=15)'))"
       }
     },
     {
@@ -1228,7 +1248,7 @@
           "commonName": "dapp.truesight.me"
         },
         "expiry": "2026-09-29T22:10:49+00:00",
-        "days_remaining": 49,
+        "days_remaining": 48,
         "error": null
       },
       "headers": {
@@ -1273,7 +1293,7 @@
           "commonName": "edgar.truesight.me"
         },
         "expiry": "2026-11-07T03:29:03+00:00",
-        "days_remaining": 87,
+        "days_remaining": 86,
         "error": null
       },
       "headers": {
@@ -1314,7 +1334,7 @@
           "commonName": "heierling.truesight.me"
         },
         "expiry": "2026-10-11T19:04:20+00:00",
-        "days_remaining": 61,
+        "days_remaining": 60,
         "error": null
       },
       "headers": {
@@ -1376,7 +1396,7 @@
           "commonName": "oracle.truesight.me"
         },
         "expiry": "2026-10-07T11:02:48+00:00",
-        "days_remaining": 57,
+        "days_remaining": 56,
         "error": null
       },
       "headers": {
@@ -1417,7 +1437,7 @@
           "commonName": "perch.truesight.me"
         },
         "expiry": "2026-09-11T22:05:13+00:00",
-        "days_remaining": 31,
+        "days_remaining": 30,
         "error": null
       },
       "headers": {
@@ -1489,7 +1509,7 @@
           "commonName": "sophia.truesight.me"
         },
         "expiry": "2026-10-28T08:30:04+00:00",
-        "days_remaining": 78,
+        "days_remaining": 77,
         "error": null
       },
       "headers": {
@@ -1533,19 +1553,39 @@
       "hosting": "github-pages",
       "target": "truesightdao.github.io",
       "tls": {
-        "valid": false,
-        "issuer": null,
-        "subject": null,
-        "expiry": null,
-        "days_remaining": null,
-        "error": "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sunmint.truesight.me'. (_ssl.c:1016)"
+        "valid": true,
+        "issuer": {
+          "countryName": "US",
+          "organizationName": "Let's Encrypt",
+          "commonName": "YR1"
+        },
+        "subject": {
+          "commonName": "sunmint.truesight.me"
+        },
+        "expiry": "2026-11-09T06:17:30+00:00",
+        "days_remaining": 88,
+        "error": null
       },
       "headers": {
-        "status_code": null,
-        "headers": {},
+        "status_code": 200,
+        "headers": {
+          "CSP": null,
+          "HSTS": null,
+          "XFO": null,
+          "XCTO": null,
+          "Referrer-Policy": null,
+          "Permissions-Policy": null
+        },
         "present": [],
-        "missing": [],
-        "error": "HTTPSConnectionPool(host='sunmint.truesight.me', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sunmint.truesight.me'. (_ssl.c:1016)\")))"
+        "missing": [
+          "CSP",
+          "HSTS",
+          "XFO",
+          "XCTO",
+          "Referrer-Policy",
+          "Permissions-Policy"
+        ],
+        "error": null
       }
     },
     {
@@ -1564,7 +1604,7 @@
           "commonName": "tribomirimbahia.truesight.me"
         },
         "expiry": "2026-10-08T03:43:19+00:00",
-        "days_remaining": 57,
+        "days_remaining": 56,
         "error": null
       },
       "headers": {
@@ -1605,7 +1645,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-10-19T01:14:23+00:00",
-        "days_remaining": 68,
+        "days_remaining": 67,
         "error": null
       },
       "headers": {
@@ -1650,7 +1690,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-10-26T08:35:20+00:00",
-        "days_remaining": 76,
+        "days_remaining": 75,
         "error": null
       },
       "headers": {
@@ -1695,7 +1735,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-10-19T01:14:23+00:00",
-        "days_remaining": 68,
+        "days_remaining": 67,
         "error": null
       },
       "headers": {
@@ -2361,7 +2401,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-08-11T07:10:23.706358+00:00"
+    "scanned_at": "2026-08-12T07:28:02.303936+00:00"
   },
   "score": {
     "score": 20,
@@ -2373,16 +2413,15 @@
       "World-open port 3002 on explorya",
       "World-open all traffic on explorya",
       "TLS error on api.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'api.truesight.me'. (_ssl.c:1016)",
-      "TLS error on beta.sunmint.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'beta.sunmint.truesight.me'. (_ssl.c:1016)",
       "TLS error on blog.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'blog.truesight.me'. (_ssl.c:1016)",
       "TLS error on claude.truesight.me: timed out",
       "TLS error on mtproxy.truesight.me: [SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1016)",
-      "TLS error on sunmint.truesight.me: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'sunmint.truesight.me'. (_ssl.c:1016)",
       "Missing headers on affiliate.agroverse.shop: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.dapp.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.edgar.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
+      "Missing headers on beta.sunmint.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on beta.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on butterfly-effect-club.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on capoeira.agroverse.shop: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
@@ -2392,6 +2431,7 @@
       "Missing headers on oracle.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on perch.truesight.me: CSP, HSTS, Permissions-Policy",
       "Missing headers on sophia.truesight.me: CSP, Permissions-Policy",
+      "Missing headers on sunmint.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on tribomirimbahia.truesight.me: CSP, HSTS, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on www.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
