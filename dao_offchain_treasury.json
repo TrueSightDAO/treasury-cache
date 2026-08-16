@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T18:59:55.327Z",
+  "generated_at": "2026-08-16T19:01:12.566Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11532.750702439864,
-      "total_value_usd": 11532.75,
+      "total_quantity": 11555.570702439863,
+      "total_value_usd": 11555.57,
       "ledgers": {
-        "Main Ledger": 4841.119366158707,
+        "Main Ledger": 4863.939366158706,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -132,10 +132,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 334,
-      "total_value_usd": -501,
+      "total_quantity": 336,
+      "total_value_usd": -504,
       "ledgers": {
-        "Main Ledger": 334
+        "Main Ledger": 336
       }
     },
     {
@@ -426,10 +426,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 28,
-      "total_value_usd": 157.47,
+      "total_quantity": 26,
+      "total_value_usd": 146.23,
       "ledgers": {
-        "Main Ledger": 28
+        "Main Ledger": 26
       }
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1883.7350000000001,
+      "unit_cost_usd": 1883.4948000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1523,8 +1523,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1883.7350000000001,
-          "total_value_usd": 8.9507604196298e-11
+          "unit_cost_usd": 1883.4948000000002,
+          "total_value_usd": 8.949619084647545e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1542,10 +1542,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4702.089366158707,
+          "amount": 4724.909366158707,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4702.089366158707
+          "total_value_usd": 4724.909366158707
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -3575,10 +3575,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 28,
+          "amount": 26,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 157.47492873563218
+          "total_value_usd": 146.22671954022988
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -4011,30 +4011,6 @@
         },
         {
           "qr_code": "2024_20260710_14",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_17",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_18",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_19",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_20",
           "status": "MINTED",
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -8782,10 +8758,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 334,
+          "amount": 336,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -501
+          "total_value_usd": -504
         }
       ],
       "qr_codes": []
@@ -9131,10 +9107,10 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 21546.94415957675,
-    "total_value_usd": 29230.56,
+    "total_units": 21569.76415957675,
+    "total_value_usd": 29239.14,
     "ledgers_processed": 14,
     "managers_count": 37,
-    "qr_codes_assigned": 1084
+    "qr_codes_assigned": 1080
   }
 }
