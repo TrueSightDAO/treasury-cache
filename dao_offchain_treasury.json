@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-16T19:02:12.975Z",
+  "generated_at": "2026-08-16T19:02:27.739Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11578.390702439863,
-      "total_value_usd": 11578.39,
+      "total_quantity": 11589.800702439863,
+      "total_value_usd": 11589.8,
       "ledgers": {
-        "Main Ledger": 4886.759366158706,
+        "Main Ledger": 4898.169366158706,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -132,10 +132,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 338,
-      "total_value_usd": -507,
+      "total_quantity": 339,
+      "total_value_usd": -508.5,
       "ledgers": {
-        "Main Ledger": 338
+        "Main Ledger": 339
       }
     },
     {
@@ -468,10 +468,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 24,
-      "total_value_usd": 134.98,
+      "total_quantity": 23,
+      "total_value_usd": 129.35,
       "ledgers": {
-        "Main Ledger": 24
+        "Main Ledger": 23
       }
     },
     {
@@ -1177,7 +1177,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1883.4948000000002,
+      "unit_cost_usd": 1883.6037000000001,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1523,8 +1523,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1883.4948000000002,
-          "total_value_usd": 8.949619084647545e-11
+          "unit_cost_usd": 1883.6037000000001,
+          "total_value_usd": 8.950136534187793e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1542,10 +1542,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4747.729366158706,
+          "amount": 4759.139366158706,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4747.729366158706
+          "total_value_usd": 4759.139366158706
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -3575,10 +3575,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 24,
+          "amount": 23,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 134.97851034482758
+          "total_value_usd": 129.35440574712644
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -8752,10 +8752,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 338,
+          "amount": 339,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -507
+          "total_value_usd": -508.5
         }
       ],
       "qr_codes": []
@@ -9101,8 +9101,8 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 21592.58415957675,
-    "total_value_usd": 29247.71,
+    "total_units": 21603.994159576745,
+    "total_value_usd": 29251.99,
     "ledgers_processed": 14,
     "managers_count": 37,
     "qr_codes_assigned": 1079
