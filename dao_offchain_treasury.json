@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-16T19:01:12.566Z",
+  "generated_at": "2026-08-16T19:01:31.147Z",
   "source": "treasury-cache-publisher",
   "trigger": "sales_update_main",
   "schema_version": 5,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11555.570702439863,
-      "total_value_usd": 11555.57,
+      "total_quantity": 11566.980702439863,
+      "total_value_usd": 11566.98,
       "ledgers": {
-        "Main Ledger": 4863.939366158706,
+        "Main Ledger": 4875.349366158706,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -132,10 +132,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 336,
-      "total_value_usd": -504,
+      "total_quantity": 337,
+      "total_value_usd": -505.5,
       "ledgers": {
-        "Main Ledger": 336
+        "Main Ledger": 337
       }
     },
     {
@@ -419,20 +419,6 @@
       }
     },
     {
-      "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-      "unit_weight_g": null,
-      "unit_cost_usd": 5.624104597701149,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 26,
-      "total_value_usd": 146.23,
-      "ledgers": {
-        "Main Ledger": 26
-      }
-    },
-    {
       "currency": "Chocolate Mold - 4 X 6 slots",
       "unit_weight_g": null,
       "unit_cost_usd": 1.19,
@@ -444,6 +430,20 @@
       "total_value_usd": 30.94,
       "ledgers": {
         "Main Ledger": 26
+      }
+    },
+    {
+      "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+      "unit_weight_g": null,
+      "unit_cost_usd": 5.624104597701149,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 25,
+      "total_value_usd": 140.6,
+      "ledgers": {
+        "Main Ledger": 25
       }
     },
     {
@@ -1542,10 +1542,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4724.909366158707,
+          "amount": 4736.3193661587065,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4724.909366158707
+          "total_value_usd": 4736.3193661587065
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -3575,10 +3575,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 26,
+          "amount": 25,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 146.22671954022988
+          "total_value_usd": 140.60261494252873
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -4011,12 +4011,6 @@
         },
         {
           "qr_code": "2024_20260710_14",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_21",
           "status": "MINTED",
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -8758,10 +8752,10 @@
       "items": [
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 336,
+          "amount": 337,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -504
+          "total_value_usd": -505.5
         }
       ],
       "qr_codes": []
@@ -9107,10 +9101,10 @@
   ],
   "totals": {
     "item_types": 84,
-    "total_units": 21569.76415957675,
-    "total_value_usd": 29239.14,
+    "total_units": 21581.174159576745,
+    "total_value_usd": 29243.42,
     "ledgers_processed": 14,
     "managers_count": 37,
-    "qr_codes_assigned": 1080
+    "qr_codes_assigned": 1079
   }
 }
