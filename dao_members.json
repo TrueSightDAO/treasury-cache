@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T03:25:00.712Z",
+  "generated_at": "2026-08-16T03:25:07.542Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
@@ -11,10 +11,10 @@
     "sentinels": 6
   },
   "dao_totals": {
-    "voting_rights_circulated": 2424042.4504379663,
-    "total_assets": 17502.84167,
-    "asset_per_circulated_voting_right": 0.00722,
-    "usd_provisions_for_cash_out": 51.68898
+    "voting_rights_circulated": 2424067.4504379663,
+    "total_assets": 17619.06167,
+    "asset_per_circulated_voting_right": 0.00727,
+    "usd_provisions_for_cash_out": 51.77562
   },
   "unjoined_governor_names": [],
   "contributors": [
@@ -25,7 +25,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -35,7 +35,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -45,7 +45,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -55,7 +55,7 @@
         "member"
       ],
       "voting_rights": 5.684341886080802e-14,
-      "total_voting_power_pct": "2.344984463887494e-20",
+      "total_voting_power_pct": "2.3449602794896602e-20",
       "public_keys": []
     },
     {
@@ -65,7 +65,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -75,7 +75,7 @@
         "member"
       ],
       "voting_rights": 750,
-      "total_voting_power_pct": "0.0003094005221998043",
+      "total_voting_power_pct": "0.00030939733127660884",
       "public_keys": []
     },
     {
@@ -85,7 +85,7 @@
         "member"
       ],
       "voting_rights": 250,
-      "total_voting_power_pct": "0.00010313350739993476",
+      "total_voting_power_pct": "0.0001031324437588696",
       "public_keys": []
     },
     {
@@ -95,7 +95,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -105,7 +105,7 @@
         "member"
       ],
       "voting_rights": 1.1368683772161603e-13,
-      "total_voting_power_pct": "4.689968927774988e-20",
+      "total_voting_power_pct": "4.6899205589793204e-20",
       "public_keys": []
     },
     {
@@ -115,7 +115,7 @@
         "member"
       ],
       "voting_rights": 7050,
-      "total_voting_power_pct": "0.0029083649086781606",
+      "total_voting_power_pct": "0.002908334914000123",
       "public_keys": []
     },
     {
@@ -135,7 +135,7 @@
         "member"
       ],
       "voting_rights": 375,
-      "total_voting_power_pct": "0.00015470026109990216",
+      "total_voting_power_pct": "0.00015469866563830442",
       "public_keys": []
     },
     {
@@ -145,7 +145,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -155,7 +155,7 @@
         "member"
       ],
       "voting_rights": 14850,
-      "total_voting_power_pct": "0.006126130339556125",
+      "total_voting_power_pct": "0.0061260671592768545",
       "public_keys": []
     },
     {
@@ -165,7 +165,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -185,7 +185,7 @@
         "member"
       ],
       "voting_rights": 303.33,
-      "total_voting_power_pct": "0.00012513394719848884",
+      "total_voting_power_pct": "0.00012513265666151167",
       "public_keys": []
     },
     {
@@ -195,7 +195,7 @@
         "member"
       ],
       "voting_rights": 218.31999999999996,
-      "total_voting_power_pct": "0.00009006442934221502",
+      "total_voting_power_pct": "0.00009006350048574564",
       "public_keys": []
     },
     {
@@ -205,7 +205,7 @@
         "member"
       ],
       "voting_rights": 200,
-      "total_voting_power_pct": "0.00008250680591994781",
+      "total_voting_power_pct": "0.00008250595500709569",
       "public_keys": []
     },
     {
@@ -225,7 +225,7 @@
         "member"
       ],
       "voting_rights": 33.34,
-      "total_voting_power_pct": "0.000013753884546855303",
+      "total_voting_power_pct": "0.000013753742699682852",
       "public_keys": []
     },
     {
@@ -235,7 +235,7 @@
         "member"
       ],
       "voting_rights": 13570.679999999998,
-      "total_voting_power_pct": "0.005598367304808586",
+      "total_voting_power_pct": "0.005598309567478466",
       "public_keys": []
     },
     {
@@ -246,7 +246,7 @@
         "member"
       ],
       "voting_rights": 2471.229999999999,
-      "total_voting_power_pct": "0.0010194664699677627",
+      "total_voting_power_pct": "0.001019455955960925",
       "public_keys": []
     },
     {
@@ -256,7 +256,7 @@
         "member"
       ],
       "voting_rights": 291.65,
-      "total_voting_power_pct": "0.00012031554973276388",
+      "total_voting_power_pct": "0.00012031430888909727",
       "public_keys": []
     },
     {
@@ -266,7 +266,7 @@
         "member"
       ],
       "voting_rights": 500,
-      "total_voting_power_pct": "0.00020626701479986952",
+      "total_voting_power_pct": "0.0002062648875177392",
       "public_keys": []
     },
     {
@@ -276,7 +276,7 @@
         "member"
       ],
       "voting_rights": 30,
-      "total_voting_power_pct": "0.000012376020887992172",
+      "total_voting_power_pct": "0.000012375893251064354",
       "public_keys": []
     },
     {
@@ -306,7 +306,7 @@
         "member"
       ],
       "voting_rights": 956.6600000000001,
-      "total_voting_power_pct": "0.00039465480475688643",
+      "total_voting_power_pct": "0.00039465073458544084",
       "public_keys": []
     },
     {
@@ -316,7 +316,7 @@
         "member"
       ],
       "voting_rights": 600,
-      "total_voting_power_pct": "0.0002475204177598434",
+      "total_voting_power_pct": "0.00024751786502128707",
       "public_keys": []
     },
     {
@@ -326,7 +326,7 @@
         "member"
       ],
       "voting_rights": 24.990000000000002,
-      "total_voting_power_pct": "0.00001030922539969748",
+      "total_voting_power_pct": "0.000010309119078136607",
       "public_keys": []
     },
     {
@@ -346,7 +346,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -356,13 +356,13 @@
         "member"
       ],
       "voting_rights": 400,
-      "total_voting_power_pct": "0.00016501361183989563",
+      "total_voting_power_pct": "0.00016501191001419137",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260813 20:24:43"
+          "last_active_at": "20260814 20:24:43"
         }
       ]
     },
@@ -373,7 +373,7 @@
         "member"
       ],
       "voting_rights": 318.6700000000001,
-      "total_voting_power_pct": "0.00013146221921254888",
+      "total_voting_power_pct": "0.00013146086341055593",
       "public_keys": []
     },
     {
@@ -383,7 +383,7 @@
         "member"
       ],
       "voting_rights": 44820,
-      "total_voting_power_pct": "0.018489775206660303",
+      "total_voting_power_pct": "0.018489584517090145",
       "public_keys": []
     },
     {
@@ -393,7 +393,7 @@
         "member"
       ],
       "voting_rights": 7502,
-      "total_voting_power_pct": "0.0030948302900572424",
+      "total_voting_power_pct": "0.0030947983723161594",
       "public_keys": []
     },
     {
@@ -403,7 +403,7 @@
         "member"
       ],
       "voting_rights": 16.66,
-      "total_voting_power_pct": "0.000006872816933131653",
+      "total_voting_power_pct": "0.0000068727460520910705",
       "public_keys": []
     },
     {
@@ -413,7 +413,7 @@
         "member"
       ],
       "voting_rights": 1398.33,
-      "total_voting_power_pct": "0.0005768587096102031",
+      "total_voting_power_pct": "0.0005768527603253605",
       "public_keys": []
     },
     {
@@ -424,7 +424,7 @@
         "member"
       ],
       "voting_rights": 283.33,
-      "total_voting_power_pct": "0.00011688326660649407",
+      "total_voting_power_pct": "0.0001168820611608021",
       "public_keys": []
     },
     {
@@ -434,7 +434,7 @@
         "member"
       ],
       "voting_rights": 1,
-      "total_voting_power_pct": "4.125340295997391e-7",
+      "total_voting_power_pct": "4.1252977503547843e-7",
       "public_keys": []
     },
     {
@@ -444,7 +444,7 @@
         "member"
       ],
       "voting_rights": 1650,
-      "total_voting_power_pct": "0.0006806811488395695",
+      "total_voting_power_pct": "0.0006806741288085394",
       "public_keys": []
     },
     {
@@ -454,7 +454,7 @@
         "member"
       ],
       "voting_rights": 66.67,
-      "total_voting_power_pct": "0.000027503643753414603",
+      "total_voting_power_pct": "0.000027503360101615347",
       "public_keys": []
     },
     {
@@ -464,7 +464,7 @@
         "member"
       ],
       "voting_rights": 1116.6499999999999,
-      "total_voting_power_pct": "0.0004606561241525486",
+      "total_voting_power_pct": "0.00046065137329336694",
       "public_keys": []
     },
     {
@@ -484,7 +484,7 @@
         "member"
       ],
       "voting_rights": 7358,
-      "total_voting_power_pct": "0.00303542538979488",
+      "total_voting_power_pct": "0.0030353940847110505",
       "public_keys": []
     },
     {
@@ -494,7 +494,7 @@
         "member"
       ],
       "voting_rights": 37560,
-      "total_voting_power_pct": "0.0154947781517662",
+      "total_voting_power_pct": "0.01549461835033257",
       "public_keys": []
     },
     {
@@ -504,7 +504,7 @@
         "member"
       ],
       "voting_rights": 30,
-      "total_voting_power_pct": "0.000012376020887992172",
+      "total_voting_power_pct": "0.000012375893251064354",
       "public_keys": []
     },
     {
@@ -514,7 +514,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -524,7 +524,7 @@
         "member"
       ],
       "voting_rights": 8410,
-      "total_voting_power_pct": "0.0034694111889338056",
+      "total_voting_power_pct": "0.0034693754080483735",
       "public_keys": []
     },
     {
@@ -534,7 +534,7 @@
         "member"
       ],
       "voting_rights": 8808.33,
-      "total_voting_power_pct": "0.0036337358689442698",
+      "total_voting_power_pct": "0.003633698393338256",
       "public_keys": []
     },
     {
@@ -544,7 +544,7 @@
         "member"
       ],
       "voting_rights": 16.67,
-      "total_voting_power_pct": "0.000006876942273427651",
+      "total_voting_power_pct": "0.000006876871349841426",
       "public_keys": []
     },
     {
@@ -554,7 +554,7 @@
         "member"
       ],
       "voting_rights": 19993.16,
-      "total_voting_power_pct": "0.00824785885923232",
+      "total_voting_power_pct": "0.008247773797048327",
       "public_keys": []
     },
     {
@@ -564,7 +564,7 @@
         "member"
       ],
       "voting_rights": 266.65999999999997,
-      "total_voting_power_pct": "0.0001100063243330664",
+      "total_voting_power_pct": "0.00011000518981096067",
       "public_keys": []
     },
     {
@@ -574,7 +574,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -584,7 +584,7 @@
         "member"
       ],
       "voting_rights": 25,
-      "total_voting_power_pct": "0.000010313350739993477",
+      "total_voting_power_pct": "0.00001031324437588696",
       "public_keys": []
     },
     {
@@ -594,7 +594,7 @@
         "member"
       ],
       "voting_rights": 33.5,
-      "total_voting_power_pct": "0.000013819889991591259",
+      "total_voting_power_pct": "0.000013819747463688528",
       "public_keys": []
     },
     {
@@ -604,7 +604,7 @@
         "member"
       ],
       "voting_rights": 675,
-      "total_voting_power_pct": "0.0002784604699798239",
+      "total_voting_power_pct": "0.00027845759814894793",
       "public_keys": []
     },
     {
@@ -614,7 +614,7 @@
         "member"
       ],
       "voting_rights": 3034.9399999999996,
-      "total_voting_power_pct": "0.001252016027793432",
+      "total_voting_power_pct": "0.0012520031154461748",
       "public_keys": []
     },
     {
@@ -624,7 +624,7 @@
         "member"
       ],
       "voting_rights": 12009,
-      "total_voting_power_pct": "0.004954121161463266",
+      "total_voting_power_pct": "0.0049540700684010605",
       "public_keys": []
     },
     {
@@ -634,7 +634,7 @@
         "member"
       ],
       "voting_rights": 425,
-      "total_voting_power_pct": "0.0001753269625798891",
+      "total_voting_power_pct": "0.00017532515439007832",
       "public_keys": []
     },
     {
@@ -644,7 +644,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -654,7 +654,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -664,7 +664,7 @@
         "member"
       ],
       "voting_rights": 30,
-      "total_voting_power_pct": "0.000012376020887992172",
+      "total_voting_power_pct": "0.000012375893251064354",
       "public_keys": []
     },
     {
@@ -674,7 +674,7 @@
         "member"
       ],
       "voting_rights": 635,
-      "total_voting_power_pct": "0.0002619591087958343",
+      "total_voting_power_pct": "0.0002619564071475288",
       "public_keys": []
     },
     {
@@ -684,7 +684,7 @@
         "member"
       ],
       "voting_rights": 33.34,
-      "total_voting_power_pct": "0.000013753884546855303",
+      "total_voting_power_pct": "0.000013753742699682852",
       "public_keys": []
     },
     {
@@ -704,7 +704,7 @@
         "member"
       ],
       "voting_rights": 850,
-      "total_voting_power_pct": "0.0003506539251597782",
+      "total_voting_power_pct": "0.00035065030878015665",
       "public_keys": []
     },
     {
@@ -714,7 +714,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -724,7 +724,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -734,7 +734,7 @@
         "member"
       ],
       "voting_rights": 716.6600000000001,
-      "total_voting_power_pct": "0.00029564663765294905",
+      "total_voting_power_pct": "0.000295643588576926",
       "public_keys": []
     },
     {
@@ -754,7 +754,7 @@
         "member"
       ],
       "voting_rights": 1557,
-      "total_voting_power_pct": "0.0006423154840867937",
+      "total_voting_power_pct": "0.00064230885973024",
       "public_keys": []
     },
     {
@@ -764,7 +764,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -774,7 +774,7 @@
         "member"
       ],
       "voting_rights": 2500,
-      "total_voting_power_pct": "0.0010313350739993476",
+      "total_voting_power_pct": "0.001031324437588696",
       "public_keys": []
     },
     {
@@ -784,7 +784,7 @@
         "member"
       ],
       "voting_rights": 58.33,
-      "total_voting_power_pct": "0.00002406310994655278",
+      "total_voting_power_pct": "0.000024062861777819455",
       "public_keys": []
     },
     {
@@ -794,7 +794,7 @@
         "member"
       ],
       "voting_rights": 501,
-      "total_voting_power_pct": "0.00020667954882946926",
+      "total_voting_power_pct": "0.0002066774172927747",
       "public_keys": []
     },
     {
@@ -814,7 +814,7 @@
         "member"
       ],
       "voting_rights": 58.33,
-      "total_voting_power_pct": "0.00002406310994655278",
+      "total_voting_power_pct": "0.000024062861777819455",
       "public_keys": []
     },
     {
@@ -824,7 +824,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -834,7 +834,7 @@
         "member"
       ],
       "voting_rights": 5000,
-      "total_voting_power_pct": "0.0020626701479986953",
+      "total_voting_power_pct": "0.002062648875177392",
       "public_keys": []
     },
     {
@@ -844,7 +844,7 @@
         "member"
       ],
       "voting_rights": 525,
-      "total_voting_power_pct": "0.00021658036553986302",
+      "total_voting_power_pct": "0.0002165781318936262",
       "public_keys": []
     },
     {
@@ -855,7 +855,7 @@
         "member"
       ],
       "voting_rights": 103.33,
-      "total_voting_power_pct": "0.000042627141278541034",
+      "total_voting_power_pct": "0.00004262670165441599",
       "public_keys": []
     },
     {
@@ -866,7 +866,7 @@
         "sentinel"
       ],
       "voting_rights": 1199.99,
-      "total_voting_power_pct": "0.0004950367101793909",
+      "total_voting_power_pct": "0.0004950316047448238",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB",
@@ -883,7 +883,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -893,7 +893,7 @@
         "member"
       ],
       "voting_rights": 1132.8899999999999,
-      "total_voting_power_pct": "0.0004673556767932483",
+      "total_voting_power_pct": "0.00046735085683994313",
       "public_keys": []
     },
     {
@@ -903,7 +903,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -923,7 +923,7 @@
         "member"
       ],
       "voting_rights": 16.66,
-      "total_voting_power_pct": "0.000006872816933131653",
+      "total_voting_power_pct": "0.0000068727460520910705",
       "public_keys": []
     },
     {
@@ -943,7 +943,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -953,7 +953,7 @@
         "member"
       ],
       "voting_rights": 498.33,
-      "total_voting_power_pct": "0.00020557808297043796",
+      "total_voting_power_pct": "0.00020557596279342997",
       "public_keys": []
     },
     {
@@ -963,7 +963,7 @@
         "member"
       ],
       "voting_rights": 186.65000000000003,
-      "total_voting_power_pct": "0.00007699947662479131",
+      "total_voting_power_pct": "0.00007699868251037207",
       "public_keys": []
     },
     {
@@ -973,7 +973,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -983,7 +983,7 @@
         "member"
       ],
       "voting_rights": 368,
-      "total_voting_power_pct": "0.00015181252289270396",
+      "total_voting_power_pct": "0.00015181095721305608",
       "public_keys": []
     },
     {
@@ -993,7 +993,7 @@
         "member"
       ],
       "voting_rights": 7700,
-      "total_voting_power_pct": "0.0031765120279179907",
+      "total_voting_power_pct": "0.003176479267773184",
       "public_keys": []
     },
     {
@@ -1003,7 +1003,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -1013,7 +1013,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -1023,7 +1023,7 @@
         "member"
       ],
       "voting_rights": 541,
-      "total_voting_power_pct": "0.00022318091001345884",
+      "total_voting_power_pct": "0.00022317860829419383",
       "public_keys": []
     },
     {
@@ -1034,7 +1034,7 @@
         "sentinel"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6owTwrPjyqz1ZS/TkLogP2YTQ51ESUwsdpU7YRKD+J60FGSZYmxbLx5/nrjXuJeqzez54tubq49vkdiSrJzPCsjtP6D/nPJKki3dJnx/9hFWVu6NgmqlKvXQecAxd/0EhuMw2iEzCfZUr7vz5DOA/Hzd7V/VQCKhBYwD23+H+XqRDYzEwwOqnmaLLNj8sNh0GpCxz1CtdLSB6tm8x0aJkcjfx5A7M407ZccL3FrdHM26eI7R5v5kS4uOrYJBj27GmtAHRZOp4or9LLX991l6/7HHOhluXwpqmg2b1Rlww7gbriL66+dZbW5rpuo7PdDc6DJe4Ij4dJULqfBx0aI4UQIDAQAB",
@@ -1061,7 +1061,7 @@
         "member"
       ],
       "voting_rights": 250,
-      "total_voting_power_pct": "0.00010313350739993476",
+      "total_voting_power_pct": "0.0001031324437588696",
       "public_keys": []
     },
     {
@@ -1071,7 +1071,7 @@
         "member"
       ],
       "voting_rights": 2,
-      "total_voting_power_pct": "8.250680591994782e-7",
+      "total_voting_power_pct": "8.250595500709569e-7",
       "public_keys": []
     },
     {
@@ -1091,7 +1091,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -1101,7 +1101,7 @@
         "member"
       ],
       "voting_rights": 2000,
-      "total_voting_power_pct": "0.0008250680591994781",
+      "total_voting_power_pct": "0.0008250595500709568",
       "public_keys": []
     },
     {
@@ -1111,7 +1111,7 @@
         "member"
       ],
       "voting_rights": 3550,
-      "total_voting_power_pct": "0.0014644958050790736",
+      "total_voting_power_pct": "0.0014644807013759484",
       "public_keys": []
     },
     {
@@ -1131,7 +1131,7 @@
         "member"
       ],
       "voting_rights": 6100,
-      "total_voting_power_pct": "0.0025164575805584084",
+      "total_voting_power_pct": "0.0025164316277164183",
       "public_keys": []
     },
     {
@@ -1141,7 +1141,7 @@
         "member"
       ],
       "voting_rights": 7642,
-      "total_voting_power_pct": "0.003152585054201206",
+      "total_voting_power_pct": "0.003152552540821126",
       "public_keys": []
     },
     {
@@ -1151,7 +1151,7 @@
         "member"
       ],
       "voting_rights": 625,
-      "total_voting_power_pct": "0.0002578337684998369",
+      "total_voting_power_pct": "0.000257831109397174",
       "public_keys": []
     },
     {
@@ -1161,7 +1161,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -1171,7 +1171,7 @@
         "member"
       ],
       "voting_rights": 111,
-      "total_voting_power_pct": "0.00004579127728557104",
+      "total_voting_power_pct": "0.000045790805028938104",
       "public_keys": []
     },
     {
@@ -1181,7 +1181,7 @@
         "member"
       ],
       "voting_rights": 1550,
-      "total_voting_power_pct": "0.0006394277458795955",
+      "total_voting_power_pct": "0.0006394211513049916",
       "public_keys": []
     },
     {
@@ -1191,7 +1191,7 @@
         "member"
       ],
       "voting_rights": 1000,
-      "total_voting_power_pct": "0.00041253402959973905",
+      "total_voting_power_pct": "0.0004125297750354784",
       "public_keys": []
     },
     {
@@ -1201,7 +1201,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -1211,7 +1211,7 @@
         "member"
       ],
       "voting_rights": 4442.67,
-      "total_voting_power_pct": "0.0018327525572818728",
+      "total_voting_power_pct": "0.001832733655656869",
       "public_keys": []
     },
     {
@@ -1221,7 +1221,7 @@
         "member"
       ],
       "voting_rights": 9805,
-      "total_voting_power_pct": "0.0040448961602254415",
+      "total_voting_power_pct": "0.0040448544442228665",
       "public_keys": []
     },
     {
@@ -1231,7 +1231,7 @@
         "member"
       ],
       "voting_rights": 400,
-      "total_voting_power_pct": "0.00016501361183989563",
+      "total_voting_power_pct": "0.00016501191001419137",
       "public_keys": []
     },
     {
@@ -1241,7 +1241,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -1251,7 +1251,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -1261,7 +1261,7 @@
         "member"
       ],
       "voting_rights": 600,
-      "total_voting_power_pct": "0.0002475204177598434",
+      "total_voting_power_pct": "0.00024751786502128707",
       "public_keys": []
     },
     {
@@ -1271,7 +1271,7 @@
         "member"
       ],
       "voting_rights": 4408.32,
-      "total_voting_power_pct": "0.0018185820133651215",
+      "total_voting_power_pct": "0.0018185632578844003",
       "public_keys": []
     },
     {
@@ -1282,7 +1282,7 @@
         "member"
       ],
       "voting_rights": 2935.5,
-      "total_voting_power_pct": "0.001210993643890034",
+      "total_voting_power_pct": "0.001210981154616647",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAu+WcdQ80UGc07EoCBuONfVs7yo53qwPrFCUFTx4uafMe8pA7uth0v/99yYg2rqvd2ax65PzbIE49b8xpZNvP6BiYhARWU8fQlhIeDDzgZ/ebLBQv58ViwZB4vb7tJTjmmOE88vyqu24puT4k8zZt9Trgoe148TrRyPwI3uciC1rFE1KFduea1D8DYAxpyqD6jMfO7rUx+QUMeVJ6Pt/ZdP+czIr4m5sPWxpXbkZX2gFiYiSg2Q4nyCBbDjmiev3eCrnahvUubtGZ5Uz1RNFt77NoF6MuzGrYYIe42bNZFoYM6/0tpaS59MFqsuP2byhGAeHadb7WnYIU5VI74qqijwIDAQAB",
@@ -1299,7 +1299,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -1309,7 +1309,7 @@
         "member"
       ],
       "voting_rights": 25621.449999999924,
-      "total_voting_power_pct": "0.010569720012688204",
+      "total_voting_power_pct": "0.010569611004582728",
       "public_keys": []
     },
     {
@@ -1319,7 +1319,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -1329,7 +1329,7 @@
         "member"
       ],
       "voting_rights": 16.67,
-      "total_voting_power_pct": "0.000006876942273427651",
+      "total_voting_power_pct": "0.000006876871349841426",
       "public_keys": []
     },
     {
@@ -1339,7 +1339,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -1359,7 +1359,7 @@
         "member"
       ],
       "voting_rights": 1180,
-      "total_voting_power_pct": "0.0004867901549276921",
+      "total_voting_power_pct": "0.00048678513454186457",
       "public_keys": []
     },
     {
@@ -1369,7 +1369,7 @@
         "member"
       ],
       "voting_rights": 14650,
-      "total_voting_power_pct": "0.0060436235336361775",
+      "total_voting_power_pct": "0.006043561204269759",
       "public_keys": []
     },
     {
@@ -1379,7 +1379,7 @@
         "member"
       ],
       "voting_rights": 16.67,
-      "total_voting_power_pct": "0.000006876942273427651",
+      "total_voting_power_pct": "0.000006876871349841426",
       "public_keys": []
     },
     {
@@ -1389,7 +1389,7 @@
         "member"
       ],
       "voting_rights": 250,
-      "total_voting_power_pct": "0.00010313350739993476",
+      "total_voting_power_pct": "0.0001031324437588696",
       "public_keys": []
     },
     {
@@ -1409,7 +1409,7 @@
         "member"
       ],
       "voting_rights": 200,
-      "total_voting_power_pct": "0.00008250680591994781",
+      "total_voting_power_pct": "0.00008250595500709569",
       "public_keys": []
     },
     {
@@ -1419,7 +1419,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -1429,7 +1429,7 @@
         "member"
       ],
       "voting_rights": 200,
-      "total_voting_power_pct": "0.00008250680591994781",
+      "total_voting_power_pct": "0.00008250595500709569",
       "public_keys": []
     },
     {
@@ -1449,7 +1449,7 @@
         "member"
       ],
       "voting_rights": 300,
-      "total_voting_power_pct": "0.0001237602088799217",
+      "total_voting_power_pct": "0.00012375893251064354",
       "public_keys": []
     },
     {
@@ -1460,7 +1460,7 @@
         "member"
       ],
       "voting_rights": 66061.14298130003,
-      "total_voting_power_pct": "0.02725246951404022",
+      "total_voting_power_pct": "0.027252188452662276",
       "public_keys": []
     },
     {
@@ -1480,7 +1480,7 @@
         "member"
       ],
       "voting_rights": 325,
-      "total_voting_power_pct": "0.0001340735596199152",
+      "total_voting_power_pct": "0.0001340721768865305",
       "public_keys": []
     },
     {
@@ -1490,7 +1490,7 @@
         "member"
       ],
       "voting_rights": 2233.2099999999996,
-      "total_voting_power_pct": "0.0009212751202424331",
+      "total_voting_power_pct": "0.0009212656189069807",
       "public_keys": []
     },
     {
@@ -1510,7 +1510,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -1520,7 +1520,7 @@
         "member"
       ],
       "voting_rights": 2500,
-      "total_voting_power_pct": "0.0010313350739993476",
+      "total_voting_power_pct": "0.001031324437588696",
       "public_keys": []
     },
     {
@@ -1530,7 +1530,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAwG3Aju3ccffgmXcyLRHf85KXdi0aS3Piq8yiacsX8WNG1cxh6ucxdtbymFXBB8+TgAww+9UOj+heth4ovsdgWGm4ceDRmERdEvBazV+VtQE4xlVAZJ+CVCcJ0nHwsw126SJZNySE7YRls2l7h421My5qS2sNtxzsRRgO3sNBBSCb4X1FSR8O0F/mQHSIewCzqsotfNwIaI0eBNxkTjwtpqgqjsMAUYg3Nwn0ASxqUFIR8lLYUvnz45CY/5G0Vu56bZa7pbz12OZv3XGlmXZZ0Yy6TNrvRIW5AonueGE0IYVkoEDhWCW87EgxB+yiVA7NzYcY+pJXpPTy4pIrJL47OwIDAQAB",
@@ -1547,7 +1547,7 @@
         "member"
       ],
       "voting_rights": 23835,
-      "total_voting_power_pct": "0.009832748595509781",
+      "total_voting_power_pct": "0.009832647187970629",
       "public_keys": []
     },
     {
@@ -1557,7 +1557,7 @@
         "member"
       ],
       "voting_rights": 8671,
-      "total_voting_power_pct": "0.0035770825706593376",
+      "total_voting_power_pct": "0.0035770456793326336",
       "public_keys": []
     },
     {
@@ -1577,7 +1577,7 @@
         "member"
       ],
       "voting_rights": 67661.66,
-      "total_voting_power_pct": "0.02791273724920748",
+      "total_voting_power_pct": "0.027912449378327032",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAz0o7Op4N8eyBeDJe6+PZqXQNuOZTyZLCQW20em/Mfx6WS8lO12/mlL2JCysDaLQsrXKklJ+OshBKdHf5S0UhxyQQNzi0XuakuZiaGEO6WUfycDBtFx+9R145vTsdtyxmwbhaWPZS6WI5eMLWYGEk9HYJEf2s/kgAndirOW2Vi9XaPsfcbxo6YkOBW+B5huzBJllYg6+akT1Bv2au21GD13ykRA8Lk4b7vxy8NYMKT3C+2ludwwx/LKIdt6zi1UXUEJCz1y4GRFIUP6XTGQfwn/EJfqR/oMviwvhve3Yi9z7jiCXTrnsueObGHVO9KMjlz6vHumKS0byC0DukKmdHOQIDAQAB",
@@ -1594,8 +1594,8 @@
         "governor",
         "member"
       ],
-      "voting_rights": 1022139.9078157253,
-      "total_voting_power_pct": "0.421667494985927",
+      "voting_rights": 1022164.9078157253,
+      "total_voting_power_pct": "0.4216734594703817",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvqRyznTL3PdBJcdY3gLiSk+ZotZd5ZB19sPEB1HYlQQFSmxl/mCSy+mJ8l0cVJD9Rr8oej0Catp8ChVlsTs7oWnd/3Kwi4Pdu54NKlcI8d3UXsnhI3kGINqnW7QPk22rGri6hhvIOyjwRxy2aYCPdqZdkiIRIvRS+nc4fSTNbtvfm8qazse8f8WJRivws85JbuhEvES0Yp5aBMpm41HFLJQd+IvT8PQznshpSL8io7dsKn1/rhsVE9Ng8aPI1BaDAMzIGzhMfJD6FvVxOkl9VtSPI8a7uJypuDj6pxC5QwXcciVAkvVfvjLrOFt88wyT7rMzhKomXBRYSfZiL9eYdQIDAQAB",
@@ -1984,7 +1984,7 @@
         "member"
       ],
       "voting_rights": 33450,
-      "total_voting_power_pct": "0.013799263290111273",
+      "total_voting_power_pct": "0.013799120974936754",
       "public_keys": []
     },
     {
@@ -2004,7 +2004,7 @@
         "member"
       ],
       "voting_rights": 0.37873208362725563,
-      "total_voting_power_pct": "1.5623987259745714e-7",
+      "total_voting_power_pct": "1.5623826125746977e-7",
       "public_keys": []
     },
     {
@@ -2014,7 +2014,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -2024,7 +2024,7 @@
         "member"
       ],
       "voting_rights": 10250,
-      "total_voting_power_pct": "0.004228473803397325",
+      "total_voting_power_pct": "0.004228430194113654",
       "public_keys": []
     },
     {
@@ -2034,7 +2034,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -2054,7 +2054,7 @@
         "member"
       ],
       "voting_rights": 200,
-      "total_voting_power_pct": "0.00008250680591994781",
+      "total_voting_power_pct": "0.00008250595500709569",
       "public_keys": []
     },
     {
@@ -2064,7 +2064,7 @@
         "member"
       ],
       "voting_rights": 601,
-      "total_voting_power_pct": "0.0002479329517894432",
+      "total_voting_power_pct": "0.0002479303947963225",
       "public_keys": []
     },
     {
@@ -2074,7 +2074,7 @@
         "member"
       ],
       "voting_rights": 16.66,
-      "total_voting_power_pct": "0.000006872816933131653",
+      "total_voting_power_pct": "0.0000068727460520910705",
       "public_keys": []
     },
     {
@@ -2084,7 +2084,7 @@
         "member"
       ],
       "voting_rights": 1276,
-      "total_voting_power_pct": "0.0005263934217692671",
+      "total_voting_power_pct": "0.0005263879929452705",
       "public_keys": []
     },
     {
@@ -2094,7 +2094,7 @@
         "member"
       ],
       "voting_rights": 3627.25,
-      "total_voting_power_pct": "0.0014963640588656535",
+      "total_voting_power_pct": "0.0014963486264974392",
       "public_keys": []
     },
     {
@@ -2114,7 +2114,7 @@
         "member"
       ],
       "voting_rights": 125,
-      "total_voting_power_pct": "0.00005156675369996738",
+      "total_voting_power_pct": "0.0000515662218794348",
       "public_keys": []
     },
     {
@@ -2124,7 +2124,7 @@
         "member"
       ],
       "voting_rights": 5425,
-      "total_voting_power_pct": "0.0022379971105785843",
+      "total_voting_power_pct": "0.0022379740295674706",
       "public_keys": []
     },
     {
@@ -2134,7 +2134,7 @@
         "member"
       ],
       "voting_rights": 1780,
-      "total_voting_power_pct": "0.0007343105726875356",
+      "total_voting_power_pct": "0.0007343029995631516",
       "public_keys": []
     },
     {
@@ -2144,7 +2144,7 @@
         "member"
       ],
       "voting_rights": 9875,
-      "total_voting_power_pct": "0.004073773542297423",
+      "total_voting_power_pct": "0.00407373152847535",
       "public_keys": []
     },
     {
@@ -2164,7 +2164,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -2174,7 +2174,7 @@
         "member"
       ],
       "voting_rights": 125,
-      "total_voting_power_pct": "0.00005156675369996738",
+      "total_voting_power_pct": "0.0000515662218794348",
       "public_keys": []
     },
     {
@@ -2184,7 +2184,7 @@
         "member"
       ],
       "voting_rights": 216.67000000000002,
-      "total_voting_power_pct": "0.00008938374819337547",
+      "total_voting_power_pct": "0.00008938282635693712",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqyl4/zsmqguaLuxVh5U1qE9VW60WHL3w3pCoPHagHyKSrVc3AeDpkwEVQ/IzVYSnObJ4aTSEKNjk05HmKuAbdR25BlLo/CSelPWCDq60RpQ0HdufrkU3/icV2mBQu/eD5WUTKyTn4JK4cuv3OUWme2cb2bMUatD9b4yZMBR/377TPFV4mlv4w6kAx1fXq96eN96vGpHlN2I+Xe3nuUwy6Hh2oyTK+MFWpkCrpjyEZZvbDU0/p75Lh3UvViJeXHwml2VlZUULZafTEb/dnz+TU4KP2/Bbm2YQcovrTK0aRqJJ0IXYluMSo00UhYzP943MMCQ1GZzaLItmo1tDqhlM2wIDAQAB",
@@ -2201,7 +2201,7 @@
         "member"
       ],
       "voting_rights": 1535,
-      "total_voting_power_pct": "0.0006332397354355994",
+      "total_voting_power_pct": "0.0006332332046794594",
       "public_keys": []
     },
     {
@@ -2211,7 +2211,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -2231,7 +2231,7 @@
         "member"
       ],
       "voting_rights": 5658.549999999999,
-      "total_voting_power_pct": "0.002334344433191603",
+      "total_voting_power_pct": "0.0023343203585270062",
       "public_keys": []
     },
     {
@@ -2241,7 +2241,7 @@
         "member"
       ],
       "voting_rights": 1010,
-      "total_voting_power_pct": "0.00041665936989573643",
+      "total_voting_power_pct": "0.00041665507278583323",
       "public_keys": []
     },
     {
@@ -2251,7 +2251,7 @@
         "member"
       ],
       "voting_rights": 57.08,
-      "total_voting_power_pct": "0.000023547442409553104",
+      "total_voting_power_pct": "0.000023547199559025107",
       "public_keys": []
     },
     {
@@ -2262,7 +2262,7 @@
         "member"
       ],
       "voting_rights": 63193.620676256316,
-      "total_voting_power_pct": "0.026069518982573404",
+      "total_voting_power_pct": "0.026069250121253378",
       "public_keys": []
     },
     {
@@ -2282,7 +2282,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -2292,7 +2292,7 @@
         "member"
       ],
       "voting_rights": 608.3499999999998,
-      "total_voting_power_pct": "0.0002509650769070012",
+      "total_voting_power_pct": "0.0002509624886428332",
       "public_keys": []
     },
     {
@@ -2312,7 +2312,7 @@
         "member"
       ],
       "voting_rights": 3.33,
-      "total_voting_power_pct": "0.000001373738318567131",
+      "total_voting_power_pct": "0.0000013737241508681431",
       "public_keys": []
     },
     {
@@ -2322,7 +2322,7 @@
         "member"
       ],
       "voting_rights": 11944.73,
-      "total_voting_power_pct": "0.004927607599380891",
+      "total_voting_power_pct": "0.00492755677975953",
       "public_keys": []
     },
     {
@@ -2342,7 +2342,7 @@
         "member"
       ],
       "voting_rights": 3000,
-      "total_voting_power_pct": "0.0012376020887992173",
+      "total_voting_power_pct": "0.0012375893251064354",
       "public_keys": []
     },
     {
@@ -2352,7 +2352,7 @@
         "member"
       ],
       "voting_rights": 25,
-      "total_voting_power_pct": "0.000010313350739993477",
+      "total_voting_power_pct": "0.00001031324437588696",
       "public_keys": []
     },
     {
@@ -2362,7 +2362,7 @@
         "member"
       ],
       "voting_rights": 703.3399999999999,
-      "total_voting_power_pct": "0.00029015168437868046",
+      "total_voting_power_pct": "0.00029014869197345336",
       "public_keys": []
     },
     {
@@ -2382,7 +2382,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -2392,7 +2392,7 @@
         "member"
       ],
       "voting_rights": 8839.33,
-      "total_voting_power_pct": "0.0036465244238618614",
+      "total_voting_power_pct": "0.0036464868163643555",
       "public_keys": []
     },
     {
@@ -2402,7 +2402,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -2412,7 +2412,7 @@
         "member"
       ],
       "voting_rights": 375,
-      "total_voting_power_pct": "0.00015470026109990216",
+      "total_voting_power_pct": "0.00015469866563830442",
       "public_keys": []
     },
     {
@@ -2422,7 +2422,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -2432,7 +2432,7 @@
         "member"
       ],
       "voting_rights": 500,
-      "total_voting_power_pct": "0.00020626701479986952",
+      "total_voting_power_pct": "0.0002062648875177392",
       "public_keys": []
     },
     {
@@ -2442,7 +2442,7 @@
         "member"
       ],
       "voting_rights": 9118.33,
-      "total_voting_power_pct": "0.003761621418120189",
+      "total_voting_power_pct": "0.003761582623599254",
       "public_keys": []
     },
     {
@@ -2452,7 +2452,7 @@
         "member"
       ],
       "voting_rights": 20.840000000000003,
-      "total_voting_power_pct": "0.000008597209176858564",
+      "total_voting_power_pct": "0.000008597120511739372",
       "public_keys": []
     },
     {
@@ -2462,7 +2462,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -2472,7 +2472,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -2482,7 +2482,7 @@
         "member"
       ],
       "voting_rights": 38665,
-      "total_voting_power_pct": "0.015950628254473912",
+      "total_voting_power_pct": "0.015950463751746774",
       "public_keys": []
     },
     {
@@ -2492,7 +2492,7 @@
         "member"
       ],
       "voting_rights": 3015.99,
-      "total_voting_power_pct": "0.001244198507932517",
+      "total_voting_power_pct": "0.0012441856762092525",
       "public_keys": []
     },
     {
@@ -2502,7 +2502,7 @@
         "member"
       ],
       "voting_rights": 133.32999999999998,
-      "total_voting_power_pct": "0.0000550031621665332",
+      "total_voting_power_pct": "0.00005500259490548033",
       "public_keys": []
     },
     {
@@ -2522,7 +2522,7 @@
         "member"
       ],
       "voting_rights": 1000,
-      "total_voting_power_pct": "0.00041253402959973905",
+      "total_voting_power_pct": "0.0004125297750354784",
       "public_keys": []
     },
     {
@@ -2542,7 +2542,7 @@
         "member"
       ],
       "voting_rights": 1,
-      "total_voting_power_pct": "4.125340295997391e-7",
+      "total_voting_power_pct": "4.1252977503547843e-7",
       "public_keys": []
     },
     {
@@ -2552,7 +2552,7 @@
         "member"
       ],
       "voting_rights": 557.7400000000001,
-      "total_voting_power_pct": "0.0002300867296689585",
+      "total_voting_power_pct": "0.0002300843567282878",
       "public_keys": []
     },
     {
@@ -2562,7 +2562,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -2572,7 +2572,7 @@
         "member"
       ],
       "voting_rights": 75,
-      "total_voting_power_pct": "0.00003094005221998043",
+      "total_voting_power_pct": "0.000030939733127660884",
       "public_keys": []
     },
     {
@@ -2582,7 +2582,7 @@
         "member"
       ],
       "voting_rights": 2000,
-      "total_voting_power_pct": "0.0008250680591994781",
+      "total_voting_power_pct": "0.0008250595500709568",
       "public_keys": []
     },
     {
@@ -2602,7 +2602,7 @@
         "member"
       ],
       "voting_rights": 75,
-      "total_voting_power_pct": "0.00003094005221998043",
+      "total_voting_power_pct": "0.000030939733127660884",
       "public_keys": []
     },
     {
@@ -2613,7 +2613,7 @@
         "member"
       ],
       "voting_rights": 150,
-      "total_voting_power_pct": "0.00006188010443996085",
+      "total_voting_power_pct": "0.00006187946625532177",
       "public_keys": []
     },
     {
@@ -2623,7 +2623,7 @@
         "member"
       ],
       "voting_rights": 3467.3556299999996,
-      "total_voting_power_pct": "0.0014304021900992418",
+      "total_voting_power_pct": "0.0014303874380118995",
       "public_keys": []
     },
     {
@@ -2633,7 +2633,7 @@
         "member"
       ],
       "voting_rights": 351,
-      "total_voting_power_pct": "0.0001447994443895084",
+      "total_voting_power_pct": "0.00014479795103745292",
       "public_keys": []
     },
     {
@@ -2643,7 +2643,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -2653,7 +2653,7 @@
         "member"
       ],
       "voting_rights": 200,
-      "total_voting_power_pct": "0.00008250680591994781",
+      "total_voting_power_pct": "0.00008250595500709569",
       "public_keys": []
     },
     {
@@ -2663,7 +2663,7 @@
         "member"
       ],
       "voting_rights": 25,
-      "total_voting_power_pct": "0.000010313350739993477",
+      "total_voting_power_pct": "0.00001031324437588696",
       "public_keys": []
     },
     {
@@ -2683,7 +2683,7 @@
         "member"
       ],
       "voting_rights": 58360,
-      "total_voting_power_pct": "0.02407548596744077",
+      "total_voting_power_pct": "0.02407523767107052",
       "public_keys": []
     },
     {
@@ -2693,7 +2693,7 @@
         "member"
       ],
       "voting_rights": 750,
-      "total_voting_power_pct": "0.0003094005221998043",
+      "total_voting_power_pct": "0.00030939733127660884",
       "public_keys": []
     },
     {
@@ -2703,7 +2703,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -2713,7 +2713,7 @@
         "member"
       ],
       "voting_rights": 9419.220000000001,
-      "total_voting_power_pct": "0.003885748782286455",
+      "total_voting_power_pct": "0.0038857087076096795",
       "public_keys": []
     },
     {
@@ -2723,7 +2723,7 @@
         "member"
       ],
       "voting_rights": 11350,
-      "total_voting_power_pct": "0.004682261235957039",
+      "total_voting_power_pct": "0.0046822129466526806",
       "public_keys": []
     },
     {
@@ -2734,7 +2734,7 @@
         "sentinel"
       ],
       "voting_rights": 125,
-      "total_voting_power_pct": "0.00005156675369996738",
+      "total_voting_power_pct": "0.0000515662218794348",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtXffJY0bbI7BVP/i3B5UEHJkvmG2Y1Jf/dS4lqNTVqwC/fb65P7NphrnTMxkTCbah2NjPJDNaQlQiYRIG69x677/+CckZr7ZeSvCvyVOqV6bEZpCc8dmKn8AkqW3K7EWenWkxTKBOBL3cVqS42SAsAY3bHLzcZqs/8H7DPDRJZKsTOkTUjS/en4kbHELmfnAjgYpARIuFOdhfeBWI3qys96xvGaMBOtDLhAyIlnmtACMXRwp3f2pU/+HMP1KfH5HBV/4QKeP9WF19gNhfmS43QufTd0hjfinb6KgCRSzs/z/8dZHyWc+2O4yJX0obvO11sx1sgpwHmNw5z4s4YYhzwIDAQAB",
@@ -2752,7 +2752,7 @@
         "member"
       ],
       "voting_rights": 21157.370000000003,
-      "total_voting_power_pct": "0.008728135101832632",
+      "total_voting_power_pct": "0.008728045086442381",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA9syaiNpSzEZ50tZDySq/5yf48KpJGJBj4TY0p3v+Osp8fZjTgXM0r50KTTuNzXoSmQROU98H0qiKwy6RrhLxz4tdin2xOanXHqGll2MWjsOJniJrMlZtxIZ2Rv2M8gegE1y26LgnTHasNEb4YkT/w1GzLihlu2c3SfIPShrqdvEeQ3hJ55JJ9c+JhBDPpgEos6P6RLJ68JWHz+YwVAm32rDBCo8RJFBLV70wLqaHyWn26YB2pZ4lwG2YUu8JazfDD4kB9qkfeHAzlJSV+RvxhqCCBiZC7l2MgSZDMLSRcCJccN84Oy6BbWZR+MJdKV8ljSW/YqUSeudBLjSCfReoLQIDAQAB",
@@ -2769,7 +2769,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -2789,7 +2789,7 @@
         "member"
       ],
       "voting_rights": 10145,
-      "total_voting_power_pct": "0.0041851577302893525",
+      "total_voting_power_pct": "0.004185114567734929",
       "public_keys": []
     },
     {
@@ -2799,7 +2799,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -2809,7 +2809,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -2829,7 +2829,7 @@
         "member"
       ],
       "voting_rights": 30,
-      "total_voting_power_pct": "0.000012376020887992172",
+      "total_voting_power_pct": "0.000012375893251064354",
       "public_keys": []
     },
     {
@@ -2839,7 +2839,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -2849,7 +2849,7 @@
         "member"
       ],
       "voting_rights": 1000,
-      "total_voting_power_pct": "0.00041253402959973905",
+      "total_voting_power_pct": "0.0004125297750354784",
       "public_keys": []
     },
     {
@@ -2859,7 +2859,7 @@
         "member"
       ],
       "voting_rights": 572,
-      "total_voting_power_pct": "0.00023596946493105073",
+      "total_voting_power_pct": "0.00023596703132029367",
       "public_keys": []
     },
     {
@@ -2869,7 +2869,7 @@
         "member"
       ],
       "voting_rights": 40,
-      "total_voting_power_pct": "0.000016501361183989564",
+      "total_voting_power_pct": "0.00001650119100141914",
       "public_keys": []
     },
     {
@@ -2879,7 +2879,7 @@
         "member"
       ],
       "voting_rights": 0.3300000000000125,
-      "total_voting_power_pct": "1.3613622976791904e-7",
+      "total_voting_power_pct": "1.3613482576171303e-7",
       "public_keys": []
     },
     {
@@ -2889,7 +2889,7 @@
         "member"
       ],
       "voting_rights": 2,
-      "total_voting_power_pct": "8.250680591994782e-7",
+      "total_voting_power_pct": "8.250595500709569e-7",
       "public_keys": []
     },
     {
@@ -2909,7 +2909,7 @@
         "member"
       ],
       "voting_rights": 1,
-      "total_voting_power_pct": "4.125340295997391e-7",
+      "total_voting_power_pct": "4.1252977503547843e-7",
       "public_keys": []
     },
     {
@@ -2919,7 +2919,7 @@
         "member"
       ],
       "voting_rights": 800,
-      "total_voting_power_pct": "0.00033002722367979126",
+      "total_voting_power_pct": "0.00033002382002838274",
       "public_keys": []
     },
     {
@@ -2929,7 +2929,7 @@
         "member"
       ],
       "voting_rights": 125,
-      "total_voting_power_pct": "0.00005156675369996738",
+      "total_voting_power_pct": "0.0000515662218794348",
       "public_keys": []
     },
     {
@@ -2939,7 +2939,7 @@
         "member"
       ],
       "voting_rights": 75,
-      "total_voting_power_pct": "0.00003094005221998043",
+      "total_voting_power_pct": "0.000030939733127660884",
       "public_keys": []
     },
     {
@@ -2949,7 +2949,7 @@
         "member"
       ],
       "voting_rights": 25,
-      "total_voting_power_pct": "0.000010313350739993477",
+      "total_voting_power_pct": "0.00001031324437588696",
       "public_keys": []
     },
     {
@@ -2969,7 +2969,7 @@
         "member"
       ],
       "voting_rights": 1075,
-      "total_voting_power_pct": "0.0004434740818197195",
+      "total_voting_power_pct": "0.0004434695081631393",
       "public_keys": []
     },
     {
@@ -2979,7 +2979,7 @@
         "member"
       ],
       "voting_rights": 225,
-      "total_voting_power_pct": "0.0000928201566599413",
+      "total_voting_power_pct": "0.00009281919938298265",
       "public_keys": []
     },
     {
@@ -2989,7 +2989,7 @@
         "member"
       ],
       "voting_rights": 33.33,
-      "total_voting_power_pct": "0.000013749759206559302",
+      "total_voting_power_pct": "0.000013749617401932496",
       "public_keys": []
     },
     {
@@ -2999,7 +2999,7 @@
         "member"
       ],
       "voting_rights": 102,
-      "total_voting_power_pct": "0.000042078471019173385",
+      "total_voting_power_pct": "0.0000420780370536188",
       "public_keys": []
     },
     {
@@ -3019,7 +3019,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtauVtN8jJ/bf8tyS9aoICRtmyxhE5+h6VaVyNZmeCnwnBGt2WdTaqGqcFM+ydNKN2tRDNa79kbcRHz2uNWiDA8EU+k9+9qwVCYRSmyZK/EB3DWWiELghgNfLnImaIA6EiqekTT1UuJAkjv7kfuiK9wWDwcnA+9CGaGc5z3YDjB8JlTrqCPJa7XyWP0kim9KIeTyqsyy3LQxEUuuD4Hpu2A+DJl5JGpzf/D07hk+4LiddH7chqJ7y+s+DWG+1LlH3l/66hCGoQ0dCAr4uv8u6atqpizulnFwneR8xPpo5D6O80szkrg0LUC3pUuLtFPrrBQzUIjty/QzQqGuAwyhjmQIDAQAB",
@@ -3036,7 +3036,7 @@
         "member"
       ],
       "voting_rights": 1510,
-      "total_voting_power_pct": "0.000622926384695606",
+      "total_voting_power_pct": "0.0006229199603035724",
       "public_keys": []
     },
     {
@@ -3066,7 +3066,7 @@
         "member"
       ],
       "voting_rights": 29692.86289420004,
-      "total_voting_power_pct": "0.012249316380096914",
+      "total_voting_power_pct": "0.012249190049903647",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6ZczaX6AGlJ+M46Oa+ehrqYNp45cPfU3OKbU9kjVr1w5iA8/7H3qLxCnzRiyyCdBaebSwGBXMlKgzLx4AIvWJX+5/VvLbP1eoyAH5NoYlm9VGlNh6ILlCUalTHbGWS1W1kiV7qIpkMSYgZ6sUrMpB7DZDTqH0LZHBRqXsRewRaQcwVYb4dR6/FtqgQvCP0R+bMo6gFnAv1OZF/6sW1RSXftNpHov4r1R1yJY7zuz34AParz1SHo2S8Lfx9x6LKG0WHG5pZ9OUkIKQYguUEo+kDBfUx8ZQbxETmFGqbrx+eUOQWrDyePXRo5k+8YnfOoBuMahZLqkseHovqXjMWu8EQIDAQAB",
@@ -3095,7 +3095,7 @@
         "member"
       ],
       "voting_rights": 20,
-      "total_voting_power_pct": "0.000008250680591994782",
+      "total_voting_power_pct": "0.00000825059550070957",
       "public_keys": []
     },
     {
@@ -3132,7 +3132,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -3142,7 +3142,7 @@
         "member"
       ],
       "voting_rights": 75,
-      "total_voting_power_pct": "0.00003094005221998043",
+      "total_voting_power_pct": "0.000030939733127660884",
       "public_keys": []
     },
     {
@@ -3152,7 +3152,7 @@
         "member"
       ],
       "voting_rights": 3,
-      "total_voting_power_pct": "0.0000012376020887992173",
+      "total_voting_power_pct": "0.0000012375893251064353",
       "public_keys": []
     },
     {
@@ -3162,7 +3162,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -3172,7 +3172,7 @@
         "member"
       ],
       "voting_rights": 333.33,
-      "total_voting_power_pct": "0.00013750996808648103",
+      "total_voting_power_pct": "0.00013750854991257603",
       "public_keys": []
     },
     {
@@ -3212,7 +3212,7 @@
         "member"
       ],
       "voting_rights": 1000,
-      "total_voting_power_pct": "0.00041253402959973905",
+      "total_voting_power_pct": "0.0004125297750354784",
       "public_keys": []
     },
     {
@@ -3232,7 +3232,7 @@
         "member"
       ],
       "voting_rights": 8555.14,
-      "total_voting_power_pct": "0.0035292863779899115",
+      "total_voting_power_pct": "0.003529249979597023",
       "public_keys": []
     },
     {
@@ -3262,7 +3262,7 @@
         "member"
       ],
       "voting_rights": 20,
-      "total_voting_power_pct": "0.000008250680591994782",
+      "total_voting_power_pct": "0.00000825059550070957",
       "public_keys": []
     },
     {
@@ -3272,7 +3272,7 @@
         "member"
       ],
       "voting_rights": 22383,
-      "total_voting_power_pct": "0.00923374918453096",
+      "total_voting_power_pct": "0.009233653954619114",
       "public_keys": []
     },
     {
@@ -3282,7 +3282,7 @@
         "member"
       ],
       "voting_rights": 1010,
-      "total_voting_power_pct": "0.00041665936989573643",
+      "total_voting_power_pct": "0.00041665507278583323",
       "public_keys": []
     },
     {
@@ -3292,7 +3292,7 @@
         "member"
       ],
       "voting_rights": 16.67,
-      "total_voting_power_pct": "0.000006876942273427651",
+      "total_voting_power_pct": "0.000006876871349841426",
       "public_keys": []
     },
     {
@@ -3302,7 +3302,7 @@
         "member"
       ],
       "voting_rights": 33.33,
-      "total_voting_power_pct": "0.000013749759206559302",
+      "total_voting_power_pct": "0.000013749617401932496",
       "public_keys": []
     },
     {
@@ -3312,7 +3312,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -3322,7 +3322,7 @@
         "member"
       ],
       "voting_rights": 1218,
-      "total_voting_power_pct": "0.0005024664480524822",
+      "total_voting_power_pct": "0.0005024612659932128",
       "public_keys": []
     },
     {
@@ -3332,7 +3332,7 @@
         "member"
       ],
       "voting_rights": 2675,
-      "total_voting_power_pct": "0.001103528529179302",
+      "total_voting_power_pct": "0.001103517148219905",
       "public_keys": []
     },
     {
@@ -3342,7 +3342,7 @@
         "member"
       ],
       "voting_rights": 10266,
-      "total_voting_power_pct": "0.0042350743478709214",
+      "total_voting_power_pct": "0.004235030670514221",
       "public_keys": []
     },
     {
@@ -3352,7 +3352,7 @@
         "member"
       ],
       "voting_rights": 330,
-      "total_voting_power_pct": "0.0001361362297679139",
+      "total_voting_power_pct": "0.0001361348257617079",
       "public_keys": []
     },
     {
@@ -3362,7 +3362,7 @@
         "member"
       ],
       "voting_rights": 990,
-      "total_voting_power_pct": "0.00040840868930374166",
+      "total_voting_power_pct": "0.00040840447728512366",
       "public_keys": []
     },
     {
@@ -3372,7 +3372,7 @@
         "member"
       ],
       "voting_rights": 1544.8300000000004,
-      "total_voting_power_pct": "0.0006372949449465651",
+      "total_voting_power_pct": "0.0006372883723680583",
       "public_keys": []
     },
     {
@@ -3382,7 +3382,7 @@
         "member"
       ],
       "voting_rights": 8850,
-      "total_voting_power_pct": "0.003650926161957691",
+      "total_voting_power_pct": "0.0036508885090639842",
       "public_keys": []
     },
     {
@@ -3402,7 +3402,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -3412,7 +3412,7 @@
         "member"
       ],
       "voting_rights": 324.25,
-      "total_voting_power_pct": "0.0001337641590977154",
+      "total_voting_power_pct": "0.00013376277955525387",
       "public_keys": []
     },
     {
@@ -3422,7 +3422,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -3443,7 +3443,7 @@
         "member"
       ],
       "voting_rights": 24.990000000000002,
-      "total_voting_power_pct": "0.00001030922539969748",
+      "total_voting_power_pct": "0.000010309119078136607",
       "public_keys": []
     },
     {
@@ -3453,7 +3453,7 @@
         "member"
       ],
       "voting_rights": 647.0833333333336,
-      "total_voting_power_pct": "0.0002669438949868313",
+      "total_voting_power_pct": "0.0002669411419292076",
       "public_keys": []
     },
     {
@@ -3463,7 +3463,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -3473,7 +3473,7 @@
         "member"
       ],
       "voting_rights": 225,
-      "total_voting_power_pct": "0.0000928201566599413",
+      "total_voting_power_pct": "0.00009281919938298265",
       "public_keys": []
     },
     {
@@ -3483,7 +3483,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -3493,7 +3493,7 @@
         "member"
       ],
       "voting_rights": 3775,
-      "total_voting_power_pct": "0.001557315961739015",
+      "total_voting_power_pct": "0.001557299900758931",
       "public_keys": []
     },
     {
@@ -3503,7 +3503,7 @@
         "member"
       ],
       "voting_rights": 7730,
-      "total_voting_power_pct": "0.003188888048805983",
+      "total_voting_power_pct": "0.003188855161024248",
       "public_keys": []
     },
     {
@@ -3513,7 +3513,7 @@
         "member"
       ],
       "voting_rights": 18260,
-      "total_voting_power_pct": "0.007532871380491236",
+      "total_voting_power_pct": "0.007532793692147836",
       "public_keys": []
     },
     {
@@ -3533,7 +3533,7 @@
         "member"
       ],
       "voting_rights": 16.66,
-      "total_voting_power_pct": "0.000006872816933131653",
+      "total_voting_power_pct": "0.0000068727460520910705",
       "public_keys": []
     },
     {
@@ -3543,7 +3543,7 @@
         "member"
       ],
       "voting_rights": 58590,
-      "total_voting_power_pct": "0.024170368794248713",
+      "total_voting_power_pct": "0.02417011951932868",
       "public_keys": []
     },
     {
@@ -3553,7 +3553,7 @@
         "member"
       ],
       "voting_rights": 75,
-      "total_voting_power_pct": "0.00003094005221998043",
+      "total_voting_power_pct": "0.000030939733127660884",
       "public_keys": []
     },
     {
@@ -3583,7 +3583,7 @@
         "member"
       ],
       "voting_rights": 200,
-      "total_voting_power_pct": "0.00008250680591994781",
+      "total_voting_power_pct": "0.00008250595500709569",
       "public_keys": []
     },
     {
@@ -3593,7 +3593,7 @@
         "member"
       ],
       "voting_rights": 155,
-      "total_voting_power_pct": "0.00006394277458795956",
+      "total_voting_power_pct": "0.00006394211513049916",
       "public_keys": []
     },
     {
@@ -3603,7 +3603,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -3613,7 +3613,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -3633,7 +3633,7 @@
         "member"
       ],
       "voting_rights": 416.67,
-      "total_voting_power_pct": "0.0001718905541133233",
+      "total_voting_power_pct": "0.0001718887813640328",
       "public_keys": []
     },
     {
@@ -3643,7 +3643,7 @@
         "member"
       ],
       "voting_rights": 1850,
-      "total_voting_power_pct": "0.0007631879547595172",
+      "total_voting_power_pct": "0.0007631800838156351",
       "public_keys": []
     },
     {
@@ -3663,7 +3663,7 @@
         "member"
       ],
       "voting_rights": 30243,
-      "total_voting_power_pct": "0.012476266657184909",
+      "total_voting_power_pct": "0.012476137986397974",
       "public_keys": []
     },
     {
@@ -3673,7 +3673,7 @@
         "member"
       ],
       "voting_rights": 5000,
-      "total_voting_power_pct": "0.0020626701479986953",
+      "total_voting_power_pct": "0.002062648875177392",
       "public_keys": []
     },
     {
@@ -3683,7 +3683,7 @@
         "member"
       ],
       "voting_rights": 158.33,
-      "total_voting_power_pct": "0.0000653165129065267",
+      "total_voting_power_pct": "0.00006531583928136731",
       "public_keys": []
     },
     {
@@ -3693,7 +3693,7 @@
         "member"
       ],
       "voting_rights": 16.66,
-      "total_voting_power_pct": "0.000006872816933131653",
+      "total_voting_power_pct": "0.0000068727460520910705",
       "public_keys": []
     },
     {
@@ -3713,7 +3713,7 @@
         "member"
       ],
       "voting_rights": 375,
-      "total_voting_power_pct": "0.00015470026109990216",
+      "total_voting_power_pct": "0.00015469866563830442",
       "public_keys": []
     },
     {
@@ -3723,7 +3723,7 @@
         "member"
       ],
       "voting_rights": 166.67000000000002,
-      "total_voting_power_pct": "0.00006875704671338852",
+      "total_voting_power_pct": "0.0000687563376051632",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkUqth1W3tAA95M3tscNvGrNcdE5ElIHpwLF+FvRZnUEtEgt3ICamtU6cNKmf+eb+MKJldt5+w3FHbbjRuZkUiqztr2nF5uK62Hoi0raFuKkekrE64Nk9JKu7fnHps8w6VIVoshKpe+E+pse6NjBY9vEgawrw1EkJWTNtsXg8MBiiLj+TiawOBc0EQJTT4z7oNU4N5bxhtMYqIBPQ/Q75JFOByT2KC8zHR9KesCV4qzi8o26w/lOL25ozfxPGuKMGVOptgvFWKcUBuVpyC/+YCQzyJ9KvHJg93pghVAUduc6ruMRIlsoKkvUy96/912vlJqSWRe+926KKg+AZVpo5BwIDAQAB",
@@ -3766,7 +3766,7 @@
         "member"
       ],
       "voting_rights": 1000,
-      "total_voting_power_pct": "0.00041253402959973905",
+      "total_voting_power_pct": "0.0004125297750354784",
       "public_keys": []
     },
     {
@@ -3776,7 +3776,7 @@
         "member"
       ],
       "voting_rights": 2978.58,
-      "total_voting_power_pct": "0.0012287656098851907",
+      "total_voting_power_pct": "0.0012287529373251754",
       "public_keys": []
     },
     {
@@ -3786,7 +3786,7 @@
         "member"
       ],
       "voting_rights": 11661,
-      "total_voting_power_pct": "0.004810559319162557",
+      "total_voting_power_pct": "0.004810509706688714",
       "public_keys": []
     },
     {
@@ -3806,7 +3806,7 @@
         "member"
       ],
       "voting_rights": 5432.66,
-      "total_voting_power_pct": "0.002241157121245318",
+      "total_voting_power_pct": "0.002241134007644242",
       "public_keys": []
     },
     {
@@ -3843,7 +3843,7 @@
         "member"
       ],
       "voting_rights": 1200,
-      "total_voting_power_pct": "0.0004950408355196868",
+      "total_voting_power_pct": "0.0004950357300425741",
       "public_keys": []
     },
     {
@@ -3854,7 +3854,7 @@
         "member"
       ],
       "voting_rights": 9059.83,
-      "total_voting_power_pct": "0.003737488177388604",
+      "total_voting_power_pct": "0.0037374496317596788",
       "public_keys": []
     },
     {
@@ -3881,7 +3881,7 @@
         "member"
       ],
       "voting_rights": 1600,
-      "total_voting_power_pct": "0.0006600544473595825",
+      "total_voting_power_pct": "0.0006600476400567655",
       "public_keys": []
     },
     {
@@ -3891,7 +3891,7 @@
         "member"
       ],
       "voting_rights": 120,
-      "total_voting_power_pct": "0.00004950408355196869",
+      "total_voting_power_pct": "0.000049503573004257416",
       "public_keys": []
     },
     {
@@ -3901,7 +3901,7 @@
         "member"
       ],
       "voting_rights": 11045,
-      "total_voting_power_pct": "0.004556438356929118",
+      "total_voting_power_pct": "0.004556391365266859",
       "public_keys": []
     },
     {
@@ -3941,7 +3941,7 @@
         "member"
       ],
       "voting_rights": 941.67,
-      "total_voting_power_pct": "0.00038847091965318626",
+      "total_voting_power_pct": "0.00038846691325765897",
       "public_keys": []
     },
     {
@@ -3951,7 +3951,7 @@
         "member"
       ],
       "voting_rights": 51.34,
-      "total_voting_power_pct": "0.000021179497079650606",
+      "total_voting_power_pct": "0.000021179278650321463",
       "public_keys": []
     },
     {
@@ -3961,7 +3961,7 @@
         "member"
       ],
       "voting_rights": 1260,
-      "total_voting_power_pct": "0.0005197928772956713",
+      "total_voting_power_pct": "0.0005197875165447028",
       "public_keys": []
     },
     {
@@ -3972,7 +3972,7 @@
         "sentinel"
       ],
       "voting_rights": 2170,
-      "total_voting_power_pct": "0.0008951988442314338",
+      "total_voting_power_pct": "0.0008951896118269882",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAo0ByUI93AXx1PjK2O5AOCGPNwMkAWPlznMShm4Iv4qvVcYvGZDL0kUDtKAPs9S19/B+iuPAT6u13x2mCPFMB0jJmBRodm1bznbzq+Yt7D2pMExpeAyc+lWnuImUUs94tx1A5AnLvmI+UboDC10WEhPdv9rww9+olsUT7SezJfwxejAeesRMeRdQ45Uof88117NU+1ZK6+xKIMQ3cqu/wK8BtluzpzRzvwcIKh9GyFBosviXBQ72BkReWK7h8+fhVh3qx6FaXmWNvzOsU/9Y3YqFc+albZOzh3GGAuJzyfyaPsejUS6ok2yMzWtUFEzPt8iwyW4F5w0rGZRvA1SqzEwIDAQAB",
@@ -3989,7 +3989,7 @@
         "member"
       ],
       "voting_rights": 25,
-      "total_voting_power_pct": "0.000010313350739993477",
+      "total_voting_power_pct": "0.00001031324437588696",
       "public_keys": []
     },
     {
@@ -3999,7 +3999,7 @@
         "member"
       ],
       "voting_rights": 591.66,
-      "total_voting_power_pct": "0.0002440798839529816",
+      "total_voting_power_pct": "0.00024407736669749115",
       "public_keys": []
     },
     {
@@ -4009,7 +4009,7 @@
         "member"
       ],
       "voting_rights": 5875,
-      "total_voting_power_pct": "0.002423637423898467",
+      "total_voting_power_pct": "0.002423612428333436",
       "public_keys": []
     },
     {
@@ -4019,7 +4019,7 @@
         "member"
       ],
       "voting_rights": 11060.66,
-      "total_voting_power_pct": "0.00456289863983265",
+      "total_voting_power_pct": "0.004562851581543915",
       "public_keys": []
     },
     {
@@ -4029,7 +4029,7 @@
         "member"
       ],
       "voting_rights": 2591.6800000000003,
-      "total_voting_power_pct": "0.001069156193833052",
+      "total_voting_power_pct": "0.001069145167363949",
       "public_keys": []
     },
     {
@@ -4109,7 +4109,7 @@
         "member"
       ],
       "voting_rights": 450,
-      "total_voting_power_pct": "0.0001856403133198826",
+      "total_voting_power_pct": "0.0001856383987659653",
       "public_keys": []
     },
     {
@@ -4119,7 +4119,7 @@
         "member"
       ],
       "voting_rights": 8.33,
-      "total_voting_power_pct": "0.0000034364084665658263",
+      "total_voting_power_pct": "0.0000034363730260455352",
       "public_keys": []
     },
     {
@@ -4159,7 +4159,7 @@
         "member"
       ],
       "voting_rights": 2669.8999999999996,
-      "total_voting_power_pct": "0.0011014246056283432",
+      "total_voting_power_pct": "0.0011014132463672238",
       "public_keys": []
     },
     {
@@ -4169,7 +4169,7 @@
         "member"
       ],
       "voting_rights": 5200,
-      "total_voting_power_pct": "0.0021451769539186432",
+      "total_voting_power_pct": "0.002145154830184488",
       "public_keys": []
     },
     {
@@ -4239,7 +4239,7 @@
         "member"
       ],
       "voting_rights": 1850,
-      "total_voting_power_pct": "0.0007631879547595172",
+      "total_voting_power_pct": "0.0007631800838156351",
       "public_keys": []
     },
     {
@@ -4249,7 +4249,7 @@
         "member"
       ],
       "voting_rights": 1100,
-      "total_voting_power_pct": "0.00045378743255971297",
+      "total_voting_power_pct": "0.0004537827525390263",
       "public_keys": []
     },
     {
@@ -4259,7 +4259,7 @@
         "member"
       ],
       "voting_rights": 277.67,
-      "total_voting_power_pct": "0.00011454832399895955",
+      "total_voting_power_pct": "0.00011454714263410131",
       "public_keys": []
     },
     {
@@ -4269,7 +4269,7 @@
         "member"
       ],
       "voting_rights": 14984.67,
-      "total_voting_power_pct": "0.006181686297322322",
+      "total_voting_power_pct": "0.006181622544080883",
       "public_keys": []
     },
     {
@@ -4279,7 +4279,7 @@
         "member"
       ],
       "voting_rights": 9819.82,
-      "total_voting_power_pct": "0.004051009914544109",
+      "total_voting_power_pct": "0.004050968135488892",
       "public_keys": []
     },
     {
@@ -4289,7 +4289,7 @@
         "member"
       ],
       "voting_rights": 6285.33,
-      "total_voting_power_pct": "0.002592912512264128",
+      "total_voting_power_pct": "0.0025928857709237437",
       "public_keys": []
     },
     {
@@ -4299,7 +4299,7 @@
         "member"
       ],
       "voting_rights": 652.78,
-      "total_voting_power_pct": "0.00026929396384211765",
+      "total_voting_power_pct": "0.0002692911865476596",
       "public_keys": []
     },
     {
@@ -4310,7 +4310,7 @@
         "sentinel"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": [
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4WhcrS0l8HjG3kAoE0jBGm0PG8ArIfiLLcE4p9LGL1Z4iuFXOr0+wftjxKerBdqbznLqI0A0tRiNpMEFZMimN15DszxUYEusUM/4I2a8brwGgv4sg+IiJNQ+Q7MxzGB2A3jaRSIDIyxCEKN/Xto/rYbtbiffgk7ZS0dfnenuvnNwFWv7uU8e0vAIh0xqGumagBH8Fa1NhjACQQGifyRdwFq719M+Ll4dHfhnkE1UhjnqOhAUSB6nW1J4nACKEGFMRG04beNu8cxj8CKzdRCFnkcVILwo7Gxg8ErhveBgI4eEouTZz5ZhX+C1v6m6wSukXveJiGz7HPi7hzBeSOEU9wIDAQAB",
@@ -4327,7 +4327,7 @@
         "member"
       ],
       "voting_rights": 4963.770000000005,
-      "total_voting_power_pct": "0.002047724040106299",
+      "total_voting_power_pct": "0.0020477029214278587",
       "public_keys": []
     },
     {
@@ -4337,7 +4337,7 @@
         "member"
       ],
       "voting_rights": 608.34,
-      "total_voting_power_pct": "0.00025096095156670526",
+      "total_voting_power_pct": "0.000250958363345083",
       "public_keys": []
     },
     {
@@ -4367,7 +4367,7 @@
         "member"
       ],
       "voting_rights": 62143.00000000001,
-      "total_voting_power_pct": "0.02563610220141659",
+      "total_voting_power_pct": "0.02563583781002974",
       "public_keys": []
     },
     {
@@ -4377,7 +4377,7 @@
         "member"
       ],
       "voting_rights": 250,
-      "total_voting_power_pct": "0.00010313350739993476",
+      "total_voting_power_pct": "0.0001031324437588696",
       "public_keys": []
     },
     {
@@ -4387,7 +4387,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -4397,7 +4397,7 @@
         "member"
       ],
       "voting_rights": 504,
-      "total_voting_power_pct": "0.00020791715091826848",
+      "total_voting_power_pct": "0.00020791500661788113",
       "public_keys": []
     },
     {
@@ -4407,7 +4407,7 @@
         "member"
       ],
       "voting_rights": 77,
-      "total_voting_power_pct": "0.00003176512027917991",
+      "total_voting_power_pct": "0.00003176479267773184",
       "public_keys": []
     },
     {
@@ -4417,7 +4417,7 @@
         "member"
       ],
       "voting_rights": 10161.33,
-      "total_voting_power_pct": "0.004191894410992716",
+      "total_voting_power_pct": "0.004191851178961258",
       "public_keys": []
     },
     {
@@ -4427,7 +4427,7 @@
         "member"
       ],
       "voting_rights": 5250,
-      "total_voting_power_pct": "0.00216580365539863",
+      "total_voting_power_pct": "0.002165781318936262",
       "public_keys": []
     },
     {
@@ -4437,7 +4437,7 @@
         "member"
       ],
       "voting_rights": 403,
-      "total_voting_power_pct": "0.00016625121392869485",
+      "total_voting_power_pct": "0.00016624949933929782",
       "public_keys": []
     },
     {
@@ -4447,7 +4447,7 @@
         "member"
       ],
       "voting_rights": 16.67,
-      "total_voting_power_pct": "0.000006876942273427651",
+      "total_voting_power_pct": "0.000006876871349841426",
       "public_keys": []
     },
     {
@@ -4457,7 +4457,7 @@
         "member"
       ],
       "voting_rights": 316.67,
-      "total_voting_power_pct": "0.00013063715115334938",
+      "total_voting_power_pct": "0.00013063580386048497",
       "public_keys": []
     },
     {
@@ -4467,7 +4467,7 @@
         "member"
       ],
       "voting_rights": 1235,
-      "total_voting_power_pct": "0.0005094795265556777",
+      "total_voting_power_pct": "0.0005094742721688159",
       "public_keys": []
     },
     {
@@ -4477,7 +4477,7 @@
         "member"
       ],
       "voting_rights": 50592.408375,
-      "total_voting_power_pct": "0.020871090094094335",
+      "total_voting_power_pct": "0.020870874845441804",
       "public_keys": []
     },
     {
@@ -4487,7 +4487,7 @@
         "member"
       ],
       "voting_rights": 1000,
-      "total_voting_power_pct": "0.00041253402959973905",
+      "total_voting_power_pct": "0.0004125297750354784",
       "public_keys": []
     },
     {
@@ -4507,7 +4507,7 @@
         "member"
       ],
       "voting_rights": 175,
-      "total_voting_power_pct": "0.00007219345517995433",
+      "total_voting_power_pct": "0.00007219271063120872",
       "public_keys": []
     },
     {
@@ -4517,7 +4517,7 @@
         "member"
       ],
       "voting_rights": 16.66,
-      "total_voting_power_pct": "0.000006872816933131653",
+      "total_voting_power_pct": "0.0000068727460520910705",
       "public_keys": []
     },
     {
@@ -4527,7 +4527,7 @@
         "member"
       ],
       "voting_rights": 308.34000000000003,
-      "total_voting_power_pct": "0.00012720074268678355",
+      "total_voting_power_pct": "0.00012719943083443943",
       "public_keys": []
     },
     {
@@ -4537,7 +4537,7 @@
         "member"
       ],
       "voting_rights": 1050,
-      "total_voting_power_pct": "0.00043316073107972603",
+      "total_voting_power_pct": "0.0004331562637872524",
       "public_keys": []
     },
     {
@@ -4547,7 +4547,7 @@
         "member"
       ],
       "voting_rights": 198.34000000000003,
-      "total_voting_power_pct": "0.00008182199943081225",
+      "total_voting_power_pct": "0.0000818211555805368",
       "public_keys": []
     },
     {
@@ -4557,7 +4557,7 @@
         "member"
       ],
       "voting_rights": 5000,
-      "total_voting_power_pct": "0.0020626701479986953",
+      "total_voting_power_pct": "0.002062648875177392",
       "public_keys": []
     },
     {
@@ -4567,7 +4567,7 @@
         "member"
       ],
       "voting_rights": 1300,
-      "total_voting_power_pct": "0.0005362942384796608",
+      "total_voting_power_pct": "0.000536288707546122",
       "public_keys": []
     },
     {
@@ -4577,7 +4577,7 @@
         "member"
       ],
       "voting_rights": 150,
-      "total_voting_power_pct": "0.00006188010443996085",
+      "total_voting_power_pct": "0.00006187946625532177",
       "public_keys": []
     },
     {
@@ -4587,7 +4587,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -4597,7 +4597,7 @@
         "member"
       ],
       "voting_rights": 100,
-      "total_voting_power_pct": "0.00004125340295997391",
+      "total_voting_power_pct": "0.00004125297750354784",
       "public_keys": []
     },
     {
@@ -4607,7 +4607,7 @@
         "member"
       ],
       "voting_rights": 10,
-      "total_voting_power_pct": "0.000004125340295997391",
+      "total_voting_power_pct": "0.000004125297750354785",
       "public_keys": []
     },
     {
@@ -4617,7 +4617,7 @@
         "member"
       ],
       "voting_rights": 50,
-      "total_voting_power_pct": "0.000020626701479986954",
+      "total_voting_power_pct": "0.00002062648875177392",
       "public_keys": []
     },
     {
@@ -4627,7 +4627,7 @@
         "member"
       ],
       "voting_rights": 5100,
-      "total_voting_power_pct": "0.002103923550958669",
+      "total_voting_power_pct": "0.00210390185268094",
       "public_keys": []
     },
     {
@@ -4637,7 +4637,7 @@
         "member"
       ],
       "voting_rights": 5278.33,
-      "total_voting_power_pct": "0.0021774907444571906",
+      "total_voting_power_pct": "0.002177468287463017",
       "public_keys": []
     }
   ]
