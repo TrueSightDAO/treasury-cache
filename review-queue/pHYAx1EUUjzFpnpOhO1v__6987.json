@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-17T08:36:17.789521+00:00",
+  "scoring_hash_key": "pHYAx1EUUjzFpnpOhO1v",
+  "scored_chatlogs_row": 6987,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 145\n- Contributor(s): Sophia Truesight (admin+sophia@truesight.me), Gary Teh (garyjob@agroverse.shop)\n- TDG Issued: 0\n- Description: Resolve subscription-renewal ledger gap: (1) diagnosed that invoice.paid renewal payments (Linda Ford Jul/Aug) never landed on Stripe Social Media Checkout tab + no admin email; (2) found production GAS code (invoice.paid handler + poller + R/S/T dedup) deployed via clasp but never committed to repo; (3) synced live->repo (PR #386 tokenomics, merged sha 29c4898), closed duplicate PR #385; (4) added sendSubscriptionRenewalNotificationEmail to saveSubscriptionPaymentToSheet (PR #387 tokenomics, merged sha 67373a9) and deployed via clasp push to live 1ovx script, verified live. Split: Sophia ~105 min (diagnosis, repo sync, PRs, deploy, verification), Gary ~40 min (direction, review, approvals).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: J4532juL2LJRYEAt4o0ZXOmNNB3Hp9tWRKWzbHrd0ENMpd4lW2xuMZxA5c85bOioX6+dHSZcliWNIw7k3P9wvD1xRhha0DTS+fHemcP7CX+GtdkaPQeiK3WM+F04cNFD1Fcw5Xjg0/jG1c7WC0JmR6lc0cz1vO4pKz+GdA9E8KbbO4OqQ8+sAS7roa4Hi+qhom5iH63fgaf4atg2ryV84MC0Z6vzQXcmInqTzA5pfTTsZz5GSmqHp2ZFyOBwaj0Mj84KLniTGgi/MO/V/UmD60gUUltKha7UpQJaugNLjSGN0KsMgpjMecdH754+ovhbn/xyRQBPRrhzh6UvS3gITw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260816",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
