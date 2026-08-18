@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-18T10:21:45.790797+00:00",
+  "scoring_hash_key": "bT6rUYljy8ndiqS+d/D1",
+  "scored_chatlogs_row": 6989,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Evan Bahia origin-tour slide deck (30 min)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/go_to_market/blob/main/events/evan_bahia_visit/evan_bahia_itinerary_2026.pdf\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/753\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/297\n  \n  Details:\n  Generated the Evan Bahia origin-tour PDF deck (Oct 1\u20137, 2026 visit) \u2014 10 slides covering Black King warehouse (Ilh\u00e9us), Santos Chocolate Factory (Itabuna), Oscar's farm, Christiano + CIC, and Bico Duro capoeira (Itacar\u00e9), with the Gary+Matheus Black King header photo on the cover, live Agroverse/YouTube links, 4WD-jeep note, and EXIF orientation + portrait-aware fixes applied after review.\n  \n  Evidence:\n  - Deck: go_to_market/events/evan_bahia_visit/evan_bahia_itinerary_2026.pdf\n  - Docs standard (EXIF MUST rules): agentic_ai_context PR #753\n  - Template fix (exif_transpose): truesight_autopilot PR #297\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: wBOK3TuEINXCwe3WYald2TZeWbA5gIgczU7QG5tDQkJS616Zz5GyOPloUE9HV6zGB5Gkln5xDVhOnZDELNW2dfFbhtq8ldcm2D4skzSCYem5Ezj//jtRsrDmco1Ui99eREXQKN59wHnVLjUGmYz/1E775dvRBbU/qVnqcqrdKc9Aq38qFts9l/7IZuPVcblzrYzzBIjoLNOER9BShOZvzzxhB2Ky1QkqDY/pzCqjnhDfciiMTb72vIZMEon8GB9qdyi/JUqVEm2n/iRRy3meNYF0zbm/4NpKSH743Jw2d2WshLTplbDCEsCYim62J5htcGBGDiEdMqPUBa9I2Quo9A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260818",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
