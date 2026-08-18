@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-18T08:29:16.328349+00:00",
+  "scoring_hash_key": "QMq/gmGUPrwINBHLwgVg",
+  "scored_chatlogs_row": 6988,
+  "contributor_name": "Gary Teh + Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh + Sophia Truesight\n- Description: AI-run DAO talk deck for Building with AI in DAOs event (Paloma/Blockful breakfast): photo archive deep-dive across agroverse_shop_beta/sunmint/lineage-assets/truesight_me_prod (~20 candidates curated), 8-iteration build (v1 hook \u2192 v2 five-systems reframe \u2192 v3 strip fix \u2192 v4 wrap fix \u2192 v5 clickable links \u2192 v6 URL corrections \u2192 v7 public-ledger link \u2192 v8 sunmint link), every link verified live (200). Deliverable: TrueSightDAO_Talk_Deck.pdf v8 (6 pages, 16:9, 22 clickable links).\n- TDG Issued: 60\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: hLQ+ZRTIU3ri+YLBFGqz/Kl7hvDWcQGvjm7l8SAARtGk3j4NoYjRKAJeoGKeATUVXakqeshhNYc9OVwx59gxc0NJ3Swrl0J62z0iw7WQX2H86b7abHQf7EnDNbDHAJR7Hh3fTn45VhipRrg4HUxUIqgzW6rHPR40Zv1HSWpDL9/oRZ9Y1RJJECHlSNVDsrAff/wbijUNLS15lwvCzRcFbjSiqE4od9i5O+PO43ITDN464te+s2dGgKutQU24koDUpE04cA2Gwf1jrEdxrE0kvWtgwsbBJcll3E6HnuQe99a5ohwrHVeoJKa6rKXlZeqqQSC8yvRtk3GvKBBdjLidyQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "60",
+  "tdgs_issued": "0",
+  "contribution_date": "20260818",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
