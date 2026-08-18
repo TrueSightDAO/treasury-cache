@@ -54,6 +54,12 @@
       "description": "Send a pending warm-up Gmail draft from the operator's Gmail account. The DApp signs a [WARMUP SEND EVENT] with the operator's RSA key, Edgar verifies the signature + persists to Telegram Chat Logs, then fires a webhook to the holistic_hit_list_store_history GAS which calls GmailApp.getDraft(id).send() as the script owner. Drafts themselves are created by suggest_warmup_prospect_drafts.py against rows in Hit List with Status='AI: Warm up prospect' — this action only ships drafts that are already staged.",
       "surfaces": ["dapp:warmup_review.html"],
       "endpoints": ["edgar:[WARMUP SEND EVENT]"]
+    },
+    "tree_planting.link": {
+      "required_roles": ["governor"],
+      "description": "Link a Sunmint tree-planting submission (SunMint Tree Planting sheet, status NEW) to a sold Agroverse QR code (status SOLD) — flips the QR to ASSIGNED_TO_TREE, copies planting evidence, books the ledger fulfillment entry, and notifies the QR owner. The GAS handler (process_tree_planting_link.js) also enforces this server-side against the Governors tab — this manifest entry is the UX gate, not the sole enforcement.",
+      "surfaces": ["dapp:link_tree_planting.html (dedicated page)"],
+      "endpoints": ["edgar:[TREE PLANTING LINK EVENT]"]
     }
   },
   "deferred_actions": {
