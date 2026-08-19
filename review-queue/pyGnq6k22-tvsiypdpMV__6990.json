@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-19T08:30:26.656264+00:00",
+  "scoring_hash_key": "pyGnq6k22+tvsiypdpMV",
+  "scored_chatlogs_row": 6990,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 210\n- Description: Stand up Bionpact \u2014 locked-down Ops-team autopilot instance\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/754\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/298\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/299\n  \n  Details:\n  Designed, provisioned, and deployed Bionpact: a locked-down, private sibling instance of the autopilot for Gary Teh + Elizabeth Wong (Ops team), on its own EC2 box in Nelanco, Telegram-only, no DAO signing identity / AWS / fleet SSH. Created 3 private GitHub repos (bionpact_agentic_ai_context, bionpact_autopilot_transcription, bionpact_attachments); wrote the execution roadmap (agentic_ai_context#754); made the transcript/attachments/followups repo identity configurable per-instance via a new consolidated OWN_REPOS setting instead of ad-hoc fields (truesight_autopilot#298), including fixing a real bug where the PDF-extraction script's stdout-JSON contract was silently broken by a pymupdf deprecation warning, and a third independently-hardcoded transcript-repo literal in append_to_transcript.py that was causing live 403s; found and gated off Sophia's handoff-execution auto-authorization framing so it can't misfire on a sibling instance's ordinary chat messages (truesight_autopilot#299). Provisioned the EC2 box (diagnosed and recovered from a slow-boot user-data ordering mistake), wired up a properly-scoped GitHub PAT, resolved Telegram privacy-mode and inline-mode UX issues live with the governor, and got both governors (Gary, Liz) authenticated and chatting with the bot.\n- Contributor(s): Claude Anthropic\n- TDG Issued: 350.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: vcRPzHIjLvAUQFQioG+XxE+lNBAwG/GIwANT49ZwgHDyNtT4d/kuHtfyBwpDVBOqvQc1PAinhoENGNhBFXXjoXXu5GznIkLC5w6JCXqFy5kzcEVzdpgAkvC6kvvVgcXLGf0FGeHypmG+uDU7+OSm3qiliZ8n9UfFTpjjZ35etSYgRn2GDOenU2rsrXWUwm5sT28Rj4ZuzotTPWMsTdxYAnVY28EaCU+iY5yE9E5wsaVKIIFb8Wk8fPxom++bglT64e0GtV+0nbiaWYFLs+HVCsx/BIiL6aZmxDHaL1M9pJrCJu199HSXbfiyrXL2syKMxX2P8/zYYqynmk+rlOMq6g==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "350",
+  "tdgs_issued": "0",
+  "contribution_date": "20260818",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
