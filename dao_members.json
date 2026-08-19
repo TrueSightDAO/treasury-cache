@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T09:35:37.910Z",
+  "generated_at": "2026-08-19T09:36:32.969Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "edgar_webhook",
   "counts": {
     "contributors": 409,
-    "active_public_keys": 87,
+    "active_public_keys": 88,
     "governors": 10,
     "contributors_with_email": 15,
     "sentinels": 6
@@ -362,7 +362,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260819 02:34:20"
+          "last_active_at": "20260819 02:35:13"
         }
       ]
     },
@@ -4341,6 +4341,12 @@
           "status": "ACTIVE",
           "created_at": "2026-08-19T16:34:54.000Z",
           "last_active_at": "2026-08-19T16:35:08.000Z"
+        },
+        {
+          "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAr+HYgza7eO6/MsO75f7QEnBbyTTd9YSZTlUW0UuGgehfKV1oSk5i+Mbx+m13j3qmO2cqFQxa8aFaC8W2/KKXD/vCLzdA5r0NlGjFt1mo+lHG7uljob1dqJCdh6vKrBjYui6DUwWyoDBkRjsUs1+C7Tx0jKK0oXpQYwVW2bt3D/R8Ui6y/YXiVSU8CmndCIxGZSLxhpGzTwxUQEvKHlu1Gw6lgEBXXpDomjJmAaHwRRtTmI25Z5YJEkVCgMELUxrw7ia+x37BdC5entGuZQDJUVwtyr1mhd5J6EJHj01S1wuc2m1m1BTS7m602hUhLCcXEzSd5nT8EZQEY4JneNXnvQIDAQAB",
+          "status": "ACTIVE",
+          "created_at": "2026-08-19T16:35:58.000Z",
+          "last_active_at": "2026-08-19T16:36:08.000Z"
         }
       ]
     },
