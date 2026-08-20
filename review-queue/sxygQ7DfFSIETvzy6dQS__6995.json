@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T08:31:26.369403+00:00",
+  "scoring_hash_key": "sxygQ7DfFSIETvzy6dQS",
+  "scored_chatlogs_row": 6995,
+  "contributor_name": "Paloma",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Contributor(s): Paloma\n- Description: Paloma shared insights on MoonDAO UX (moondao.com) \u2014 the Internet's Space Program: onchain governance, transparent treasury, member voting, proposal flow. Benchmarking for the TrueSight DAO dApp UX.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: B/uBxuKJQQGcc2a43Z2ccYKWYjfvGVpvaHdOuXIyrYUWGNwtCPPjL5N9bwuPH59mZ05DrDfMbrn0rhzyOFWYcgTtZ2R+EcJu8J8v1tMnEwoEXPNWu232TLQWEnaiRquWAh20ZzMZijxESH1i0lEC53t0BCj3M789fugjWROS0K4OQjrsRCoZRfS51788Dy4y4l1n80+kcCqkjkaa0of2V8Uasr1TulSGJH7+i3ZOHcvwriGlU4vb3hVoMLnzIHI2r75c98ML+BfpVVfkvauvDbQPn7uhujZDnwPZ/3qZpBxcy5boRqGuTOAZ4ot04lJ2CLOPag2IlR2zyVrAfsFauA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260819",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

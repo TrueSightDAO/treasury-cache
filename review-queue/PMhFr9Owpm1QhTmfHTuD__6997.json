@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T08:31:26.369525+00:00",
+  "scoring_hash_key": "PMhFr9Owpm1QhTmfHTuD",
+  "scored_chatlogs_row": 6997,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: PDF slide-deck overlap checker + mandatory QA step in slide standard\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/303\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/767\n  \n  Details:\n  Built an automated QA checker for generated PDF slide decks after the governor caught visual overlap defects in the Agroverse \u00d7 CEPOTX deck (content panels painting over header titles on slides 5/6/8).\n  \n  Deliverables:\n  1. truesight_autopilot PR #303 \u2014 scripts/verify_pdf_slides.py audits the four overlap classes (text\u00d7text, text\u00d7image with background-photo exemption, text\u00d7panel, panel\u00d7header/footer) with exit-0/1 CLI; 3 unit tests; proven to catch a deliberately-broken panel-over-title deck and pass the fixed CEPOTX v5 deck.\n  2. agentic_ai_context PR #767 \u2014 SLIDE_DECK_STANDARD.md gains a mandatory QA step: no deck ships without the checker passing.\n  \n  Verified: local suite lint/format clean, 3 new tests pass; the 4 failing tests are pre-existing on main (events_catalog/vault, network-dependent).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: cpGhvG/vGypB/24zdDDuMj9XfEH2x9A2VhOQK7XGgE1nEDEGbnnLTyX7IqlqvZwxF/vNAD/3Jg82/Tb/IYQSyktkhEQ8ie7EV2qid8NR+KWf2dKh0q9uLZ51aYqH7nAsAxHOrCMRy7y6+cUFuizB/zhhFgbZmRcGIxGDGWkKy7rBuDB8qKkYaB0Q9l+xMr33TfqP7x0N6S4/vfAZrvuBnaLY7Y73NAENJoWe1bbPcpxHz8IXSYsEc5iTJSpyM4JO9hRemBTqJ7Sd9FXLG8RAlkrra2aTEx92fJtWMQve7GPJ8yzmPUHGsa8R9MMEzZjsq8DDdrKGW5QLVYnNPkSTNA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

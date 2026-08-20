@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T08:31:26.369635+00:00",
+  "scoring_hash_key": "yw0N3PoBGisxUaIcTGw8",
+  "scored_chatlogs_row": 6999,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 150\n- Contributor(s): Sophia Truesight\n- Description: CEPOTX farmer-visit slide deck \u2014 built & iterated 15 versions: 4\u21925 pillar restructure, real-image sourcing (sunmint records, CEPOTX bag photo, free-license cacao imagery), tariff dive (USA Section 301/EUDR/GACC), overlap-elimination QA (built verify_pdf_slides.py), loop diagram causal ordering. Proof: agroverse_cepotx_visual_slides_v2.pdf (v15, 9 pages).\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: a9RMaULx/DJDCG6WiFGFfOIuzgepsVGNnc3XWL0SGExCqAOPFhPWigWXSkUxUPhB+bL2q6CHi96GcaLYm5E7fo1BTSvin9uV+K1hk6hvU9HDd7L1yM7TiGSXVfuoLTjmU6ZVs5yd6puUBBrmnXjpkJm5IPRByDDhqmSGqY8Pq5TBgA1z2PKZcc08iVuhdTFwTYmM3ixUefJHVKRhxba8bqA0SybWn0OTPYc9DlFByQw5H3GYF3OsU71Re69hJochXA+pIZ7n/E+ET9K8rVUIvJHXsxl4RX9ueFab/k0Z8zyIANy224/Rgmn61OD0mW2Q5AU40Z6PcJODRn8+L7frKA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
