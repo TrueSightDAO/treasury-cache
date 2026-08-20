@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.700283+00:00",
+  "scoring_hash_key": "5kLJ8oCaNHNzS5GrqHSG",
+  "scored_chatlogs_row": 7009,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: Repair oversight: triaged the cross-thread auto-advance bug (voice report), directed root-cause investigation, gave go-signal on the fix proposal, authorized merge + redeploy, UAT signal and final acceptance.\n- TDG Issued: 100\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: urJdZPnN+elKRzBAKDj67MK9mmlbi7oapEiPT9D3eMZlYvKZuZmL9RRJOBp0v0uz94JLtJSk6oCIM2FDuATvqOsF5AFql+Yyd29d5HdbOQKdTe+zHkYhGR9DDUK62LpivqUE4igd3apLg4ljx4gzgK3CIhDBVj9wRV4tHpxsVfEF4jvtU+ctK6zU+mR/QwvEs7ehO5zPlZ1vFKKwg3rrPTq6gB3TWxMskF0TSMOZW9XQRjqmKKSeRQfjMBFxzs6xg/lndh36wvJ3AE5qvMLRHvXLZPGNIUrHJxUVfCEsgjI4Ogii+jMA98KvZSxqluCJ+tb0mW9UqbZD/3Yky6Rl8g==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

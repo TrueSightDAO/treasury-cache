@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.700122+00:00",
+  "scoring_hash_key": "AYcyd2quy5tKiC0bFBjz",
+  "scored_chatlogs_row": 7006,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 20\n- Contributor(s): Sophia Truesight\n- Description: Farm/Shipment Media JSON plan PR5: investigated agl5/agl7/agl8 migration (hero-only x2 + distinct farmer photo for agl8), built the full migration + loader farmer-slot extension + 7-page spec (12 local tests passing), opened PR #213 \u2014 then discovered a parallel agent had already merged identical work as #212 (commit a645559) and closed #213 as superseded after verifying #212 is complete and correct on main. Net: no duplicate change merged; PR5 delivered via #212.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: GnfDiZEWbuPRJx25QH2VNdTZSYS4vgTAj7ilPdgO+GgRfiGU5Zq8m0tXzzUYE9watu1+V3FfzBukz4lGPrrNKnKdYTVX0ZuWqWQt+dI5edW6aB5RCUatefqwIs72aq284G+9Gvvr/7JHUEAeXPkletCboneWk8VZ4O+q8J/UxGPnbqRTW5SVZsb+GdqzBTZuN5f6LR1v2CikqpeCZm0zWg8TyA87JmqF/GnrrB+/v4+oUPecmZ0VLb6eci3u8WZnqVlMTpxVuflODym9Nb1Qej7+uW6rnp9fGqNXlw0lQxGU1ooyskzU8WDWvL26bSET/ByYQDi4n3luSA6LHFBJdg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

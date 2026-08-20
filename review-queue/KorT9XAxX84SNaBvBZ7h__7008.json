@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.700235+00:00",
+  "scoring_hash_key": "KorT9XAxX84SNaBvBZ7h",
+  "scored_chatlogs_row": 7008,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 360\n- Contributor(s): Sophia Truesight\n- Description: Repair: root-caused cross-thread auto-advance bleed from PR #307 (plan-less fallback + run-to-UAT counting any tool call as progress). Diagnosed via deep code trace (app/main.py, telegram_adapter.py, auto_advance.py, systemd units), implemented fail-closed fix (plan-scoped signals only, _UAT_PROGRESS_TOOLS, handoff-prefix re-injection into synthetic AUTO-ADVANCE turns), added 4 tests (50/50 pass), ran full local suite, opened + merged PR #308 (sha b0b8b69), redeployed to autopilot box and verified all 3 services healthy on fixed code.\n- TDG Issued: 600\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: Xr1lwocYrlD+QVm/xM4WWHeLnpqpwt69tEhN2++88kmum85Bq4Aicexg3ywVC0UjVqnXnrfL4tI8wL3KbT/X+0pmELK6rFgDgYSpYTCXZhbi35t0RhdONr11pG8QXk5GE8SOn08Swk247UZtsoAHYc6uN/6k3lTWL0UoThpCmigp+7IjqcyJETMkBUNKP3ONnikg6Qb5Denzdt708efQoOOzWbJPlbMqxviFRepQHv2R8qX4pAyKMUcMDwzJhPKZMl8EanvzdPsRB3sxE35RgsmfKVYtKqMo4VlFXVNNjIsWj7HGbk3DDUujyh7ZZ1q7DxERhVdLEqh8o3SDi4pflw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "600",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

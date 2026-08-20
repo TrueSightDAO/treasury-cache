@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.699959+00:00",
+  "scoring_hash_key": "nOamnxOqiGXwtwE0anac",
+  "scored_chatlogs_row": 7003,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 30\n- Contributor(s): Sophia Truesight\n- Description: Farm/Shipment Media JSON plan PR2: migrated farms/fazenda-santa-ana-bahia (hero + 3 videos) + farms/paulo-la-do-sitio-para (1 video) to media.json in agroverse_shop_beta (#206, merged 9a73c14). Bonus: fixed pre-existing duplicate script block on santa-ana (cachedPath SyntaxError). Extended farm Playwright spec to 3 pages; local run 3 farm + 1 shipment specs all pass.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: szyCwST9bDG/+tYSl/TWjk9Ry0saPPTOhPF7ODFQimMnQ47VxCg275rzyPfTWbACCRdXatAli9nKdOMfxKWSkl5ddN+3nXCAW8E8Xa6kGiSjCaBNPsY0yWVQuuS/b2SMlCq5w4sImEtc/vVG8cBjRevr+7H0px1klQfX1pQ2Q5/zGUF/Ka0nMmv4HEysIN2LoTkRj0LIaoIAsUHo57adj9XR5+4ZiUN6zPVIWmAb5Za0dJoa4ptuROo2+p0A3qNvCJiXxGDBhUUT2z7SbsS+cZDM1JLzmh1wUhxSrdzY/skqnP+o0PoM43Fl9KQ2iMDoH+248WSfkxmnullzv8NHqQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.700333+00:00",
+  "scoring_hash_key": "bMrXdlXQKM+zjucnFTE8",
+  "scored_chatlogs_row": 7010,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 360\n- Contributor(s): Sophia Truesight\n- Description: Repair: root-caused cross-thread auto-advance bleed from PR #307 (plan-less fallback + run-to-UAT counting any tool call as progress). Diagnosed via code trace (app/main.py, telegram_adapter.py, auto_advance.py), implemented fail-closed fix (plan-scoped signals, _UAT_PROGRESS_TOOLS, handoff-prefix re-injection), added 4 tests (50/50 pass), full suite green, merged PR #308 (sha b0b8b69), redeployed, verified 3 services healthy.\n- TDG Issued: 600\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: TzOAfiRY2EuKqc6+IKuRR7WrjnubPocd/n1GIs9mf7toMryg0Tw742usqMTt4ITmFu6Cit5Whaox0PyyyvNb8wiC9xctwWx/QKoP2Sg0n2K0AX3pFuF060sO4bc8NLlxugXBYFVpTUmcSnJvXqWoDvTK8O7e6eaKNT4AlZJX/E4q48XW93pfOpCoqluX0+9uNOCc8Q6OX8ikzALEguIlBqTamCstuTp2UZWzlu4zX4bYf+F9tq/iWeXTWfG3nj8FJtGKKERQkVWxCZfsPo/nZCh67jNGdiKiXSsZU7F8osb87+6qpPcEf5D2apJ3CflmVzjXuf6qOkLl2liOVFf7HQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "600",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.700019+00:00",
+  "scoring_hash_key": "FjsxOxAnPxNasHnyaSs2",
+  "scored_chatlogs_row": 7004,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 35\n- Contributor(s): Sophia Truesight\n- Description: Farm/Shipment Media JSON plan PR3: migrated farms/fazenda-sao-jorge-bahia (2 sectioned containers: portrait videos + photos) + farms/vivi-jesus-do-deus-itacare (2 videos) to media.json in agroverse_shop_beta (#207, merged ea556e3). Extended js/media-gallery.js backward-compatibly (multi-container [data-media-gallery] + section filter, aspect:portrait 9:16, image fallback). Extended farm spec to 5 pages; local run 5 farm + 1 shipment specs pass.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: bgquRNGzR1XTOWPz8i4+dnotpZPOg9ifuBXcYRqXzbBPUgIWk9d5hCcvZJ1eLFfH/y83UQvIivJ5YPYIV2FbzGNYUTH6UZXWG/oz6EzvkLeHethIiCADvhytnSvygPkrWMbhu6EuyitvMFkH6xFyIRFzkhaaKIkmNclc5DxZ4r2eRxPcOC8DmWPFLDJolWKDjzO4vXKYJ86Bj1JbpCGit7kgFQt6bK6bFlYx3+d8FDdyt5UVQWmJXMAckMAiCgd+UaYVgEVVGCf2Uc34NwVSSlXXjiynxdVLnsINAFwMhM9JRCio8fH1EqopGM/L+L1dFsLgiLP4Nsnm3gLogXt32Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

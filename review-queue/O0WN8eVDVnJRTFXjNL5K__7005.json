@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.700074+00:00",
+  "scoring_hash_key": "O0WN8eVDVnJRTFXjNL5K",
+  "scored_chatlogs_row": 7005,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 30\n- Contributor(s): Sophia Truesight\n- Description: Farm/Shipment Media JSON plan PR4: migrated shipment pages agl0 (hero-only), agl1 (hero-only), agl2 (hero + 1 inline video Kn13I7ijufs per Option A) to media.json in agroverse_shop_beta (#210, merged c35c11d). Converted 2 hero <img> per page to data-media-slot=hero; extended shipment spec to 4 pages; closed stale duplicate PR #209. Local run 4 shipment + 5 farm specs pass.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: wPltVFq9UQMk79WDRZaYS66tR6QZYRPwaV2U5e76DEhv6WPDr/uWC0nEWCy9+E5E1MrLp18ADUm8d01lasRE7WzLWrDBq9hhMibF8/njDw6tX4X584c5ORXl4DhEWLwV4SKrGEZJBXZBRQjS8ACvIOLUGzQKr6aAgtvSxGQFYAvQBrnXmGeNGefDbk5xjyh5+bJ91m5Wg005yCK5AQTLWqIRKYhYQIJiTDx4dVDNrPejvVpJLVLADff/+x0SgGBED/ZkdiXkcNSrmLfZgIm3K0UNMnWV6Cpj7pDaqwCNFPTgty/QCTuDbrbsmHQhGt38KsolYPnGtLW4TJjy9nlP5A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

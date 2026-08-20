@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.700184+00:00",
+  "scoring_hash_key": "lR5+g1MLO8+UL2mixDZA",
+  "scored_chatlogs_row": 7007,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 25\n- Contributor(s): Sophia Truesight\n- Description: Farm/Shipment Media JSON plan PR6: built the full agl10/agl13/agl14 migration + agl14 heroVideo.play guard fix (10 shipment + 5 farm specs passing) and opened #216 \u2014 but a parallel agent had already merged identical work as #214 (1598d96). Verified #214's content is byte-equivalent, closed #216 as superseded. Then contributed a genuinely new fix #217 (merged 52ecd14): filter benign Chromium compute-pressure + GitHub raw 403 throttle noise from the shipment spec's zero-console-errors assertion (was causing intermittent CI flakes).\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: vaYbLDNuDsViIBx1D1csj+0/IC+vvFXrgQgz+aPlk12KUL5jVM5wv9sHzJFp1AYDH+A2gszcF6Vq9q4y7HXx/feHzFoIStJKQafSOE+4Xpfx7hGcUNI7dzyAVhCZGlzfwhmkq7zI1yxmSJWNGuHry5dTvlua3U014Vtt5nTdw9yV7L0rx3iIaNFfc/+hTxRX3XgcC9jPnFlE9ZmOubZqNGEPDz5nrpjljtCyQ2HG9Siz7RUwAZfQep6dtxlZ2wSxC3vUG9kb4tfsSU7Vmzgdy0976EgDtwC6SHKUG8s62oeVqMHppU88G+4h7GDGMXQ3Ov2e8B/3UnBXWfQ0Nksidg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

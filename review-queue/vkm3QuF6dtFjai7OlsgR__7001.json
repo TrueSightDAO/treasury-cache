@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:09:51.699679+00:00",
+  "scoring_hash_key": "vkm3QuF6dtFjai7OlsgR",
+  "scored_chatlogs_row": 7001,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: Research: label printer sourcing for Brazil ops. Compared Mercado Livre BR vs US models (Rollo X1038, Elgin L42DT, Zebra ZD220), verified actual Amazon.com.br landed cost (R$ 2,079.95 incl import tax), researched AliExpress alternatives with Remessa Conforme import math, verified macOS compatibility, and recommended Phomemo M421 4x6 (Bluetooth 5.0 + USB, 203dpi) ~$70 + import. Shared with FounderHaus.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: RPVVKNhUn8zCEna8JkCA2fJ+xs9+17Dz7AgDYHqt2r7eksU1ERQUfq1mwdXK38jndMjKgCWqHFjfSzUSe4YNrQBmY+PfexaJkb0iwlp1vN2U42uDxyeDaIW7JWOuwwkyO/oHNHiHenohy0RCcJQNNRHhcGeVq/s1OGtWTSoYUr1ZpPgMV54vi3g2yluunHvHp7cePBuB7o7ffWberA6UrDhXFnH0jYnTKpxEgSuMLl+xJzbCGZ/xtDaMp8KcA6M8UJUrff0vz6p2WVoKn6yM2ZfXrCfByZYCPWbxzBURY6bhrvaYi7rLwYPhdDkVGNdkZg8a3gzBgV53ilGqvriFvQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
