@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T11:40:24.688071+00:00",
+  "scoring_hash_key": "OFZZ2zOmRbENSncVsyz3",
+  "scored_chatlogs_row": 7000,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: PR0: Farm/Shipment media JSON externalization \u2014 js/media-gallery.js loader + farms/oscar-bahia pilot migration + tests/media-gallery-farm.spec.ts (merged #196). Includes fixing duplicate script-tag includes on oscar-bahia (cachedPath console error) and repairing an accidental OPEN_FOLLOWUPS.md truncation (#771).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: gMR5q8sPjSD/XL8xtPUXYS0q63XMqMzHTsektlTLdwyJnarGKnLBoFp9TSMuNAdEqlI18WuksQsI8Q2zQ3wou6hmqQTewNt++DXx/3My8EKJwiHnnDFmwHoPRt3eM/Y066GSypyLC2I5swwsVVgexkS3UdhbJmh1JW0JDx494g+DWhULU8849S2IKLByWo5MlWLAHKdD3aOdnHlOKld+940RrOXb5MxBqEcW8ZLKi/lLNCgbeoFHMdL/Scc1ijrgnCBqZFFgXmqk1b3Wf21q5Dfp4JvdLPXfdTglm47Nd9OdY2xS9DVJ9c4ExNZUd/sUDRVR3xNqMZo7bDei+rwSYA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
