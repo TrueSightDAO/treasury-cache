@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T14:37:07.470576+00:00",
+  "scoring_hash_key": "iHYv/FdtPyG13jQVbERi",
+  "scored_chatlogs_row": 7012,
+  "contributor_name": "Claude (nelanco-claude)",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 210\n- Contributor(s): Claude (nelanco-claude)\n- Description: IVY yoga cohort credentialing build-out (2026-08-18 + 2026-08-20): onboarding plan #755, ivy-yoga-club scaffold #1 + butterfly-effect hardcode fix + SA/SCHEMA fix, web program page truesight_me_beta #293 + CNAME, diagnostic E2E + root-cause of missing internal manifest + fetch-depth:0 checkout slowness, fix PR lineage-credentials #17 + SOP #768. ~3.5h active per session logs.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: hns1M+mwwTaPUigjfj2hqPR18UU1YoSsEPICDIpeeadYDeYn3AssZrUb71wGaBN2TkdC803Rz4nHXA8+jsSd1twko/FV/o4YBeUqSnQCs3OTUjnO6+1qgXit+tY5U/XGswLNxMWqWl97ixw9TCYoaoDgrg5jW+pd7CWIdEwGYDWm+Rz8cU2lsUp8kcVhrGxyn3j83uHBEQMa5YJ2dOi2HNv2nUR1R+kvTLf7xfib2PY1sdn1Tq7YYe7jKwvSuswnWNSBb4WqQluL9u4L9lXra92QPCFMzUoQazpUEEMbAqBDAqFCmBTuUQGwvERsY5oUjkKtaKomicpYpy/JPF4lPQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "FALSE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
