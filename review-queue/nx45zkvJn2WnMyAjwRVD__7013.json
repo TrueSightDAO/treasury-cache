@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T22:43:34.781081+00:00",
+  "scoring_hash_key": "nx45zkvJn2WnMyAjwRVD",
+  "scored_chatlogs_row": 7013,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Contributor(s): Sophia Truesight\n- Description: IVY credentialing E2E validation + runbook: 3 live dummy end-to-end runs (sheet insert \u2192 admin sign-in \u2192 attest \u2192 process pending events \u2192 build \u2192 registry + certificate PDF verification, incl. v1.3 template + dual-signature render), debugging (Process-pending-events discovery, slug derivation, CDN staleness, signature render), and authoring CREDENTIALING_E2E_VALIDATION.md (agentic_ai_context PR #780). ~60 min live testing + ~30 min runbook drafting.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: fD3YpFp9Qfk9fTYL+PiAwJn3q7SPi1t5osDIpKklUY3zfZNKTW2RI+qzRIksDG6dQG2fBsKOhKE0vCf9GHAv2NmZXRFT+TFZy8GTcwujr/T9SgNgGyJgK8t7puCZbBpO2grHE6n1JA/C5Qlai0h4v0jQqmZWnuJ7SB0/gePAbtNIz2o5JftiqNiZXnNu3X7E6NwrF4x3m4QY8Jy7v6d5d6o9naGUIoQ3aEh2jbm03hZB5mMr+YRef+wP+vlGqm/TMBYfUMhFqJk/BlKm12SsRhlZaczCjYDZwDcHN4HbKCTiOqU+rvustfvMmorKt+7QyY5YoF7wLgaDzOpj5AwRTg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
