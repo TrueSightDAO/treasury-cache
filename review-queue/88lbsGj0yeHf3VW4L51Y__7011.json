@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-20T13:57:51.680395+00:00",
+  "scoring_hash_key": "88lbsGj0yeHf3VW4L51Y",
+  "scored_chatlogs_row": 7011,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 360\n- Contributor(s): Sophia Truesight\n- Description: Farm/Shipment Media JSON externalization (FARM_SHIPMENT_MEDIA_JSON_PLAN): built PR0 loader js/media-gallery.js + oscar-bahia pilot + Playwright specs, PR1 agl4 migration (fixed agl14.avif bug + hero-video play guard), site-wide duplicate script-tag diagnosis, repaired OPEN_FOLLOWUPS.md clobber + plan tracker, and completed full UAT verification on beta.agroverse.shop (all 7 criteria pass: farms oscar/santa-ana/paulo/sao-jorge/vivi + shipments agl0-14 + agl6 meta-tag retirement + offline fallback). PRs: agroverse_shop_beta #196/#200/#206/#207/#210/#212/#214/#215/#217.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: LFyjnjWDnHYcUcTEijtwqnO/5mx0jT7BAUa+Q+jw1Pb6FgQ73CJ0umYzxCAEx9B4ySCD+B81PWK6sI3SYScVQEZ/i9++2AWLq5k5bMwoI+ZF/hapI3qh29Fx9UXG4P/ZV8i+asYCq36bgmmXu7XniPqflt8FaDUMglqigSy2pduJbi0nmxQB9aZVicSc7KCDP3yNF71VJFJ34Vy205TYvdLJT1SgsFLnp6OHCXo/3pFhW3IlnUuNwjyc2+7LT4yQ6UYQ3PZzuPiMDmDljAtqoA6IzYxyU+tdML+b56jQcTLOcQfpoU3ePZPa9V8YaWdy2D32FepuD1SNDBeRVfONOw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260820",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
