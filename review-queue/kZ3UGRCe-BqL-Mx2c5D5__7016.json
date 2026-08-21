@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-21T20:47:51.491851+00:00",
+  "scoring_hash_key": "kZ3UGRCe+BqL+Mx2c5D5",
+  "scored_chatlogs_row": 7016,
+  "contributor_name": "Vinny",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 180\n- Contributor(s): Gary Teh, Vinny, Paloma\n- Description: 3-hour session figuring out the Brazil legal structure: (1) legal representative arrangement, (2) Gary's digital certificate for e-CPF gold-level access to Gov.Br, (3) power of attorney from Gary to Paloma for the new CNPJ, (4) CNPJ requirements, (5) legal tax-paying residency threshold of 184+ days per year and R$150,000 investment requirement.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: rcjiWkbDCzGouxBB4k0JnYLq42o4032g5rOcJ+tiJNQQibmmBaMAJVUMdxq2HqxLna2WflX9nxZjnIxIG3KIYqDguga6gnerAQHpeIDqgEs3nC1VqdBU7IkA2anKNwEzO1wxfkbNBDqkiRWgBoGlhw5V9gq0n/YSKKpplHGSkYcPBxooRZCGbWVl4GMMXTk7mVuCY3xpPyq6x5hN0skaz5BEWcjydRgEeCtmymZgQhbggV0N4uZ/EQE2dQoP8tIQGU3SaOBQDb5g5It7OUY81+hxxmukv9xuL2QGnZCw7ghEBLPGmlWcceKkCGmU2mesU2BFzFCtHpmQe2hRiYooow==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "300",
+  "tdgs_issued": "0",
+  "contribution_date": "20260821",
+  "found_in_contributors": "FALSE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
