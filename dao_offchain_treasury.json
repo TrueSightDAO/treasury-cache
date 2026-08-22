@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T17:21:48.378Z",
+  "generated_at": "2026-08-22T17:48:36.105Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -248,6 +248,20 @@
       "total_value_usd": 63.16,
       "ledgers": {
         "Main Ledger": 114
+      }
+    },
+    {
+      "currency": "Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.130088,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 100,
+      "total_value_usd": 13.01,
+      "ledgers": {
+        "Main Ledger": 100
       }
     },
     {
@@ -967,13 +981,13 @@
     {
       "currency": "Bluetooth Label Printer w/20 Label Rolls - Brazil",
       "unit_weight_g": null,
-      "unit_cost_usd": 1,
+      "unit_cost_usd": 58.07,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
       "total_quantity": 1,
-      "total_value_usd": 1,
+      "total_value_usd": 58.07,
       "ledgers": {
         "Main Ledger": 1
       }
@@ -1161,20 +1175,6 @@
       }
     },
     {
-      "currency": "Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil",
-      "unit_weight_g": null,
-      "unit_cost_usd": 100,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 1,
-      "total_value_usd": 100,
-      "ledgers": {
-        "Main Ledger": 1
-      }
-    },
-    {
       "currency": "Winnowing and Cracking Machine from Rusty",
       "unit_weight_g": null,
       "unit_cost_usd": 400,
@@ -1219,7 +1219,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2424.6652,
+      "unit_cost_usd": 2424.2933000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1565,8 +1565,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2424.6652,
-          "total_value_usd": 1.1521045849343866e-10
+          "unit_cost_usd": 2424.2933000000003,
+          "total_value_usd": 1.1519278728278506e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6360,15 +6360,15 @@
           "currency": "Bluetooth Label Printer w/20 Label Rolls - Brazil",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 1
+          "unit_cost_usd": 58.07,
+          "total_value_usd": 58.07
         },
         {
           "currency": "Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil",
-          "amount": 1,
+          "amount": 100,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 100,
-          "total_value_usd": 100
+          "unit_cost_usd": 0.130088,
+          "total_value_usd": 13.0088
         }
       ],
       "qr_codes": [
@@ -9801,8 +9801,8 @@
   ],
   "totals": {
     "item_types": 87,
-    "total_units": 21618.404159576745,
-    "total_value_usd": 29358.79,
+    "total_units": 21717.404159576745,
+    "total_value_usd": 29328.87,
     "ledgers_processed": 14,
     "managers_count": 39,
     "qr_codes_assigned": 1182
