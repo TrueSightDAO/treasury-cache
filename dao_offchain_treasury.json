@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-22T06:48:36.058Z",
+  "generated_at": "2026-08-22T06:55:52.214Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -1177,7 +1177,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2432.8520000000003,
+      "unit_cost_usd": 2438.0564,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1523,8 +1523,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2432.8520000000003,
-          "total_value_usd": 1.1559946270795625e-10
+          "unit_cost_usd": 2438.0564,
+          "total_value_usd": 1.158467551218463e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3602,6 +3602,12 @@
           "qr_code": "2024OSCAR_CT_20260820_100",
           "status": "MINTED",
           "currency": "Cacao Tea 50g - Oscar's Farm, Bahia Brazil, 2024 (AGL4)",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2026TEST_20260822_1",
+          "status": "MINTED",
+          "currency": "SunMint Tree Planting Pledge - QR Code",
           "ledger_shortcut": "https://agroverse.shop/agl4"
         }
       ]
@@ -9705,6 +9711,6 @@
     "total_value_usd": 29256.29,
     "ledgers_processed": 14,
     "managers_count": 37,
-    "qr_codes_assigned": 1179
+    "qr_codes_assigned": 1180
   }
 }
