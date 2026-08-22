@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-22T10:48:31.441Z` |
+| Generated at | `2026-08-22T11:48:37.544Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 84 |
-| Total units | 21615.404159576745 |
-| Total value USD | $29256.29 |
+| Item types | 85 |
+| Total units | 21616.404159576745 |
+| Total value USD | $29257.79 |
 | Ledgers processed | 14 |
-| Managers | 37 |
-| QR codes assigned | 1080 |
+| Managers | 38 |
+| QR codes assigned | 1081 |
 
-## Items (84, sorted by total quantity)
+## Items (85, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -88,6 +88,7 @@
 | ATOLOMOTOR Coffee Bean Roaster | — | — | 1 | $86.89 | $86.89 | Main Ledger: 1 |
 | Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | — | — | 1 | $116.91 | $116.91 | Main Ledger: 1 |
 | Cacao Mass Bar CP340992687BR (500grams) | — | — | 1 | $21.54 | $21.54 | Main Ledger: 1 |
+| Cacao Tree Planted | — | — | 1 | $1.50 | $1.50 | Main Ledger: 1 |
 | Canopy 4ft X 6ft with 2 years warranty | — | — | 1 | $62.93 | $62.93 | Main Ledger: 1 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 1 | $9.08 | $9.08 | Main Ledger: 1 |
 | Chocolate Wrapper Die Cutter from Rusty | — | — | 1 | $0.00 | $0.00 | Main Ledger: 1 |
@@ -102,7 +103,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2414.82 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2422.95 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -115,11 +116,11 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 69 | 13713.687500497592 |
+| Main Ledger | 70 | 13714.687500497592 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (37)
+## Managers (38)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -129,7 +130,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 27 | 13929.659036778747 | 240 |
+| Gary Teh | 27 | 13929.659036778747 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -154,6 +155,7 @@
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
 | SunMint Tree Planting Contract - agl4 | 1 | 340 | — |
+| SunMint Tree Planting Contract - main | 1 | 1 | — |
 | Tess Walkowski | 2 | 13 | 9 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 | 5 |
