@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-21T03:25:06.649Z",
+  "generated_at": "2026-08-22T03:25:04.119Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
   "counts": {
-    "contributors": 409,
+    "contributors": 411,
     "active_public_keys": 97,
     "governors": 10,
     "contributors_with_email": 15,
@@ -14,7 +14,7 @@
     "voting_rights_circulated": 2424067.4504379663,
     "total_assets": 17644.77705,
     "asset_per_circulated_voting_right": 0.00728,
-    "usd_provisions_for_cash_out": 52.27868
+    "usd_provisions_for_cash_out": 52.38264
   },
   "unjoined_governor_names": [],
   "contributors": [
@@ -362,7 +362,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260820 07:18:17"
+          "last_active_at": "20260820 20:24:48"
         }
       ]
     },
@@ -924,6 +924,16 @@
       ],
       "voting_rights": 16.66,
       "total_voting_power_pct": "0.0000068727460520910705",
+      "public_keys": []
+    },
+    {
+      "name": "Cristian Crispim",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
       "public_keys": []
     },
     {
@@ -2563,6 +2573,16 @@
       ],
       "voting_rights": 8.33,
       "total_voting_power_pct": "0.0000034363730260455352",
+      "public_keys": []
+    },
+    {
+      "name": "Juliana Melo",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
       "public_keys": []
     },
     {
