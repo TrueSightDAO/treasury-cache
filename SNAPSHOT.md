@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-22T15:48:34.584Z` |
+| Generated at | `2026-08-22T16:48:34.281Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 85 |
-| Total units | 21616.404159576745 |
-| Total value USD | $29257.79 |
+| Item types | 87 |
+| Total units | 21618.404159576745 |
+| Total value USD | $29358.79 |
 | Ledgers processed | 14 |
-| Managers | 38 |
-| QR codes assigned | 1081 |
+| Managers | 39 |
+| QR codes assigned | 1182 |
 
-## Items (85, sorted by total quantity)
+## Items (87, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -87,6 +87,7 @@
 | Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600) | — | — | 1 | $9.17 | $9.17 | Main Ledger: 1 |
 | ATOLOMOTOR Coffee Bean Roaster | — | — | 1 | $86.89 | $86.89 | Main Ledger: 1 |
 | Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | — | — | 1 | $116.91 | $116.91 | Main Ledger: 1 |
+| Bluetooth Label Printer w/20 Label Rolls - Brazil | — | — | 1 | $1.00 | $1.00 | Main Ledger: 1 |
 | Cacao Mass Bar CP340992687BR (500grams) | — | — | 1 | $21.54 | $21.54 | Main Ledger: 1 |
 | Cacao Tree Planted | — | — | 1 | $1.50 | $1.50 | Main Ledger: 1 |
 | Canopy 4ft X 6ft with 2 years warranty | — | — | 1 | $62.93 | $62.93 | Main Ledger: 1 |
@@ -100,10 +101,11 @@
 | Heat Sealer for Kraft Pouch - Brazil | — | — | 1 | $24.70 | $24.70 | Main Ledger: 1 |
 | Label Maker - Brazil | — | — | 1 | $35.03 | $35.03 | Main Ledger: 1 |
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
+| Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil | — | — | 1 | $100.00 | $100.00 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2411.18 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2426.34 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -116,11 +118,11 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 70 | 13714.687500497592 |
+| Main Ledger | 72 | 13716.687500497592 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (38)
+## Managers (39)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -145,6 +147,7 @@
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
+| Paloma | 2 | 2 | 101 |
 | Paulo Hernandez | 1 | 10 | — |
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
