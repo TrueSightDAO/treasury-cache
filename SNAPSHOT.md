@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-22T22:48:36.036Z` |
+| Generated at | `2026-08-22T23:48:36.566Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 87 |
 | Total units | 21717.404159576745 |
-| Total value USD | $29328.87 |
+| Total value USD | $29331.87 |
 | Ledgers processed | 14 |
 | Managers | 39 |
 | QR codes assigned | 1182 |
@@ -27,7 +27,7 @@
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 358 | $0.68 | $241.81 | Main Ledger: 358 |
-| Cacao Tree To Be Planted | — | — | 340 | $-1.50 | $-510.00 | Main Ledger: 340 |
+| Cacao Tree To Be Planted | — | — | 339 | $-1.50 | $-508.50 | Main Ledger: 339 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
 | Cacao Almonds (KG) | Cacao Bean | Bulk | 274.085122798 | — | — | AGL8: 274.085122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
@@ -81,6 +81,7 @@
 | Cacao Husk Bag (weight unknown) | Cacao Tea | Bulk | 3 | — | — | Main Ledger: 3 |
 | Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | — | — | 3 | $5.19 | $15.56 | Main Ledger: 3 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
+| Cacao Tree Planted | — | — | 2 | $1.50 | $3.00 | Main Ledger: 2 |
 | Foam container box - 120 kraft pouches capacity | — | — | 2 | $24.11 | $48.22 | Main Ledger: 2 |
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
@@ -90,7 +91,6 @@
 | Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | — | — | 1 | $116.91 | $116.91 | Main Ledger: 1 |
 | Bluetooth Label Printer w/20 Label Rolls - Brazil | — | — | 1 | $58.07 | $58.07 | Main Ledger: 1 |
 | Cacao Mass Bar CP340992687BR (500grams) | — | — | 1 | $21.54 | $21.54 | Main Ledger: 1 |
-| Cacao Tree Planted | — | — | 1 | $1.50 | $1.50 | Main Ledger: 1 |
 | Canopy 4ft X 6ft with 2 years warranty | — | — | 1 | $62.93 | $62.93 | Main Ledger: 1 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 1 | $9.08 | $9.08 | Main Ledger: 1 |
 | Chocolate Wrapper Die Cutter from Rusty | — | — | 1 | $0.00 | $0.00 | Main Ledger: 1 |
@@ -105,7 +105,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2415.79 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2421.22 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -157,7 +157,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
-| SunMint Tree Planting Contract - agl4 | 1 | 340 | — |
+| SunMint Tree Planting Contract - agl4 | 2 | 340 | — |
 | SunMint Tree Planting Contract - main | 1 | 1 | — |
 | Tess Walkowski | 2 | 13 | 9 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
