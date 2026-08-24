@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T19:53:08.787230+00:00",
+  "scoring_hash_key": "j71QtQAaUx/GrGeExtoW",
+  "scored_chatlogs_row": 7047,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Gary Teh direct time on 2026-08-20 inventory-movement unauthorized incident: 17 thread messages (voice), checking the sheet, reviewing diagnosis, directing fixes (trusted-agent registration, is_sentinel check, E2E test), approving merges. Estimated midpoint of 0.75-1.5h direct attention.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: hW5J0OD4dfrupi5SpiZhNT919TZFQhl7KiZskq5j+tNKA4BDTXZGk5Xqt0Sdnwi/wyHtd+PkLf5JDnuNQe8bYi5nNG+bdA1YIXdlm2yA5a+eyU/bYsVMK01m/s3B2O3WSUIvnPR+iZGhTnuo6hV/hkD8POVgbFlffuMxrYPWu0DciN2Enuv1ZBZ7qLwP+CsM4/ra1ibVCy19BVtt/kIAko7AA2LNo22R0B4SOS81hdG/24Gm2MZGUXn2YHtzHk1X7VPvN6lPMvdSXAwebzxkRKGWjLLXvYZ0TxB4LxgBiPLITIepRUMuPr5u/EzoI6FSweAQiGIRvcQgDt6F1WR54A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260824",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

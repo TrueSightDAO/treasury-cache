@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T19:53:08.787042+00:00",
+  "scoring_hash_key": "3asIrqABBXwZD2b9HkhW",
+  "scored_chatlogs_row": 7046,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Autopilot (Sophia Truesight) raw machine execution on 2026-08-20 inventory-movement unauthorized incident: ~200 tool ops (SSH diagnostics, sheet reads, GAS deploys x3, webhook fires, key registration/verification, PRs #424/#425/#312). Root cause: webhook pinned to deployment v10 (pre-#424 TRUSTED_AGENTS) + processor never rescans existing rows. Resolution: registered+verified key ACTIVE, repointed webhook v10->v14, restored Credentials.js, added repeatable E2E test (PR #312).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: MsOqJZbWZigM+/SD7nnreZd8CGOJxSRpSLh4a9MRTjDWUxFTP8lZubhTvwyJWT1acFtaDIbGyROJGrKWZb+mVabrgwV4sh6NktBi4f4N4fH1vwJESliV60559ghw5l2XJIh4WD2UlWqkdcqSW18ph86yIgoEyo99O3+sQfMECVv4lU4pDp2Ob63ZU2Ig86bMCtaYdGjO0lxNu6ugboF+zxP7Cb80eTLW8VURiG3ygsyI5WaYCuw3hU4VahifbOkidw0F/JKWhzEBLEgxNQEf7LyKKnssokhwl2zUzpfFxoCqa9Kf6OcxsNyqQEIXKbSCG0DxQ4FFno3yXztDeDFMvA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260824",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
