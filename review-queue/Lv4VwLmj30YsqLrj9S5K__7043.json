@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T12:38:15.036651+00:00",
+  "scoring_hash_key": "Lv4VwLmj30YsqLrj9S5K",
+  "scored_chatlogs_row": 7043,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Follow-up on Brazil export blocker: reviewing WhatsApp drafts for Pl\u00e1tano Digital (Ilh\u00e9us) e-CPF/PJ-e enquiry re Inapta CNPJ regularisation and NF-e enablement\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: Zg5r/U0fUDOyQWrqVSjrB7o0l2fHRaLmWHIeIJga59saDgCCC1oftBZuk9Rq6QP9GocTwxaf6fkdkrjrLkeYODg527L3py1OsXCUOdtCmaFKGNsX91SAM4tHGGfi7roSGG9weqTVWoGhml56vfNMP5j+wO9KVtPdF092Js1SUHuDsV+LKMPEO5SLiH4Tb94TFycX2rCr26uh7eNipAFyNbePiJHio4idMbJ1/YBc9bzY92Y+wHZFNMkWoc+QAhgdh14+ZuFZqIzGD8ikwX8ncAB2h17XfHinT+ovNv7HdkOgYRIZ9Ol7CfmHlbzcaaDhLHiTr+z8I+BYiL2Qhg2JEQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260824",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
