@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T14:24:31.116916+00:00",
+  "scoring_hash_key": "ilay9CiNoZXtow3Wncva",
+  "scored_chatlogs_row": 7045,
+  "contributor_name": "Elizabeth Wong",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 25.4\n- Contributor(s): Elizabeth Wong\n- Description: Elizabeth Wong purchased 20x MHC-CL082 chocolate molds (58x125mm cavities) for the DAO. Total contribution = 20 units x $10.00/unit placeholder (unit cost matches the Currencies row booked 2026-08-24; real quotation from Jerri pending). Evidence: .github/assets/2026-08-24_mhc_cl082_20_molds_liz_bought_evidence.jpg\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: CF5pshXaVd4xb2rmAgHdEPf+UqVDUVRt7Mf+fokRwgNOvK97WYms5G9jHJ4yVw27EPEs4Fsy+8MKzQx8byeti7iSU8n8Nk4lwHBmqNPxDwm7f/aJhArlTF/lfd0zLREjf0jcDHU6QfKUX7wRv8iHXoAtt23VsbISDQn6qmXfNAe8995ofTeb2119LMEDHTnYXwRYOSMEEW7ZyJnuloqstONXBlwmu/yCeYZKFGVRuHxrM25mit8wrbWGiFQHPDnDLGoEAUQFa/jAwuJOVsZmMuAYgNF7vYDM6l/SI+GOM1g6VgEItvlVQUiWVUVlTAZ6akAaSPf0AisAEhMX/jnh0w==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "25.4",
+  "tdgs_issued": "0",
+  "contribution_date": "20260824",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

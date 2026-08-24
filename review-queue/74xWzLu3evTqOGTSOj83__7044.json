@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T14:24:31.116685+00:00",
+  "scoring_hash_key": "74xWzLu3evTqOGTSOj83",
+  "scored_chatlogs_row": 7044,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Contributor(s): Gary Teh\n- Description: Fix + simplify /large_spikes breakout gauge (Perch / sentiment_importer). PR1: wire Norm to Bollinger band center (30-day) instead of hardcoded 180-day SMA. PR2: legibility polish (trim flat-zero lead-in, soften over-extended shading, thin Norm line, elevate verdict). PR3: zone-fill redesign \u2014 shade below grey Norm line instead of under green line, orange zone above ceiling (governor feedback). PRs #1127, #1128, #1129, all merged + deployed (./deploy.sh --skip-migrate).\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: RATh0lplEkT76UQgDLJ6GlEi6UNFOYuwwPxhXnmy1LUowIJmtfA7Ys8HhprxrRHct+fRR7//EcR3nqfzbvr6P4S4Ds3/U4PILNZiTOTupZIxzk0M1wxlRjCCrXjKj5l7IFiM2aaB+HmZVMrnh4aIjGmxLeK1ei+P/QAIKM+OzcCWOVYgtZxTLRG49Z64bKa7AJqq8822cZnk7mO3XwgIv7L06ztcTNZfqZ0OPbTYbe53ORNhfBcQypP+ANVdFNE8UmT9Ty88e5SQsohXrlyi0e0W1aj5QHMYoCtsArmj98B3wamPySh5yscagwMLtrmRwB/PTJUcuIA6FGsY42Y4BA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260824",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
