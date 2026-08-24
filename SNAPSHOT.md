@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-24T18:14:11.148Z` |
+| Generated at | `2026-08-24T18:18:42.449Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
-| Item types | 88 |
-| Total units | 21737.40415957674 |
+| Item types | 89 |
+| Total units | 21837.40415957674 |
 | Total value USD | $29360.27 |
 | Ledgers processed | 14 |
 | Managers | 39 |
 | QR codes assigned | 1182 |
 
-## Items (88, sorted by total quantity)
+## Items (89, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -36,6 +36,7 @@
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 169 | $0.07 | $11.91 | Main Ledger: 169 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 137 | $6.64 | $909.68 | Main Ledger: 137 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 114 | $0.55 | $63.16 | Main Ledger: 114 |
+| Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820) | — | — | 100 | — | — | Main Ledger: 100 |
 | Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil | — | — | 100 | $0.13 | $13.01 | Main Ledger: 100 |
 | Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 100 | $10.18 | $1018.23 | AGL13: 100 |
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
@@ -106,7 +107,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2476.10 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2479.21 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -119,7 +120,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 73 | 13835.687500497592 |
+| Main Ledger | 74 | 13935.687500497592 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -148,7 +149,7 @@
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
-| Paloma | 2 | 101 | 101 |
+| Paloma | 3 | 201 | 101 |
 | Paulo Hernandez | 1 | 10 | — |
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
