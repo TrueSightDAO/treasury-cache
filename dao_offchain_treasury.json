@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-24T18:14:11.148Z",
+  "generated_at": "2026-08-24T18:18:42.449Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -248,6 +248,20 @@
       "total_value_usd": 63.16,
       "ledgers": {
         "Main Ledger": 114
+      }
+    },
+    {
+      "currency": "Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 100,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 100
       }
     },
     {
@@ -1233,7 +1247,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2476.1016,
+      "unit_cost_usd": 2479.2055,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1586,8 +1600,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2476.1016,
-          "total_value_usd": 1.176545118939873e-10
+          "unit_cost_usd": 2479.2055,
+          "total_value_usd": 1.1780199689196466e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6392,6 +6406,11 @@
           "total_value_usd": 58.07
         },
         {
+          "currency": "Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)",
+          "amount": 100,
+          "ledger": "Main Ledger"
+        },
+        {
           "currency": "Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil",
           "amount": 100,
           "ledger": "Main Ledger",
@@ -9835,8 +9854,8 @@
     }
   ],
   "totals": {
-    "item_types": 88,
-    "total_units": 21737.40415957674,
+    "item_types": 89,
+    "total_units": 21837.40415957674,
     "total_value_usd": 29360.27,
     "ledgers_processed": 14,
     "managers_count": 39,
