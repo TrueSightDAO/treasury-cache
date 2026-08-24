@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T08:40:55.262189+00:00",
+  "scoring_hash_key": "L8xMZ41KrDgO4x2QJFKl",
+  "scored_chatlogs_row": 7038,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 180\n- Contributor(s): Sophia Truesight\n- TDG Issued: 300\n- Description: FounderHaus tree-planting / TREE_PLANTING_FUNDS_TRANSFERRED state initiative (thread 12741): tokenomics #421 (backend enum, linking queue, link validation, shop counter) + #422 (SCHEMA.md); dapp_beta #74 (update_qr_code dropdown) + #75 (linking badges); lineage-assets #9 (cache filter) + live cron sync; surgical pull-first GAS deploy to 3 Apps Script projects; dapp_beta\u2192dapp_prod promotion; end-to-end UAT (flip CC_20260620_1 \u2192 verified badged in linking queue + agroverse.shop count intact \u2192 restored); cleanup PR #423 (GAS folder hygiene).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: YIBf3JuqlSfU7qYL4tGo0hlmqmypovQZ4AvMslECKQYsLNg8XjtA9uc2nBcNukGA5sOVLsjgLxVWeVSBmAxALQjpoJdVpX46zsMm6D7SsZunVB2zwhaS2+zOnBd4dbxyThZ075l8MyhOb3DNJ2ZZhsk/zb8NIhyt/yWtFopwK/CuKOyG4JMQLZmqUh9VdUbQtcTXZPg0YjRYpw5Q1UelHqAx7M9m0dGgET7jUwzS6GDJ0+IXgWgKFn8zdKqCZ9dndxpJ/BQk7XGWGmp9MHCC3CKNUK68TAqzIzCCIWt9JrWGDiaHH85bxwadiLITs/nMAvpJ1L5QaSQWStNqTk+rCQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "300",
+  "tdgs_issued": "0",
+  "contribution_date": "20260823",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

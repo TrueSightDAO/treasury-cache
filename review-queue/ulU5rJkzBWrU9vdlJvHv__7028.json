@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T08:40:55.261447+00:00",
+  "scoring_hash_key": "ulU5rJkzBWrU9vdlJvHv",
+  "scored_chatlogs_row": 7028,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Paloma contribution receipt generation/email + asset-receipt-ingest bug fix\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/790\n  - https://github.com/TrueSightDAO/tokenomics/pull/411\n  \n  Details:\n  - Looked up Paloma's live contact email on the Contributors contact information tab, confirmed the final inventory location on the real ledger rows, generated a ReportLab PDF contribution receipt (TrueSight DAO branding) itemizing the $71.08 contribution and all 4 signed transaction IDs, opened agentic_ai_context PR #790 with the PDF, and emailed it to the contributor from admin@truesight.me.\n  - Root-caused a long-standing asset-receipt-ingest GAS bug (processAssetReceiptsFromTelegramChatLogs hardcoded quantity to 1 and wrote the submitted Amount into unit cost) by clasp-cloning the live Apps Script project; fixed it to map Amount to Quantity and derive unit cost from the paired USD contribution amount; opened tokenomics PR #411; deployed the fix live to the production script after merge.\n  - Audited all other asset-receipt rows on the ledger for the same corruption pattern \u2014 confirmed only the two rows from this session were affected, no historical data required correction.\n  \n  GitHub:\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/790\n  - https://github.com/TrueSightDAO/tokenomics/pull/411\n- Contributor(s): Sophia Truesight\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: lOZi/bcM524MHoGIQ6Efxlvbv9+dckbPGfjSr0UrOyCEMwh6A5Pb1jon7OCR5KE1O6V5dNckzfzbG3Q1vOUWdG8ZoX8DE0AuqKfGewYPOVmoeK40+War+HOZXrUzVBh1I3VMCYLyQ4KO64zX8FKcFNEWlVghybIo1wYdYlmSnRKSj2oibyiwzCHJO/vc/SB7coA6A8jlETqb4PghNed7syXvzL5hWfuhEvYhcoih3+RgGe6AJaOEjQcKVNRshacgVBDNgz2hGwTYofHBKcYsbG4LH3nzkfQNL4iu97l7lizIfE4Tk6P3xW8SRhiXj67Xc+kQHi5+9XQ9NJSjZEy5qQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260822",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

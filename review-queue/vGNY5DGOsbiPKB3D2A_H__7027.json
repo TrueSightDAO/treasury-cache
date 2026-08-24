@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T08:40:55.261377+00:00",
+  "scoring_hash_key": "vGNY5DGOsbiPKB3D2A/H",
+  "scored_chatlogs_row": 7027,
+  "contributor_name": "Claude Anthropic",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: Paloma contribution receipt (PDF) + asset-receipt-ingest bug fix\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/790\n  - https://github.com/TrueSightDAO/tokenomics/pull/411\n  \n  Details:\n  - Generated and delivered a PDF contribution receipt for Paloma's $71.08 contribution (2x50-pack Kraft stand-up pouches + Bluetooth label printer), itemizing all 4 signed transaction IDs and the final inventory location; coordinated Sophia's PDF generation, PR, and email send to the contributor.\n  - Reviewed and merged agentic_ai_context PR #790 (receipt PDF export) and tokenomics PR #411 (asset-receipt-ingest bug fix).\n  - Helped root-cause a long-standing asset-receipt-ingest GAS bug: quantity was hardcoded to 1 and the submitted Amount was written into the unit-cost column instead \u2014 invisible for over a year until Paloma's 100-unit pouch order exposed it.\n  - Directly corrected the source-of-truth Currencies tab (rows 25 and 126 \u2014 Price in USD) via the Sheets API using an existing workspace service account, after confirming that tab (not the derived offchain tabs, which are intentionally protected) was the correct place for a manual edit.\n  - Verified all affected ledger rows (Currencies x2, offchain asset location x2, offchain transactions x2) after Gary's manual correction of the two protected derived-tab rows.\n  - Created a Google Calendar reminder for Gary on the outstanding follow-up items.\n  \n  GitHub:\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/790\n  - https://github.com/TrueSightDAO/tokenomics/pull/411\n- Contributor(s): Claude Anthropic\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: wjO+x1FoIWzAqxfSZsncCaqatSjnnvCV2b/36i0T1B36z8kxcPTJ75YVS8YnnY/L0/PLxGe5Mleks5xvu7JqsaDQuH4TYidPMnBFQbFYXGXXNnB5Z0HvhDxIX/YAoVaKnEgwc7i1Q9zcMU47iOphr1pBqB9rn18bGOODqCtS3BZ/dha/poOtqDN6nSfznlmNl0eVkK1jXshnZnncMl+0ZHQA+7Eke8iSJDNuF+0dGOmokELZ3S93DdQ2/HHD5AjVPhoM+AOqra3FDdehm5pRpBqv9oZnPKDTQbvIIOFVJYgAqCF4hCzi3xoTMor/js6fsVDCNiNYBJrLlRApXH0mWw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260822",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

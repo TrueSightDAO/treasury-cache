@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T08:40:55.261521+00:00",
+  "scoring_hash_key": "glZuitttscZaP078Jsjj",
+  "scored_chatlogs_row": 7029,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 20\n- Description: Reviewed and authorized the Paloma contribution receipt + ledger bug-fix arc: confirmed Paloma's email address before the receipt send, decided on PR merges and the live GAS deploy, and manually corrected the offchain asset location (rows 26, 105) and offchain transactions (rows 4131-4132) entries that were blocked from automated/service-account edits by sheet protection.\n- Contributor(s): Gary Teh\n- TDG Issued: 33.33\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: TM8cTafh4vCZwVzYOXWq0Qqxog+l9Y3dXVVWbOp6V1aUAhZYUtqJ23vQpmOPG6yEU47o4pFyXLoiSBpqt3M3o715jnT3ZBOOF39unqFlM5SU6SvcMBoINaKi9bts2n324F1S716ZZ4N9kbz6vaLMs4f194dNSLN9IFcbUOwSJ45YWDqQJ/PJYUqHfSqVbUwhZdUvWaA3vznRFDQeZIG33mtQ1Ef4JAbcISLCKgVefO1BAA1X7+iZJqR4Lc91bjsOFzdPpAY6cup+6vMrJnvaE0xjoDPDrMNzG5PAr3UYo/gPeznn216aNM6cMq9UJqK8jJxyA+9EAlg2sqD7bzhE+A==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "33.33",
+  "tdgs_issued": "0",
+  "contribution_date": "20260822",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

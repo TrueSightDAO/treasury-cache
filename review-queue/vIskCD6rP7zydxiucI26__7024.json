@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T08:40:55.261169+00:00",
+  "scoring_hash_key": "vIskCD6rP7zydxiucI26",
+  "scored_chatlogs_row": 7024,
+  "contributor_name": "Paloma",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: -13.01\n- Description: Paloma purchased 2x 50-unit packs of Saco Stand Up Pouch Papel Zip Kraft C/visor 10x15cm via Mercado Livre (100 pouches total, R$28/pack x2 = R$56 @ 0.2323 USD/BRL).\n- Contributor(s): Paloma\n- TDG Issued: -13.01\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: KpqmwZzvBNGKNBBKOmR/oS5rSb04yBQKQOe0fA//FovI/EVOL0JyMC5ekLDKNNVIZNSjp5MAZa2Ju3oL9/++qF3UKo701dtHeD/bJO8K4ahjT+ugnFujOtz86QarkJUl7SShNZD3UJsbOCPzDiUYnL/YBCOEuPXw5MWh5yQw8t+Kzpri0v9EQT+qAYlHbB+LLoWC/RPEbxIig4c52jKScTrvFuMxfOL8HvLyI5VRs8U+tdr2rHQlFR7tpNTvoyo5NWgN59HdAFTvK756GZu+lA+AQbbT7NelO/J8iOdE9aFt08VA2FUApGV1Ph9vRqXSvXqfgPxwOCMLPSTd1gqEfA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "-13.01",
+  "tdgs_issued": "0",
+  "contribution_date": "20260822",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

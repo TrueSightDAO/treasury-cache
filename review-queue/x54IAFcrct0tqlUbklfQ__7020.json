@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T08:40:55.260746+00:00",
+  "scoring_hash_key": "x54IAFcrct0tqlUbklfQ",
+  "scored_chatlogs_row": 7020,
+  "contributor_name": "Claude",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 55\n- Description: Fix Gmail OAuth token to add Calendar scope, deploy to Sophia. Verified Sophia's claim that gary_token.json (garyjob@agroverse.shop) was gmail.modify-only, no Calendar scope \u2014 confirmed on both the local mirror and Sophia's live box. Ran the OAuth consent flow (Gary approved twice \u2014 first attempt lost due to a PKCE state mistake on my end, second succeeded stateless), exchanged the code for a token with gmail.modify + calendar.events scopes, verified mailbox identity and calendar event read/write access, deployed the new token to both this box and Sophia's live box via SSH (stdin, no secret in argv), restarted her services, verified live scopes, and prompted her via Telegram to retry event creation. No PR \u2014 pure credential/ops work, no code or doc change.\n- Contributor(s): Claude\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: Wm998DZkWtY5TVzd5YmckXy1KAm1AK4E082CRcjfPsVh0rjF5ImPdWwW47XTOkvm7dIREoZJEzlri03bHORTun4YoQPHvBHmNSYbOgfi5633yOj/h4Y7gnej/zcx39RRBTeK/EkSHCLR4BdjWtsU/N2gzrZX0nGtOKlr5O/iF+zirbJmrPWbuhmsd7R2jgWGFPuNuHVj9uARuLVq+xdk2ZNtGl/NY/fdoBMQYJstHMmohdeyEzWu1um+C3BQttpOdC9215Ozxrn8Y+H0JnwzwCl+5oFn9gzV1Thff/oASWtU2jxJuOf8U5mfTDj4fkx/d4ZLdMwqeqWqxlXZBv14Rg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "91.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260822",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

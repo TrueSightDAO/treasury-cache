@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T08:40:55.261234+00:00",
+  "scoring_hash_key": "qr9RK3xNnfzi7DXDiALl",
+  "scored_chatlogs_row": 7025,
+  "contributor_name": "Paloma",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: -58.07\n- Description: Paloma purchased 1x Bluetooth thermal label printer (Black, 110/240V dual voltage, w/ 20 label rolls) via Mercado Livre, R$249.99 @ 0.2323 USD/BRL.\n- Contributor(s): Paloma\n- TDG Issued: -58.07\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: pZ7vG/Sx0+IRFYV9Yk0jP84wHisJcNyoD8zSwxvZKE3K2AO6MKVPoX/eJHpFUMqlkFxJJp/tNbP3voOttswsjb3vR8eDDsBQ3+8uhaI4v5RKL/Wt13nTrevqHyJq/o6ffZemH8OhVr/epd2W1wB6Fmpn/2N/G6GRJS5BFu55bWbHEjvyyZlB+5bX34iGdYTsD7Z0feJlMdNI5VvXWOnwfAlRSOIqq3TaJDQm+WOCIACmBcD0qCGFCdd0FhLluvbMiSR4CRg7mge7S+wkIyQT056AfvrtXYTQ6PidIz+jiOGeY8xCz8lLu5UFv+AvaW5aPgYl4OLo67WdVQlcgCtVtQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "-58.07",
+  "tdgs_issued": "0",
+  "contribution_date": "20260822",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

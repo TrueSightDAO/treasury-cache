@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-24T08:40:55.262255+00:00",
+  "scoring_hash_key": "xvRU7fYmwQKEsmOYXM7f",
+  "scored_chatlogs_row": 7039,
+  "contributor_name": "Claude",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: Add drive.file scope to the shared Gmail OAuth token (garyjob@agroverse.shop) so Google Calendar events can carry native file attachments. Sophia flagged the gap (Startup Summit 2026 ticket had to be linked via GitHub instead of natively attached). Verified the token was missing drive.file, ran the OAuth consent flow with Gary (gmail.modify + calendar.events + drive.file), verified mailbox identity, deployed to both this box and Sophia's live box via SSH, restarted her services, verified live scopes, and notified her in the Stream of consciousness Telegram thread.\n- Contributor(s): Claude\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: l3cL+zWPEciE0Fx1bFoBUhhPH0dpFuyaAxeymsxkMU28ts6Nu7UvUgNhyTdHySLZ++zfN27KTOJqly9Hy8GAhB+4XsX60d8skOUNNFLgm6+K8KSyKS1zt5zPiAdb14gcuh7XsHtKRrpO04TqGMW+1cMJjz8S8r/O8sepcJJlqWXHyOKKP83ZW60HSqPrcGUhHO9wgeinK97OWvSGDeje6ZVJzXu9hzEoJnCCX6+sM+xJnIdGoXLBXrrTgC8Jnbv5NLXcHtYnrK4UslFL5zrfFhIdn8zaBX2s9GONrTWzRWmxyul0GMXBjIWHbt6wiGYdDIyxxqcq5eoY976alj/usw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "50",
+  "tdgs_issued": "0",
+  "contribution_date": "20260823",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
