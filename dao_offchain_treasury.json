@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-24T13:48:37.100Z",
+  "generated_at": "2026-08-24T14:17:35.986Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "movement",
   "schema_version": 5,
   "items": [
     {
@@ -895,6 +895,20 @@
       }
     },
     {
+      "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1.27,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2,
+      "total_value_usd": 2.54,
+      "ledgers": {
+        "Main Ledger": 2
+      }
+    },
+    {
       "currency": "Foam container box - 120 kraft pouches capacity",
       "unit_weight_g": null,
       "unit_cost_usd": 24.109726042075938,
@@ -1219,7 +1233,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2492.5131,
+      "unit_cost_usd": 2507.0626,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1374,6 +1388,20 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         }
       ]
+    },
+    {
+      "manager_name": "Elizabeth Wong",
+      "manager_key": "Elizabeth%20Wong",
+      "items": [
+        {
+          "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1.27,
+          "total_value_usd": 1.27
+        }
+      ],
+      "qr_codes": []
     },
     {
       "manager_name": "Elora - Eugene Oregon",
@@ -1565,8 +1593,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2492.5131,
-          "total_value_usd": 1.1843432118046737e-10
+          "unit_cost_usd": 2507.0626,
+          "total_value_usd": 1.1912565562361042e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3674,6 +3702,13 @@
           "hs_code": "1803.1",
           "unit_cost_usd": 0.73529,
           "total_value_usd": 268.38085
+        },
+        {
+          "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1.27,
+          "total_value_usd": 1.27
         },
         {
           "currency": "Chocolate Mold from Rusty",
@@ -9807,11 +9842,11 @@
     }
   ],
   "totals": {
-    "item_types": 87,
-    "total_units": 21717.40415957674,
-    "total_value_usd": 29334.87,
+    "item_types": 88,
+    "total_units": 21719.40415957674,
+    "total_value_usd": 29337.41,
     "ledgers_processed": 14,
-    "managers_count": 39,
+    "managers_count": 40,
     "qr_codes_assigned": 1182
   }
 }
