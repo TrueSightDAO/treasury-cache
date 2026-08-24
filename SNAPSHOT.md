@@ -5,14 +5,14 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-24T14:17:35.986Z` |
-| Trigger | `movement` |
+| Generated at | `2026-08-24T14:49:29.107Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 88 |
-| Total units | 21719.40415957674 |
-| Total value USD | $29337.41 |
+| Total units | 21737.40415957674 |
+| Total value USD | $29360.27 |
 | Ledgers processed | 14 |
-| Managers | 40 |
+| Managers | 39 |
 | QR codes assigned | 1182 |
 
 ## Items (88, sorted by total quantity)
@@ -56,6 +56,7 @@
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 21 | $10.18 | $213.83 | AGL13: 21 |
 | Cacao Husk (KG) - Ilheus, Brazil | Cacao Tea | Bulk | 20 | $17.79 | $355.71 | Main Ledger: 20 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland | — | — | 20 | $26.87 | $537.46 | Main Ledger: 20 |
+| Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd | — | — | 20 | $1.27 | $25.40 | Main Ledger: 20 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 17 | $8.38 | $142.38 | Main Ledger: 17 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 16 | $9.45 | $151.20 | Main Ledger: 16 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | Cacao Mass | Retail Ready | 15 | $8.49 | $127.41 | Main Ledger: 15 |
@@ -82,7 +83,6 @@
 | Cacao Tree Planted | — | — | 3 | $1.50 | $4.50 | Main Ledger: 3 |
 | Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | — | — | 3 | $5.19 | $15.56 | Main Ledger: 3 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
-| Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd | — | — | 2 | $1.27 | $2.54 | Main Ledger: 2 |
 | Foam container box - 120 kraft pouches capacity | — | — | 2 | $24.11 | $48.22 | Main Ledger: 2 |
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
@@ -106,7 +106,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2507.06 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2528.08 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -119,11 +119,11 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 73 | 13817.687500497592 |
+| Main Ledger | 73 | 13835.687500497592 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (40)
+## Managers (39)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -132,9 +132,8 @@
 | Coopercabruca | 1 | 1706 | — |
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
-| Elizabeth Wong | 1 | 1 | — |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 27 | 13929.659036778747 | 241 |
+| Gary Teh | 28 | 13939.659036778747 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -143,7 +142,7 @@
 | Jae Nice | 1 | 7 | 7 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 16 | 1340 | 61 |
+| Kirsten Ritschel | 16 | 1349 | 61 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 | 3 |
 | Matheus Reis | 22 | 2012.7151227979998 | 326 |
 | Micheal Johnson | 2 | 85 | — |
