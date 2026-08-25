@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-25T10:50:17.460Z",
+  "generated_at": "2026-08-25T10:51:26.352Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -1600,8 +1600,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2480.2639,
-          "total_value_usd": 1.1785228785554572e-10
+          "unit_cost_usd": 2483.5331,
+          "total_value_usd": 1.1800762725288056e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3664,10 +3664,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 22,
+          "amount": 21,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 123.73030114942527
+          "total_value_usd": 118.10619655172412
         },
         {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
@@ -4025,60 +4025,6 @@
           "qr_code": "2024OSCAR_CB_20260620_15",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_1",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_2",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_3",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_4",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_5",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_6",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_7",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_8",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_9",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
@@ -6342,6 +6288,75 @@
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
           "ledger_shortcut": "https://agroverse.shop/agl8"
+        }
+      ]
+    },
+    {
+      "manager_name": "Melinda Larios",
+      "manager_key": "Melinda%20Larios",
+      "items": [
+        {
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 5.624104597701149,
+          "total_value_usd": 5.624104597701149
+        }
+      ],
+      "qr_codes": [
+        {
+          "qr_code": "2024_20260710_1",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024_20260710_2",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024_20260710_3",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024_20260710_4",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024_20260710_5",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024_20260710_6",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024_20260710_7",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024_20260710_8",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024_20260710_9",
+          "status": "MINTED",
+          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
         }
       ]
     },
@@ -9860,7 +9875,7 @@
     "total_units": 21837.404159576745,
     "total_value_usd": 29441.57,
     "ledgers_processed": 14,
-    "managers_count": 39,
+    "managers_count": 40,
     "qr_codes_assigned": 1182
   }
 }
