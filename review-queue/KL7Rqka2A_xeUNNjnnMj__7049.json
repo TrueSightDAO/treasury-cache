@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-25T15:58:20.100017+00:00",
+  "scoring_hash_key": "KL7Rqka2A/xeUNNjnnMj",
+  "scored_chatlogs_row": 7049,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 5\n- Description: Checked whether the Chives Root USPS shipping expense (tracking 9234690324992842452216, $9.37) was recorded on the ledger \u2014 confirmed not previously filed, then submitted it as a DAO Inventory Expense Event (offchain ledger) on 2026-08-25.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: nC+3p97dOE85mPB1eMb6Skhy5TQhGrQPhqKC8ogUAEzfroUQRDX/bTQvCElhOG5Bl2saZRaQEmB9G9p29XjBBODdiHKBGv70n9kj6qsk7kwXXP/fOd5PocqwV0NMVjhoCKOfndQZkTRQPEYsnedeo7GmEl1KRjdBeYH7WH36KH4c2S32A+BGMJ5xvOBJ2xGjQAPNPtkf0Y/dt2VXlpdBzYqbacu3WZIRq8F+leNNiQp/N+keeiGUTD5q+d1/J04s6hak4+Oo+3BR0+vE9kL77cNrb85WV0v9m0SIU2lCKivt/W5abZ01d5SsTP+uRpB7l5AEEhC1iI8+JXLTy76Plg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260825",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

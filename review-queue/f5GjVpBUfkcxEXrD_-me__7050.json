@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-25T15:58:20.100257+00:00",
+  "scoring_hash_key": "f5GjVpBUfkcxEXrD/+me",
+  "scored_chatlogs_row": 7050,
+  "contributor_name": "Sophia Truesight (autopilot)",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 50\n- Contributor(s): Sophia Truesight (autopilot)\n- Description: Executed CURRENCY_CONVERSION_STALE_CURRENCIES_JSON_PLAN: PR1 catch-up republish of agroverse-inventory/currencies.json (135 currencies, 0 missing/extra vs live Currencies tab), PR2 scheduled daily regen (go_to_market #173: sync script + cron workflow 06:45 UTC), PR3 UI freshness caption promoted beta->prod (dapp_prod HEAD 5b254227). Verified end-to-end sheet<->JSON diff, promoted to production, flagged sheet row-34 trailing-space drift for human ledger edit.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: uuWLZXDA7PWKnIpZ0OjCmCJ47A55vBkBfu93mmN62+WlVBPD8KLz92QxZdsaaibP5T+ZJ8SmRTXfzhHdZ417qkSIIHWzuEEaAYy1hqSXOPv/Vr/lixSB8CPeQqQ84jjt7JKsM1m1XtsShJgfJd/kqvtz7yt+6ICeXpgtMwDUISZNrUqKAcat2I0KjY9uNMrfRtBtsn1QDrh9drOS1THZ175BBbZjBXLmmL0Htf8lAzpMS07Q2hY7Ho8BLT4OJdisDL9eb8q0k+qd1K1tDEHSCJcaFYyJsM1oHLLiIHiBYKcfdIM9q94nrmxt+4NMxwo/CAdvVlfxD6v1BB9HtuYz/A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260825",
+  "found_in_contributors": "FALSE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
