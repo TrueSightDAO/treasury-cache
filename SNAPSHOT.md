@@ -5,14 +5,14 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-25T10:50:17.460Z` |
+| Generated at | `2026-08-25T10:51:26.352Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 89 |
 | Total units | 21837.404159576745 |
 | Total value USD | $29441.57 |
 | Ledgers processed | 14 |
-| Managers | 39 |
+| Managers | 40 |
 | QR codes assigned | 1182 |
 
 ## Items (89, sorted by total quantity)
@@ -124,7 +124,7 @@
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (39)
+## Managers (40)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -143,9 +143,10 @@
 | Jae Nice | 1 | 7 | 7 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 16 | 1349 | 61 |
+| Kirsten Ritschel | 16 | 1348 | 52 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 | 3 |
 | Matheus Reis | 22 | 2012.7151227979998 | 326 |
+| Melinda Larios | 1 | 1 | 9 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
