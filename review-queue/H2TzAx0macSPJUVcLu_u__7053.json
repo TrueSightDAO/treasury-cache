@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-25T17:46:53.502910+00:00",
+  "scoring_hash_key": "H2TzAx0macSPJUVcLu/u",
+  "scored_chatlogs_row": 7053,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 215\n- Contributor(s): Sophia Truesight, Gary Teh\n- Description: DEPLOY_PUSH_SOP buildout: agentic deploy/audit ledger + lease locking for all LLM class pushes. Phase 1: SOP doc (agentic_ai_context#818), ledger scaffold + append_deploy_record.py in ecosystem_change_logs. Phase 2: app/deploy_ledger.py + lease enforcement wired into gas_deploy_project, sync_beta_to_prod, deploy.py/main.py (truesight_autopilot#313), and standalone tokenomics deploy_gas_project.py (tokenomics#429). Backlog update agentic_ai_context#820. Live-verified on ec2/autopilot (lease L-20260825-02, record deploy_20260825T163751Z_autopilot). ~3h agent compute + ~35min governor oversight/decisions (13:35-16:38 UTC, 2026-08-25).\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: NbpuaqcYdGssuATrxyhBlixpUFthravdZkkItv6p5EN8gZkcAyMwNDAQImiftnEvv8IEipyx/l2AB/yok6j2RshCsOfKMHeCMzoD/4mjPyRubzv02yyHrDI2nzW6snEm/ynUjzKvyjhCRx2SSRbvpIHaqmbDcgCx1s6Y0VQVSkaubeZNQzcdY5bJmEsGHRY6hwmjtwxibOoDz+RiDlq2YG7DuYv/2c2Dls7iVLeBWbWuiC5BAbn86+OTffk19qlM67j8/1y+l2tT0gKDYnpSLu7liGqJDEkvIuV2JMpDTxVHd/iFectVLP/79aerIoj0o0Dxd4RRkbudBwiZtbX1lw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260825",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

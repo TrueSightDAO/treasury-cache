@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-25T17:46:53.502793+00:00",
+  "scoring_hash_key": "NJq8zqkUIUOkhixAJhzB",
+  "scored_chatlogs_row": 7052,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Contributor(s): Gary Teh\n- Description: Perch breakout-gauge chart arc: design direction & QA discrimination \u2014 confirmed PR1 live via screenshot, flagged shaded-over-extended zone rendering below the line (fill direction), flagged legend ambiguity (green line vs GO state), proposed clear-band-as-green-GO-zone traffic-light recolor, approved merge+deploy gates (PR1\u2013PR6). ~1h total.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: d9vnzGNBlrK4Ib0viWqsQiF/F7/+9JWxURufj/l2yeBateq/N15RVotb1OlIdQ5qOoRY4Gz13g3+aZGC7NCkLZbfTHI6oUnS4/bv3t6oyFBnI9oy8gwC6DcpSjrfycIgEVxyG2KCb3u1pnK/jHdfRcA9yvB2Iqdr64yCjTAxxAg47JRXGmGP8rq3vE2IZdYA9M+LGW1ieS/hCSSHkH5KQZhEP20UnTzfS8e4zadF0GGpTdw+fQsgtqhsM52P03vpUVLuc3bSlBLT3KMOrOBc3nglC2FR43QJaqZoG9ZwJtDh9RaI+JNuffrRkYZx0uPwSi/W0mMa4rmMuA+/ijXT3A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260825",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

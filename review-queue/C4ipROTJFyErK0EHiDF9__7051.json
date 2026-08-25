@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-25T17:46:53.502582+00:00",
+  "scoring_hash_key": "C4ipROTJFyErK0EHiDF9",
+  "scored_chatlogs_row": 7051,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 360\n- Contributor(s): Sophia Truesight\n- Description: Perch breakout-gauge chart arc 2026-08-24\u219225: PR1 Norm/Bollinger fix, PR2/PR3 lead-in trim + zone shading, PR4 fill-direction fix (shade above band), PR5 traffic-light recolor (green GO band + navy line), PR6 systemd drift-proofing (#1132); plus ops: diagnosed 7.5-week deploy gap (Rails process predating all merges), restarted services, fixed seni_sk unit (User=/env/secret_key_base) so sidekiq boots. ~6h total.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: MrqAxkv336IfPuC1IWQ6/6gC81AG0I81Z6q0PkBDp0an3WipHNo0+Ema4oLBnX7ijBFwcww4PpoiFn88Qc+3d+RH00bYzEQf4IRVmik8utcdqO8Alm9+2UTpcv54qnY56eZZkl3RjUtUicXCcnRYeTt1MeRZSVJSzYySLemFJdaAgw3MKu427YJrodfWj7RMBEF4Y8rLw5rvgIQcMkP3dgJ2THrLO1gR6C09vpoKYRjFpxPfWQADB0Ue3IjTle9+Uo4aAkRykFwFjfj5hEC8WwiO6/u+7zAGLjq6plB4ko4vtlS9C+XNzUVKYV1v/cOJMQxba4IPaFa9gVi31viYDg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260825",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
