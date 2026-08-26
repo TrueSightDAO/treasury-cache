@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-26T20:48:35.396Z` |
+| Generated at | `2026-08-26T21:48:48.904Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 89 |
-| Total units | 21837.404159576745 |
-| Total value USD | $29441.58 |
+| Item types | 91 |
+| Total units | 21839.404159576745 |
+| Total value USD | $29641.58 |
 | Ledgers processed | 14 |
 | Managers | 40 |
 | QR codes assigned | 1182 |
 
-## Items (89, sorted by total quantity)
+## Items (91, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -88,6 +88,7 @@
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
 | Agroverse Retractable Banner | — | — | 1 | $72.57 | $72.57 | Main Ledger: 1 |
+| Agroverse Sticker 4x3cm (Founder Haus) - Brazil | — | — | 1 | $100.00 | $100.00 | Main Ledger: 1 |
 | Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600) | — | — | 1 | $9.17 | $9.17 | Main Ledger: 1 |
 | ATOLOMOTOR Coffee Bean Roaster | — | — | 1 | $86.89 | $86.89 | Main Ledger: 1 |
 | Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | — | — | 1 | $116.91 | $116.91 | Main Ledger: 1 |
@@ -104,10 +105,11 @@
 | Heat Sealer for Kraft Pouch - Brazil | — | — | 1 | $24.70 | $24.70 | Main Ledger: 1 |
 | Label Maker - Brazil | — | — | 1 | $35.03 | $35.03 | Main Ledger: 1 |
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
+| QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 1 | $100.00 | $100.00 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2469.04 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2494.48 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -120,7 +122,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 74 | 13935.687500497592 |
+| Main Ledger | 76 | 13937.687500497592 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -150,7 +152,7 @@
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
-| Paloma | 3 | 201 | 101 |
+| Paloma | 5 | 203 | 101 |
 | Paulo Hernandez | 1 | 10 | — |
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
