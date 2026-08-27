@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T16:48:37.636Z",
+  "generated_at": "2026-08-27T17:48:38.529Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -1303,7 +1303,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2529.9517,
+      "unit_cost_usd": 2519.5189,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1656,8 +1656,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2529.9517,
-          "total_value_usd": 1.2021325473028384e-10
+          "unit_cost_usd": 2519.5189,
+          "total_value_usd": 1.19717529517842e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6537,12 +6537,6 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
-          "qr_code": "2024OSCAR_CT_20260820_6",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
           "qr_code": "2024OSCAR_CT_20260820_7",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
@@ -6687,12 +6681,6 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
-          "qr_code": "2024OSCAR_CT_20260820_31",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
           "qr_code": "2024OSCAR_CT_20260820_32",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
@@ -6742,12 +6730,6 @@
         },
         {
           "qr_code": "2024OSCAR_CT_20260820_40",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CT_20260820_41",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -6813,12 +6795,6 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
-          "qr_code": "2024OSCAR_CT_20260820_52",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
           "qr_code": "2024OSCAR_CT_20260820_53",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
@@ -6832,12 +6808,6 @@
         },
         {
           "qr_code": "2024OSCAR_CT_20260820_55",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CT_20260820_56",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -6886,12 +6856,6 @@
         },
         {
           "qr_code": "2024OSCAR_CT_20260820_64",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CT_20260820_65",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -7048,12 +7012,6 @@
         },
         {
           "qr_code": "2024OSCAR_CT_20260820_91",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CT_20260820_92",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -9967,6 +9925,6 @@
     "total_value_usd": 39459,
     "ledgers_processed": 14,
     "managers_count": 41,
-    "qr_codes_assigned": 1182
+    "qr_codes_assigned": 1175
   }
 }
