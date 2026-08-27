@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-27T18:45:00.985814+00:00",
+  "scoring_hash_key": "07MtSsA/l1vU0ihGngw8",
+  "scored_chatlogs_row": 7067,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 180\n- Description: Investigated DAO open-source stack (GAS in tokenomics, dao protocol/Edgar, Agroverse QR+treasury, SunMint tree flow) and assembled DAZ Treasury On-Ramp tech spec PDF (system inventory, integration contracts, R1-R5 requirements, receipt-association pattern, Monday-call open questions).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: V5QeW7Eb0/F80Ibku8z+NBlxKUwWKFWEvR6t1QyVliwI5l6X1jgN0jUCQ5xaRA30Q8I5wAKkuXdScu86ETi0bbM9H8UMzKO9MhX1Trz63xhQzTiH4i5SUlmwFMlaj+x5nJgf4XoJpta88oNPIKF99uCLCehtegNTyrBK068fgy1xPZUXWUMcmqN5dDBhUlpYVjXoUU5DoHFBKngIDCBdLd5wTaw4a1uNdpA67gC1xKe2nQ9b3JEiLDfHwgN+ReYXxwCRY5uaZLP6Lv74lEIUUWdYqZFOhqORhhSiMB5X8zIKoduYy3AgKIP5Z89GODiME521CM+anUp9Bxr7Wn9kYw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260827",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

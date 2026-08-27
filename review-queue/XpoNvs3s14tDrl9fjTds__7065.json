@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-27T18:45:00.985721+00:00",
+  "scoring_hash_key": "XpoNvs3s14tDrl9fjTds",
+  "scored_chatlogs_row": 7065,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: asset_receipt_ingest fix \u2014 detection, escalation, and merge oversight. Spotted the corrupted ledger rows (quantity=1, unit cost=100), verified @8 was pinned via clasp deployments, authored the hard escalation, and merged #411/#427/#431. PRs: #411 (Amount\u2192Quantity, unit cost from paired USD contribution), #427 (anchor event detection + idempotent SKIPPED/ERROR dedup), #431 (normalize 'Contributor(s)' label).\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: hC+JZrJvwKCu1UP+7cRQJz9QqF48ZMduFBz6q5Hv8nzawBHz+YU+l2NGLrkdjl2D7eCOdzf0WcK6WFc7Cjn0fWzqfMQ/hsYAYyuovmJx2a0TlNF6HyuMseK0VPSfEi20FU0ecK9AplaktCPI83s+gWFddjEp1AWX7bduG6P+0/yUiwftXvOBUrM+k37YVMDW0LMvTlryi82S5w9lzKTo9CUYsoYijQkZmZ9W/b38/+BF2DsVU1EBThMATv09UV9h9Svk6qz3EXzgfX84IuvS2RjXYoxmubT0KbIHZiHBb3gQo3c1/JStMERYzVTnF9TjIGsMjt/YhkzV0UHXuLTtsw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260827",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
