@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-27T11:48:32.382Z` |
+| Generated at | `2026-08-27T12:48:40.934Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 91 |
-| Total units | 21839.404159576745 |
-| Total value USD | $29441.69 |
+| Item types | 93 |
+| Total units | 22237.404159576745 |
+| Total value USD | $39459.00 |
 | Ledgers processed | 14 |
-| Managers | 40 |
+| Managers | 41 |
 | QR codes assigned | 1182 |
 
-## Items (91, sorted by total quantity)
+## Items (93, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -36,7 +36,11 @@
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 169 | $0.07 | $11.91 | Main Ledger: 169 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 137 | $6.64 | $909.68 | Main Ledger: 137 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 114 | $0.55 | $63.16 | Main Ledger: 114 |
+| Agroverse Sticker 4x3cm (Founder Haus) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820) | — | — | 100 | $0.81 | $81.31 | Main Ledger: 100 |
+| QA Verification Sticker 4x3cm (Test 20260827) | — | — | 100 | $100.00 | $10000.00 | Main Ledger: 100 |
+| QA Verification Sticker 4x3cm Round2 (Test 20260827b) | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
+| QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil | — | — | 100 | $0.13 | $13.01 | Main Ledger: 100 |
 | Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 100 | $10.18 | $1018.23 | AGL13: 100 |
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
@@ -88,7 +92,6 @@
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
 | Agroverse Retractable Banner | — | — | 1 | $72.57 | $72.57 | Main Ledger: 1 |
-| Agroverse Sticker 4x3cm (Founder Haus) - Brazil | — | — | 1 | $0.06 | $0.06 | Main Ledger: 1 |
 | Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600) | — | — | 1 | $9.17 | $9.17 | Main Ledger: 1 |
 | ATOLOMOTOR Coffee Bean Roaster | — | — | 1 | $86.89 | $86.89 | Main Ledger: 1 |
 | Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | — | — | 1 | $116.91 | $116.91 | Main Ledger: 1 |
@@ -105,11 +108,10 @@
 | Heat Sealer for Kraft Pouch - Brazil | — | — | 1 | $24.70 | $24.70 | Main Ledger: 1 |
 | Label Maker - Brazil | — | — | 1 | $35.03 | $35.03 | Main Ledger: 1 |
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
-| QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 1 | $0.06 | $0.06 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2503.14 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2497.77 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -122,11 +124,11 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 76 | 13937.687500497594 |
+| Main Ledger | 78 | 14335.687500497594 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (40)
+## Managers (41)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -152,7 +154,7 @@
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
-| Paloma | 5 | 203 | 101 |
+| Paloma | 5 | 401 | 101 |
 | Paulo Hernandez | 1 | 10 | — |
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
@@ -162,6 +164,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
+| Sophia Truesight | 2 | 200 | — |
 | SunMint Tree Planting Contract - agl4 | 2 | 340 | — |
 | SunMint Tree Planting Contract - main | 1 | 1 | — |
 | Tess Walkowski | 2 | 13 | 9 |
