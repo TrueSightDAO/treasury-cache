@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-26T23:48:41.711Z",
+  "generated_at": "2026-08-27T00:48:39.623Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -981,13 +981,13 @@
     {
       "currency": "Agroverse Sticker 4x3cm (Founder Haus) - Brazil",
       "unit_weight_g": null,
-      "unit_cost_usd": 100,
+      "unit_cost_usd": 0.0581,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
       "total_quantity": 1,
-      "total_value_usd": 100,
+      "total_value_usd": 0.06,
       "ledgers": {
         "Main Ledger": 1
       }
@@ -1219,13 +1219,13 @@
     {
       "currency": "QR Code Sticker 4x3cm (Kraft Pouch) - Brazil",
       "unit_weight_g": null,
-      "unit_cost_usd": 100,
+      "unit_cost_usd": 0.0581,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
       "total_quantity": 1,
-      "total_value_usd": 100,
+      "total_value_usd": 0.06,
       "ledgers": {
         "Main Ledger": 1
       }
@@ -1275,7 +1275,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2507.012,
+      "unit_cost_usd": 2496.6895,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1628,8 +1628,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2507.012,
-          "total_value_usd": 1.191232513126153e-10
+          "unit_cost_usd": 2496.6895,
+          "total_value_usd": 1.1863276711801454e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6445,8 +6445,8 @@
           "currency": "Agroverse Sticker 4x3cm (Founder Haus) - Brazil",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 100,
-          "total_value_usd": 100
+          "unit_cost_usd": 0.0581,
+          "total_value_usd": 0.0581
         },
         {
           "currency": "Bluetooth Label Printer w/20 Label Rolls - Brazil",
@@ -6466,8 +6466,8 @@
           "currency": "QR Code Sticker 4x3cm (Kraft Pouch) - Brazil",
           "amount": 1,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 100,
-          "total_value_usd": 100
+          "unit_cost_usd": 0.0581,
+          "total_value_usd": 0.0581
         },
         {
           "currency": "Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil",
@@ -9915,7 +9915,7 @@
   "totals": {
     "item_types": 91,
     "total_units": 21839.404159576745,
-    "total_value_usd": 29641.58,
+    "total_value_usd": 29441.7,
     "ledgers_processed": 14,
     "managers_count": 40,
     "qr_codes_assigned": 1182
