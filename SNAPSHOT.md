@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-26T23:48:41.711Z` |
+| Generated at | `2026-08-27T00:48:39.623Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 91 |
 | Total units | 21839.404159576745 |
-| Total value USD | $29641.58 |
+| Total value USD | $29441.70 |
 | Ledgers processed | 14 |
 | Managers | 40 |
 | QR codes assigned | 1182 |
@@ -88,7 +88,7 @@
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
 | Agroverse Retractable Banner | — | — | 1 | $72.57 | $72.57 | Main Ledger: 1 |
-| Agroverse Sticker 4x3cm (Founder Haus) - Brazil | — | — | 1 | $100.00 | $100.00 | Main Ledger: 1 |
+| Agroverse Sticker 4x3cm (Founder Haus) - Brazil | — | — | 1 | $0.06 | $0.06 | Main Ledger: 1 |
 | Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600) | — | — | 1 | $9.17 | $9.17 | Main Ledger: 1 |
 | ATOLOMOTOR Coffee Bean Roaster | — | — | 1 | $86.89 | $86.89 | Main Ledger: 1 |
 | Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | — | — | 1 | $116.91 | $116.91 | Main Ledger: 1 |
@@ -105,11 +105,11 @@
 | Heat Sealer for Kraft Pouch - Brazil | — | — | 1 | $24.70 | $24.70 | Main Ledger: 1 |
 | Label Maker - Brazil | — | — | 1 | $35.03 | $35.03 | Main Ledger: 1 |
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
-| QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 1 | $100.00 | $100.00 | Main Ledger: 1 |
+| QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 1 | $0.06 | $0.06 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2507.01 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2496.69 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
