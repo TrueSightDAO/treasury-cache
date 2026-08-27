@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-27T11:48:32.382Z",
+  "generated_at": "2026-08-27T12:48:40.934Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -251,6 +251,20 @@
       }
     },
     {
+      "currency": "Agroverse Sticker 4x3cm (Founder Haus) - Brazil",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.0581,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 100,
+      "total_value_usd": 5.81,
+      "ledgers": {
+        "Main Ledger": 100
+      }
+    },
+    {
       "currency": "Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)",
       "unit_weight_g": null,
       "unit_cost_usd": 0.813088,
@@ -260,6 +274,48 @@
       "hs_code": null,
       "total_quantity": 100,
       "total_value_usd": 81.31,
+      "ledgers": {
+        "Main Ledger": 100
+      }
+    },
+    {
+      "currency": "QA Verification Sticker 4x3cm (Test 20260827)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 100,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 100,
+      "total_value_usd": 10000,
+      "ledgers": {
+        "Main Ledger": 100
+      }
+    },
+    {
+      "currency": "QA Verification Sticker 4x3cm Round2 (Test 20260827b)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.0581,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 100,
+      "total_value_usd": 5.81,
+      "ledgers": {
+        "Main Ledger": 100
+      }
+    },
+    {
+      "currency": "QR Code Sticker 4x3cm (Kraft Pouch) - Brazil",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.0581,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 100,
+      "total_value_usd": 5.81,
       "ledgers": {
         "Main Ledger": 100
       }
@@ -979,20 +1035,6 @@
       }
     },
     {
-      "currency": "Agroverse Sticker 4x3cm (Founder Haus) - Brazil",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.0581,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 1,
-      "total_value_usd": 0.06,
-      "ledgers": {
-        "Main Ledger": 1
-      }
-    },
-    {
       "currency": "Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600)",
       "unit_weight_g": null,
       "unit_cost_usd": 9.17,
@@ -1217,20 +1259,6 @@
       }
     },
     {
-      "currency": "QR Code Sticker 4x3cm (Kraft Pouch) - Brazil",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.0581,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 1,
-      "total_value_usd": 0.06,
-      "ledgers": {
-        "Main Ledger": 1
-      }
-    },
-    {
       "currency": "Winnowing and Cracking Machine from Rusty",
       "unit_weight_g": null,
       "unit_cost_usd": 400,
@@ -1275,7 +1303,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2503.1399,
+      "unit_cost_usd": 2497.7668000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1628,8 +1656,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2503.1399,
-          "total_value_usd": 1.1893926450225796e-10
+          "unit_cost_usd": 2497.7668000000003,
+          "total_value_usd": 1.1868395613451669e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6443,10 +6471,10 @@
       "items": [
         {
           "currency": "Agroverse Sticker 4x3cm (Founder Haus) - Brazil",
-          "amount": 1,
+          "amount": 100,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.0581,
-          "total_value_usd": 0.0581
+          "total_value_usd": 5.81
         },
         {
           "currency": "Bluetooth Label Printer w/20 Label Rolls - Brazil",
@@ -6464,10 +6492,10 @@
         },
         {
           "currency": "QR Code Sticker 4x3cm (Kraft Pouch) - Brazil",
-          "amount": 1,
+          "amount": 100,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.0581,
-          "total_value_usd": 0.0581
+          "total_value_usd": 5.81
         },
         {
           "currency": "Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil",
@@ -9535,6 +9563,27 @@
       ]
     },
     {
+      "manager_name": "Sophia Truesight",
+      "manager_key": "Sophia%20Truesight",
+      "items": [
+        {
+          "currency": "QA Verification Sticker 4x3cm (Test 20260827)",
+          "amount": 100,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 100,
+          "total_value_usd": 10000
+        },
+        {
+          "currency": "QA Verification Sticker 4x3cm Round2 (Test 20260827b)",
+          "amount": 100,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.0581,
+          "total_value_usd": 5.81
+        }
+      ],
+      "qr_codes": []
+    },
+    {
       "manager_name": "SunMint Tree Planting Contract - agl4",
       "manager_key": "SunMint%20Tree%20Planting%20Contract%20-%20agl4",
       "items": [
@@ -9913,11 +9962,11 @@
     }
   ],
   "totals": {
-    "item_types": 91,
-    "total_units": 21839.404159576745,
-    "total_value_usd": 29441.69,
+    "item_types": 93,
+    "total_units": 22237.404159576745,
+    "total_value_usd": 39459,
     "ledgers_processed": 14,
-    "managers_count": 40,
+    "managers_count": 41,
     "qr_codes_assigned": 1182
   }
 }
