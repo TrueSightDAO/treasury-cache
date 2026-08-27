@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-27T01:03:33.752352+00:00",
+  "scoring_hash_key": "Pnxx0amHrtdvjO6oY425",
+  "scored_chatlogs_row": 7063,
+  "contributor_name": "Paloma",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: -11.62\n- Description: Paloma (via Founder Haus) paid for printing 100 QR code stickers (4x3cm) + 100 Agroverse stickers (4x3cm) from Tempo Grafica (Tempo Impressos LTDA, CNPJ 37.828.782/0001-64), Florianopolis, receipt dated 2026-08-26, R$50.00 total @ 0.2323 USD/BRL.\n- Contributor(s): Paloma\n- TDG Issued: 11.62\n- Attached Filename: 20260826_tempo_grafica_founder_haus_receipt.jpeg\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/blob/main/assets/20260826_tempo_grafica_founder_haus_receipt.jpeg\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: UIjo9tPs9wLPienIWqdGhMLExhxbQo+yo/8m1gZmdHPJpM2UoD95LJ5OCCGomFNvjW2sfHP7L3SL46OMUfNSUmNLpfKA/3X9VqiPBj5cmNzUIlZx+ySqRkb4GvleVNN34mLTpACnwYDpyxl6WWCMjS1l5o2/I3tkl3oNy4fC5xQIbDtw75GuiR47uZOV9oh5ktGag9sHcK+MsJgO9P00Q+FTZP1/wkj2M7smLTj6I5G+mBQdl0Kpet/Kz9qLBZmbEGR0bhVdbcQb5Teo2HNtJsl3BQlvTN+JdVbwC25ozbyS7Vc3Ay0qSuo0SF3/5JAP2tGgH1PD1N6PDgxmLvPf3A==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "11.62",
+  "tdgs_issued": "0",
+  "contribution_date": "20260826",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
