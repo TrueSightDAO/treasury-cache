@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-28T12:08:42.475Z",
+  "generated_at": "2026-08-28T12:48:41.778Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11631.24675763419,
-      "total_value_usd": 11631.25,
+      "total_quantity": 11635.726757634191,
+      "total_value_usd": 11635.73,
       "ledgers": {
-        "Main Ledger": 4939.6154213530335,
+        "Main Ledger": 4944.095421353034,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -132,10 +132,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 345,
-      "total_value_usd": -517.5,
+      "total_quantity": 346,
+      "total_value_usd": -519,
       "ledgers": {
-        "Main Ledger": 345
+        "Main Ledger": 346
       }
     },
     {
@@ -1303,7 +1303,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2504.7219,
+      "unit_cost_usd": 2495.9106,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1656,8 +1656,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2504.7219,
-          "total_value_usd": 1.1901443485787516e-10
+          "unit_cost_usd": 2495.9106,
+          "total_value_usd": 1.1859575688413956e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6506,10 +6506,10 @@
         },
         {
           "currency": "USD",
-          "amount": 31.360000000000003,
+          "amount": 35.84,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 31.360000000000003
+          "total_value_usd": 35.84
         }
       ],
       "qr_codes": [
@@ -9555,10 +9555,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 345,
+          "amount": 346,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -517.5
+          "total_value_usd": -519
         }
       ],
       "qr_codes": []
@@ -9922,8 +9922,8 @@
   ],
   "totals": {
     "item_types": 93,
-    "total_units": 22275.76415957674,
-    "total_value_usd": 39479.87,
+    "total_units": 22281.244159576745,
+    "total_value_usd": 39482.85,
     "ledgers_processed": 14,
     "managers_count": 41,
     "qr_codes_assigned": 1174
