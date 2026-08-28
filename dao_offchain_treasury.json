@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-28T13:48:35.357Z",
+  "generated_at": "2026-08-28T14:48:39.555Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -1303,7 +1303,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2498.7335000000003,
+      "unit_cost_usd": 2507.9055000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1656,8 +1656,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2498.7335000000003,
-          "total_value_usd": 1.187298898783695e-10
+          "unit_cost_usd": 2507.9055000000003,
+          "total_value_usd": 1.1916570688324994e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6712,12 +6712,6 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
-          "qr_code": "2024OSCAR_CT_20260820_36",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
           "qr_code": "2024OSCAR_CT_20260820_37",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
@@ -9926,6 +9920,6 @@
     "total_value_usd": 39482.85,
     "ledgers_processed": 14,
     "managers_count": 41,
-    "qr_codes_assigned": 1174
+    "qr_codes_assigned": 1173
   }
 }
