@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-28T02:21:22.125672+00:00",
+  "scoring_hash_key": "J4fAVNuHMAzB/h0qGiVz",
+  "scored_chatlogs_row": 7070,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Gary Teh direct time \u2014 2026-08-27: directed checkout-500 investigation (thread 15074), caught the $500 vs $5.00 Stripe amount error, instructed fee accounting, approved fix PR #147 + production deploy, approved 7-sale reconciliation and disk cleanup, requested tracking-email delivery confirmation.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: IuT/EDsyIeoV0YkpFltUiNHjp3ndOWEsSpb3WYc6iE4SmTU27WZPDjF3aSsbZC8RF7nOfQv8v+0lfFu/4cZm1FXDA3PH8k0KwJ52koSyJJ5Oa1tb5kiaAvR+oA2L01KmIzMdNXQaAyUZeXFMVOXMWBnNWsGagX9Kj7+SmCP/MM52PZeM8bjcaINkM10HAXC0XIGxOSbO+cIMasB16RewMUK/j86Cx1BQLby4lXP6GSSW73HSd5uPZllg4WPguMW1SaE/v0oP1RHtRg/yagzjYFtWkGJac2uOX/LGBLSYCyZ+rgHSyD7DnyIstLMtO45b6/lo1snRNeWMduzHxYQnDA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260827",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-28T02:21:22.125426+00:00",
+  "scoring_hash_key": "bcfdSQ1bx4FcCV91UzpT",
+  "scored_chatlogs_row": 7068,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Raw machine execution \u2014 2026-08-27 checkout 500 incident (thread 15074): SSH diagnostics on dao_protocol host (journal, disk 99%->60%, nginx), Stripe API queries (7 checkout sessions, balance transactions, metadata), Google Sheets reads (QR ledger col L/M state), git clone + full test suite runs (compileall/ruff/pytest), PR #147 open+merge, production deploy (git pull + systemctl restart + /ping verify df83d74), 7x reconciliation HTTP re-triggers (QR -> SOLD), disk cleanup (~2.9G freed), Gmail+sheet verification of tracking-email queue. Evidence: https://github.com/TrueSightDAO/dao_protocol/pull/147, commit df83d74\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: enMTQN7fD0YTDNNYNo0CXMkwr6O4ynT5AoNdsHaGjX5r5moedEeOgSAlbXUFFyN6zjZH7Dp0dfyKKGSbTrwYj857vrxzlCqAQ5Hd5CPTSBSNATdvRHmWZSS4s12x5Nc6DaIsQyVuAVDuahKtm0Kcq/vB5eQv6ftB9y8xFSoS6LxipXx/FZGu5HNHYNHva93lr992QUbpiyI+6N+Awp3YqWE26i4pacPjEeNlzGsY96c1QXmBANP9r2WsH1A+qe0o6RuIh+XxV3ufBaEec3R9ivcV9Uj0DPF5nsqJsNKAaKopePj6vlklxvC5pgWc3iSTUwV2trlEmLjB12yPWXZ5Tg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260827",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

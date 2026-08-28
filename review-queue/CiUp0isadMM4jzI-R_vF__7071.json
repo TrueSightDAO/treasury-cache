@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-28T02:21:22.125724+00:00",
+  "scoring_hash_key": "CiUp0isadMM4jzI+R/vF",
+  "scored_chatlogs_row": 7071,
+  "contributor_name": "AGL15",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: USD\n- Amount: 19.37\n- Description: AGL15 contribution of R$ 100,00 converted to USD 19.37 (rate 5.1630 BRL/USD, 27/08/2026). Source: Pix transfer receipt 27/08/2026 15:22, E2E ID E68900810202608271821h6c5KGUO8hA, Identifier/Reference 567117381, paid by Zhiwen Teh (BCO RENDIMENTO S.A.) to 99 TECNOLOGIA LTDA (BTG Pactual).\n- Contributor(s): AGL15\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: tiFywffWvBi10WMttCEq2PMOhPTsrvSW6raJQuLnD2HnMZQa3+4J6ELIj7D886am1A4j2kqskZBg5THkuMyAM62+ASnvUWud6JhwsgLYe1vrJVOhAxdZzOTduxkBodLWhkJ5QTcin7boIdsy69I4tVQckcsg1KPTiX9CT1fnUpR/Scr7nBl04E8g4ZLdvML2fXRNB53+hXUdhW9tR9pi5nK/KtSsWK+hrjI8ko9Sewu5iCr2vq25bvPnw0OKccYWfw7w3Td52l2F0FsuQmEQytUOYB3HtvsSBlSohLtIZahSgh2rUBR0nqVftvyly2/KC6dMUJrvk7ANeOOcAKgJ/Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260827",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
