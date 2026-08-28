@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-28T13:48:35.357Z` |
+| Generated at | `2026-08-28T14:48:39.555Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 93 |
@@ -13,7 +13,7 @@
 | Total value USD | $39482.85 |
 | Ledgers processed | 14 |
 | Managers | 41 |
-| QR codes assigned | 1174 |
+| QR codes assigned | 1173 |
 
 ## Items (93, sorted by total quantity)
 
@@ -111,7 +111,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2498.73 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2507.91 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -154,7 +154,7 @@
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
-| Paloma | 6 | 436.84000000000003 | 93 |
+| Paloma | 6 | 436.84000000000003 | 92 |
 | Paulo Hernandez | 1 | 10 | — |
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
