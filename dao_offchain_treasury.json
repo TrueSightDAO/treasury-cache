@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-29T09:48:40.417Z",
+  "generated_at": "2026-08-29T10:48:35.777Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -195,6 +195,20 @@
       }
     },
     {
+      "currency": "BRL",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.19405,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 220,
+      "total_value_usd": 42.69,
+      "ledgers": {
+        "Main Ledger": 220
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
       "unit_weight_g": 200,
       "unit_cost_usd": 10.37,
@@ -274,34 +288,6 @@
       "hs_code": null,
       "total_quantity": 100,
       "total_value_usd": 81.31,
-      "ledgers": {
-        "Main Ledger": 100
-      }
-    },
-    {
-      "currency": "QA Verification Sticker 4x3cm (Test 20260827)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 100,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 100,
-      "total_value_usd": 10000,
-      "ledgers": {
-        "Main Ledger": 100
-      }
-    },
-    {
-      "currency": "QA Verification Sticker 4x3cm Round2 (Test 20260827b)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.0581,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 100,
-      "total_value_usd": 5.81,
       "ledgers": {
         "Main Ledger": 100
       }
@@ -1303,7 +1289,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2437.0280000000002,
+      "unit_cost_usd": 2435.252,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1656,8 +1642,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2437.0280000000002,
-          "total_value_usd": 1.1579788963909239e-10
+          "unit_cost_usd": 2435.252,
+          "total_value_usd": 1.1571350117412644e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6477,6 +6463,13 @@
           "total_value_usd": 5.81
         },
         {
+          "currency": "BRL",
+          "amount": 220,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.19405,
+          "total_value_usd": 42.691
+        },
+        {
           "currency": "Bluetooth Label Printer w/20 Label Rolls - Brazil",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -9516,27 +9509,6 @@
       ]
     },
     {
-      "manager_name": "Sophia Truesight",
-      "manager_key": "Sophia%20Truesight",
-      "items": [
-        {
-          "currency": "QA Verification Sticker 4x3cm (Test 20260827)",
-          "amount": 100,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 100,
-          "total_value_usd": 10000
-        },
-        {
-          "currency": "QA Verification Sticker 4x3cm Round2 (Test 20260827b)",
-          "amount": 100,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 0.0581,
-          "total_value_usd": 5.81
-        }
-      ],
-      "qr_codes": []
-    },
-    {
       "manager_name": "SunMint Tree Planting Contract - agl4",
       "manager_key": "SunMint%20Tree%20Planting%20Contract%20-%20agl4",
       "items": [
@@ -9915,11 +9887,11 @@
     }
   ],
   "totals": {
-    "item_types": 93,
-    "total_units": 22286.724159576745,
-    "total_value_usd": 39485.83,
+    "item_types": 92,
+    "total_units": 22306.724159576745,
+    "total_value_usd": 29522.71,
     "ledgers_processed": 14,
-    "managers_count": 41,
+    "managers_count": 40,
     "qr_codes_assigned": 1173
   }
 }
