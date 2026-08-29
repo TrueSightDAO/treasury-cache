@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-29T20:45:44.326Z` |
+| Generated at | `2026-08-29T20:46:07.014Z` |
 | Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 92 |
