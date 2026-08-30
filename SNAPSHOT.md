@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-08-29T23:48:36.937Z` |
+| Generated at | `2026-08-30T00:48:38.090Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 92 |
@@ -110,7 +110,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2457.23 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2461.84 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
