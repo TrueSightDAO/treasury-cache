@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T21:15:50.453283+00:00",
+  "scoring_hash_key": "6LZLUWxlaaXrSUu+ijcA",
+  "scored_chatlogs_row": 7111,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 85\n- Contributor(s): Sophia Truesight (autopilot)\n- Description: Santa Anna Fazenda (Par\u00e1, CEPOTX) site-visit buildout 2026-08-30/31: FSVP site-visit PDF v1\u2192v4 (EXIF GPS extraction from HEIC, signature stamping), video evidence pipeline (ffmpeg frames + Grok vision + Whisper transcription + 3 YouTube uploads), agroverse.shop farm page + journey stop + 6 gallery photos + SunMint cross-links (#225/227/231/232/239/241/243), SunMint SA-P1 plot (sheet row + plots/index.geojson + SCHEMA.md), popup farm-profile link + slug-404 fix (truesight_me_beta #333/335), prod promotions, runbook updates (agentic_ai_context #842/843/851/854).\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: BwfYCqYHlTr4fSA3kDPAAddvF32qcjmcbzRG93pZTCo2lzLML7k00Rw7xg7OShPUeQpDZBFdpiew3tzAE5W+pbKkuQVAp4u29jjISp5/QjHRkOUNRZhh+5/XdHIe1eGhqN2HUZPQEg5BU6STb0jYkAxPCWGrLYmglZ55HNGHYo2HD9f2o41FNZjaXCIemHGWDpvSy1+g1bAGqdSAsoLKyJVNy5cdTHQbdtnAWd4YPBZoj/FBw0A6/+CkbtLZv+SvIehTQbQ/S5p5fHf/ZUQF6krzHP1z3PGad4ZoW3Ur4ie5/CebcfgoqnqB4gPC447p68Np3VyMClilZoY6ECs5LQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

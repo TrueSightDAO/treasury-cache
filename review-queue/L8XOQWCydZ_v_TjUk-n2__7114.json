@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T21:15:50.453639+00:00",
+  "scoring_hash_key": "L8XOQWCydZ/v/TjUk+n2",
+  "scored_chatlogs_row": 7114,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Fazenda Cleide (Par\u00e1, CEPOTX) farm profile direction & review: initial brief (farm context, Instagram, zip upload), hero photo selection, guidance to use Grok/Gemini for photo curation, go-signals, promote-to-prod approvals, broken-URL report, deploy + time-accounting request. 22 messages / 7 go-signals across 2.76h session.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: OJULeiDhR++cmRMX5Vtdcm8GM5NZ6rZzU2a0Qu0+Fh2zrqHJZzncr5EG2L6pzjLWUUCsL8K3T5JtH49aTkB8yV4GV6ttMn8MuEmS9MhEXgyxijT/R0NCzjvS+zWi9qUs9gCyZq2jTg8g+ctxo69ANo4XL5R0wpM9HEKBJ8AfYiOjiCiSWJCE0/91Vw0Q3L6dEHne857rKPIrjzxuD/6vHEqYbcrOqooXLJSwb/LN0bjpK9R4j9SIVeadzMQbRM1lblotivfHC3Qaq6Bje1dpKQRXN/wP1f+PCwORqyAq0pm6ozWa6kXs0IiyxoUY956iKld1I7NTmYl5IuaDpvudoA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

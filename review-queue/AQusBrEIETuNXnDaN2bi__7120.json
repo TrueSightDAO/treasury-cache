@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T21:15:50.454217+00:00",
+  "scoring_hash_key": "AQusBrEIETuNXnDaN2bi",
+  "scored_chatlogs_row": 7120,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Usage-logging tooling for truesight_autopilot_transcript (append_usage / write_meta / summarize_usage + tests)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/865\n  - https://github.com/TrueSightDAO/truesight_autopilot_transcript/commit/bcb39c0\n  - https://github.com/TrueSightDAO/truesight_autopilot_transcript/commit/3a6fef8\n  - https://github.com/TrueSightDAO/truesight_autopilot_transcript/commit/fe2ac2d\n  - https://github.com/TrueSightDAO/truesight_autopilot_transcript/commit/216264b\n  \n  Details:\n  Implemented the planned-but-missing usage-logging infrastructure in truesight_autopilot_transcript (OPEN_FOLLOWUPS #857), so \"how much time/tokens did X cost?\" can be answered with real data instead of reconstruction from merge timestamps.\n  \n  Delivered (all live on truesight_autopilot_transcript@main):\n  - scripts/append_usage.py \u2014 appends one LLM usage row per tool call to sessions/<date>/<sid>/usage.jsonl (validates required fields, auto-sets ts/schema_version)\n  - scripts/write_meta.py \u2014 idempotent upsert of session meta.json (SCHEMA.md \u00a71)\n  - scripts/summarize_usage.py \u2014 cost CLI: --session / --date / --since / --by provider_model|provider|caller\n  - scripts/tests/test_usage_tools.py \u2014 5 pytest tests (fixed a real validator bug: ts in REQUIRED blocked auto-set)\n  \n  Local suite green (compileall + ruff + format + 5/5 pytest). Smoke-verified append\u2192summarize end-to-end. Backlog closed out: OPEN_FOLLOWUPS #857 entry moved to Recently shipped via agentic_ai_context #865.\n  \n  Remaining follow-up (flagged in shipped entry): wiring the autopilot runtime harness's transcript-append path to call append_usage.py (harness is not in a DAO repo).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: ASh4iSPWtLk7J6WJzgvruwQqbn9LAXPa5VoFyOrOalnVtwSZ4J0GmtTTh2dk2BQQ2KHe53x+9apUCB42MXB86fAvSU/3zZSoLWSEaYn9P5SxqOhNmg+9goekmf6ZmRcjdV5IFfnCIqCAMYUp/BpkKTl88OvgcDZ8K3FwJiFusEWyRkBahoksJoYLHjsHrY3SkseSjLbPZAd/927EuI1aABTT+n/0tJo5RAvGdVo8vB7ZatxL2/98odnBfIII7aM6PCWo1qDDPpoleY19TzMWSlWW7gFL13O+g2ZeqpPOWP5qv7J9YkiqzpuMmZPQUloviHKdAhXpc2jeG02Fk4I21w==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

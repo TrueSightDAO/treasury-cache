@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T21:15:50.453062+00:00",
+  "scoring_hash_key": "L6QMeOfGw7CC8ZiqPki9",
+  "scored_chatlogs_row": 7110,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 150\n- Description: Paulo La do Sitio \u2014 SunMint plot registration (LD-P1) + farm\u2194impact-map cross-linking\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/244\n  \n  Details:\n  Processed \"la do sitio.zip\" (124 media files: 52 HEIC + 72 MOV; 115 GPS-tagged) per governor request to construct the SunMint plot and link the farm page with the impact map.\n  \n  Deliverables:\n  1. GPS sweep (exiftool) \u2192 115/124 geotagged; convex hull of 77 unique points \u2192 LD-P1 polygon (~5.56 ha, centroid -3.387855, -51.851991), boundary_authority=approx.\n  2. Registered LD-P1 in SunMint Plots sheet (row 6) with farm_id=paulo-la-do-sitio-para, status=proposed.\n  3. Regenerated sunmint/plots/index.geojson (5 features incl. LD-P1) + uploaded 8 web-optimized field photos to sunmint/images/LD-P1/.\n  4. agroverse_shop_beta PR #244 (merged): media.json gallery = YouTube + 8 field photos; Farm Location map updated to GPS centroid + LD-P1 polygon overlay + \"View on SunMint impact map\" link; new SunMint Tree Planting section.\n  5. Verified live on beta + prod sync (deploy_20260831T161028Z_agroverse-shop-prod) + impact map popup links to farm profile via farm_id.\n- Contributor(s): Sophia Truesight (autopilot)\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: b2g6Jsb84WkcRIKLZdaDcvIDs6mGmxQV0/FShelu++MZZ1ug5WXsvp0zxNAWpRb8cpH18cvgHkqSFFWj9X/i8y0ZCPG5L74bVeQpwQjoHs3WL45eP3i98loiYbcxQT/PYGNhclutG7IikNVZGk+TU6aTk6WgrqpbkgoZDL+tvkrBdyW8tQgFi88PdUEOzSd+l3SyPANtE7UGtVW2+rGOc1nlnd5LDcMpeTtAzV45k6+suWliQ/iDvYcOAdHv3Fsjc+eiszNg9PJIfGnGTv6SgYTuIrq+oO0cSxEkKqSad7Ou4I7LXRSbzc5sEF3S1BqzLnAKX71vO44E/q88I0VPVw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T21:15:50.453822+00:00",
+  "scoring_hash_key": "bFXRsJxvLHssScWZMPYJ",
+  "scored_chatlogs_row": 7116,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 120\n- Contributor(s): Gary Teh\n- Description: Santa Anna Fazenda (Par\u00e1, CEPOTX) site-visit engagement 2026-08-30/31 \u2014 farm site visit, media capture (HEIC/MOV w/ EXIF GPS), review of FSVP site-visit PDF v1\u2192v4, farm profile + journey + SunMint plot direction, YouTube/channel decisions, prod promotion approvals, boundary data. Focused time estimated from transcript gaps (session ffb0a03346b2): 1.5\u20132.5 h, logged at 120 min mid-point.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: bHCP2+jnumds5DoZdsOlmBIpdJBxmM118QKxc65J8X9utDfdDLzKtUhTGNR1QxAHIdfDm7wEn5QGDgo6aLMlntXHyqAAVz6FHjzypeWP5IJfreztllQxKR4JPSWbakS/mBfPSMoyWk49icmJlVNqfKOIho4bggbVVH03d/AjYEjEE7JCZePy6LK6zX8k5faZJntCXegqSoL43Fohk8GlYxHpNgBErDzjyV6J1+jCwyRAcXToC6L2sVi8z16Rb6DrHYYf41/4R+6V87/rOInL3IhttvEd5dKiyus8m2xld/GGesHhlWnr1Fgxb9rlZPBfm5tNCPer9azf77p2zisV7A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

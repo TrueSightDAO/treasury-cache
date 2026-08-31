@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T21:15:50.453995+00:00",
+  "scoring_hash_key": "WE7e2gk7neENze5T74z3",
+  "scored_chatlogs_row": 7118,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Extracted GPS coordinates (-3.208894, -52.215756, Altamira/PA) from EXIF metadata of a field photo; diagnosed how GPS survives file transfer vs stripped in compressed chat photos; drafted guidance for Jedielcio to send images/videos as files so location info is preserved.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: JDoBxTS4eDnNVNKF/bGDCGrAMcXpZ/4tunyS7nNzjlBcOzXDvb7+gQWt2XZhznJtL5EUSos1z3kJsRGNhru+MHzVSQ8vRXNFk43bZgMnQNW7jVLYYvQM2BeBHXTC3cYgpbtA4wCOBaZRCSVCxei25CRafz07Djg8V9pwkUt/rbhLW8jVZ1lrkubbV3kiWToXWiu+y5NCrgttwFwQzPwTC1mT0Iu0qyN+UZnJUpAH+4fMapjGIczeeIf+qDactSvXavOBNm2JH6QWJxxdsRhOnOv+JFw8Vz4D/VxX8LYtj9qu5USdedVpnQ5avTjQr2+c6dRGv3GiQpv5H6eYeuvVug==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T21:15:50.453541+00:00",
+  "scoring_hash_key": "jbt5TPNPwZCFHo90fKz5",
+  "scored_chatlogs_row": 7113,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 165\n- Contributor(s): Sophia Truesight (Autopilot)\n- Description: Fazenda Cleide (Par\u00e1, CEPOTX) farm profile build: processed 3.88GB site-visit zip (14 HEIC + 71 MOV, GPS extraction via exiftool, no full-extract), computed 114ha CL-P1 approx hull, wrote SunMint Plots registry + regenerated plots/index.geojson, built agroverse.shop farm page (PR #240), Grok-vision media re-selection (PR #246), URL redirect fix (PR #247), prod sync + verification.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: pREa2RxbKi6KjAmaBirSTr0jcQ2ebDBJuLKIeQCNMUoRAtYnr2bnT2JHkl+lRhu5Qw6KA1FCFDYFvA379vWD4ZEipF5XcSvpAWjc2DfP2+dedurECs6STRzKKJQzRXaO7n7KyWFELo+G8ZldZOtzfTBKyCPJaPmw085zBUGzoPXctsZ3jei57S1R97OqgoJEkiRV958cFXXT/jKsNpLB7SpBJhMrEHr3hK21tkhtKGdFIbFHhty3qNP6LtqYVG0VS4SGOhGv8bnVGtfttyMfcqjtdXmsQVEgS10s81p6AxG3WMQq0dvzI504/IE5auLNU1Mc2DFJObK58RQcoz686g==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T21:15:50.454084+00:00",
+  "scoring_hash_key": "HRMXYKY3vOsfxXhgnIf8",
+  "scored_chatlogs_row": 7119,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 150\n- Description: FARM_MEDIA_PIPELINE processing for Rancho Maranta \u2014 GPS re-injection + media archive + manifests\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/250\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/860\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/861\n  \n  Details:\n  Full FARM_MEDIA_PIPELINE (agentic_ai_context/FARM_MEDIA_PIPELINE.md) processing of the Rancho Maranta media set, per governor direction:\n  \n  - Intake + SHA-256 dedupe of 3 source zips (37 MOV + 15 HEIC, all unique)\n  - GPS sweep: 37/37 MOVs carry QuickTime GPS (34 unique coords = full plot walk tracks)\n  - 15 HEIC originals archived to farm-media-raw/rancho-maranta/photos/ (Content-API, class-2 repo)\n  - MOV->MP4 encode with exiftool GPS re-injection + verification (critical pipeline step that was missing from earlier uploads) for 3 videos\n  - 3 GPS-tagged public YouTube uploads (NZThWnbWZE8, BZRo4yPl8us, CQMPvCXaHfs)\n  - Farm page media.json swap to GPS-tagged videos (agroverse_shop_beta PR #250)\n  - Manifest filed establishing FARM_MEDIA_MANIFESTS/ (agentic_ai_context PR #860) + yt_ids synced (PR #861)\n  - Incident handling: identified + cleaned stale parallel ffmpeg batches contending for CPU\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: MP1CUHuCJ4N3bKJV23NV017y9nhFdvrxQjRNRsrwAlG2rY3JeIrRL++YDRmnqm7mRNCgTNbFcle67Hg6bMUrqPnFoH9A3Fb0/FDaVxDD7S2cICACgebKeWYG1fqi25C6yAwK8n6w0bEm86CUGHuwwH8cKr/EXbJdMcIPnmUw+SKejzKK64TBZYzuLAb7M8nn8yHd7HjDXAfSCvka8lxCgPGm9sI2BBZgodFOgk354j3ZPil+6uApKVaPVODLNZaVTFLXP+N6ifudxSNDIWKHFxyt4Pv6HkRPTxF2cM8aRGxUJRqmG93wcbjbZS8eQ9i+z9+xRRVCa3mZlRAe5FX8Pg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
