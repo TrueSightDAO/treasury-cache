@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.605274+00:00",
+  "scoring_hash_key": "Ev/R9318qeqjSPEz4v2I",
+  "scored_chatlogs_row": 7091,
+  "contributor_name": "Gary",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Governor direction for SunMint E2E campaign (Gary) \u2014 2026-08-29\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sunmint_beta/pull/28\n  - https://github.com/TrueSightDAO/tokenomics/pull/448\n  - https://github.com/TrueSightDAO/dao_protocol/pull/149\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/840\n  \n  Details:\n  Governor direction, review, and authorization for the 2026-08-29 SunMint E2E campaign.\n  \n  Gary directed the full-chain SunMint E2E (link email \u2192 plant tree \u2192 monitor record \u2192 mark invalid as sentinel), authorized the standing \u00a75g test-write policy (E2E test writes with clearly-marked test data are standing-authorized, with same-turn reversal), and drove the follow-up requirements that surfaced real bugs: the linked-email UX (unlink button deleting both keys), the monitor-tree-growth page parity, the email-sender switch to admin@truesight.me (\"instead of from garyjob@agroverse.shop also consider admin@truesight.me\"), the \"we are not using rails but dao_protocol python\" steering that shaped the dispatch-port fix, and repeated \"go\" signals that kept the campaign executing through 7 merged production fixes.\n  \n  Campaign outcome: SunMint tree pipeline fully green end-to-end (email link \u2192 sentinel \u2192 plant \u2192 monitor \u2192 mark-invalid), 7 production bugs fixed (sunmint_beta #28, tokenomics #441/#442/#446/#447/#448, dao_protocol #149), verification emails now send from admin@truesight.me, tree index grew 18\u219219, and the full procedure documented in SUNMINT_E2E_RUNBOOK.md (agentic_ai_context #840).\n- Contributor(s): Gary\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: dgrn/FkbmLr8SB/8mMaj9aN3Dii7wzdjqDvNfItYnGj8LfpBC3XpR0pkrSyBv/krosRP3wnaMrzLIsl4/IuzoJOSPJ74MPMP18EUw4GPYmfaTUvzFGG8azB3Nuxzo+IBBa1xQp1yqDppN8MgQzxZYgqdYT/t1w09EUG5Ghf/nuQByMh3KRISskukt80w+tqTFcSeU1YbvEWNgwldv+ngyCFQjRN5yCAivaXwlq94R6n+jZ7wojZigfeYaeZsGvpS2J9qgmqHBvVFAEfWU9/K895EBS1wNhUfqxXz2rAYozTGME4A3TJ/CwY+VIRxBjOvGapAesB6G4l9zhm5fkc81Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260829",
+  "found_in_contributors": "RESOLVE FAILED",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

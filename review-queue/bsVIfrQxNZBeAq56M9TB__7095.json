@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.605602+00:00",
+  "scoring_hash_key": "bsVIfrQxNZBeAq56M9TB",
+  "scored_chatlogs_row": 7095,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 30\n- Contributor(s): Gary Teh\n- Description: Governor oversight of deploy incident: directed deploy of PRs #341-#344, drove the retry after deferral, reviewed the self-restart SIGTERM deadlock diagnosis and the #345 fix (restart self LAST in multi-service deploy restart), and approved the deployment.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: IqGy4OD7PpHlEHOGnoNyrZNEiZ9kzfA0dAzAY8jn60urmLWN1gAryQgpLTdRdJTpuYPXh1QZXarBaYsjVKd9lyCXbVBv9S693OB0RktcO00w0p4mGZtiP+UlnTbOra6hAeLcpXeeIZ8gWAfitB+oJDSBfd8257ZBP/txc22yhIYun5S1jbK0rBt7XjPRv1JOjqm2d0lsoUoQEUX6TOnIrXlLRnSDoFbY0vv2rKDkZyrfUCA02PBFxdwIzWSJJX0iTU2dp2NEQsR2ESyRNKUbAohwIFwSuM0SsScrbxlEPs8T3b/eY/8OiVYfu+L0vdcA76pDzSZSvTcKaySEUBALYg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260829",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

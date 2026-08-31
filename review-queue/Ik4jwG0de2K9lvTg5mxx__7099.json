@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.605990+00:00",
+  "scoring_hash_key": "Ik4jwG0de2K9lvTg5mxx",
+  "scored_chatlogs_row": 7099,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Emoji-GO feature complete + hardened: PR #335 (send-path auto-flag for RESUME HERE), PR #336 (edit-path auto-flag root-cause fix + drop \ud83d\udccc-alone matching), PR #339 (deploy staleness check \u2014 detect telegram adapter running old code; unblocked deploy). Verified live: \ud83d\udc4d on RESUME HERE turn-reports now resumes (journal 15:36:55 msg=16150 -> dispatching turn, +20 more events). Also opened+closed dupes #337/#338. ~60 min active work. PRs #331-#336, #339.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: c4hmVLN2TH3kE4pUPqP4phr78Jd1RMeQiK/Sm6pWrgaSfenwmGQQAt3x/tGYrKaE833/AtxhNYGnJVVPdXVQSWPRSQLyx8ozxu1XccezdneQgwXxO1PKRXrBv6YcyHLYkWkvsy8MZE6EXN4qPSW8y5T9x8m8j768hvjSsDKEAr4ClGgcG8cUgtN26SgHMYc44+K9x19VLkdXSf1lReez+TYUengf8vQYiXGtzmhwBisuGv++JJL8WPklQcsa/K/M4+q7BS6mAkNBpm8C0X/SNqHBkI4y8utLw5z9b/Qi2zeSvrjXYvraagfrG6KGwwV684+MiccAk7myM2VcFaDUXg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260829",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

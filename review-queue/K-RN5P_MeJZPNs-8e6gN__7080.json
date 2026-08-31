@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.604116+00:00",
+  "scoring_hash_key": "K+RN5P/MeJZPNs+8e6gN",
+  "scored_chatlogs_row": 7080,
+  "contributor_name": "Claude",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 145\n- Description: Group mention-gating: design, build, dual-instance deploy, and full E2E validation\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/319\n  \n  Details:\n  Scoped and built group mention-gating for Sophia/Bionpact (PR #319): new /chat/observe endpoint (logs unmentioned group chatter to session history with zero LLM calls), adapter-side mention/reply-to/member-count detection, always-full-processing carve-out for attachments, 21 new unit tests. Merged, deployed + verified on both Sophia and Bionpact. Built a companion fix for claude_telegram_monitor (PR #2) to support multiple known Telegram chats with bounded discovery (avoided racing the shared listener's getUpdates poll while finding Bionpact's new group chat_id). Ran 5 live E2E scenarios against BOTH instances (unmentioned-silence, mention-response, reply-without-mention, context-continuity via /chat/observe, attachment-always-processed) \u2014 all 10 passed, including catching and correcting my own test-construction mistake on one Bionpact run. Notified Liz directly in the Bionpact group once verified.\n- Contributor(s): Claude\n- TDG Issued: 241.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzLIMT5UgBLYEvfv1NRpTwJO9CuS/clkx1oxz/IYKu9p/4uW3WFLbiotp2aEOGSDkB69B4RkONGpVL7hMqmk57eizdoVLiEKXZXLzxIwzbOoo8hEOWwJ+30pBSwnz1jDDHfbcHu1oFsnBjSIvg8Vdv/VtEPsvGK3vVivHvnzRtwyscUaBtcLWSwzEgp02NLNFpBZNBiaB9bQCt+F2EXv9xuHO4SNxG1aN6uZYQEaTEdz5U3fZSWyk2ZEXojNSYhjoFMND2phAPlMaPESJrBhLwLSpgmQiBuYBsvCSxZSNvNcuZqUdtntu4XJnwTt0RhsnhuK/Xx48sfUbN69bUYa8UwIDAQAB\n\nRequest Transaction ID: RfjEEb7keeAzOy99OwSG1UCXCCnwWtCcw1AE+kMlkKroXaKKF7NiI3l7De67zqANVlkmI5ndKnLZXdiE5RWDQoC/Jkg/F2Zb2DUeZ0Fwds9tLNmFOR7WN8sdWXNFtKSHEjwX8kk/h/VBXvkBmNJuxFvlfTCjM7v2uZRD4CMtDxWDkHbDdSd9aRt00rrQRadO8eliXFwvDSXbiKypq0OTx/gTKT4dZdAgP4wZWOTa75DRNxgMN9yuwHPxpdZxW66m5P0Y6sX5eNUjy63x30jzLzyMy0gpzpUpb9nKwUL9Gce87wRGm0nMzMdfMe21rjnT7goLPdK906+qLDDiiT0Pqg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "241.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260829",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

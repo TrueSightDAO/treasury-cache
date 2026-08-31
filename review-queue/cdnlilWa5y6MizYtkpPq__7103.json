@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.606338+00:00",
+  "scoring_hash_key": "cdnlilWa5y6MizYtkpPq",
+  "scored_chatlogs_row": 7103,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Raw machine execution \u2014 Brazil cacao two-variety analysis report (thread 16817): zip unpack, ffmpeg audio extraction of 4 clips (IMG_7654/7669/7672/7673), Gemini 3.6-flash PT transcription, 51-frame extraction + Grok vision phenotype passes, ~12 web research searches/extracts (To'ak, MDPI 2025, Revista Alfa, Embrapa, Mongabay, UFPA), reportlab PDF build \u00d76 iterations (v1\u2013v6 styling/overflow fixes), pymupdf verification, Telegram deliveries. Wall-clock 02:20:47\u219202:53:52 UTC 2026-08-31 (~33 min total); raw tool-execution portion ~15 min (SSH/ffmpeg/python/API runs). Contributor: Sophia Truesight. TDG 0 (informational).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Wz5AqaqeybVO4+9lfbZC4q1cFmrYwasoodTSjkuiQvvOziNv//YXzvPMQLgj90S2B1YCkEZk7+vkBsZk3dcWmwbzTvgPCmCSKQolAdJubRFa4oR7DN2e/ISN/yx6o3qKxtCjt3BfUFx6ZCDKRRQEF2Ir1HgLNu4CzjRcTeyWQSN6Q2awsizTdReInMlfNfNxoRnnzaVvN+KufHdOaaK0bPaujnDsOOEk3XBZF8Y363206qazUWgBEOjeWPiSsnef9czPc0crSFnARK8x1vtekd5EWH/btZL5jRrSSB2zFzghjas9oRJzW9S95GRK0gjc7GMrxYKTj4ti/dnIKYwnxw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

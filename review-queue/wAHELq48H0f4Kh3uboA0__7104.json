@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.606420+00:00",
+  "scoring_hash_key": "wAHELq48H0f4Kh3uboA0",
+  "scored_chatlogs_row": 7104,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: SunMint Plots sheet tab \u2014 source of truth for plots registry\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sunmint/commit/97a57cf\n  - https://github.com/TrueSightDAO/sunmint/commit/12c277b\n  \n  Details:\n  Created the \"SunMint Plots\" tab in the SunMint ledger spreadsheet (SHEET 1qbZZhf-...) with headers matching build_plots_geojson.py FIELD_COLUMNS, seeded with the curated RM-P1/RM-P2 rows (plot_id, farm_id, name, hectares, status, boundary_authority, owner, region, notes, coordinates polygon rings).\n  \n  Round-trip verified: ran build_plots_geojson.py against the sheet and confirmed output is byte-identical to the registry (ignoring generated_at). Normalized the seed (dropped null/empty media/verified_at) so future builder runs produce no spurious diffs.\n  \n  This means the plots registry now has a real, human-editable source of truth \u2014 adding a new plot is a sheet row, and the daily rebuild-plots-index workflow regenerates the GeoJSON (with preserve-on-missing-tab safety).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: BHQQ8RpvYN3uT/A9R+4oF/YvYN7ZnYLudWoE8qwtpevzygfoEN5mOiWm7PHZ6uYjd2lokJPQbnhreLhDK0C5gTdJr3pwRSv1K+FJwVfH/94ONcBp+3X0pdQlFmXcNB20CyXyzi/G3mq8R4l8QafagmNsdZWqCAADxp97sDUs7jFAtbP34eZ7ddf/S7hv/qaCOzWyQBvW4/IO6mYcqVJGe62emSYmO+DS+imN47HMze214qOY1xJ8fzNGfmfWTjm0+Zu8LSlbt/fxMp8T8LopLtThK6kewlC4WKS/BsrDjiV44UNi+Dy0B8LL9TdJNaDL4/yu/PqPQ/3wrdRDc93ibg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.604003+00:00",
+  "scoring_hash_key": "50oQn9ZSPZ5B3+Kg2kA8",
+  "scored_chatlogs_row": 7079,
+  "contributor_name": "Paloma",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 3.88\n- Contributor(s): Paloma\n- Description: CORRECTION of earlier submission (USD 38.81 was wrong): Paloma contributed toward the bougainvillea tree (FOUNDERHAUS_BOUGAINVILLEA_20260821_1) at FounderHaus Farm, Florian\u00f3polis. Actual cost BRL 20, converted at 1 BRL = 0.1940 USD (mid-market 2026-08-28) = USD 3.88. This entry supersedes the earlier USD 38.81 CONTRIBUTION EVENT.\n- TDG Issued: 0\n- Type: USD\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: RNNVZyCXFkTuxQ3NDP9ZRC2RY6wZUu/fIzBwu+yrmftLeN17LdUQZbmagiKI9aOfzYEMwUGMiAwMtxoMEnwc/MiFoq+74RZTYTUStOeJchxjHV+TNLKNPDV8HbN4oEFBlbvGrARziGO30tji1pS7b9XkYjo5TvSLV1DUVbz7ScFy/BzHZSL7F3JUUJm5E3rOIGzYOj2y2oeoXqrv04ASu494WgYo+tvsacs27OPz0RZLfZrm/J505ScKvlxGIZe1m4oQs8XEFhx+GeSP9buDfCb+bI2NL7IGrNz2LuCr3xunYWliEj+kzQG2txgB9fKDj1Usj7imTNJ3Ny8xYtQ3ZA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "1TDG For every 1 USD of liquidity injected",
+  "contribution_type": "1TDG For every 1 USD of liquidity injected",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260829",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

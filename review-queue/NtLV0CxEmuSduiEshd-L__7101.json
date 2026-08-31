@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.606154+00:00",
+  "scoring_hash_key": "NtLV0CxEmuSduiEshd+L",
+  "scored_chatlogs_row": 7101,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Contributor(s): Gary Teh, Sophia Truesight\n- Description: Retrieving the FounderHaus bougainvillea tree QR code (lineage-assets) for the signage project \u2014 locating the minted QR, verifying it decodes to truesight.me/qr/?id=FOUNDERHAUS_BOUGAINVILLEA_20260821_1, and delivering it for printing\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: PSCjvaixWVF/OLBbbr2uiCA7R0LjQNxJfxQrwRgMaCYregawU7A25A4e9dTB221C0Umd6NvHIfvFLGZeu0neT3S1/J8nwulejgkBKJ2lHUyyc8bqxerHVruExyhFUknuIpHEJ3YCL8GANKZDoHJ0USXf9J1HGtKOXnvq3+MOv4eZMJAnpplPvkJ12vYVsszo9p1I/mv3LyHk3rMYy+Lu4QLi559I0z8iuDmCENuTESkvmi9s/I7U5IALYPU5EATHVXVaMZse1Me0p9T9WrVGxb+QlsEQs6rckybxc0TxlOLf/QX744RHCiBWQ2j0AaRYedIJpB/cekHPWqX67HnHfQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260830",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

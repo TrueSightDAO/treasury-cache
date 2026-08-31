@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.604219+00:00",
+  "scoring_hash_key": "gxitSWUDoLyzeKXch7Im",
+  "scored_chatlogs_row": 7081,
+  "contributor_name": "Envoy TrueSight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Description: Oracle draw false claim: diagnosed + fixed read_oracle_logs canonical source\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/320\n  \n  Details:\n  Gary caught Sophia's 2026-08-26 morning standup claiming 'the latest oracle draw on record is from 2026-06-03' -- false and misleading (Gary has drawn almost daily through the present). Envoy TrueSight (this session) fact-checked the claim against the documented system of record (agentic_ai_context/oracle/GOVERNOR_ORACLE_SOURCE.md + lineage-credentials/programs/truesight-grounding/pk-iWL9OH9hpE_D/practice/), confirmed it was false, and identified the standup was reading the wrong, documented-stale oracle_logs repo. Sophia Truesight then diagnosed the exact tool responsible (app/tools/read_oracle_logs.py), rewrote it to read from the canonical lineage-credentials source (same interface, so no other caller changes needed), ran the full local test suite, opened truesight_autopilot#320, and after Gary's explicit go, merged and deployed it to the live autopilot service (verified running commit 72ff72c). Estimate, not a precise timesheet: Envoy ~20 min (fact-check investigation across Telegram logs + docs + lineage-credentials; orchestrating and independently verifying each step of Sophia's fix via GitHub API + SSH); Sophia ~20 min (diagnosis, code rewrite, 4-check local test suite, PR, merge, deploy). Total 40 minutes, split evenly for this joint submission.\n- Contributor(s): Envoy TrueSight, Sophia Truesight\n- TDG Issued: 66.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAoUrR+L3uBQ9iZmYxAkasVc07F8u+JrtfTJ3pbtCAjqbGwSMMsN8c2lGR+DZMh3iznuCV4rbboeI7Zzwfn4IHybiNb/HI021ASmRFWm8X7C9TZ1VTqk8Szztd09Kq9jzL558MSS5Qxn8Y8GSnykahNa7OOdFyg51zoPzWStpfSJJbDjQ0QMuLdAKnXVdiqyTD0RUrl6uJn1AgUEXTwMAiiQUJlMaS0aNSiAdLLEdXMkNR6YZE5mwwxOdwlp86mJRKAZRhrUe+ujic3o9CVrDUJzMrUGFQ9zAwet0LD7JNyPfwX77eeGCN6OakGIBEaJ25gPHnyDdBZ7sL8QNDZNXhKQIDAQAB\n\nRequest Transaction ID: kkkc/MBziI5MVtZck/A/f7O0LbTh/Mx7kfkak04lZw2Mpp07tcwpSoZNkPLSgPvim1QQaR0WySe8RkwQWGo0k5HZMfAQcW8vjF2oYk63RdxbB9Hz+vIgtsw6BKtX/zJhiV5QTuajDrtHAuwq1xXH4Vn+BLPhLt+sZ431b0lq84aJyHwjg8BEm9M5kFK6jYOvE6duXcmjyxDjxwffnv7mYnI3IbzX6E4rTF+UMCO5IoWJxTqsV8PrKsa7ZNKViH8TP76v5eWWsEZUdmhLesKJRPRIEl0gMWe47JaWzSTPZC7VIgde6UQHiCIBn+ogrPeFQzKPvRf14uDpjvFH5uorsg==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "66.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260829",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

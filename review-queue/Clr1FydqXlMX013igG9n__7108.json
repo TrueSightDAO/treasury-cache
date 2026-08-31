@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.606743+00:00",
+  "scoring_hash_key": "Clr1FydqXlMX013igG9n",
+  "scored_chatlogs_row": 7108,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: SunMint Partner Briefing (China partner) - generation\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_me_beta/pull/323\n  \n  Details:\n  Generated the SunMint 'Live Data & Systems Briefing' PDF for the China partner inquiry (3 iterations): verified all live prod URLs + open-source repo visibility, documented the data caches (tree registry, plots registry, satellite manifest/scenes), the carbon formula, the 3 partnership asks (PDD filing guidance, farmer data gaps, buyer outreach), and the smallholder income constraint (USD 20-30k/yr). Honest data-publication status section added per governor review.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 25.00\n- Attached Filename: sunmint_partner_briefing_20260831_v3.pdf\n- Destination Contribution File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/sunmint_partner_briefing_20260831_v3.pdf\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: pKK1E1Ge4jgfFXAgrtOuwaNVbcUThDJ8xR98AMyFLO4cha8vpDXk/5O0iT8Oh/Ju62OnjbeJJiwW+hvqA6tNSS1Byn7OyGzkdduzItu/GGvTQJM+MviGMUwYa73P9JcWdsZ3NzkWn96c5Ct85PofKULptz+JFgPfL7Ff3eW1VbPL19e15f3yt9CatrCOFhX2HCRbp7WSxn0+8u7RXQiKUR36+ZNOYwhsyV2tpKx5+m2wzvPW4RrbwyVJqf4TjJJA534GJGoiT/CqjKeWOcWx8tPHzFv+NcQCq4pNh8z4JNq20Rvmn2S7NsXM5R2mnx+4f/pioe285x/Qd3dzggdBSQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "25",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

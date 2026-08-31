@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.606500+00:00",
+  "scoring_hash_key": "46vR7C63hKyc/K2UhQcx",
+  "scored_chatlogs_row": 7105,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 18\n- Description: Direct time (engagement/analysis) \u2014 Brazil cacao two-variety analysis report (thread 16817): reasoning over the farmers' Portuguese field evidence, variety identification (grafted CCN-51 Ponta Verde vs common cacao), phenotype verification loop, research synthesis (history/genetics/chemistry/taste/Par\u00e1), 6 design-diagnosis correction cycles (borders, headers, table overflow), contribution-report preparation. Wall-clock 02:20:47\u219202:53:52 UTC 2026-08-31 (~33 min total); human-equivalent analysis portion ~18 min (estimate). Contributor: Sophia Truesight. TDG 0 (informational).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Jav2MpoFuQEkh7mnwa9MPmciKj6qlsIM+sLQQU+i6E/H3fA7L6CONxc0X6WUp5BChkZLSStY05xNgOSiN/Ctxp4w70eRsVq3TwWuRN5lxu+WCYsHSqQpPI5bvhF4kno1bId5mxDOFzoNixLNANU6fK1UTjDeN4tpv90CjLAiL4Db91SrcaXHmsX44bvz7ty473V3rrwlrU1kq1HSmkT491hR2IPU0BwEFnYi6b75PrFxtKsS9MdemN5Uz94OPB9i+9XB0nNeB2xnqrCHXzfV64wtsNgjwkuobYI9H/orYRXTz2C2taEmCAay1GQSTdwjWoIQB9oJpcvJTILWS1uO9Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260831",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

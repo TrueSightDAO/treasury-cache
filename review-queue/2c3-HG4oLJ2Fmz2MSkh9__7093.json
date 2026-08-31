@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.605441+00:00",
+  "scoring_hash_key": "2c3+HG4oLJ2Fmz2MSkh9",
+  "scored_chatlogs_row": 7093,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: Kirsten Ritschel's cash sale of 3 chocolate bars to Elizabeth Wong (Liz), plus fixing a QR-code validation bug hit along the way.\n  \n  What happened:\n  - Elizabeth Wong bought 3 chocolate bars from Kirsten Ritschel for cash; Kirsten Venmo'd Gary $30 (8/25/26).\n  - Submitted 3 [SALES EVENT]s (QR codes 2024_20260710_24/22/11, $10/bar, sold by + cash collected by Kirsten Ritschel, owner Elizabeth Wong).\n  - report_sales.py's CLI rejected all 3 QR codes: its qr_code_format validator used a regex requiring a farm-token segment (e.g. 2024OSCAR_...) that these legitimate legacy-format codes never had. Verified against the live \"Agroverse QR codes\" sheet tab that the codes were correct, not a data error.\n  - Diagnosed and rewrote dao_client/truesight_dao_client/validators.py's qr_code_format to check against the real source of truth (lineage-assets/qrs_index.json on GitHub, generated from the same sheet) instead of a regex, mirroring the existing fetch_treasury_cache()/ledger_name() pattern in the same file; kept the old regex only as a fallback if the cache is unreachable. Verified: all 3 real codes now pass, a fake code is rejected, and the fallback path still works offline.\n  - Handed the fix (full diagnosis + working diff) to Sophia via Telegram to apply/commit/PR (not yet merged as of this submission - PR evidence to follow separately once it lands).\n  - Traced the $30 Venmo cash proceeds through the treasury cache (per-person USD custody tracking) and submitted an [INVENTORY MOVEMENT] (Kirsten Ritschel -> Gary Teh, USD, 30) so the cash handoff is captured on the ledger, not just the sale.\n  \n  Why: keeps the Main Ledger accurate for a real cash sale, and fixes a CLI validator bug that would otherwise keep blocking legitimate legacy-format QR codes for any future cash sale.\n- Contributor(s): Envoy TrueSight, Gary Teh\n- TDG Issued: 100.00\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: bHtpiGa0d4jrzQFupf1OEW1us/59XhNkGaO0Dft8PBSWJI1TdS5kw8d61wTGyawPMwklK90OSC2DLOsx2eQTKMwJgmIlD+8BMP4q6GlsuiOI+6AGmHUJCjibFbK3qq92TDZgXeNsOHoEsNL020yeWEbmCw3GFkcNY5YZuywE0+Zgjqn567TqsBlw2zqZkum0X4mcXDEnomOrm1uEqEMEnpP6Q8atsWSuzM67gFnX0fE6qMrhy0l/zJ4ygCK347rXu86wR7Zz7x4ew9SAEL0uF/mj/e1picy7uKOeW1NgzM0TzGdYbNAx8Gr97h6hGbqKE6XZ+TxeXVBBTqx0VafAvw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/dao/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260829",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

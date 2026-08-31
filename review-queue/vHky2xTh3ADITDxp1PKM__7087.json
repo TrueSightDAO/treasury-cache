@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-08-31T15:45:45.604851+00:00",
+  "scoring_hash_key": "vHky2xTh3ADITDxp1PKM",
+  "scored_chatlogs_row": 7087,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: PR1: receive Telegram message_reaction updates + emoji verdict parser\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/331\n  \n  Details:\n  Emoji-reaction GO signal plan (plans/SOPHIA_EMOJI_REACTION_GO_PLAN.md) \u2014 PR1 on truesight_autopilot.\n  - What changed: get_updates sends allowed_updates incl. message_reaction; reaction_emoji_verdict() parser (go/blocked/custom/none, deny-list thumbs-down); _reaction_reactor_authorized() security gate; handle_message_reaction() logs reaction + authorized/go verdict; run() dispatch; settings.emoji_go_blocked.\n  - Why: enable a reaction-based go-signal for parked handoffs.\n  - Testing: 791 passed / 1 skipped locally; ruff + compileall clean; 3 pre-existing test_events_catalog failures (reproduced on clean main).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 100.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAqzlv2GZuGxtu/rwzEjyRKEhwZLpMrU7NxPMEdjGhvlMqq+A/ZuDOU95WnpqFoLrebNAoHXis+rYuR8wcMppnoFMO/4JSy1YByYvwl0UQ8vl1UZo43hsnzel9/i9D50nXd7bgraTF10GcUfksAO+PTamwUovQq5wQfuDGEQsIidsy518+jdWKkesfnlUDMrx5AIvHgPEY7gTI/SAS4Z0IwUEyDHRM5nVg6EUvXw7Q64tyVppcyEEnHF0BzK7UB82HYthQWDfncJcTclo+ZEo7GXuFoF4Y4gdRs+xjiNZcVZ5QUXDBYuHEwR1eArok0tyZFusyEhkF3BHmWWG53ysUmQIDAQAB\n\nRequest Transaction ID: IJZDcOnTd/klamQUa6s+NEni2b9cPer2OonNGDv0lzsKciasOUmEMli9KC0eA8joN/kfqw5JieHiKoTD2D7wUbDbJWKVTm4a9QXNBBN0laxySzCJQHs+OecX25fKkRFUT5pILLvUhdkU+WBgToTMnS2GfAE/C/COCApGAP6ie/e+lj6i10E7sZlftuo74CsB4QPxhU7OPSWz6zibzQ5CTA/x/3rwKLh49MG+WKct5dNZDiyuEsGzjN/Pt5TC/Ra4bgpCO8120VUhjAPJzFcF3iBetxolAzU9DnOc2bYsZLbE7x8dypP3OYd87bNTMgMibhXITglc84SPzsTf27E/aw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "100",
+  "tdgs_issued": "0",
+  "contribution_date": "20260829",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
