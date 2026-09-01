@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-01T12:59:05.353799+00:00",
+  "scoring_hash_key": "3LIzdgqQ4a4sj/9oLARO",
+  "scored_chatlogs_row": 7121,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 300\n- Description: SunMint boundary submission pipeline + impact map extension (2026-08-31\u219209-01): plan, extract_plot_gps.py + tests, Limites da Fazenda capture module, farms seed index, FARM BOUNDARY EVIDENCE EVENT catalog + dispatch, UAT (7/7), dao_protocol deploy, prod promote. Repos: sunmint, sunmint_beta, dao_protocol, agentic_ai_context, truesight_me_beta.\n- Contributor(s): Sophia Truesight (admin+sophia@truesight.me)\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: mNyM59MOxlHo48VP5geSusvPAISlRAhHpE3uKCoEiYZzA6At/LUtGjBl/Cd2apAiCXcuijg/aY+HWTbG6tTBCrMvB9Q67GittBqCs/HUlYirnC2ZsuNliQKprDk2RYvHJ1dyR83l7HL8dSNCbKSBFch6XchuIpVxFpSRTmqSVGZAWAJBzM21bX3Q7tOpqtjahWYoSaiHh/dcWV8mBxxfmcMxCitJ+NthmQZH9JdkLetTzYv5EPUq2JuAKULThbo7NyhryXIcFxtBPK9aAZYjUYn3Cy+VkPD7JGjgs6hqts0W2AhceUZf6o6rkBasRhYRKUt2tRu8d5avlM4gZgf1gg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260901",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
