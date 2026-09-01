@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-01T17:15:15.833015+00:00",
+  "scoring_hash_key": "aheEOgP5KW5uEAM34WhI",
+  "scored_chatlogs_row": 7123,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 150\n- Description: Governor direction \u2014 Media Archives Pipeline (MAP): daemon, dashboard, CI gate, farm gallery\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/265\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/378\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/376\n  - https://github.com/TrueSightDAO/farm-media-daemon/pull/8\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/879\n  \n  Details:\n  Governor direction + decisions for the Media Archives Pipeline (MAP) build (thread 17181, 2026-08-31\u219209-01): farm-profile facts (production/tree age for Cleide, Paulo, Santa Anna), MAP terminology + renames, YouTube budget model (artificially-high + 429-pace), sentinel access direction, dashboard UI review (vault-style + cookie session detection), CI-gate direction (quarantine pre-existing failures), farm-page gallery wiring direction, contribution/time tracking.\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: szB1s9o+uMaYa1yO1bkYeGySEHVxRLyQ5C2D5sJnmc6q87/G9ytvWRU5MFq9tsEj4QUUfcPVJObcjVD0BhG8H4WJ/8al/iqb6kQ18wRrLTYlZTYyxk81Hy0bFDdjMP8bLt9A6pbLSbtP0vK+HIf4cFA9yf729Fs2QuFzLHbOGW4IuA1iDCb9cXSSv8PoCxdoeIwLOD3lMgNa51hr1BT1ZvWAbt6Klv+BMHXT4p2qTmLq3c4AlMVrdro9xYgbZanCJKaJsGawAYq9E/DwiSMN24Qzd0wXr1xJfPfLgablIjvGACBcZ0JbwzeDQ6szQ4SJvNs5ivirE4zo6zjogMFEyA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260901",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
