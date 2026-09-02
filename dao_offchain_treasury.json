@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T20:48:33.325Z",
+  "generated_at": "2026-09-02T21:48:41.923Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -1289,7 +1289,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2391.2901,
+      "unit_cost_usd": 2393.7854,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1642,8 +1642,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2391.2901,
-          "total_value_usd": 1.1362460632165663e-10
+          "unit_cost_usd": 2393.7854,
+          "total_value_usd": 1.1374317306525433e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4135,12 +4135,6 @@
           "qr_code": "2024OSCAR_20251108_6",
           "status": "EXPENSED",
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251107 | San Francisco - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20260121_9",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
@@ -9874,6 +9868,6 @@
     "total_value_usd": 29531.34,
     "ledgers_processed": 14,
     "managers_count": 40,
-    "qr_codes_assigned": 1170
+    "qr_codes_assigned": 1169
   }
 }
