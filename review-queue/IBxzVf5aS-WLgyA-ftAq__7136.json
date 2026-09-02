@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.532717+00:00",
+  "scoring_hash_key": "IBxzVf5aS+WLgyA+ftAq",
+  "scored_chatlogs_row": 7136,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 30\n- Description: fix(roda): Start/End Roda Session now control audio\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/capoeira/pull/41\n  \n  Details:\n  Diagnosis: on capoeira.agroverse.shop/roda.html the Start/End Roda Session buttons only drove session logging + timer, never audio transport. Boot autoplay attempt in loadCurrent() is blocked by browsers (no user gesture), so Start never started the berimbau music; endRodaSession() never paused audio, so music kept playing after End. Reported by Nobody Will.\n  \n  Fix (PR #41, merged): added els.audio.play().catch() inside startRodaSession() (runs inside the click user-gesture, so autoplay is allowed; track src already set by boot loadCurrent()) and els.audio.pause() in endRodaSession(). Session-logging pipeline (localStorage resume, Edgar practice-session submit, track dedupe) untouched.\n  \n  Verification: live capoeira.agroverse.shop/roda.html confirmed byte-identical to repo main before edit; post-merge headless-Chromium click test with default autoplay blocking: INITIAL paused=true, AFTER START paused=false + currentTime advancing, AFTER END paused=true + currentTime frozen; zero page errors.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: oRSvfxXQjNDTXvgNFgsc2+OO3AqPPcJsfVAY57twe8nptJrNvwIwqG936XOi8bd57I28/vIjsIFNwOs/2yvll/DLtXYwPDE3aIug3KbtzXfIYyMaSxs9W8xl6cUVpq7y1IlYveBIz511A6KdOIq5nWQ67KeOFMadE9IqS45BOT5mN5idOecW7TWD2Hj2O/t0JkZYFxkAhs597PRqnZ0imqywGJ2aEQdj5L4mAI5UJN4awtDLZnoscNTTZ24X2t3yTbvZYFV1DgVM4xvY/qbXNMij/FFrl5q34L3AXr3ZpdC42eiXVQgAM2OGGoquGsmL3yFOU+PbbdSeAqKtPmeVlA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

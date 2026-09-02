@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.532354+00:00",
+  "scoring_hash_key": "L6ft2MwvpMvNxPpEC71Y",
+  "scored_chatlogs_row": 7133,
+  "contributor_name": "Deep Seek",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Description: SunMint Android v1.4 \u2014 sync sunmint_prod + build/publish APK\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/sunmint_mobile/pull/28\n  \n  Details:\n  Synced the current sunmint.truesight.me web app (sunmint_prod) into the Capacitor mobile bundle and shipped Android v1.4:\n  \n  - Added nav entries (Limites da Fazenda / Instru\u00e7\u00f5es) + file-path routing to index.html and monitor-tree-growth/index.html.\n  - Added bundled pages limites-da-fazenda (farm/plot boundary media; adapted with secure-storage RSA keypair, native geolocation, in-app download-CTA hidden) and instrucoes (+ send-as-file-tip.png).\n  - Bumped versionCode 4\u21925 / versionName 1.3\u21921.4.\n  - Rotated release keystore (previous key lost from /tmp); new key stored durably at ~/.android/sunmint-release.keystore (chmod 600). New cert SHA-256 278d820d\u2026.\n  - Built + signed release APK (apksigner verified) and smoke-tested on the Android emulator via Chrome DevTools \u2014 all 4 pages render and navigate.\n  - Published to sunmint.truesight.me/sunmint-android.apk (verified byte-identical live).\n  \n  Deploy commit (direct to sunmint_prod, no PR): https://github.com/TrueSightDAO/sunmint_prod/commit/2df7cd3\n- Contributor(s): Deep Seek\n- TDG Issued: 66.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6owTwrPjyqz1ZS/TkLogP2YTQ51ESUwsdpU7YRKD+J60FGSZYmxbLx5/nrjXuJeqzez54tubq49vkdiSrJzPCsjtP6D/nPJKki3dJnx/9hFWVu6NgmqlKvXQecAxd/0EhuMw2iEzCfZUr7vz5DOA/Hzd7V/VQCKhBYwD23+H+XqRDYzEwwOqnmaLLNj8sNh0GpCxz1CtdLSB6tm8x0aJkcjfx5A7M407ZccL3FrdHM26eI7R5v5kS4uOrYJBj27GmtAHRZOp4or9LLX991l6/7HHOhluXwpqmg2b1Rlww7gbriL66+dZbW5rpuo7PdDc6DJe4Ij4dJULqfBx0aI4UQIDAQAB\n\nRequest Transaction ID: KiVWH+JbDm5lssXtQqMlthJutNzK1YylS0OzD//xpU81wEsnyjSkSK58L0RhAMTyBzb3PdQU6foQGF/8k16ZINyIB6jkEeIqsbU26NLzcGt0NO3L0FGiJJwHWbo46QlW6zifikzgd/af+pORwC8APrr2UMhI2ri6FnPzm6ANiY3gkfqpOTIF2NTyTozWxGvkbZwfmdIRt3+F7qt963FL7hphaQuudRb04zgfbSRMUcGXRtcF0JEHjGXn5JueK5aY6wgIFu5C4rj0rczZa030Q2dWPHitM7AEOWJXLV2Je5sMY+T24q2LmkP88vwFYWTYDkZcDXT8hlrWSiMN2OknfA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "66.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

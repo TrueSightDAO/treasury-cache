@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.532132+00:00",
+  "scoring_hash_key": "tPjO11N7U06OQiN6fLpZ",
+  "scored_chatlogs_row": 7131,
+  "contributor_name": "Envoy TrueSight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Contributor(s): Envoy TrueSight\n- Description: SunMint plot-invalidation follow-on verification + relay (2026-09-02): ground-truth verification of merged PRs #456/#154/#457 (fresh git clones, not cached CDN), UAT signed [PLOT INVALIDATION EVENT] submissions + propagation diagnosis, live debugging guidance (dao_protocol stale code 693f56c, stale GAS deployment @40), verified TEST-P1 exclusion from plots/index.geojson (commit 76428e2), relayed governor decisions + prod gates.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: TVH5taLgFRNypPNB1E6XfxQ81DwJSdtSfsbbjeq3qKaUhhK3WWI8YmhiuemdpNLoqRpOH0nOnvXyaGn64x9h8pF+xmYhkSpzJMOPHuyQPmJrKEC25i00Oe27jBgOfzVAiuus5yYUaEw9nRBMvhrAq5YadLtrbctjJS/Tsqld9W2O2uvqAiyrtc7725mTUBjshW1Oxsz178Rp4W8vTZ3Fm0TCzkGIcbAAHEAol6iOQU+7/wlzH09rdTA6e1Ubgr6GMTQ88L2EPMamRyXcAfiiMCrP04KeZrEJVwXHNqKV6FolpflVtEUH94UqrlrVtKea/ySmH+UpO1ex76VYTJF1Uw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

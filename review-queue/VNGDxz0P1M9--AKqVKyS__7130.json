@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.532018+00:00",
+  "scoring_hash_key": "VNGDxz0P1M9++AKqVKyS",
+  "scored_chatlogs_row": 7130,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 270\n- Contributor(s): Sophia Truesight\n- Description: SunMint plot-first + plot-invalidation pipeline (2026-09-01/02): diagnosed 'queued while online' + false 'No boundary media' bugs (PR #66/#67), built plot-first FBE handler (tokenomics #455), plot-invalidation GAS handler + auto-derive governor/sentinel allowlist (tokenomics #456/#457), dispatch routing (dao_protocol #154), builder skip-invalid + regression test (sunmint), UI Farm->Plot label + dropdown unlinked plots + Invalidate affordance (sunmint_beta #68/#69/#72), service-worker offline data fix (#70), offline-flush fix (#73), dao_protocol host deploy debugging (stale code + stale GAS @40 root causes), GAS v41 prod deploy, E2E verification, sunmint_prod sync (deploy 20260902T131548Z).\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: X3+nbHWoJq6WoskSSGfzqbVVqXsJ0tsD3BjcQNT8sbWDmwfsHWwAWY9QS+r7r3o9PPH4kUcBiZ+b8nOijqvZjlM2xuW2t16XAd2spy3sRkySkEnwgKIxZTVIQDnbrLo78QXTFchyx9kCa3tqys8gsSsLj869X2Oy+tpvqJMLDuW5ot46MGDhIgSzZsdGS2gQVX8G+FHyCa59P0pIZzC16ZjaT4ZQob6+X0d97B62Hi3Ul7T0gt0CBZ/zh1Jsh2oFU3PWj4OF1UkZNCeRa5mjzFkS+EqCEPkZA6nWvNaPr+yZEUTYyIrMzG6tX7loQhTFZnECpofw3M3pGCYmtm6oJA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

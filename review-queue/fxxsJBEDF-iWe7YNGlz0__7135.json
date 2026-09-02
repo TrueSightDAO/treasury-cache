@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.532617+00:00",
+  "scoring_hash_key": "fxxsJBEDF+iWe7YNGlz0",
+  "scored_chatlogs_row": 7135,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh\n- Description: Provided the query and direction for SunMint program-status research and partner PDF (scan of live sites, whitepaper, codebase, tree planting).\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: bmI6apYvdNqMIhGCcyTlCrRoEKBoJuH87tJywYks9mdy+i/0K9qOAs25SoevuYIJ5CgH5Lf+0iCAkCBtfuZBq7jyYbMjJC+5NZcoc0+89+ox+5Pf6mjdsnxpJywYyPLowDmYr8ReVZ26QU0NusVfRG/1uM0BF6GievyUueuIqTdCmaKSkZmJY3yXMdAXYQBW8zvrl+KGOnA3dLaEixvYqE28hDJYnH5kv5py7/K2hLDG1x5jH7kJ4h+tpuioymHPvraHYeSrLC3kGkUyn2WPRC5mi0j9HESTXj4D3t5/RHHJh2ZrtuRihupVq36kcWGjWCV4XuJWD0BPm4Ouj+ZBFA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.532493+00:00",
+  "scoring_hash_key": "llyrgpPQOLCK0wxhd+i0",
+  "scored_chatlogs_row": 7134,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Contributor(s): Sophia Truesight\n- Description: Researched live SunMint properties (truesight.me/sunmint, sunmint.truesight.me, whitepaper across ~13 sections), implementation repos (sunmint farms/plots/trees registries, satellite scenes, attestation ledger), and tree-planting status; compiled SunMint Program Status & Carbon-Market Readiness PDF for partner sharing.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: YZg+TnUNLKkrWayB8mBZFBuzdUzfUbJRfRcPEP6D7RUQcnTtaGmmsSWLx3DTKqrdH6l53IBK8p/6y8dzS/x52q6MofO1K8SQzXPkBtWVgSmThphMZSiyxri8WmJYfQ/hwOl/HAfGIsSdvp+s5WR8WgKGyOFyOGsfI1PNEzCpAawL9o7CJ0fiq8dV6rLTEQ9K4S79NAyjiM4kdSbbNU9gw9KnHYR/OsdSTTyyphsFPx5m/aIiW3CE+z+SSO2gryQQyiUZbs0R1nqwUz4+Ok48EZwCocp4YqAqs9Q1IVglbwOBTq6Bixw8nWq+q0xxcqenBGSMZzF0q8vWSp99v852qQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.532863+00:00",
+  "scoring_hash_key": "wszgz3fhyc+nzHyhvGK2",
+  "scored_chatlogs_row": 7137,
+  "contributor_name": "Deep Seek",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 12\n- Description: SunMint Android release keystore \u2014 vault backup + rotation refresh\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/credential_vault/pull/4\n  \n  Details:\n  SunMint Android release-keystore backup + key-rotation refresh:\n  \n  - Added the release keystore + keystore.properties to the credential_vault MANIFEST (credential_vault PR #4) and produced a new encrypted iCloud snapshot (verified both files present inside).\n  - Added the keystore (base64) + properties to Sophia's Fernet vault as sunmint_android_keystore / sunmint_android_keystore_properties (round-trip verified, md5 matches).\n  - Placed a redundant copy on Envoy's box at /home/ubuntu/android-keystore/ (chmod 600, md5 verified).\n  - Refreshed Sophia's /opt/android-keystore/ from the old rotated key to the current v1.4 key (cert 278d820d).\n- Contributor(s): Deep Seek\n- TDG Issued: 20.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6owTwrPjyqz1ZS/TkLogP2YTQ51ESUwsdpU7YRKD+J60FGSZYmxbLx5/nrjXuJeqzez54tubq49vkdiSrJzPCsjtP6D/nPJKki3dJnx/9hFWVu6NgmqlKvXQecAxd/0EhuMw2iEzCfZUr7vz5DOA/Hzd7V/VQCKhBYwD23+H+XqRDYzEwwOqnmaLLNj8sNh0GpCxz1CtdLSB6tm8x0aJkcjfx5A7M407ZccL3FrdHM26eI7R5v5kS4uOrYJBj27GmtAHRZOp4or9LLX991l6/7HHOhluXwpqmg2b1Rlww7gbriL66+dZbW5rpuo7PdDc6DJe4Ij4dJULqfBx0aI4UQIDAQAB\n\nRequest Transaction ID: WsMeLekxkPfhnO+sn7nzas/fcKddsCxSRjLu8GniKWXLnCn6DjxgdeEAg/TlMwquy2aE+P0d7YMY2oalunYP8dfyBS+Gr4TKdL1nJdiSNqTm6niTrxT38fXW6R9dPgRcD2cK4ueMyCadgHP27tY1m4rV0Z5bpTrPz83vjR5xGRNzpc49SEatLYQHeBC83eGM5B2iyWljZz2NlmeBKVFCG71uA9IqzfKRVmCJs4Qegu8HPcozhwca3lIimw/tt9ScGM4+zsIz+Ab6lHp49xBo9a7nJ3wnnKX1pHBGsf2vcBel8tthCCQEuDLo+MpF6CicDuTpRkbrzNcBg7KWA6Q+pQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "20",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

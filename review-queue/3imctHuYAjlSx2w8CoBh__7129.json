@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.531826+00:00",
+  "scoring_hash_key": "3imctHuYAjlSx2w8CoBh",
+  "scored_chatlogs_row": 7129,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Distribute Tencent Cloud credentials (Sophia/Envoy/Onaya) + Onaya SSH & Elastic IP setup\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/896\n  \n  Details:\n  Distributed Tencent Cloud credentials (TENCENT_SECRET_ID / TENCENT_SECRET_KEY) across the workspace agents and set up direct SSH access to Onaya.\n  \n  Credentials added:\n  - Workspace root ~/Applications/.env + Sophia truesight_autopilot/.env (live /opt/truesight_autopilot/.env; telegram adapter restarted)\n  - Envoy (nelanco-claude): /opt/claude_workspace/.env + /opt/claude_workspace/truesight_autopilot/.env\n  - Onaya (Bionpact): /opt/bionpact_autopilot/.env (bionpact-autopilot + telegram services restarted)\n  - Documented in credentials/API_CREDENTIALS_DOCUMENTATION.md (section 11)\n  \n  Onaya access + infra:\n  - Added 'onaya' host to ~/.ssh/config; opened SSH ingress 0.0.0.0/0 on bionpact-autopilot-sg\n  - Repurposed Elastic IP 52.7.37.210 (retagged 'onaya') and associated to the Onaya instance\n  - Generated Onaya SSH-access + box-orientation PDF\n  \n  Evidence PR: https://github.com/TrueSightDAO/agentic_ai_context/pull/896\n- Contributor(s): Gary Teh\n- TDG Issued: 200.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: GbnrwPLfTXXkTHwFqtD6dbnFByLJc3rVQdt0uGBx4QQYXaMXUt2/cgrnv4uN8yAREZWavyWZU0PgdoDXuiN6aLen+VUirr382Xd7ndV8omZKus4CvO+cylxzNhBDvfhnILffAmjnSTrAD7vNfl/FmyJ4E913ay9yiMQHkVqi7RdYSVw46eyB0MGDnB0R72RfvTmWDyFJzoEdgBJX2Pe/W/tXP8ELi5qnTKRFAMzsxBtN0UwwKqC409buxVAi9BTHYU56JSXTPLCOQou/fHck4sQ+JMMy3AtenY8YCdi6RI3HWMMqosV3WdVD+NCR8Ss0pKEN7tB4WDhDUgG/k9Bc/Q==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "200",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

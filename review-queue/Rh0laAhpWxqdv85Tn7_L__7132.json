@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T16:46:48.532246+00:00",
+  "scoring_hash_key": "Rh0laAhpWxqdv85Tn7/L",
+  "scored_chatlogs_row": 7132,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Contributor(s): Gary Teh\n- Description: SunMint plot-first + plot-invalidation governance (2026-09-01/02): design decisions (plot-first model, defer farm link until FSVP/evidence backfill, dropdown lists unlinked plots), UAT submissions + validation, set FBE_GH_PAT + deployment anonymous-access fix in GAS UI, cleared prod gates for GAS v41 deploy + sunmint_prod sync.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: S38UcdOSFhSPD0oqzETA4Xwr2H/N4N9WHv9D9g5lMaZqf9rsoGTcsmXfr4eJdNDZTUAm0NwKT68vkHE4Dto87KsDGcAKYvthmXsBqdx0IBLP9Ojplv3FBetO0sL6/uJcJci5ncH4nIU2q5HFgB6v36oSEu6l+0zV6d6+Dv8FwPAsFfgfhDvwIZR1MaxLKdp1Y+i3mtCsnhj9H4wq4mcW4HsZHOfYwHtu96hTEKXmUb1pkB4Fg8HHEvueF5WzsM64xwZphuTCIVFCbgxLEiXRiL0eKUOglQ7d4L2vNVdAnsiQkGS48YMClshnYOySVY+mA6yVVdIsWYQCl0H3NMGgDA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
