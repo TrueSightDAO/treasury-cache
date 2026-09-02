@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-02T20:48:33.325Z` |
+| Generated at | `2026-09-02T21:48:41.923Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 92 |
@@ -13,7 +13,7 @@
 | Total value USD | $29531.34 |
 | Ledgers processed | 14 |
 | Managers | 40 |
-| QR codes assigned | 1170 |
+| QR codes assigned | 1169 |
 
 ## Items (92, sorted by total quantity)
 
@@ -110,7 +110,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2391.29 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2393.79 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -147,7 +147,7 @@
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1336 | 48 |
-| Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 | 3 |
+| Lumin Earth Apothecary - Summer and Sierra | 2 | 49.94 | 2 |
 | Matheus Reis | 22 | 2012.7151227979998 | 326 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
