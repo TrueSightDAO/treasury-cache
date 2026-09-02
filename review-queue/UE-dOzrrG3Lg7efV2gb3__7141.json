@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-02T19:36:03.182790+00:00",
+  "scoring_hash_key": "UE+dOzrrG3Lg7efV2gb3",
+  "scored_chatlogs_row": 7141,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 30\n- Contributor(s): Gary Teh\n- Description: Gary Teh direct time \u2014 thread 19615 'surface real error instead of generic restart msg' (2026-09-02): reported the bug live (twice: nudge-induced timeouts reproduced the generic restart msg), 6 nudge/emoji-go signals, reviewed root-cause + fix spec, directed open_fix_pr\u2192git_push_changes workaround and self-merge, caught the live BUSY classification firing as production validation. Estimate per convention.\n- TDG Issued: 0\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: OeknUUsga5W/i0xFsufpWJEwwez8REYEF7ZNVNFOzzjaIqUAUpRGwz1sC5sBD6F6ZAOq9HRk2pW2/4FE8xRMN2OkbSRCl8ODs/aa4KgmCtcWms9nqLGZfUV9H5wOxfZVotm2GdFtTGhjs1BAoprly4z0z8fyegNHaGnQXJENWZbg3qcVdyqYKqqEiUT/mzlMdDJp/PmEhwoQ4n+X+2ujZ1M5u9Bmwy/6JcO1rFOSXWfI8BjOZzVuJQBBv1eBSPAVL4dzT6jUKrkXle3AKaxGzVMcHgXeJ3nsEwuNFvjwMPnIdzffMyzUvc1FMsy+WjnnDs/HIOW8/bGcr3i3nR5oqg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260902",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
