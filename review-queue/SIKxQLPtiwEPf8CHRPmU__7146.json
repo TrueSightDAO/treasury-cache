@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-03T12:29:47.777622+00:00",
+  "scoring_hash_key": "SIKxQLPtiwEPf8CHRPmU",
+  "scored_chatlogs_row": 7146,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Contributor(s): Gary Teh\n- TDG Issued: 10\n- Description: Directed and reviewed public-signatures dedicated-PAT security work (thread 20498, 2026-09-03): relayed Nobody Will's dedicated-PAT intent, provisioned PUBLIC_SIGNATURES_READ/WRITE_PAT files, gave go/status/swap+vault/document directives across 7 messages, requested transcript-based contribution report.\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: uUpiAb4mI4YbarpYXEiFV39zQ8tdpLG6LEpI2WZfHJAj86CSTR98QOu66oQPd32hubzWh9jugJ3EbLp4l8bOYP7xJoT7U1cJlVvzl+bz7hlZJIA4hiAc5v+O4wB5ZbbUljohzG8A6pl3m/+/8HbQzMvRJZRmBDdX6dFFvb4ZkRKfjQjNIFV0xACIHgnG1zdMmukN9ouywF1qRhghZgzjUq5Iz1ym1GJTC/rNZvdB1hmFhbQI0oqBdlqF+XsymwRtL/9AfX0sEVXCTKSGnyRxyxSTuga+AOWEL2rn9eHJg9aFc62SLuMHSeZK20pMyg9vokBlm+WQ92E5XKABSQ+NVA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "10",
+  "tdgs_issued": "0",
+  "contribution_date": "20260903",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

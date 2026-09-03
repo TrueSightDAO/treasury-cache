@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-03T12:29:47.777528+00:00",
+  "scoring_hash_key": "rYmASZgWEyGEd6A/L6nI",
+  "scored_chatlogs_row": 7145,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Contributor(s): Sophia Truesight (autopilot)\n- TDG Issued: 40\n- Description: Public-signatures dedicated-PAT security ops (thread 20498, 2026-09-03, ~65 LLM/tool rounds 08:20-09:14 UTC): consultation + architecture recommendation (per-daemon PAT analysis); verified ~/PUBLIC_SIGNATURES_READ_PAT + WRITE_PAT (fine-grained, verify_public_signatures scope, chmod 600); stored both in encrypted vault (/opt/truesight_autopilot/vault/vault.json.enc, Fernet, v1); swapped sync_sunmint_signatures.py cron off broad shared GITHUB_TOKEN to WRITE PAT ($(cat) runtime read); killed conflicting mid-swap cron run + relaunched clean catch-up; live-push verified to TrueSightDAO/verify_public_signatures; classified signature_ledger_pipeline.py as read-only (READ PAT); documented both PATs as new section 10.8 in credentials/API_CREDENTIALS_DOCUMENTATION.md (agentic_ai_context PR #906, merged).\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: bBr7/oQdiXX8OLeYixl3O8pjFMdArtvlAfm49FrVZC7emVkdOSKhrsCm6+mpPb1I5/sJT1rBjk6G1rrBJr6EH40jkwbIQ3noidAhxUFsgDy3I6jr/zo75Fk3dwdJIfWDysZeNceH5acaRgPvNcYGqlqe09afxoNm2PQDyaTjciWlaojquT0W3M7c7LsdCYU8p5uwX6nOzwZL7WQsg6mnc+/4ztuae8Sn79Qw/M/xT7YopSieSGDPemQazYTPMH4MD4mGUnmDguRR7KVVgtx3pc2QLLrHg3dzDEpdvdUpNC4pSHoAHF7JFOG6I2Tdvxu+hIM97BWGAPDr3Z8/U+r8Jw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "40",
+  "tdgs_issued": "0",
+  "contribution_date": "20260903",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
