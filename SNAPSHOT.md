@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-07T02:48:40.253Z` |
+| Generated at | `2026-09-07T04:48:41.894Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 92 |
-| Total units | 22317.35415957675 |
-| Total value USD | $29511.97 |
+| Total units | 22317.354159576746 |
+| Total value USD | $29511.96 |
 | Ledgers processed | 15 |
 | Managers | 40 |
 | QR codes assigned | 1169 |
@@ -19,7 +19,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 11649.675547573583 | $1.00 | $11649.68 | AGL10: 347.83, AGL15: 4307.779999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4977.4142112924255, SEF1: 16 |
+| USD | — | — | 11649.55286749145 | $1.00 | $11649.55 | AGL10: 347.83, AGL15: 4307.779999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4977.291531210292, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Brazilian Reis | — | — | 1965.9899999999984 | $0.23 | $456.70 | AGL8: 236.89999999999827, Main Ledger: 1729.0900000000001 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -45,7 +45,7 @@
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 | Cacao Nib | Bulk | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
-| USD - provisions for voting rights cash out | — | — | 54.347998305168225 | $1.00 | $54.35 | Main Ledger: 54.347998305168225 |
+| USD - provisions for voting rights cash out | — | — | 54.47067838730154 | $1.00 | $54.47 | Main Ledger: 54.47067838730154 |
 | Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
 | Chocolate Mold from Rusty | — | — | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | Cacao Almonds KG from Oscar's farm - AGL14 | Cacao Bean | Bulk | 40 | $11.41 | $456.49 | AGL14: 40 |
@@ -137,7 +137,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 28 | 13950.28903677875 | 241 |
+| Gary Teh | 28 | 13950.289036778748 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
