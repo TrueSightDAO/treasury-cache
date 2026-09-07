@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T02:48:40.253Z",
+  "generated_at": "2026-09-07T04:48:41.894Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11649.675547573583,
-      "total_value_usd": 11649.68,
+      "total_quantity": 11649.55286749145,
+      "total_value_usd": 11649.55,
       "ledgers": {
-        "Main Ledger": 4977.4142112924255,
+        "Main Ledger": 4977.291531210292,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -384,10 +384,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 54.347998305168225,
-      "total_value_usd": 54.35,
+      "total_quantity": 54.47067838730154,
+      "total_value_usd": 54.47,
       "ledgers": {
-        "Main Ledger": 54.347998305168225
+        "Main Ledger": 54.47067838730154
       }
     },
     {
@@ -1661,17 +1661,17 @@
         },
         {
           "currency": "USD",
-          "amount": 4798.064211292426,
+          "amount": 4797.941531210293,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4798.064211292426
+          "total_value_usd": 4797.941531210293
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 54.347998305168225,
+          "amount": 54.47067838730154,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 54.347998305168225
+          "total_value_usd": 54.47067838730154
         },
         {
           "currency": "USDT",
@@ -9868,8 +9868,8 @@
   ],
   "totals": {
     "item_types": 92,
-    "total_units": 22317.35415957675,
-    "total_value_usd": 29511.97,
+    "total_units": 22317.354159576746,
+    "total_value_usd": 29511.96,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1169
