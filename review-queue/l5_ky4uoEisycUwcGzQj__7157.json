@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-07T13:53:21.662077+00:00",
+  "scoring_hash_key": "l5/ky4uoEisycUwcGzQj",
+  "scored_chatlogs_row": 7157,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 75\n- Contributor(s): Sophia Truesight (raw execution)\n- Description: Fazenda Dona Rosa onboarding (CEPOTX/COOPOXIN, Medicil\u00e2ndia-PA): analyze ~/fazenda_dona_rosa.zip photo set, farm listing per AGROVERSE_SUNMINT_FARM_LISTING, FSVP site-inspection PDF builds v1-v8 with render+OCR QA cycles, agentic_ai_context SOP PR #920 (signature left-align rule), DApp notarization (notarizations commit 69819b69), fda_fsvp PR #16 (PDF + entity.json) - thread 21167, 2026-09-05\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: P6duLhcKpey4VsJrdRLKr6khs0rnCJawgWvgmkl+XPpj+Z/qPs2Sn4qYfyDTcbLekLAduqj59PrfP0kOl9yncINQcq1nERzqQfpYBOoMzLQEb+NGbJ6eWudQgLVXU1EHfuAG+BTeA0HH6fZxsfTPqNx/HZALPBlMP7X2WeY9WGTue6EjesLCUDsHNNb9e6kHxBqghX4flVHzYoDjjDo99I8tIWDWlFu3ONh84p151lsJ2jQ5xYdpz5aWOOpSlj/yYs06GmkQigbkLQZftCjyji1Y/rWt2jfoNVA7R6Zv6e6acI6Wm5diWEnkcwa7Y16PcQc5m6PA0TPofLaWnt305w==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260905",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-07T13:53:21.662371+00:00",
+  "scoring_hash_key": "SctSsdVEVgmg8abpxLq+",
+  "scored_chatlogs_row": 7160,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 120\n- Description: Durable close/delete Telegram topic tools (easy-tool saga) \u2014 #406 #407 #409 #410 #411\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/406\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/407\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/409\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/410\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/411\n  \n  Details:\n  Built and made durable the first-class \"easy tool\" path for closing/deleting Telegram forum topics, replacing ad-hoc hand-rolled Bot API calls.\n  \n  Scope of work (per transcript analysis, session b9de46bcd6d1 + predecessors):\n  - #406: dedicated close_telegram_topic / delete_telegram_topic tools (registered, live)\n  - #407: gitignore artifacts/ (deploy git clean -fd safety)\n  - #409: gitignore media_archive_daemon_config.yaml.bak-sr (deploy clean -fd safety)\n  - #410: close_telegram_topic_checked \u2014 smart-close that verifies HANDOFF_MANIFEST before close/delete; blocks on non-terminal handoffs; delete guarded to governor sessions\n  - #411: 5 unit tests covering the smart-close wrapper\n  - Plus: transcript-based time accounting, box convergence onto merged main, removal of stale telegram_close.py duplicate.\n  \n  Estimate: ~120 minutes engaged compute (diagnosis + 5 PRs + convergence + accounting). TDG not self-issued \u2014 awaiting governor direction per money-movement rule.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: YBTydIEpF2wN9waxGXlerDgMNc/zEeNPqY/wx5tByosj9F4oqWUINu7vS7xmoLxRuDRE4KCytLRfhGVLvdL7IWntQFH8zmvexaVtAX64PyG/RoHDd1q/ZspF/MmFZQPGzWReOCYpBWKth4/CSRXB9/eGWXVXFK+aLQL0aGzYWidrckWIHCVX17feWA7vGDp0Sa84D+dEKlIejtBwMBoj6I3BZI2DRR8nFppMyfWzN102FWW2Gji2EfAKinRfP2O4j3tgJrx5U14V6dEdyUcN61dMmrN9dYyg4Za0BvFcWwJgueDpXZj1TsMCHWvsTFpIJIB0D6Dy6KR7B8KaYaqmzQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260906",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

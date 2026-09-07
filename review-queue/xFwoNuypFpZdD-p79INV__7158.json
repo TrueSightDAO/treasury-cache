@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-07T13:53:21.662173+00:00",
+  "scoring_hash_key": "xFwoNuypFpZdD+p79INV",
+  "scored_chatlogs_row": 7158,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 40\n- Contributor(s): Sophia Truesight (direct/analysis)\n- Description: Direct analysis on Dona Rosa onboarding: image review + Belamazonia Chocolates disambiguation (IMG_8564 not this farm), COOPOXIN sub-cooperative determination, visual QA of PDF renders (white-on-white font bug, signature left-align), OCR verification, journey-page/statistics checks - thread 21167\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Je5wQ5V4eZ4njx4AGN9caCrD9AehnU1gnkE/sCQ/imStPkft2c1xCF+60Stdy1iAZztwVYKko67/96Sn09ykbJUixINY2bhrbuUhdzkIhCyEqo86WmzUiyYhM+dLOVevBMQX5RcFwQxo87Yo8zA+WuFs9pZPBlGLwNSuP+ZZH+MFgZ1cCi7ft0rzV9DWGjpCWIJsAFa7N5Gmac3iOp+szlDkC7lOochC5sr+pa3kb7d49zx4XUlbOXdQy8RwwWNBC4F0wE5W3IY8XR/ANEkjkDVHzqglRacH+vrxVmrxvujABb8sYybmoa3OYJHH/eKbFcbbXvCP2fPulwjuzC1fsQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260905",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-07T13:53:21.662499+00:00",
+  "scoring_hash_key": "emlGdrfoXmiZhK4UkdrP",
+  "scored_chatlogs_row": 7161,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 60\n- Description: feat: proactive WRAP-UP offer \u2014 contribution report + close/delete topic when a thread is done (#414)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/414\n  \n  Details:\n  Implemented Gary's request: Sophia now proactively ends any finished Telegram thread with a one-line wrap-up menu \u2014 1) file contribution report \u00b7 2) close topic \u00b7 3) close + delete topic \u2014 instead of requiring the governor to type \"close this case\" every time.\n  \n  What shipped:\n  - Added a \"WRAP-UP \u2014 offer the contribution report + topic close\" section to the system-prompt header in app/context.py (truesight_autopilot).\n  - Execution stays behind an explicit governor reply (never file/delete/issue TDG unasked); close (reversible archive) offered before irreversible delete; close_telegram_topic_checked used for handoff-registered threads so HANDOFF_MANIFEST.md stays in sync.\n  - Verified: local checks (compileall/ruff lint/ruff format), 63 context/system-prompt tests passed; full-suite failure is a pre-existing env-only test (github_read_pat assertion).\n  - CI test + smoke both green \u2192 merged PR #414 (sha 7cf3503).\n  - Deployed: service restarted 02:36:30 UTC, running code = committed code 7cf3503. Live behavior confirmed (this thread's own close-out was the first use of the new menu).\n  \n  Evidence: PR #414 (merged), plus earlier plan-unit turns diagnosing the CI gate and confirming the deploy.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: EIiT1trYViwQC+ISwrLo7CnA9wHjw74lI+mn6YScJmRFHOzRZ0ZoQrasNnjfsgoIlGdzRQS4WtFBHKJzv7vuFWEJSf3OfxCaILEF6oPsVIWkPm8+Kd+AXdGBw7BjQMc8kLtlYd3XEmR1hQHG4mbAlzaam0+FMG4cwgoJ1maSm+zfraZXJrRWiTJZeLjuI8uSweBUroM8qhq3eEX/Xk3aYhRVZbB4TQXZJ4tXfwZwU17WXxIWiRPPBT2BwIGXj8mtPIrazCxFbr8mHsjlbF02TCII3wejBZO19wRCTtsAOUtvn6QvxUaX26JwJnxML+5yRHoDFQy7misyz2TFt+H6FQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260906",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

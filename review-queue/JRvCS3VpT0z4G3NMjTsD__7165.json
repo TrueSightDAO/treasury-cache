@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-07T13:53:21.662932+00:00",
+  "scoring_hash_key": "JRvCS3VpT0z4G3NMjTsD",
+  "scored_chatlogs_row": 7165,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 0\n- Description: Wire Fazenda Bom Sucesso into Brazilian Drift journey + farm-page CSS cleanup (live in prod)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/305\n  - https://github.com/TrueSightDAO/agroverse_shop_beta/pull/306\n  \n  Details:\n  Diagnosed and fixed why Fazenda Bom Sucesso was missing from agroverse.shop/cacao-journeys/brazilian-path/ despite its farm page existing live since 2026-09-04 (PR #272).\n  \n  ROOT CAUSE: the farm page existed but was never wired into any journey surface \u2014 not in BRAZILIAN_PATH_DATA / journeyOrder (brazilian-path/index.html), not in the landing card's brazilianStops coords (cacao-journeys/index.html), not in the drift-nav js/farms-data.js.\n  \n  FIX (beta-first, envoy-reviewed on beta, synced to prod):\n  \u2022 PR #305 \u2014 added 'fazenda-bom-sucesso' to BRAZILIAN_PATH_DATA (lat -3.0944, lon -52.0952, Vit\u00f3ria do Xingu, Par\u00e1), inserted into journeyOrder between Fazenda Cleide and CEPOTX (governor's placement choice), wired image mapping to the existing SunMint hero; landing card coords added + static fallback count 19\u219220; farms-data.js nav entry.\n  \u2022 PR #306 \u2014 removed stale rancho-maranta-header-7660.jpg template token from the Bom Sucesso farm page's .farm-hero CSS; now points at the real sunmint hero (matches sibling-farm convention).\n  \n  VERIFICATION: beta reviewed by envoy (confirmed stop ordering + 20 Stops); prod syncs deploy_20260906T165218Z and deploy_20260907T034348Z_agroverse-shop-prod; live pages verified serving new content (CDN cache lag traced and confirmed self-healed, no force-sync).\n  \n  ALSO SPUN OFF: pre-existing checkout-page error ticket opened as separate thread 22997 (client-side console error; prod==beta bundle, page 200 \u2014 needs console capture).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: TXbZHUtpObhZG3STmh+VIhLV/5oxIcVKd2hcJ0qpBOMW9xlfqztMwcIlE0iz6jg/sL1NlPK/c0TmT1mkcA1uXMrWFkgbd4d40ZxeWDzc5ZGCdMi+H8e+/qimb0sj7ztOcLNPqxlwMeov/THaCU/kYSVVevLW1nwTa3mBn7EUknMNW06XL79VLlikv6uAb1GTIk45aKxu3M4+cYE3UjeM9o01w4/YzFcenwJwUD8/jL7BYOWRtD3XTYqRdVVO8REjYQe50oUWTZ6cq/75LqEuYz05/8WL5DL+ez9sU6NuEC7sBnUFIxrfB1lpMoIg+LNtSECEqIsvF5S06alzigT2XQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260907",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

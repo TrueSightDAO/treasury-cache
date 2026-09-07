@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-07T13:53:21.661376+00:00",
+  "scoring_hash_key": "RjBSe25UtKCLgLc+44gR",
+  "scored_chatlogs_row": 7151,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 300\n- Contributor(s): Sophia Truesight\n- Description: Fazenda Bom Sucesso online administration (2026-09-02\u219205): farm page authorship + review cycle (agroverse_shop_beta PRs #272/#275/#277/#280/#281/#283), footer CSS restore, brazilian-path-data.js comma fix, header-footer consistency test, media.json gallery, 17-clip MOV\u2192MP4\u2192YouTube pipeline (convert/dedupe/upload/manifest/embed curated 8), plot PL-002 polygon repair + plots-index rebuild, tree-index dedupe, dao_protocol catalog v4 + deploy, lookup_event_docs PR, prod promotion deploy_20260905T152125Z\n- TDG Issued: 500\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: T3cSvZohxf0hpeYzLVvZ/+P5Wl2WHcsUz/taslv3AAmUQI57WbqWUXtpDZ9cw6qcokOoEHuTYRZYrzRyjKq2/CLhS6WfGGB/9Pi+dg9+Z+iWy4aTKLh2t7c2FIbCYOBiO38XvUAFchV7luMVpLf+tdHpb4z02Pt+XAIHX8IXR98T6SAwcNjoqOOFBg98IHq8EpJz9N0Qz6ORkt/EdZfaOecGpMfKi/oAb1QyGvdgIgDqydLsO4gh/UzYq+ofEQXgnULQEb2C2Ua8blH8xnGSknc6bCF5TXqRnPGfQiHsWuE4hj7uK1zB7DJ/gM8rXBfyiY0nLl8DtS7JWpkuOrDZFA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "500",
+  "tdgs_issued": "0",
+  "contribution_date": "20260905",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

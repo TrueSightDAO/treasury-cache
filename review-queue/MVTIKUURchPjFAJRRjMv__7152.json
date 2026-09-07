@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-07T13:53:21.661512+00:00",
+  "scoring_hash_key": "MVTIKUURchPjFAJRRjMv",
+  "scored_chatlogs_row": 7152,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Amount: 45\n- Contributor(s): Gary Teh\n- Description: Fazenda Bom Sucesso online administration (2026-09-03\u219205): review/approval decisions on farm page content + hero, video curation (B: curated 8), upload direction, prod promotion approval; preparing + uploading the 1.29GB Paulo interview archive for the media pipeline\n- TDG Issued: 75\n- Type: Time (Minutes)\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: FxAmVF1s6CS64aS3S613eFwcxbO5mQRFld23lHCCtx5xCNK1X+024chdrP9fqRwk+y13LnjDMTMHMXxLiIYZKzaa0jTeu0JswG9AC2+X4lZbO2RO/3bym+reZQgtCen/IpRbQO98yHsfsaJjcYzSAXoBL9LMkQR6PD+m8cke3YyFGhyuqUhTPM96zhkAQDcTizCFoom91rwRrkTxSgJC0anF6ACHPECXkULnDEzHGudwFezfIZoIB0thCtSo0ibf1FpR1R5v1sOL0bx6YlpA2VOihfBbhGHHuCF8UUqe6dD0S+K/WprtHAKg6hJF5WUGuuFN7XqpkXyYV7dTMWhBsw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260905",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

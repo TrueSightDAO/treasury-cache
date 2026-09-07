@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-07T13:53:21.662273+00:00",
+  "scoring_hash_key": "UAhi8qFw8cKaSdh1ZP49",
+  "scored_chatlogs_row": 7159,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Contributor(s): Gary Teh (direct time)\n- Description: Direct coordination on Fazenda Dona Rosa onboarding: provided farm zip + Instagram/context, classification decisions (COOPOXIN), PDF review iterations v1-v8, notarize + fda_fsvp directives (thread 21167). Matches direct-time precedent from Cleide onboarding (thread 21534). 09-04 site-visit travel/on-farm hours not included - add on request.\n- TDG Issued: 0\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: MOo+psSvUNaV5RLPrgDi2WuM+K/O9nAZ4CojRfobKNv0WUj1X5S7Ng5qsbVj4wmUt8d08P3poxjQ1TbwWNi9CHDNCorO6T2NdI97gP9fVEJCJJexznkw7n+h64AWkOzQIE31ZM26aVg3rX1GEmJpOha7Tf8rU+wvIzHzrmSDFYVqxg659DqjYRsDv4qTQiTspicOyT1lt9cEC0hU6G+ngzsVVd2nCoF2oQl/Mh1VA/qI9NjZxWLigOufKQE/SO9GfWP35YnreSX9iMQbyYC6qRUpWl+r6AOr9KtQC9Ovf4oQtQ5ZIUzC5jhKPmq1YBlHIYhnJPH4t8rZ6wYj8lVyGQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260905",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
