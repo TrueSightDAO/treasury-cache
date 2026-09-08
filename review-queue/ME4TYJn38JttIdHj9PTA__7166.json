@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-08T12:32:42.583693+00:00",
+  "scoring_hash_key": "ME4TYJn38JttIdHj9PTA",
+  "scored_chatlogs_row": 7166,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 0\n- Description: La do S\u00edtio bean-to-bar FDA FSVP site-visit record (2026-09-07)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/fda_fsvp/pull/18\n  \n  Details:\n  Built, notarized and filed the FDA FSVP site-visit record for Paulo Barbosa do Nascimento's La do S\u00edtio (CEPOTX, site code V-06-29) bean-to-bar facility, visited 2026-09-07.\n  \n  Delivered:\n  1. **Built** the 12-page CEPOTX saffron-band FSVP record \u2014 6 documented facilities (fermentation shed, sun-drying floor, raw-bean storage, ATF FPR-20N PLUS roaster, cracker/winnower, cold-hold fridge) with real EXIF GPS + Google Maps links, Santos-style observation tables, and embedded geo-tagged photos. Capacities/roast profile honestly recorded as \"to be confirmed at commissioning\" where the nameplate wasn't legible; melanger/tempering/moulding/packing explicitly recorded as NOT YET INSTALLED (no chocolate-bar FSVP claim). Official left-aligned ink signature.\n  2. **Notarized** via dao_client notarize module (DApp/Edgar [NOTARIZATION EVENT], signed Sophia Truesight, signature_verification success, file uploaded to TrueSightDAO/notarizations).\n  3. **Filed** via PR #18 (merged) \u2014 added the PDF to suppliers/cepotx/ and updated entity.json (source_farm V-06-29 note + source_documents + compiled_at).\n  \n  Evidence: PR #18 merged sha 05c5cfc6; notarizations commit 9683fb4e.\n  \n  Minute/TDG allocation left at zero \u2014 governor may specify to credit scoring.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: EoeXAU3pXrxbGVaQ+9XHcNkJNH2B7yviFEy4cq2Mg0kbv7fJz6hQLtrZAdhsUnYMZDJxAGnxokXxQZdzHvH2JeWo9RJSFHz2f7i3EpptkJYcTcoDTUL2UyOZJ3cMzzJZ6yQqMMF2wleZiVc2FP/uDhwWFC/Drh4RsAR94cN513LVyGHszZViV8yXZDADPZFOVKiuFizvCiXAiKtl7rQ2acP8mZ7mNSWb9jMymP9bgn2E6LKftgPr4kym3nu4UfU2evcm554XWtCZ2UHv/5ye/n9pVKoULMpkDGDHimWLni/7aJdF+tRiFLJVcP9aNnD0x2vLpFOSbLNQzBCCutIa4A==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260908",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
