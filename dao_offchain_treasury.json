@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T02:48:37.793Z",
+  "generated_at": "2026-09-09T03:48:39.982Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11649.430187409316,
-      "total_value_usd": 11649.43,
+      "total_quantity": 11649.307507327183,
+      "total_value_usd": 11649.31,
       "ledgers": {
-        "Main Ledger": 4977.168851128159,
+        "Main Ledger": 4977.046171046026,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -384,10 +384,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 54.593358469434854,
-      "total_value_usd": 54.59,
+      "total_quantity": 54.71603855156817,
+      "total_value_usd": 54.72,
       "ledgers": {
-        "Main Ledger": 54.593358469434854
+        "Main Ledger": 54.71603855156817
       }
     },
     {
@@ -1289,7 +1289,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2496.4077,
+      "unit_cost_usd": 2490.7367,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1642,8 +1642,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2496.4077,
-          "total_value_usd": 1.1861937710144506e-10
+          "unit_cost_usd": 2490.7367,
+          "total_value_usd": 1.183499137090904e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1661,17 +1661,17 @@
         },
         {
           "currency": "USD",
-          "amount": 4797.81885112816,
+          "amount": 4797.696171046026,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4797.81885112816
+          "total_value_usd": 4797.696171046026
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 54.593358469434854,
+          "amount": 54.71603855156817,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 54.593358469434854
+          "total_value_usd": 54.71603855156817
         },
         {
           "currency": "USDT",
@@ -9869,7 +9869,7 @@
   "totals": {
     "item_types": 92,
     "total_units": 22317.354159576746,
-    "total_value_usd": 29511.96,
+    "total_value_usd": 29511.97,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1169
