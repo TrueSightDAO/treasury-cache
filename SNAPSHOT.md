@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-09T08:05:33.099Z` |
-| Trigger | `expense_processing` |
+| Generated at | `2026-09-09T08:05:48.261Z` |
+| Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 92 |
 | Total units | 22317.354159576746 |
