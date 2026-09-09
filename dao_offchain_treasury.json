@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-09T07:48:37.369Z",
+  "generated_at": "2026-09-09T08:05:33.099Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "expense_processing",
   "schema_version": 5,
   "items": [
     {
@@ -1289,7 +1289,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2510.9033,
+      "unit_cost_usd": 2510.9068,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1642,8 +1642,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2510.9033,
-          "total_value_usd": 1.1930815043070201e-10
+          "unit_cost_usd": 2510.9068,
+          "total_value_usd": 1.1930831673679853e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3855,12 +3855,6 @@
         },
         {
           "qr_code": "2024OSCAR_20250711_NIBS_18",
-          "status": "MINTED",
-          "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20250711_NIBS_21",
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -9872,6 +9866,6 @@
     "total_value_usd": 29511.97,
     "ledgers_processed": 15,
     "managers_count": 40,
-    "qr_codes_assigned": 1169
+    "qr_codes_assigned": 1168
   }
 }
