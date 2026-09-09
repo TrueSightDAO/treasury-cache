@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-09T23:51:02.769019+00:00",
+  "scoring_hash_key": "6sLj1eGW+pIrKVIV3Nmo",
+  "scored_chatlogs_row": 7175,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Raw machine execution: agroverse.shop nibs sale 2026OSCAR_20250711_NIBS_21 (David Maher)\n  \n  GitHub evidence (PR or commit):\n  - https://github.com/TrueSightDAO/store_interaction_attachments/commit/fb13bbe\n  - https://github.com/TrueSightDAO/store_interaction_attachments/commit/2456f3a\n  \n  Details:\n  Automated sale processing: order-email match, Stripe session correlation, SALES EVENT at $29.73 net payout, DAO Inventory Expense for $6.24 UPS label, receipt archival. Pricing/ledger decisions governor-directed.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 16.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: EIffX0pHzQjZ0msOdvGlFRcpzG3G2ntvPArlD5SNhMCDqdUz8vvPoTxkDq0SW0Lg6bT3WIFdWpQrfFmRG0k4BvxalOr6cyPrMV4BoDSEV69IeR9dQLd69ZBMcpGtcRJbJuvTRh0XPdopzCYcfuKb0wdf8h/v/ak9Wbax7krM6G6dOLdAKKXM/Ampo9H+pL3DjatnzMA+uwgS9ugaBAbMC8fCa4cXZxdfMmck5g+Uzn8zcthxiU9EeyGvcWDDkGgcEGNYgunHiPqbFkSfOWmhTAlYiTaM238JBD6PZ3NPuwkhbQBK8GTrrsU2wP8H2X77ABdB3mze2SilMOUdJRa9vw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260909",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

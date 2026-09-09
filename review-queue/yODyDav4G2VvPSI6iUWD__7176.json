@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-09T23:51:02.769121+00:00",
+  "scoring_hash_key": "yODyDav4G2VvPSI6iUWD",
+  "scored_chatlogs_row": 7176,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 10\n- Description: Direct agent time: david maher sale wrap-up, evidence archival, contribution filing\n  \n  GitHub evidence (PR or commit):\n  - https://github.com/TrueSightDAO/store_interaction_attachments/commit/fb13bbe\n  - https://github.com/TrueSightDAO/store_interaction_attachments/commit/2456f3a\n  \n  Details:\n  Discretionary orchestration: SOLD verification, order-record PDF generation from email, GitHub archival of receipts, root-cause diagnosis of create_dao_submission 422 (missing Target Ledger), and filing contribution via dao_client CLI per OPERATING_INSTRUCTIONS s6.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 16.67\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: V83EVBYug0Y8/YMIqKNBaWG19AS/o9HMOvvLttXufJtFbeATgOrc8VVIJs5eJz9Uj8J25EUduWyU6il8TXDuACdKfmbxDn2PcK3tEVkoIF86z2oDAZ6AhZ7Eu8E7wFhmVZhE/VUKOTQJrLKgNPAU/fGjFcV8bDY3FGHlpE6hFzAp1HiF9jm/kWgusJSzfDGW0dhCMeK6ZrxU91M8bmdtk03EooS1XhNHOL4MIOzGfX/S8s4Tq+czr9LKAbvg74YDp+i/4zwMO6VmScLlU3TMCquM2M9Qr3otxmyfBkdW4whHNpUTJVZCX9/Bc+g0hV54uusY/wj11Y+FVyeFR7yRYw==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "16.67",
+  "tdgs_issued": "0",
+  "contribution_date": "20260909",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
