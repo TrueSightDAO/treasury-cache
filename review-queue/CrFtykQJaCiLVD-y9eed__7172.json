@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-09T12:38:32.818061+00:00",
+  "scoring_hash_key": "CrFtykQJaCiLVD+y9eed",
+  "scored_chatlogs_row": 7172,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 25\n- Description: Deploy + live smoke test: oracle-advisory rate-limiter fix (PR #416)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/416\n  \n  Details:\n  Deployed and verified PR #416 (\"fix: oracle-advisory rate limit collapsed every visitor into one IP bucket\").\n  \n  Root cause confirmed in code: `_real_client_ip()` in app/main.py only used `request.client.host`, which is ALWAYS the loopback (127.0.0.1) behind nginx \u2014 so every /oracle-advisory visitor collapsed into one shared rate-limit bucket, making the \"1 req per 2s per IP\" limit effectively global and causing false 429s (\"oracle not returning a reading\") for fresh visitors. The fix reads X-Forwarded-For's first entry (falling back to X-Real-IP, then client.host).\n  \n  Verification performed:\n  - Confirmed PR #416 merged 2026-09-09 07:28:58 UTC; box HEAD at /opt/truesight_autopilot = 371b8fc (merge commit); uvicorn (PID 1182429) restarted 07:29:41 UTC, 23s after code mtime \u2014 service running the fix.\n  - Live smoke test 1 (the bug scenario): two /oracle-advisory calls back-to-back with DIFFERENT X-Forwarded-For values (203.0.113.10 then 198.51.100.77) \u2192 both HTTP 200 with real readings, no cross-429.\n  - Live smoke test 2 (negative control): two CONCURRENT same-IP requests \u2192 HTTP 200 + HTTP 429 (per-IP 1-per-2s limit still enforced; limiter not disabled).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: kJgVdZFt1VzUF9T3z4HRy5t9AfsHixFbDJdi6C5TKjlKXVk/F4T80Lx9qJNYc0aNipNg7vIBP6ZotURTj108tKAYa0eLQE7TJbxxI7wP9tK/4+UYIYefgJEvP7AA1NAfApYQLLoFP7hvkFgvqol3hMJ5g/Tn+6WHeZu2DqYe4WwXqQGx/1SCpqJwzGQd9AFzNND2W7Ym69BWydsxgIonnKf3WGV07VcyUpQk8KpTErXobryzczzXA8teOKy/gTWFsbny+cajJorZALYssyCnO+PWgu/Ul2eXIOtEPMjhsaqeJC5lakO2VQwkIAFUEGC+iZpShaPHSYpcV/YEFyQE+w==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260909",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

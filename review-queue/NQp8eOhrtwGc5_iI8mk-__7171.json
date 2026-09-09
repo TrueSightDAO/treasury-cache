@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-09T12:38:32.817852+00:00",
+  "scoring_hash_key": "NQp8eOhrtwGc5/iI8mk+",
+  "scored_chatlogs_row": 7171,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 15\n- Description: Gary Teh \u2014 15 min: Elizabeth chocolate-molds request (China \u2192 Brazil)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context\n  \n  Details:\n  Time spent drafting and sending the request to Elizabeth Wong (Liz) to hand-carry 10 \u00d7 MHC-CL082 chocolate molds (Dongguan MHC Industrial Co Ltd, Alibaba listing) from China to Brazil when she travels there, for the tree-to-bar chocolates being distributed in the USA. Triggered by the Par\u00e1 supply-chain inspection finding that local chocolate manufacturing facilities have progressed further than initially observed. Screenshot of the sent request attached in thread 23528. Matches Main Ledger Currencies row \"Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd\" (US$1.27).\n- Contributor(s): Gary Teh\n- TDG Issued: 0\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: LQ1QRLsNiCXuVVi0QykM9ZjEICJqh4EAxP1HxBB08g6aMYVGJofiH+2v5ueUPWEmhxuxezKoQbwC5smAaxPtfvKiHOqc78A4x2/GTXrdHKPSIEeoAcKCXYO5QK3+O/4heefRqZNpBIV2mGXKFc6hmVZ+PEsizale3IX6pK8tQ4LJOQYKipcv5917MwdefdbQcdIdRYnSM1ZgpKGEniMRJf5ue2476wuE5VUhtATc0jI2dBuawHm0iHHYKO70O36R8V1ZzFDXsf1YkNPHZQS6rnnDnkAQYHuvAPifcyhGqoG6ZxoyWRvNy7lSdwmoRa1raC/lhJKqLXDEBwkG/XQAtg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "0",
+  "tdgs_issued": "0",
+  "contribution_date": "20260909",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
