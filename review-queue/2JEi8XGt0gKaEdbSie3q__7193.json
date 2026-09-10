@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-10T23:25:15.983368+00:00",
+  "scoring_hash_key": "2JEi8XGt0gKaEdbSie3q",
+  "scored_chatlogs_row": 7193,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 90\n- Description: Thread 24321 \u2014 FBE research sub-plot: submit, diagnose Plot-ID drop, repair row-5 clobber, file follow-up\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/1015\n  \n  Details:\n  Work on the Fazenda Cleide research sub-plot (B-06-108_20260908_research_1) FBE thread:\n  \n  1. Submitted [FARM BOUNDARY EVIDENCE EVENT] for B-06-108_20260908_research_1 (A-B-C triangle, 1.3994 ha, 4 boundary photos) with an explicit Plot ID in the payload.\n  2. Diagnosed post-submit that the Plot ID was silently dropped before signing: the Edgar FBE catalog omits \"Plot ID\" from canonical_labels, and the autopilot normalizer (_normalize_submission_labels) drops any non-canonical key. The GAS handler then fell back to farm-slug matching and overwrote row 5's plot_type (maturing -> research).\n  3. Repaired row 5 (restored plot_type=maturing) and regenerated + republished the sunmint registry (plots/index.geojson, farms/index.json) to consistent values.\n  4. Dropped the (moot) 4th-corner caveat per governor; geometry stands as A-B-C triangle.\n  5. Built a locally-gated root-cause fix (app/main.py + regression test) on branch fix/fbe-plot-id-normalization; per governor it was NOT pushed (narrow edge case) \u2014 instead filed an OPEN_FOLLOWUPS.md entry documenting the gap (PR #1015, merged).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 150.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: aZV39NtnQpWLyEN/clrttyn8NIs2H6No8MZH99H2WW8XKds2QuYyuY/B0l/cyDx65TWk4Js7dQ3U6ZlGrv9S3hPRISAL0hnLCnawkc4Yscw1UIWZOYTG6eWbs7LssaIEQCtVjZB+kiiDeJLRHLN4bVpfgc2hRwB/mi+RkmVzOCsZIF6pAcqMcsI+H4FSCyiG0TqinLnOgqV5WB1OhbbOhRKGgzHkYsz71vr/kRt856SP8ULBUVONwfMnFz2lERPvBCuFqs8kPZCsIwRfPjATmNYM8I3dqiew1/kxskwyqZJ1k/JIzkEUgDMMvB3fUfsfBK3j1pPPW3dTvWDNVXiPjw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "150",
+  "tdgs_issued": "0",
+  "contribution_date": "20260910",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
