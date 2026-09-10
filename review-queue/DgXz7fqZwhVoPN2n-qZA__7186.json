@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-10T19:15:58.659192+00:00",
+  "scoring_hash_key": "DgXz7fqZwhVoPN2n+qZA",
+  "scored_chatlogs_row": 7186,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 240\n- Description: CORRECTION \u2014 S\u00edtio Torres (N-06-66) FDA FSVP site-visit record + EXIF-safe PDF image pipeline\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/fda_fsvp/pull/22\n  - https://github.com/TrueSightDAO/fda_fsvp/pull/23\n  - https://github.com/TrueSightDAO/fda_fsvp/pull/24\n  - https://github.com/TrueSightDAO/fda_fsvp/pull/26\n  - https://github.com/TrueSightDAO/fda_fsvp/pull/27\n  - https://github.com/TrueSightDAO/fda_fsvp/pull/29\n  - https://github.com/TrueSightDAO/fda_fsvp/pull/30\n  \n  Details:\n  CORRECTION to the earlier S\u00edtio Torres contribution report (filed with TDG Issued = 0).\n  \n  Per the standing rule in dao/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md (Gary, 2026-09-10, thread 24442): always use the CLI's auto-computed rubric value for TDG Issued, never 0. The rubric for Type = \"Time (Minutes)\" is: TDG = minutes / 60 \u00d7 100. For 240 minutes that is 400.00 TDG.\n  \n  This is the same contribution as filed before, re-filed with the auto-computed TDG:\n  - Scope: build, correct, and finalize the S\u00edtio Torres (N-06-66) FDA FSVP site-visit record in TrueSightDAO/fda_fsvp, plus the reusable EXIF-safe PDF image pipeline.\n  - Type: Time (Minutes) \u00b7 Amount: 240 \u00b7 TDG Issued: 400 (auto-computed) \u2014 supersedes the earlier 0.\n  - Same seven merged PRs as evidence (below).\n  \n  No change to work scope; this entry only corrects the TDG Issued figure.\n- Contributor(s): Sophia Truesight\n- TDG Issued: 400.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: ErwwF5KA5rJR6miIDw7CyO+XDNbUaEWay8/czjrxVPnIGoz37pSmINPKaIQyo13h96DfIqoMdV3ixNm29hsjnM5MxkAamkAJBoLCrme/N1kWNZmLDLky6bfD+tmLpjFQyinxfipMBYT21QTLM2M/yVg/wKBkRoUi3qTlHrjoBG+mIu64nfW+LC/ZWAwOKBkKmwZOZK+Q9YxwRNVdh8GhA+dSQZIvhnAgVGvnhlbiOwQcbh70VjFCAiUexFBhSjr9BYC/j0cZLVoHbAX2VnwZI99cYoc/YoKvcgxNNLEkUDgT55PF7nA6SmPVXVKhVRqnuKQ5OWba4U9+FR7ghLlaCw==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "400",
+  "tdgs_issued": "0",
+  "contribution_date": "20260910",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
