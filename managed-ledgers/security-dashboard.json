@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T10:52:59.511035+00:00",
+  "generated_at": "2026-09-10T10:48:28.455583+00:00",
   "version": "1.0.0",
   "aws_inventory": [
     {
@@ -290,18 +290,53 @@
               "launch_time": "2026-08-03T13:09:24+00:00"
             },
             {
-              "id": "i-069771c1f79288216",
+              "id": "i-067e68a18ab7720e8",
               "name": "-",
               "state": "terminated",
               "type": "t2.micro",
-              "launch_time": "2026-09-09T04:47:38+00:00"
+              "launch_time": "2026-09-10T09:38:49+00:00"
             },
             {
-              "id": "i-0dedbcd76c583e61b",
+              "id": "i-0eba2bb668756f09e",
+              "name": "-",
+              "state": "terminated",
+              "type": "t2.micro",
+              "launch_time": "2026-09-10T09:44:41+00:00"
+            },
+            {
+              "id": "i-0df810b82b31f9dde",
               "name": "-",
               "state": "running",
               "type": "t2.micro",
-              "launch_time": "2026-09-09T10:32:21+00:00"
+              "launch_time": "2026-09-10T10:41:07+00:00"
+            },
+            {
+              "id": "i-09f56f7dea3c30464",
+              "name": "-",
+              "state": "terminated",
+              "type": "t2.micro",
+              "launch_time": "2026-09-10T09:56:46+00:00"
+            },
+            {
+              "id": "i-0943c6910c76841e4",
+              "name": "-",
+              "state": "terminated",
+              "type": "t2.micro",
+              "launch_time": "2026-09-10T09:50:55+00:00"
+            },
+            {
+              "id": "i-0c084806094c46fd9",
+              "name": "-",
+              "state": "terminated",
+              "type": "t2.micro",
+              "launch_time": "2026-09-10T10:35:16+00:00"
+            },
+            {
+              "id": "i-0c7d40a274a6dbcf8",
+              "name": "-",
+              "state": "running",
+              "type": "t2.micro",
+              "launch_time": "2026-09-10T10:47:21+00:00"
             },
             {
               "id": "i-0ebddf52cd92d0841",
@@ -454,8 +489,8 @@
         }
       },
       "totals": {
-        "instances": 20,
-        "instances_running": 19,
+        "instances": 25,
+        "instances_running": 20,
         "instances_stopped": 0,
         "key_pairs": 10,
         "security_groups": 24,
@@ -745,7 +780,7 @@
           "commonName": "affiliate.agroverse.shop"
         },
         "expiry": "2026-11-19T23:59:59+00:00",
-        "days_remaining": 71,
+        "days_remaining": 70,
         "error": null
       },
       "headers": {
@@ -786,7 +821,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-10-26T08:35:20+00:00",
-        "days_remaining": 46,
+        "days_remaining": 45,
         "error": null
       },
       "headers": {
@@ -873,7 +908,7 @@
           "commonName": "beta.agroverse.shop"
         },
         "expiry": "2026-10-17T16:37:20+00:00",
-        "days_remaining": 38,
+        "days_remaining": 37,
         "error": null
       },
       "headers": {
@@ -918,7 +953,7 @@
           "commonName": "beta.dapp.truesight.me"
         },
         "expiry": "2026-10-25T20:00:48+00:00",
-        "days_remaining": 46,
+        "days_remaining": 45,
         "error": null
       },
       "headers": {
@@ -959,7 +994,7 @@
           "commonName": "beta.edgar.truesight.me"
         },
         "expiry": "2026-11-07T01:53:31+00:00",
-        "days_remaining": 58,
+        "days_remaining": 57,
         "error": null
       },
       "headers": {
@@ -1000,7 +1035,7 @@
           "commonName": "beta.sunmint.truesight.me"
         },
         "expiry": "2026-11-09T06:16:52+00:00",
-        "days_remaining": 60,
+        "days_remaining": 59,
         "error": null
       },
       "headers": {
@@ -1041,7 +1076,7 @@
           "commonName": "beta.truesight.me"
         },
         "expiry": "2026-10-12T13:16:49+00:00",
-        "days_remaining": 33,
+        "days_remaining": 32,
         "error": null
       },
       "headers": {
@@ -1103,7 +1138,7 @@
           "commonName": "butterfly-effect-club.truesight.me"
         },
         "expiry": "2026-10-20T09:03:49+00:00",
-        "days_remaining": 40,
+        "days_remaining": 39,
         "error": null
       },
       "headers": {
@@ -1144,7 +1179,7 @@
           "commonName": "capoeira.agroverse.shop"
         },
         "expiry": "2026-12-07T07:33:17+00:00",
-        "days_remaining": 88,
+        "days_remaining": 87,
         "error": null
       },
       "headers": {
@@ -1185,7 +1220,7 @@
           "commonName": "chatbot.truesight.me"
         },
         "expiry": "2026-11-08T23:59:59+00:00",
-        "days_remaining": 60,
+        "days_remaining": 59,
         "error": null
       },
       "headers": {
@@ -1232,7 +1267,7 @@
         "headers": {},
         "present": [],
         "missing": [],
-        "error": "HTTPSConnectionPool(host='claude.truesight.me', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='claude.truesight.me', port=443) at 0x7f70b8ccddd0>, 'Connection to claude.truesight.me timed out. (connect timeout=15)'))"
+        "error": "HTTPSConnectionPool(host='claude.truesight.me', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='claude.truesight.me', port=443) at 0x7f281cda3910>, 'Connection to claude.truesight.me timed out. (connect timeout=15)'))"
       }
     },
     {
@@ -1272,7 +1307,7 @@
           "commonName": "dapp.truesight.me"
         },
         "expiry": "2026-11-29T21:26:18+00:00",
-        "days_remaining": 81,
+        "days_remaining": 80,
         "error": null
       },
       "headers": {
@@ -1317,7 +1352,7 @@
           "commonName": "edgar.truesight.me"
         },
         "expiry": "2026-11-07T03:29:03+00:00",
-        "days_remaining": 58,
+        "days_remaining": 57,
         "error": null
       },
       "headers": {
@@ -1358,7 +1393,7 @@
           "commonName": "heierling.truesight.me"
         },
         "expiry": "2026-10-11T19:04:20+00:00",
-        "days_remaining": 32,
+        "days_remaining": 31,
         "error": null
       },
       "headers": {
@@ -1399,7 +1434,7 @@
           "commonName": "ivy-yoga.truesight.me"
         },
         "expiry": "2026-11-16T19:22:13+00:00",
-        "days_remaining": 68,
+        "days_remaining": 67,
         "error": null
       },
       "headers": {
@@ -1482,7 +1517,7 @@
           "commonName": "oracle.truesight.me"
         },
         "expiry": "2026-12-06T19:05:47+00:00",
-        "days_remaining": 88,
+        "days_remaining": 87,
         "error": null
       },
       "headers": {
@@ -1523,7 +1558,7 @@
           "commonName": "perch.truesight.me"
         },
         "expiry": "2026-11-11T00:00:10+00:00",
-        "days_remaining": 62,
+        "days_remaining": 61,
         "error": null
       },
       "headers": {
@@ -1595,7 +1630,7 @@
           "commonName": "sophia.truesight.me"
         },
         "expiry": "2026-10-28T08:30:04+00:00",
-        "days_remaining": 48,
+        "days_remaining": 47,
         "error": null
       },
       "headers": {
@@ -1649,7 +1684,7 @@
           "commonName": "sunmint.truesight.me"
         },
         "expiry": "2026-11-09T06:17:30+00:00",
-        "days_remaining": 60,
+        "days_remaining": 59,
         "error": null
       },
       "headers": {
@@ -1690,7 +1725,7 @@
           "commonName": "tribomirimbahia.truesight.me"
         },
         "expiry": "2026-12-07T08:29:49+00:00",
-        "days_remaining": 88,
+        "days_remaining": 87,
         "error": null
       },
       "headers": {
@@ -1731,7 +1766,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-10-19T01:14:23+00:00",
-        "days_remaining": 39,
+        "days_remaining": 38,
         "error": null
       },
       "headers": {
@@ -1776,7 +1811,7 @@
           "commonName": "agroverse.shop"
         },
         "expiry": "2026-10-26T08:35:20+00:00",
-        "days_remaining": 46,
+        "days_remaining": 45,
         "error": null
       },
       "headers": {
@@ -1821,7 +1856,7 @@
           "commonName": "truesight.me"
         },
         "expiry": "2026-10-19T01:14:23+00:00",
-        "days_remaining": 39,
+        "days_remaining": 38,
         "error": null
       },
       "headers": {
@@ -2495,12 +2530,12 @@
       },
       {
         "name": "truesight_autopilot_transcript",
-        "visibility": "public",
+        "visibility": "private",
         "archived": false,
         "default_branch": "main",
         "branch_protection": null,
-        "secret_scanning": "disabled",
-        "dependabot": "disabled",
+        "secret_scanning": null,
+        "dependabot": null,
         "error": null
       },
       {
@@ -2566,8 +2601,8 @@
     ],
     "summary": {
       "total": 71,
-      "public": 61,
-      "private": 10,
+      "public": 60,
+      "private": 11,
       "with_branch_protection": 0
     }
   },
@@ -2597,7 +2632,7 @@
     "urls": [
       "https://opensea.io/assets/matic/0x2953399124f0cbb46d2cbacd8a89cf0599974963/92576773502308227007783329158296328196738822351079709811986613407507430768641"
     ],
-    "scanned_at": "2026-09-09T10:55:07.804916+00:00"
+    "scanned_at": "2026-09-10T10:50:35.983663+00:00"
   },
   "score": {
     "score": 20,
@@ -2634,8 +2669,8 @@
       "Missing headers on truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on www.agroverse.shop: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
       "Missing headers on www.truesight.me: CSP, XFO, XCTO, Referrer-Policy, Permissions-Policy",
-      "59 repos without branch protection",
-      "59 repos with secret scanning disabled"
+      "58 repos without branch protection",
+      "58 repos with secret scanning disabled"
     ],
     "grade": "F"
   }
