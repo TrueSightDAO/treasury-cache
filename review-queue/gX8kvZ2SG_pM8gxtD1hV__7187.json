@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-10T21:43:56.315124+00:00",
+  "scoring_hash_key": "gX8kvZ2SG/pM8gxtD1hV",
+  "scored_chatlogs_row": 7187,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 180\n- Description: S\u00edtio Torres (loc3) PR6 \u2014 media pipeline (raw machine execution)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/agentic_ai_context/pull/1009\n  \n  Details:\n  **Raw machine execution** \u2014 PR6 of the S\u00edtio Torres (Pacaj\u00e1, loc3) farm-media task plan: MOV\u2192MP4 transcode + GPS re-inject (35/35, GPS verified), 38 HEIC \u2192 farm-media-raw, 105 inbox files staged, daemon YouTube upload (35/35, 0 errors) with yt_id backfill, S3 archive leg wired (73 raws + 35 previews), manifest v2 rebuilt.\n  \n  - Repo: TrueSightDAO/agriculture media pipeline (MAP): farm-media-raw (photos), media.agroverse.shop S3 (raw+previews), farm_media_manifests (manifest v2), box daemon config.\n  - GitHub: https://github.com/TrueSightDAO/agentic_ai_context/pull/1009\n  - Evidence: manifest commit https://github.com/TrueSightDAO/farm_media_manifests/commit/421f172e34d1\n  - ~230 tool ops (SSH diagnostics, ffmpeg/exiftool builds, GitHub Contents API uploads, daemon ops, manifest builds).\n- Contributor(s): Sophia Truesight\n- TDG Issued: 300.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: 'MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB'\n\nRequest Transaction ID: eBEmP/T6+Sd75VXbj+h6G04NFmV3RlAV7zvBhavJK71obD7X9sJ1B/keH9hFxJmdWy1P/1qyPeL5MeFAGrUAWdfB6gQv/O8qrr2hNFrH9IBJZZk20cJOBDHFCtPQ7LBsfGX6ZwKpbbB1Hs4Gr/QwIuh0NlXoCBqauU11A/QVDVN9xqaaPmlgg3x9eBc31GHFqu+TyF4VqZRgJ1Xst0n5YKCOU6PSVjIAaR9PsSt89H2fwC/zIJVMb3hcW6RNEvmcLX3jooXucUhGb4sXWL+b71HyNHUTktEqNQe+oUyt9WAO+2lqVWfGA7E7zmyUe+K7VbtEt/bQMNY6f4AjzRyqmA==\n\nThis submission was generated using https://github.com/TrueSightDAO/agentic_ai_context/blob/main/DAO_CLIENT_AI_AGENT_CONTRIBUTIONS.md\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "300",
+  "tdgs_issued": "0",
+  "contribution_date": "20260910",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
