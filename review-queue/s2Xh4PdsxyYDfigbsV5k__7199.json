@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-11T12:30:51.090335+00:00",
+  "scoring_hash_key": "s2Xh4PdsxyYDfigbsV5k",
+  "scored_chatlogs_row": 7199,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 240\n- Description: Security incident response & risk-acceptance decision \u2014 fine-grained PAT exposure (thread 24647)\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/truesight_autopilot/pull/421\n  \n  Details:\n  Governor-side work on the transcript/PAT exposure incident:\n  \n  - Diagnosed scope: 8 distinct full-length fine-grained GitHub PATs (93-char) exposed in local session logs across 43 files; confirmed all fine-grained tokens were mis-covered by the transcript redactor.\n  - Directed and approved the remediation: flip truesight_autopilot_transcript repo to private (executed + containment verified: anon 404 / visibility=private), approve the github_pat_ redaction rule (PR #421, merged + verified live), authorize crontab token removal, and authorize the session-log / syslog / journald scrub.\n  - Granted GITHUB_TRANSCRIPT_PAT access to the private repo to restore publishing.\n  - Made the final risk-acceptance call: accept residual PATs in local-only session logs, keep logs non-public, park token rotation.\n  \n  Co-authored with Sophia Truesight (autopilot contribution recorded separately).\n- Contributor(s): Gary Teh\n- TDG Issued: 400.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: oKOcPCix0WNUlZF67KDLv+bMa3rZYCL6moaWC9If5D2OjmSXBMfqzPreHiB6DgaGIL8aUPuhBlkCjXgqhQHwi7bGtiDWtE9xek/3Ah+BYW28X5niMSs4Ht51T2ankVTeDbbtVsju1kxOXIY4yzKdrIAY3UB2Y21b/45SICBuWucqZr+CZoshYTmhc8lCuxAuVlKAk1E4ctKh5Mnbbycn4upjIDSXezXWMwCLPGQvRf2h/CdTe3lAwYpw9Wq/IzNDwNIX95IL0Emaa5M4VKKsQIVh0xQ7GhRzHsfn11Z/PLoNGW27MOUqBw0EfoXtrWJ75612hQ0eXAV6Awp+uewLDQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "400",
+  "tdgs_issued": "0",
+  "contribution_date": "20260911",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

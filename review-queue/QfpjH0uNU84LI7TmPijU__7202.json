@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-11T12:30:51.090669+00:00",
+  "scoring_hash_key": "QfpjH0uNU84LI7TmPijU",
+  "scored_chatlogs_row": 7202,
+  "contributor_name": "Gary Teh",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 45\n- Description: BionPact INV-20260911-BP \u2014 governor direction & review\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/bionpact-invoice-20260911.pdf\n  \n  Details:\n  Time spent by Gary Teh on the BionPact / Agroverse invoice thread (Telegram topic 26150).\n  \n  Work performed:\n  - Directed the Stripe checkout link creation for invoice INV-20260911-BP ($800, BIONPACT PTE. LTD.).\n  - Reviewed the invoice inspection findings and the Stripe account state (no card on file).\n  - Approved the invoice PDF revision and the removal of cacao/product detail from the Stripe checkout at the buyer's request.\n  \n  Evidence: store_interaction_attachments/invoices/bionpact-invoice-20260911.pdf\n- Contributor(s): Gary Teh\n- TDG Issued: 75.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: EbELBfJ0BGEjoK1DlxHrNqvmnernuCKML51kgdlhRQwX20StkR267OPTLDxAP7zIAUBjutBC7T9Q96WSNmim3o+CpqNrYTz0r25V/M5WcLgXilbhTjxyLN83uh5ut36OhGEpgxN+EUAESCuNRk2gMnqNLYzDCXRp8o1Zi/mSw8nBYQvXhJ6O2dYNMvrhm55ffCM1IPPvaYq4EApg5dGnxRQXQ9tpz9/HVCRc520v28dBTQCYIt9oMii9lLDSDLBIn+PKLFJeEpy351PgbyTxCusuI3Gfgf2Mab5kskuk5Zg9v/50gm0HwtMQ3hULyLp1bAKo+XXaNO5hI66QzXcMOg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "75",
+  "tdgs_issued": "0",
+  "contribution_date": "20260911",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}

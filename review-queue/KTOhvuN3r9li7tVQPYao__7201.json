@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-11T12:30:51.090567+00:00",
+  "scoring_hash_key": "KTOhvuN3r9li7tVQPYao",
+  "scored_chatlogs_row": 7201,
+  "contributor_name": "Sophia Truesight",
+  "project_name": "telegram_chatlog",
+  "contribution_description": "[CONTRIBUTION EVENT]\n- Type: Time (Minutes)\n- Amount: 150\n- Description: BionPact INV-20260911-BP \u2014 invoice inspection, Stripe checkout link, PDF revision\n  \n  Pull requests (GitHub evidence):\n  - https://github.com/TrueSightDAO/store_interaction_attachments/blob/main/invoices/bionpact-invoice-20260911.pdf\n  \n  Details:\n  Time spent by Sophia Truesight (autopilot) on the BionPact / Agroverse invoice thread (Telegram topic 26150).\n  \n  Work performed:\n  - Inspected the attached BionPact invoice INV-20260911-BP (TrueTech Inc \u2192 BIONPACT PTE. LTD., 40 kg Oscar Fazenda cacao, Lot AGL14, $800). Verified byte-identical to the archived copy in store_interaction_attachments; cross-checked issuer block, EIN, lot figures and pricing against DAO records (AGROVERSE_INVOICE_CONVENTION.md, AGL14 shipment ledger).\n  - Investigated the live Stripe account: confirmed no card on file for Elizabeth Wong / BionPact (customer cus_UQRBBwb9kDWa5p has 0 saved payment methods; the April $370 card was guest-style, never attached). Reported options to the governor.\n  - Created a live Stripe Payment Link for the $800 invoice line, with the [AGL14] ledger-routing prefix.\n  - Regenerated the invoice PDF with the Stripe pay link added (clickable hyperlink annotations), same layout per AGROVERSE_INVOICE_CONVENTION.md; archived to store_interaction_attachments/invoices/bionpact-invoice-20260911.pdf.\n  - At the buyer's request, removed all cacao/product detail from the Stripe checkout: renamed the product to \"[AGL14] \u2014 INV-20260911-BP\", created explicit product+price so the name is editable, minted a replacement link, and deactivated the old link.\n  \n  Evidence: store_interaction_attachments/invoices/bionpact-invoice-20260911.pdf\n- Contributor(s): Sophia Truesight\n- TDG Issued: 250.00\n- Attached Filename: N/A\n- Destination Contribution File Location: N/A\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: LJ1uL4NieXmrdduo+hSrDgRqr8e96YrxvtIb9mxefEe6Ntwz+vRVNA/5tkh7fP8qkeMEbKsgjmHOlwvphtP6Tq7lg4stiSQY1teLMIyrzuxFVNKRtYrFzXoiQIrZzYhpCcz6E+hMhQpDU8RwSND4wa2hEPpK5XDlAie38MQ0zXB7zqlcJRfoQJaGMBachktjdLK8vpjsNTcllGDBf8ytj9HHyFL5ziFh4DjtTp/OHmJBZp9v4Wj80u610utYcSjWxZxLKeOiQfrIfXFLZoMVa+q2EYgmgYytjfboORR0eIdzHeofeKPCB1xcWJr+L2g3qET5MTr+SEbGICgNygZEEg==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+  "rubric": "100TDG For every 1 hour of human effort",
+  "contribution_type": "100TDG For every 1 hour of human effort",
+  "tdgs_provisioned": "250",
+  "tdgs_issued": "0",
+  "contribution_date": "20260911",
+  "found_in_contributors": "TRUE",
+  "reporter_name": "Edgar",
+  "status": "Pending Review"
+}
