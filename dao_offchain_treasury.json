@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:20:03.052Z",
+  "generated_at": "2026-09-12T17:34:15.220Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -47,10 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 1965.9899999999984,
-      "total_value_usd": 456.7,
+      "total_quantity": 1896.2499999999982,
+      "total_value_usd": 440.5,
       "ledgers": {
-        "Main Ledger": 1729.0900000000001,
+        "Main Ledger": 1659.35,
         "AGL8": 236.89999999999827
       }
     },
@@ -1332,7 +1332,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2532.4023,
+      "unit_cost_usd": 2527.1745,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1626,10 +1626,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 1680.96,
+          "amount": 1611.22,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 390.487008
+          "total_value_usd": 374.286406
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -1692,8 +1692,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2532.4023,
-          "total_value_usd": 1.2032969750744913e-10
+          "unit_cost_usd": 2527.1745,
+          "total_value_usd": 1.200812932185139e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -9933,8 +9933,8 @@
   ],
   "totals": {
     "item_types": 95,
-    "total_units": 23337.55415957675,
-    "total_value_usd": 30332.72,
+    "total_units": 23267.81415957675,
+    "total_value_usd": 30316.52,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1168
