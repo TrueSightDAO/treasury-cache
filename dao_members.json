@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-11T03:24:59.084Z",
+  "generated_at": "2026-09-12T03:24:59.387Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
@@ -14,7 +14,7 @@
     "voting_rights_circulated": 2426925.9154073913,
     "total_assets": 17941.5202,
     "asset_per_circulated_voting_right": 0.00739,
-    "usd_provisions_for_cash_out": 54.82261
+    "usd_provisions_for_cash_out": 54.92918
   },
   "unjoined_governor_names": [],
   "contributors": [
@@ -363,7 +363,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20260909 20:24:45"
+          "last_active_at": "20260910 20:24:42"
         }
       ]
     },
@@ -4132,7 +4132,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB",
           "status": "ACTIVE",
           "created_at": "2026-08-24T21:42:22.000Z",
-          "last_active_at": "20260910 10:05:34"
+          "last_active_at": "20260911 08:26:42"
         }
       ]
     },
