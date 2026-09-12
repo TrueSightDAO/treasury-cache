@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-12T16:05:47.775Z",
+  "generated_at": "2026-09-12T16:28:42.094Z",
   "source": "treasury-cache-publisher",
-  "trigger": "manual",
+  "trigger": "expense_processing",
   "schema_version": 5,
   "items": [
     {
@@ -289,6 +289,34 @@
       "hs_code": null,
       "total_quantity": 100,
       "total_value_usd": 81.31,
+      "ledgers": {
+        "Main Ledger": 100
+      }
+    },
+    {
+      "currency": "Plastic Bag 12cm X 25cm - 500 grams capacity",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.0579,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 100,
+      "total_value_usd": 5.79,
+      "ledgers": {
+        "Main Ledger": 100
+      }
+    },
+    {
+      "currency": "Plastic Bag 40cm X 60cm - 10 kilograms capacity",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.1047,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 100,
+      "total_value_usd": 10.47,
       "ledgers": {
         "Main Ledger": 100
       }
@@ -980,6 +1008,20 @@
       }
     },
     {
+      "currency": "Keys to Ilheus warehouse (outer door and inner door)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 3.15,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2,
+      "total_value_usd": 6.3,
+      "ledgers": {
+        "Main Ledger": 2
+      }
+    },
+    {
       "currency": "Label Maker",
       "unit_weight_g": null,
       "unit_cost_usd": 44.99,
@@ -1290,7 +1332,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2534.5002,
+      "unit_cost_usd": 2533.4978,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1650,8 +1692,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2534.5002,
-          "total_value_usd": 1.2042938138169013e-10
+          "unit_cost_usd": 2533.4978,
+          "total_value_usd": 1.2038175131565306e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1659,6 +1701,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 28.11,
           "total_value_usd": 28.11
+        },
+        {
+          "currency": "Keys to Ilheus warehouse (outer door and inner door)",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 3.15,
+          "total_value_usd": 6.3
         },
         {
           "currency": "Label Maker",
@@ -4337,6 +4386,20 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 38.35,
           "total_value_usd": 38.35
+        },
+        {
+          "currency": "Plastic Bag 12cm X 25cm - 500 grams capacity",
+          "amount": 100,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.0579,
+          "total_value_usd": 5.79
+        },
+        {
+          "currency": "Plastic Bag 40cm X 60cm - 10 kilograms capacity",
+          "amount": 100,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.1047,
+          "total_value_usd": 10.47
         },
         {
           "currency": "Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409)",
@@ -9869,9 +9932,9 @@
     }
   ],
   "totals": {
-    "item_types": 92,
-    "total_units": 23135.55415957675,
-    "total_value_usd": 30310.16,
+    "item_types": 95,
+    "total_units": 23337.55415957675,
+    "total_value_usd": 30332.72,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1168
