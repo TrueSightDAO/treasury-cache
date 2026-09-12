@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-12T17:34:15.220Z",
+  "generated_at": "2026-09-12T17:39:56.476Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -47,10 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 1896.2499999999982,
-      "total_value_usd": 440.5,
+      "total_quantity": 1866.5099999999984,
+      "total_value_usd": 433.59,
       "ledgers": {
-        "Main Ledger": 1659.35,
+        "Main Ledger": 1629.6100000000001,
         "AGL8": 236.89999999999827
       }
     },
@@ -541,6 +541,20 @@
       "hs_code": "1803.1",
       "total_quantity": 25,
       "total_value_usd": 209.38,
+      "ledgers": {
+        "Main Ledger": 25
+      }
+    },
+    {
+      "currency": "Reinforced Cardboard Boxes - Size 40x30x30",
+      "unit_weight_g": null,
+      "unit_cost_usd": 2.036,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 25,
+      "total_value_usd": 50.9,
       "ledgers": {
         "Main Ledger": 25
       }
@@ -1204,6 +1218,20 @@
       }
     },
     {
+      "currency": "Digital Kitchen Scale, 10kg Capacity",
+      "unit_weight_g": null,
+      "unit_cost_usd": 5.01,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 1,
+      "total_value_usd": 5.01,
+      "ledgers": {
+        "Main Ledger": 1
+      }
+    },
+    {
       "currency": "Hastings Serving Kettle Black - 1.5L",
       "unit_weight_g": null,
       "unit_cost_usd": 47.99,
@@ -1288,6 +1316,20 @@
       }
     },
     {
+      "currency": "Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus",
+      "unit_weight_g": null,
+      "unit_cost_usd": 4.78,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 1,
+      "total_value_usd": 4.78,
+      "ledgers": {
+        "Main Ledger": 1
+      }
+    },
+    {
       "currency": "Winnowing and Cracking Machine from Rusty",
       "unit_weight_g": null,
       "unit_cost_usd": 400,
@@ -1332,7 +1374,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2527.1745,
+      "unit_cost_usd": 2526.1873,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1626,10 +1668,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 1611.22,
+          "amount": 1581.48,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 374.286406
+          "total_value_usd": 367.377804
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -1692,8 +1734,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2527.1745,
-          "total_value_usd": 1.200812932185139e-10
+          "unit_cost_usd": 2526.1873,
+          "total_value_usd": 1.200343853960959e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4346,6 +4388,13 @@
           "total_value_usd": 191.826904985889
         },
         {
+          "currency": "Digital Kitchen Scale, 10kg Capacity",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 5.01,
+          "total_value_usd": 5.01
+        },
+        {
           "currency": "Foam container box - 120 kraft pouches capacity",
           "amount": 2,
           "ledger": "Main Ledger",
@@ -4407,6 +4456,20 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 10.4535,
           "total_value_usd": 41.814
+        },
+        {
+          "currency": "Reinforced Cardboard Boxes - Size 40x30x30",
+          "amount": 25,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 2.036,
+          "total_value_usd": 50.9
+        },
+        {
+          "currency": "Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 4.78,
+          "total_value_usd": 4.78
         }
       ],
       "qr_codes": [
@@ -9932,9 +9995,9 @@
     }
   ],
   "totals": {
-    "item_types": 95,
-    "total_units": 23267.81415957675,
-    "total_value_usd": 30316.52,
+    "item_types": 98,
+    "total_units": 23265.074159576747,
+    "total_value_usd": 30370.3,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1168
