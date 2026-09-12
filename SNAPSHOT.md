@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-12T17:39:56.476Z` |
+| Generated at | `2026-09-12T17:40:24.567Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 98 |
-| Total units | 23265.074159576747 |
-| Total value USD | $30370.30 |
+| Total units | 23188.58415957675 |
+| Total value USD | $30293.81 |
 | Ledgers processed | 15 |
 | Managers | 40 |
 | QR codes assigned | 1168 |
@@ -19,7 +19,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 12467.246929655745 | $1.00 | $12467.25 | AGL10: 347.83, AGL14: 764.5, AGL15: 4307.779999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 5030.485593374587, SEF1: 16 |
+| USD | — | — | 12390.756929655743 | $1.00 | $12390.76 | AGL10: 347.83, AGL14: 764.5, AGL15: 4307.779999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4953.995593374587, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Brazilian Reis | — | — | 1866.5099999999984 | $0.23 | $433.59 | AGL8: 236.89999999999827, Main Ledger: 1629.6100000000001 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -129,7 +129,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 83 | 14618.227500497593 |
+| Main Ledger | 83 | 14541.737500497593 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -143,7 +143,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 30 | 14647.039036778746 | 241 |
+| Gary Teh | 30 | 14570.549036778748 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
