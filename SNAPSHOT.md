@@ -5,23 +5,23 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-12T17:34:15.220Z` |
+| Generated at | `2026-09-12T17:39:56.476Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
-| Item types | 95 |
-| Total units | 23267.81415957675 |
-| Total value USD | $30316.52 |
+| Item types | 98 |
+| Total units | 23265.074159576747 |
+| Total value USD | $30370.30 |
 | Ledgers processed | 15 |
 | Managers | 40 |
 | QR codes assigned | 1168 |
 
-## Items (95, sorted by total quantity)
+## Items (98, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
 | USD | — | — | 12467.246929655745 | $1.00 | $12467.25 | AGL10: 347.83, AGL14: 764.5, AGL15: 4307.779999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 5030.485593374587, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
-| Brazilian Reis | — | — | 1896.2499999999982 | $0.23 | $440.50 | AGL8: 236.89999999999827, Main Ledger: 1659.35 |
+| Brazilian Reis | — | — | 1866.5099999999984 | $0.23 | $433.59 | AGL8: 236.89999999999827, Main Ledger: 1629.6100000000001 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
@@ -57,6 +57,7 @@
 | 1 Gallon Zip Loc Bags | — | — | 34 | $0.14 | $4.78 | Main Ledger: 34 |
 | Chocolate Mold - 4 X 6 slots | — | — | 26 | $1.19 | $30.94 | Main Ledger: 26 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | — | — | 25 | $8.38 | $209.38 | Main Ledger: 25 |
+| Reinforced Cardboard Boxes - Size 40x30x30 | — | — | 25 | $2.04 | $50.90 | Main Ledger: 25 |
 | 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | — | — | 24 | $9.95 | $238.87 | Main Ledger: 24 |
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 21 | $10.18 | $213.83 | AGL13: 21 |
 | Cacao Husk (KG) - Ilheus, Brazil | Cacao Tea | Bulk | 20 | $17.79 | $355.71 | Main Ledger: 20 |
@@ -104,16 +105,18 @@
 | Chocolate Wrapper Die Cutter from Rusty | — | — | 1 | $0.00 | $0.00 | Main Ledger: 1 |
 | Collapsible Foldable Wagon Beach Cart | — | — | 1 | $54.30 | $54.30 | Main Ledger: 1 |
 | CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027 | — | — | 1 | $162.37 | $162.37 | Main Ledger: 1 |
+| Digital Kitchen Scale, 10kg Capacity | — | — | 1 | $5.01 | $5.01 | Main Ledger: 1 |
 | Hastings Serving Kettle Black - 1.5L | — | — | 1 | $47.99 | $47.99 | Main Ledger: 1 |
 | Hastings Serving Kettle White - 1.5L | — | — | 1 | $47.99 | $47.99 | Main Ledger: 1 |
 | Heat Sealer for Kraft Pouch | — | — | 1 | $28.11 | $28.11 | Main Ledger: 1 |
 | Heat Sealer for Kraft Pouch - Brazil | — | — | 1 | $24.70 | $24.70 | Main Ledger: 1 |
 | Label Maker - Brazil | — | — | 1 | $35.03 | $35.03 | Main Ledger: 1 |
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
+| Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus | — | — | 1 | $4.78 | $4.78 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2527.17 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2526.19 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -126,7 +129,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 80 | 14620.967500497592 |
+| Main Ledger | 83 | 14618.227500497593 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -140,7 +143,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 30 | 14676.779036778747 | 241 |
+| Gary Teh | 30 | 14647.039036778746 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -151,7 +154,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1335 | 47 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 24 | 2212.715122798 | 326 |
+| Matheus Reis | 27 | 2239.715122798 | 326 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
