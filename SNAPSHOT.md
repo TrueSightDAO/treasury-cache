@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-13T17:48:34.016Z` |
-| Trigger | `cron` |
+| Generated at | `2026-09-13T18:19:09.438Z` |
+| Trigger | `expense_processing` |
 | Schema version | `5` |
-| Item types | 98 |
-| Total units | 23188.58415957675 |
-| Total value USD | $30293.80 |
+| Item types | 99 |
+| Total units | 23191.58415957675 |
+| Total value USD | $30350.07 |
 | Ledgers processed | 15 |
 | Managers | 40 |
 | QR codes assigned | 1168 |
 
-## Items (98, sorted by total quantity)
+## Items (99, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -89,6 +89,7 @@
 | Cacao Husk Bag (weight unknown) | Cacao Tea | Bulk | 3 | — | — | Main Ledger: 3 |
 | Cacao Tree Planted | — | — | 3 | $1.50 | $4.50 | Main Ledger: 3 |
 | Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | — | — | 3 | $5.19 | $15.56 | Main Ledger: 3 |
+| Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912) | — | — | 3 | $18.76 | $56.27 | Main Ledger: 3 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
 | Foam container box - 120 kraft pouches capacity | — | — | 2 | $24.11 | $48.22 | Main Ledger: 2 |
 | Keys to Ilheus warehouse (outer door and inner door) | — | — | 2 | $3.15 | $6.30 | Main Ledger: 2 |
@@ -116,7 +117,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2503.61 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2505.06 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -129,7 +130,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 83 | 14541.737500497595 |
+| Main Ledger | 84 | 14544.737500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -154,7 +155,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1335 | 47 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 27 | 2239.715122798 | 326 |
+| Matheus Reis | 28 | 2242.715122798 | 326 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
