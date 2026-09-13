@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-13T17:48:34.016Z",
+  "generated_at": "2026-09-13T18:19:09.438Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "expense_processing",
   "schema_version": 5,
   "items": [
     {
@@ -994,6 +994,20 @@
       }
     },
     {
+      "currency": "Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912)",
+      "unit_weight_g": 10000,
+      "unit_cost_usd": 18.758,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 3,
+      "total_value_usd": 56.27,
+      "ledgers": {
+        "Main Ledger": 3
+      }
+    },
+    {
       "currency": "Cacao Molasses 250ml + 74 4476 6210 San Francisco",
       "unit_weight_g": 250,
       "unit_cost_usd": 12.143,
@@ -1374,7 +1388,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2503.6089,
+      "unit_cost_usd": 2505.0570000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1734,8 +1748,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2503.6089,
-          "total_value_usd": 1.1896154951918873e-10
+          "unit_cost_usd": 2505.0570000000002,
+          "total_value_usd": 1.1903035747871418e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4449,6 +4463,14 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.1047,
           "total_value_usd": 10.47
+        },
+        {
+          "currency": "Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912)",
+          "amount": 3,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 10000,
+          "unit_cost_usd": 18.758,
+          "total_value_usd": 56.274
         },
         {
           "currency": "Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409)",
@@ -9995,9 +10017,9 @@
     }
   ],
   "totals": {
-    "item_types": 98,
-    "total_units": 23188.58415957675,
-    "total_value_usd": 30293.8,
+    "item_types": 99,
+    "total_units": 23191.58415957675,
+    "total_value_usd": 30350.07,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1168
