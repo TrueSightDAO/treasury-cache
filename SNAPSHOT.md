@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-13T20:02:28.145Z` |
+| Generated at | `2026-09-13T20:03:01.774Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 99 |
-| Total units | 22899.58415957675 |
-| Total value USD | $30269.42 |
+| Total units | 22899.08415957675 |
+| Total value USD | $30264.33 |
 | Ledgers processed | 15 |
 | Managers | 40 |
 | QR codes assigned | 1168 |
@@ -43,7 +43,7 @@
 | Plastic Bag 40cm X 60cm - 10 kilograms capacity | — | — | 100 | $0.10 | $10.47 | Main Ledger: 100 |
 | QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil | — | — | 100 | $0.13 | $13.01 | Main Ledger: 100 |
-| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 100 | $10.18 | $1018.23 | AGL13: 100 |
+| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 99.5 | $10.18 | $1013.14 | AGL13: 99.5 |
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 | Cacao Nib | Bulk | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
@@ -124,7 +124,7 @@
 | Ledger | Distinct items | Total units |
 |---|---:|---:|
 | AGL10 | 4 | 354 |
-| AGL13 | 3 | 136 |
+| AGL13 | 3 | 135.5 |
 | AGL14 | 2 | 804.5 |
 | AGL15 | 1 | 4307.779999999999 |
 | AGL6 | 3 | 1355.5853362811577 |
@@ -155,7 +155,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1335 | 47 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 28 | 2240.715122798 | 326 |
+| Matheus Reis | 28 | 2240.215122798 | 326 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
