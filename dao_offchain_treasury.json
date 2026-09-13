@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T18:19:22.890Z",
+  "generated_at": "2026-09-13T18:19:41.015Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -47,10 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 1626.5099999999984,
-      "total_value_usd": 377.84,
+      "total_quantity": 1576.5099999999984,
+      "total_value_usd": 366.22,
       "ledgers": {
-        "Main Ledger": 1389.6100000000001,
+        "Main Ledger": 1339.6100000000001,
         "AGL8": 236.89999999999827
       }
     },
@@ -1682,10 +1682,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 1341.48,
+          "amount": 1291.48,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 311.625804
+          "total_value_usd": 300.010804
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -10018,8 +10018,8 @@
   ],
   "totals": {
     "item_types": 99,
-    "total_units": 22951.58415957675,
-    "total_value_usd": 30294.32,
+    "total_units": 22901.58415957675,
+    "total_value_usd": 30282.7,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1168
