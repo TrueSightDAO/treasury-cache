@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-13T18:40:11.858Z` |
-| Trigger | `process_reservation_settlement` |
+| Generated at | `2026-09-13T18:40:33.117Z` |
+| Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 99 |
 | Total units | 22901.58415957675 |
