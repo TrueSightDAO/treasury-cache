@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:53:16.725Z",
+  "generated_at": "2026-09-14T20:53:43.311Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -12,8 +12,8 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 12369.52221748694,
-      "total_value_usd": 12369.52,
+      "total_quantity": 12366.59221748694,
+      "total_value_usd": 12366.59,
       "ledgers": {
         "Main Ledger": 4953.900881205784,
         "AGL6": 1337.5853362811577,
@@ -21,7 +21,7 @@
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
-        "AGL15": 4286.6399999999985,
+        "AGL15": 4283.709999999998,
         "BEC": 93.12
       }
     },
@@ -1402,7 +1402,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2587.2093,
+      "unit_cost_usd": 2582.391,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1613,10 +1613,10 @@
         },
         {
           "currency": "[AGL15] USD",
-          "amount": 4286.6399999999985,
+          "amount": 4283.709999999998,
           "ledger": "AGL15",
           "unit_cost_usd": 1,
-          "total_value_usd": 4286.64
+          "total_value_usd": 4283.71
         },
         {
           "currency": "[AGL6] 8 Ounce Package Kraft Pouch - AGL6",
@@ -1755,8 +1755,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2587.2093,
-          "total_value_usd": 1.2293390843052827e-10
+          "unit_cost_usd": 2582.391,
+          "total_value_usd": 1.2270496195488333e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10060,8 +10060,8 @@
   ],
   "totals": {
     "item_types": 100,
-    "total_units": 22869.444159576742,
-    "total_value_usd": 30240.43,
+    "total_units": 22866.51415957674,
+    "total_value_usd": 30237.5,
     "ledgers_processed": 15,
     "managers_count": 41,
     "qr_codes_assigned": 1168
