@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T20:34:51.636Z",
+  "generated_at": "2026-09-14T20:41:36.822Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "movement",
   "schema_version": 5,
   "items": [
     {
@@ -47,10 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 1576.5099999999984,
-      "total_value_usd": 366.22,
+      "total_quantity": 1566.5099999999984,
+      "total_value_usd": 363.9,
       "ledgers": {
-        "Main Ledger": 1339.6100000000001,
+        "Main Ledger": 1329.6100000000001,
         "AGL8": 236.89999999999827
       }
     },
@@ -994,6 +994,20 @@
       }
     },
     {
+      "currency": "Keys to Ilheus warehouse (outer door and inner door)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 3.15,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 3,
+      "total_value_usd": 9.45,
+      "ledgers": {
+        "Main Ledger": 3
+      }
+    },
+    {
       "currency": "Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912)",
       "unit_weight_g": 10000,
       "unit_cost_usd": 18.758,
@@ -1031,20 +1045,6 @@
       "hs_code": null,
       "total_quantity": 2,
       "total_value_usd": 48.22,
-      "ledgers": {
-        "Main Ledger": 2
-      }
-    },
-    {
-      "currency": "Keys to Ilheus warehouse (outer door and inner door)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 3.15,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 2,
-      "total_value_usd": 6.3,
       "ledgers": {
         "Main Ledger": 2
       }
@@ -1402,7 +1402,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2598.9751,
+      "unit_cost_usd": 2594.7013,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1696,10 +1696,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 1291.48,
+          "amount": 1281.48,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 300.010804
+          "total_value_usd": 297.687804
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -1762,8 +1762,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2598.9751,
-          "total_value_usd": 1.2349297250772216e-10
+          "unit_cost_usd": 2594.7013,
+          "total_value_usd": 1.2328989850908958e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4449,6 +4449,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 24.7,
           "total_value_usd": 24.7
+        },
+        {
+          "currency": "Keys to Ilheus warehouse (outer door and inner door)",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 3.15,
+          "total_value_usd": 3.15
         },
         {
           "currency": "Label Maker - Brazil",
@@ -10039,8 +10046,8 @@
   ],
   "totals": {
     "item_types": 100,
-    "total_units": 22899.584159576745,
-    "total_value_usd": 30260.74,
+    "total_units": 22890.584159576745,
+    "total_value_usd": 30261.57,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1168
