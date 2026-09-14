@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-14T20:41:36.822Z",
+  "generated_at": "2026-09-14T20:44:23.279Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -1402,7 +1402,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2594.7013,
+      "unit_cost_usd": 2591.7759,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1753,17 +1753,17 @@
         },
         {
           "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
-          "amount": 10,
+          "amount": 9,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1.27,
-          "total_value_usd": 12.7
+          "total_value_usd": 11.43
         },
         {
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2594.7013,
-          "total_value_usd": 1.2328989850908958e-10
+          "unit_cost_usd": 2591.7759,
+          "total_value_usd": 1.231508951220336e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -9346,6 +9346,20 @@
       ]
     },
     {
+      "manager_name": "Santos José Carlos",
+      "manager_key": "Santos%20Jos%C3%A9%20Carlos",
+      "items": [
+        {
+          "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1.27,
+          "total_value_usd": 1.27
+        }
+      ],
+      "qr_codes": []
+    },
+    {
       "manager_name": "Secrets of the Garden - Kirstin",
       "manager_key": "Secrets%20of%20the%20Garden%20-%20Kirstin",
       "items": [
@@ -10049,7 +10063,7 @@
     "total_units": 22890.584159576745,
     "total_value_usd": 30261.57,
     "ledgers_processed": 15,
-    "managers_count": 40,
+    "managers_count": 41,
     "qr_codes_assigned": 1168
   }
 }
