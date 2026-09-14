@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-14T12:08:22.757Z",
+  "generated_at": "2026-09-14T13:48:34.833Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -1246,6 +1246,20 @@
       }
     },
     {
+      "currency": "FounderHaus Tree Planting Pledge - QR Code",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1.5,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 1,
+      "total_value_usd": 1.5,
+      "ledgers": {
+        "Main Ledger": 1
+      }
+    },
+    {
       "currency": "Hastings Serving Kettle Black - 1.5L",
       "unit_weight_g": null,
       "unit_cost_usd": 47.99,
@@ -1388,7 +1402,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2508.3788,
+      "unit_cost_usd": 2505.2676,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1748,8 +1762,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2508.3788,
-          "total_value_usd": 1.1918819621909923e-10
+          "unit_cost_usd": 2505.2676,
+          "total_value_usd": 1.190403643541206e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4423,6 +4437,13 @@
           "total_value_usd": 10.370978999999998
         },
         {
+          "currency": "FounderHaus Tree Planting Pledge - QR Code",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1.5,
+          "total_value_usd": 1.5
+        },
+        {
           "currency": "Heat Sealer for Kraft Pouch - Brazil",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -6450,6 +6471,12 @@
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
           "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024OSCAR_CT_20260820_73",
+          "status": "MINTED",
+          "currency": "FounderHaus Tree Planting Pledge - QR Code",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
         }
       ]
     },
@@ -7012,12 +7039,6 @@
         },
         {
           "qr_code": "2024OSCAR_CT_20260820_71",
-          "status": "MINTED",
-          "currency": "FounderHaus Tree Planting Pledge - QR Code",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_CT_20260820_73",
           "status": "MINTED",
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -10017,9 +10038,9 @@
     }
   ],
   "totals": {
-    "item_types": 99,
-    "total_units": 22898.584159576745,
-    "total_value_usd": 30259.24,
+    "item_types": 100,
+    "total_units": 22899.584159576745,
+    "total_value_usd": 30260.74,
     "ledgers_processed": 15,
     "managers_count": 40,
     "qr_codes_assigned": 1168
