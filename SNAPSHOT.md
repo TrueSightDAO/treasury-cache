@@ -5,14 +5,14 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-14T20:41:36.822Z` |
+| Generated at | `2026-09-14T20:44:23.279Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 100 |
 | Total units | 22890.584159576745 |
 | Total value USD | $30261.57 |
 | Ledgers processed | 15 |
-| Managers | 40 |
+| Managers | 41 |
 | QR codes assigned | 1168 |
 
 ## Items (100, sorted by total quantity)
@@ -118,7 +118,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2594.70 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2591.78 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -135,7 +135,7 @@
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (40)
+## Managers (41)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -145,7 +145,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 30 | 14270.549036778748 | 241 |
+| Gary Teh | 30 | 14269.549036778748 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -168,6 +168,7 @@
 | Rune Shields | 2 | 5 | 5 |
 | Sacred Earth Farms | 3 | 316 | 316 |
 | Sammi Whitchurch | 1 | 5 | 5 |
+| Santos José Carlos | 1 | 1 | — |
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
