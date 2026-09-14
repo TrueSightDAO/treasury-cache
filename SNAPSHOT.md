@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-14T20:34:51.636Z` |
-| Trigger | `expense_processing` |
+| Generated at | `2026-09-14T20:41:36.822Z` |
+| Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 100 |
-| Total units | 22899.584159576745 |
-| Total value USD | $30260.74 |
+| Total units | 22890.584159576745 |
+| Total value USD | $30261.57 |
 | Ledgers processed | 15 |
 | Managers | 40 |
 | QR codes assigned | 1168 |
@@ -21,7 +21,7 @@
 |---|---|---|---:|---:|---:|---|
 | USD | — | — | 12390.66221748694 | $1.00 | $12390.66 | AGL10: 347.83, AGL14: 764.5, AGL15: 4307.779999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4953.900881205784, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
-| Brazilian Reis | — | — | 1576.5099999999984 | $0.23 | $366.22 | AGL8: 236.89999999999827, Main Ledger: 1339.6100000000001 |
+| Brazilian Reis | — | — | 1566.5099999999984 | $0.23 | $363.90 | AGL8: 236.89999999999827, Main Ledger: 1329.6100000000001 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
@@ -89,10 +89,10 @@
 | Cacao Husk Bag (weight unknown) | Cacao Tea | Bulk | 3 | — | — | Main Ledger: 3 |
 | Cacao Tree Planted | — | — | 3 | $1.50 | $4.50 | Main Ledger: 3 |
 | Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | — | — | 3 | $5.19 | $15.56 | Main Ledger: 3 |
+| Keys to Ilheus warehouse (outer door and inner door) | — | — | 3 | $3.15 | $9.45 | Main Ledger: 3 |
 | Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912) | — | — | 3 | $18.76 | $56.27 | Main Ledger: 3 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
 | Foam container box - 120 kraft pouches capacity | — | — | 2 | $24.11 | $48.22 | Main Ledger: 2 |
-| Keys to Ilheus warehouse (outer door and inner door) | — | — | 2 | $3.15 | $6.30 | Main Ledger: 2 |
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
 | Agroverse Retractable Banner | — | — | 1 | $72.57 | $72.57 | Main Ledger: 1 |
@@ -118,7 +118,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2598.98 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2594.70 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -131,7 +131,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 85 | 14253.737500497595 |
+| Main Ledger | 85 | 14244.737500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -145,7 +145,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 30 | 14280.549036778748 | 241 |
+| Gary Teh | 30 | 14270.549036778748 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -156,7 +156,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1335 | 47 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 29 | 2240.715122798 | 327 |
+| Matheus Reis | 30 | 2241.715122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
