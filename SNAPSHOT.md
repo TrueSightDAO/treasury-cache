@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-14T12:08:22.757Z` |
-| Trigger | `expense_processing` |
+| Generated at | `2026-09-14T13:48:34.833Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 99 |
-| Total units | 22898.584159576745 |
-| Total value USD | $30259.24 |
+| Item types | 100 |
+| Total units | 22899.584159576745 |
+| Total value USD | $30260.74 |
 | Ledgers processed | 15 |
 | Managers | 40 |
 | QR codes assigned | 1168 |
 
-## Items (99, sorted by total quantity)
+## Items (100, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -107,6 +107,7 @@
 | Collapsible Foldable Wagon Beach Cart | — | — | 1 | $54.30 | $54.30 | Main Ledger: 1 |
 | CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027 | — | — | 1 | $162.37 | $162.37 | Main Ledger: 1 |
 | Digital Kitchen Scale, 10kg Capacity | — | — | 1 | $5.01 | $5.01 | Main Ledger: 1 |
+| FounderHaus Tree Planting Pledge - QR Code | — | — | 1 | $1.50 | $1.50 | Main Ledger: 1 |
 | Hastings Serving Kettle Black - 1.5L | — | — | 1 | $47.99 | $47.99 | Main Ledger: 1 |
 | Hastings Serving Kettle White - 1.5L | — | — | 1 | $47.99 | $47.99 | Main Ledger: 1 |
 | Heat Sealer for Kraft Pouch | — | — | 1 | $28.11 | $28.11 | Main Ledger: 1 |
@@ -117,7 +118,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2508.38 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2505.27 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -130,7 +131,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 84 | 14252.737500497595 |
+| Main Ledger | 85 | 14253.737500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -155,12 +156,12 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1335 | 47 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 28 | 2239.715122798 | 326 |
+| Matheus Reis | 29 | 2240.715122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
-| Paloma | 7 | 661.32 | 92 |
+| Paloma | 7 | 661.32 | 91 |
 | Paulo Hernandez | 1 | 10 | — |
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
