@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T13:48:36.840Z",
+  "generated_at": "2026-09-15T14:48:37.205Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -868,6 +868,20 @@
       }
     },
     {
+      "currency": "Coopercabruca Cacao Butter (KG)",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 5,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 5
+      }
+    },
+    {
       "currency": "Large Cardboard Box for Moving Packaging 60x40x50",
       "unit_weight_g": null,
       "unit_cost_usd": 2.6549706239999997,
@@ -1402,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2446.8575,
+      "unit_cost_usd": 2410.6451,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1755,8 +1769,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2446.8575,
-          "total_value_usd": 1.1626494843210069e-10
+          "unit_cost_usd": 2410.6451,
+          "total_value_usd": 1.1454427903529168e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4414,6 +4428,11 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 1.27,
           "total_value_usd": 11.43
+        },
+        {
+          "currency": "Coopercabruca Cacao Butter (KG)",
+          "amount": 5,
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Digital Kitchen Scale, 10kg Capacity",
@@ -10059,8 +10078,8 @@
     }
   ],
   "totals": {
-    "item_types": 100,
-    "total_units": 22823.05415957675,
+    "item_types": 101,
+    "total_units": 22828.05415957675,
     "total_value_usd": 30194.54,
     "ledgers_processed": 15,
     "managers_count": 41,
