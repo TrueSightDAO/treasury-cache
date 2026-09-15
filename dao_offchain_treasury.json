@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T05:30:55.773Z",
+  "generated_at": "2026-09-15T05:31:15.209Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -161,10 +161,10 @@
       "unit_format": "Bulk",
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 274.085122798,
+      "total_quantity": 273.585122798,
       "total_value_usd": null,
       "ledgers": {
-        "AGL8": 274.085122798
+        "AGL8": 273.585122798
       }
     },
     {
@@ -4307,7 +4307,7 @@
         },
         {
           "currency": "[AGL8] Cacao Almonds (KG)",
-          "amount": 274.085122798,
+          "amount": 273.585122798,
           "ledger": "AGL8",
           "unit_weight_g": 1000,
           "inventory_type": "Cacao Bean",
@@ -10060,7 +10060,7 @@
   ],
   "totals": {
     "item_types": 100,
-    "total_units": 22823.55415957675,
+    "total_units": 22823.05415957675,
     "total_value_usd": 30194.54,
     "ledgers_processed": 15,
     "managers_count": 41,
