@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T14:48:37.205Z",
+  "generated_at": "2026-09-15T15:48:41.210Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -870,13 +870,13 @@
     {
       "currency": "Coopercabruca Cacao Butter (KG)",
       "unit_weight_g": null,
-      "unit_cost_usd": null,
+      "unit_cost_usd": 17.33,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
-      "hs_code": null,
+      "hs_code": "1804",
       "total_quantity": 5,
-      "total_value_usd": null,
+      "total_value_usd": 86.65,
       "ledgers": {
         "Main Ledger": 5
       }
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2410.6451,
+      "unit_cost_usd": 2425.7653,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1769,8 +1769,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2410.6451,
-          "total_value_usd": 1.1454427903529168e-10
+          "unit_cost_usd": 2425.7653,
+          "total_value_usd": 1.1526273087536944e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4432,7 +4432,10 @@
         {
           "currency": "Coopercabruca Cacao Butter (KG)",
           "amount": 5,
-          "ledger": "Main Ledger"
+          "ledger": "Main Ledger",
+          "hs_code": "1804",
+          "unit_cost_usd": 17.33,
+          "total_value_usd": 86.64999999999999
         },
         {
           "currency": "Digital Kitchen Scale, 10kg Capacity",
@@ -10080,7 +10083,7 @@
   "totals": {
     "item_types": 101,
     "total_units": 22828.05415957675,
-    "total_value_usd": 30194.54,
+    "total_value_usd": 30281.19,
     "ledgers_processed": 15,
     "managers_count": 41,
     "qr_codes_assigned": 1168
