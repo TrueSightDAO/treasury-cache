@@ -5,11 +5,11 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-15T05:30:55.773Z` |
+| Generated at | `2026-09-15T05:31:15.209Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 100 |
-| Total units | 22823.55415957675 |
+| Total units | 22823.05415957675 |
 | Total value USD | $30194.54 |
 | Ledgers processed | 15 |
 | Managers | 41 |
@@ -29,7 +29,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 358 | $0.68 | $241.81 | Main Ledger: 358 |
 | Cacao Tree To Be Planted | — | — | 352 | $-1.50 | $-528.00 | Main Ledger: 352 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
-| Cacao Almonds (KG) | Cacao Bean | Bulk | 274.085122798 | — | — | AGL8: 274.085122798 |
+| Cacao Almonds (KG) | Cacao Bean | Bulk | 273.585122798 | — | — | AGL8: 273.585122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Cacao Tea 1g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 229 | $0.11 | $25.76 | Main Ledger: 229 |
 | BRL | — | — | 220 | $0.19 | $42.69 | Main Ledger: 220 |
@@ -129,7 +129,7 @@
 | AGL14 | 2 | 804.5 |
 | AGL15 | 1 | 4240.749999999999 |
 | AGL6 | 3 | 1355.5853362811577 |
-| AGL8 | 7 | 1272.8613227979984 |
+| AGL8 | 7 | 1272.3613227979984 |
 | BEC | 1 | 93.12 |
 | Main Ledger | 85 | 14244.737500497595 |
 | PP1 | 1 | 10 |
@@ -156,7 +156,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1335 | 47 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 31 | 2250.715122798 | 327 |
+| Matheus Reis | 31 | 2250.215122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
