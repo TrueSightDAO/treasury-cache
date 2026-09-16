@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-16T21:04:12.519Z` |
+| Generated at | `2026-09-16T21:05:23.430Z` |
 | Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 101 |
@@ -13,7 +13,7 @@
 | Total value USD | $30281.20 |
 | Ledgers processed | 15 |
 | Managers | 41 |
-| QR codes assigned | 1167 |
+| QR codes assigned | 1162 |
 
 ## Items (101, sorted by total quantity)
 
@@ -146,7 +146,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 29 | 14193.51903677875 | 241 |
+| Gary Teh | 29 | 14193.51903677875 | 238 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -155,7 +155,7 @@
 | Jae Nice | 1 | 7 | 7 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 16 | 1335 | 46 |
+| Kirsten Ritschel | 16 | 1335 | 44 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 32 | 2255.215122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
