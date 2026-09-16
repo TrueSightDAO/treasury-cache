@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T21:06:33.504Z",
+  "generated_at": "2026-09-16T21:06:58.191Z",
   "source": "treasury-cache-publisher",
   "trigger": "process_sales",
   "schema_version": 5,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 12382.53733630544,
-      "total_value_usd": 12382.54,
+      "total_quantity": 12394.337336305442,
+      "total_value_usd": 12394.34,
       "ledgers": {
-        "Main Ledger": 5012.806000024284,
+        "Main Ledger": 5024.606000024284,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -112,6 +112,20 @@
       }
     },
     {
+      "currency": "Cacao Tree To Be Planted",
+      "unit_weight_g": null,
+      "unit_cost_usd": -1.5,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 358,
+      "total_value_usd": -537,
+      "ledgers": {
+        "Main Ledger": 358
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
       "unit_weight_g": null,
       "unit_cost_usd": 0.6754468485418627,
@@ -123,20 +137,6 @@
       "total_value_usd": 241.81,
       "ledgers": {
         "Main Ledger": 358
-      }
-    },
-    {
-      "currency": "Cacao Tree To Be Planted",
-      "unit_weight_g": null,
-      "unit_cost_usd": -1.5,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 357,
-      "total_value_usd": -535.5,
-      "ledgers": {
-        "Main Ledger": 357
       }
     },
     {
@@ -1795,10 +1795,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4809.486000024284,
+          "amount": 4821.2860000242845,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4809.486000024284
+          "total_value_usd": 4821.2860000242845
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -9675,10 +9675,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 357,
+          "amount": 358,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -535.5
+          "total_value_usd": -537
         }
       ],
       "qr_codes": []
@@ -10046,8 +10046,8 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22889.05415957675,
-    "total_value_usd": 30315.83,
+    "total_units": 22901.85415957675,
+    "total_value_usd": 30326.13,
     "ledgers_processed": 15,
     "managers_count": 41,
     "qr_codes_assigned": 1162
