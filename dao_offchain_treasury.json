@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T17:36:31.270Z",
+  "generated_at": "2026-09-18T17:48:43.896Z",
   "source": "treasury-cache-publisher",
-  "trigger": "currency_conversion",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -47,10 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 1093.6099999999983,
-      "total_value_usd": 254.05,
+      "total_quantity": 1893.6099999999983,
+      "total_value_usd": 439.89,
       "ledgers": {
-        "Main Ledger": 856.71,
+        "Main Ledger": 1656.71,
         "AGL8": 236.89999999999827
       }
     },
@@ -66,20 +66,6 @@
       "total_value_usd": 294.44,
       "ledgers": {
         "Main Ledger": 866
-      }
-    },
-    {
-      "currency": "BRAZILIAN REIS",
-      "unit_weight_g": null,
-      "unit_cost_usd": null,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 800,
-      "total_value_usd": null,
-      "ledgers": {
-        "Main Ledger": 800
       }
     },
     {
@@ -1430,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2589.7754,
+      "unit_cost_usd": 2591.6629000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1723,18 +1709,11 @@
           "total_value_usd": 9.17
         },
         {
-          "currency": "BRAZILIAN REIS",
-          "amount": 800,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 0.2323,
-          "total_value_usd": 185.84
-        },
-        {
           "currency": "Brazilian Reis",
-          "amount": 808.58,
+          "amount": 1608.58,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 187.833134
+          "total_value_usd": 373.673134
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -1790,8 +1769,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2589.7754,
-          "total_value_usd": 1.23055839308878e-10
+          "unit_cost_usd": 2591.6629000000003,
+          "total_value_usd": 1.2314552581091812e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10066,9 +10045,9 @@
     }
   ],
   "totals": {
-    "item_types": 102,
+    "item_types": 101,
     "total_units": 23073.414159576747,
-    "total_value_usd": 30060.73,
+    "total_value_usd": 30246.57,
     "ledgers_processed": 15,
     "managers_count": 41,
     "qr_codes_assigned": 1162
