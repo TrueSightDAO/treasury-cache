@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-18T16:48:41.997Z",
+  "generated_at": "2026-09-18T17:36:31.270Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "currency_conversion",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 12394.241213592739,
-      "total_value_usd": 12394.24,
+      "total_quantity": 12238.701213592738,
+      "total_value_usd": 12238.7,
       "ledgers": {
-        "Main Ledger": 5024.5098773115815,
+        "Main Ledger": 4868.9698773115815,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -66,6 +66,20 @@
       "total_value_usd": 294.44,
       "ledgers": {
         "Main Ledger": 866
+      }
+    },
+    {
+      "currency": "BRAZILIAN REIS",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 800,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 800
       }
     },
     {
@@ -1416,7 +1430,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2601.6468,
+      "unit_cost_usd": 2589.7754,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1709,6 +1723,13 @@
           "total_value_usd": 9.17
         },
         {
+          "currency": "BRAZILIAN REIS",
+          "amount": 800,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.2323,
+          "total_value_usd": 185.84
+        },
+        {
           "currency": "Brazilian Reis",
           "amount": 808.58,
           "ledger": "Main Ledger",
@@ -1769,8 +1790,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2601.6468,
-          "total_value_usd": 1.2361992107858336e-10
+          "unit_cost_usd": 2589.7754,
+          "total_value_usd": 1.23055839308878e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1795,10 +1816,10 @@
         },
         {
           "currency": "USD",
-          "amount": 4821.189877311582,
+          "amount": 4665.649877311582,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4821.189877311582
+          "total_value_usd": 4665.649877311582
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -10045,9 +10066,9 @@
     }
   ],
   "totals": {
-    "item_types": 101,
-    "total_units": 22428.954159576748,
-    "total_value_usd": 30216.27,
+    "item_types": 102,
+    "total_units": 23073.414159576747,
+    "total_value_usd": 30060.73,
     "ledgers_processed": 15,
     "managers_count": 41,
     "qr_codes_assigned": 1162
