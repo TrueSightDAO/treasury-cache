@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T10:48:47.237Z",
+  "generated_at": "2026-09-21T11:48:46.971Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -518,6 +518,20 @@
       }
     },
     {
+      "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
+      "unit_weight_g": null,
+      "unit_cost_usd": 1.27,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 30,
+      "total_value_usd": 38.1,
+      "ledgers": {
+        "Main Ledger": 30
+      }
+    },
+    {
       "currency": "Chocolate Mold - 4 X 6 slots",
       "unit_weight_g": null,
       "unit_cost_usd": 1.19,
@@ -611,20 +625,6 @@
       "hs_code": "1803.1",
       "total_quantity": 20,
       "total_value_usd": 537.46,
-      "ledgers": {
-        "Main Ledger": 20
-      }
-    },
-    {
-      "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
-      "unit_weight_g": null,
-      "unit_cost_usd": 1.27,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 20,
-      "total_value_usd": 25.4,
       "ledgers": {
         "Main Ledger": 20
       }
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2712.4601000000002,
+      "unit_cost_usd": 2726.5537,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1571,6 +1571,20 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         }
       ]
+    },
+    {
+      "manager_name": "Elizabeth Wong",
+      "manager_key": "Elizabeth%20Wong",
+      "items": [
+        {
+          "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
+          "amount": 10,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1.27,
+          "total_value_usd": 12.7
+        }
+      ],
+      "qr_codes": []
     },
     {
       "manager_name": "Elora - Eugene Oregon",
@@ -1769,8 +1783,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2712.4601000000002,
-          "total_value_usd": 1.2888532889660746e-10
+          "unit_cost_usd": 2726.5537,
+          "total_value_usd": 1.295550007827809e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10046,10 +10060,10 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22023.414159576747,
-    "total_value_usd": 30002.65,
+    "total_units": 22033.414159576747,
+    "total_value_usd": 30015.35,
     "ledgers_processed": 15,
-    "managers_count": 41,
+    "managers_count": 42,
     "qr_codes_assigned": 1162
   }
 }
