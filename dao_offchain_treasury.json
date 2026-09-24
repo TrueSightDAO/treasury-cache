@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T18:48:49.246Z",
+  "generated_at": "2026-09-24T19:48:42.886Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 357,
-      "total_value_usd": -535.5,
+      "total_quantity": 354,
+      "total_value_usd": -531,
       "ledgers": {
-        "Main Ledger": 357
+        "Main Ledger": 354
       }
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2686.2666,
+      "unit_cost_usd": 2693.358,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1783,8 +1783,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2686.2666,
-          "total_value_usd": 1.2764071782842868e-10
+          "unit_cost_usd": 2693.358,
+          "total_value_usd": 1.2797767298634508e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4185,6 +4185,18 @@
           "qr_code": "2024OSCAR_20251212_34",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024OSR_81PB_20260412_3",
+          "status": "ASSIGNED_TO_TREE",
+          "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2023SA_81PB_20260412_1",
+          "status": "ASSIGNED_TO_TREE",
+          "currency": "81% Dark Chocolate Bar 50grams - Santa Anna Fazenda, Brazil 2023 San Francisco",
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
@@ -9695,10 +9707,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 357,
+          "amount": 354,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -535.5
+          "total_value_usd": -531
         }
       ],
       "qr_codes": []
@@ -10066,10 +10078,10 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22032.414159576747,
-    "total_value_usd": 30016.85,
+    "total_units": 22029.414159576747,
+    "total_value_usd": 30021.35,
     "ledgers_processed": 15,
     "managers_count": 42,
-    "qr_codes_assigned": 1163
+    "qr_codes_assigned": 1165
   }
 }
