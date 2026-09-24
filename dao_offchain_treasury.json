@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T21:48:44.062Z",
+  "generated_at": "2026-09-24T22:48:47.234Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 354,
-      "total_value_usd": -531,
+      "total_quantity": 353,
+      "total_value_usd": -529.5,
       "ledgers": {
-        "Main Ledger": 354
+        "Main Ledger": 353
       }
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2689.0321000000004,
+      "unit_cost_usd": 2680.9437000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1783,8 +1783,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2689.0321000000004,
-          "total_value_usd": 1.2777212340267608e-10
+          "unit_cost_usd": 2680.9437000000003,
+          "total_value_usd": 1.2738779476527149e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4195,6 +4195,12 @@
         },
         {
           "qr_code": "2024OSR_81PB_20260412_3",
+          "status": "ASSIGNED_TO_TREE",
+          "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024OSR_81PB_20260412_4",
           "status": "ASSIGNED_TO_TREE",
           "currency": "81% Dark Chocolate Bar 50grams - Oscar Fazenda, Brazil 2024 + CP340993988BR San Francisco",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -9734,10 +9740,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 354,
+          "amount": 353,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -531
+          "total_value_usd": -529.5
         }
       ],
       "qr_codes": []
@@ -10105,10 +10111,10 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22034.414159576747,
-    "total_value_usd": 30026.35,
+    "total_units": 22033.414159576747,
+    "total_value_usd": 30027.85,
     "ledgers_processed": 15,
     "managers_count": 43,
-    "qr_codes_assigned": 1167
+    "qr_codes_assigned": 1168
   }
 }
