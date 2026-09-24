@@ -5,21 +5,21 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-24T19:48:42.886Z` |
+| Generated at | `2026-09-24T20:49:16.571Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 101 |
-| Total units | 22029.414159576747 |
-| Total value USD | $30021.35 |
+| Total units | 22034.414159576747 |
+| Total value USD | $30026.35 |
 | Ledgers processed | 15 |
-| Managers | 42 |
-| QR codes assigned | 1165 |
+| Managers | 43 |
+| QR codes assigned | 1167 |
 
 ## Items (101, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 12238.421774975794 | $1.00 | $12238.42 | AGL10: 347.83, AGL14: 764.5, AGL15: 4240.749999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4868.690438694635, SEF1: 16 |
+| USD | — | — | 12243.421774975794 | $1.00 | $12243.42 | AGL10: 347.83, AGL14: 764.5, AGL15: 4240.749999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4873.690438694635, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Brazilian Reis | — | — | 843.6099999999982 | $0.23 | $195.97 | AGL8: 236.89999999999827, Main Ledger: 606.7099999999999 |
@@ -119,7 +119,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2693.36 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2687.34 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -132,11 +132,11 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.3613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 86 | 13451.097500497594 |
+| Main Ledger | 86 | 13456.097500497594 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (42)
+## Managers (43)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -156,7 +156,7 @@
 | Jae Nice | 1 | 7 | 7 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 16 | 1332 | 47 |
+| Kirsten Ritschel | 16 | 1332 | 48 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 32 | 2255.215122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
@@ -174,6 +174,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
+| Sophia Truesight | 1 | 5 | 1 |
 | SunMint Tree Planting Contract - agl4 | 2 | 356 | — |
 | SunMint Tree Planting Contract - main | 1 | 1 | — |
 | Tess Walkowski | 2 | 13 | 9 |
