@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-24T02:48:42.043Z",
+  "generated_at": "2026-09-24T03:48:56.626Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 12238.467756871662,
-      "total_value_usd": 12238.47,
+      "total_quantity": 12238.421774975794,
+      "total_value_usd": 12238.42,
       "ledgers": {
-        "Main Ledger": 4868.736420590504,
+        "Main Ledger": 4868.690438694635,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -112,20 +112,6 @@
       }
     },
     {
-      "currency": "Cacao Tree To Be Planted",
-      "unit_weight_g": null,
-      "unit_cost_usd": -1.5,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 358,
-      "total_value_usd": -537,
-      "ledgers": {
-        "Main Ledger": 358
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
       "unit_weight_g": null,
       "unit_cost_usd": 0.6754468485418627,
@@ -137,6 +123,20 @@
       "total_value_usd": 241.81,
       "ledgers": {
         "Main Ledger": 358
+      }
+    },
+    {
+      "currency": "Cacao Tree To Be Planted",
+      "unit_weight_g": null,
+      "unit_cost_usd": -1.5,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 357,
+      "total_value_usd": -535.5,
+      "ledgers": {
+        "Main Ledger": 357
       }
     },
     {
@@ -413,10 +413,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 55.495789007089854,
-      "total_value_usd": 55.5,
+      "total_quantity": 55.54177090295879,
+      "total_value_usd": 55.54,
       "ledgers": {
-        "Main Ledger": 55.495789007089854
+        "Main Ledger": 55.54177090295879
       }
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2683.6253,
+      "unit_cost_usd": 2675.0219,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1783,8 +1783,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2683.6253,
-          "total_value_usd": 1.2751521374480564e-10
+          "unit_cost_usd": 2675.0219,
+          "total_value_usd": 1.2710641435320204e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1809,17 +1809,17 @@
         },
         {
           "currency": "USD",
-          "amount": 4665.4164205905045,
+          "amount": 4665.370438694636,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4665.4164205905045
+          "total_value_usd": 4665.370438694636
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 55.495789007089854,
+          "amount": 55.54177090295879,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 55.495789007089854
+          "total_value_usd": 55.54177090295879
         },
         {
           "currency": "USDT",
@@ -4185,6 +4185,12 @@
           "qr_code": "2024OSCAR_20251212_34",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024OSCAR_CB_20260620_1",
+          "status": "ASSIGNED_TO_TREE",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
@@ -9689,10 +9695,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 358,
+          "amount": 357,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -537
+          "total_value_usd": -535.5
         }
       ],
       "qr_codes": []
@@ -10060,10 +10066,10 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22033.414159576747,
-    "total_value_usd": 30015.36,
+    "total_units": 22032.414159576747,
+    "total_value_usd": 30016.85,
     "ledgers_processed": 15,
     "managers_count": 42,
-    "qr_codes_assigned": 1162
+    "qr_codes_assigned": 1163
   }
 }
