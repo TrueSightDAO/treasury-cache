@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T17:48:46.497Z",
+  "generated_at": "2026-09-25T18:48:43.434Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 349,
-      "total_value_usd": -523.5,
+      "total_quantity": 348,
+      "total_value_usd": -522,
       "ledgers": {
-        "Main Ledger": 349
+        "Main Ledger": 348
       }
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2686.9857,
+      "unit_cost_usd": 2691.3634,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1783,8 +1783,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2686.9857,
-          "total_value_usd": 1.2767488660385495e-10
+          "unit_cost_usd": 2691.3634,
+          "total_value_usd": 1.2788289751775213e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1872,6 +1872,12 @@
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch - AGL6",
           "ledger_shortcut": "https://agroverse.shop/agl6"
+        },
+        {
+          "qr_code": "2024OSCAR_20250711_NIBS_2",
+          "status": "ASSIGNED_TO_TREE",
+          "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
           "qr_code": "2024OSCAR_20250812_1",
@@ -9752,10 +9758,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 349,
+          "amount": 348,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -523.5
+          "total_value_usd": -522
         }
       ],
       "qr_codes": []
@@ -10123,10 +10129,10 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22029.414159576747,
-    "total_value_usd": 30033.86,
+    "total_units": 22028.414159576747,
+    "total_value_usd": 30035.36,
     "ledgers_processed": 15,
     "managers_count": 43,
-    "qr_codes_assigned": 1170
+    "qr_codes_assigned": 1171
   }
 }
