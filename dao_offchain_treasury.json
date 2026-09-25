@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T03:48:48.589Z",
+  "generated_at": "2026-09-25T04:48:51.249Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 352,
-      "total_value_usd": -528,
+      "total_quantity": 351,
+      "total_value_usd": -526.5,
       "ledgers": {
-        "Main Ledger": 352
+        "Main Ledger": 351
       }
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2679.1965,
+      "unit_cost_usd": 2683.304,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1783,8 +1783,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2679.1965,
-          "total_value_usd": 1.2730477476189956e-10
+          "unit_cost_usd": 2683.304,
+          "total_value_usd": 1.2749994684514709e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -9746,10 +9746,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 352,
+          "amount": 351,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -528
+          "total_value_usd": -526.5
         }
       ],
       "qr_codes": []
@@ -10117,8 +10117,8 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22032.414159576747,
-    "total_value_usd": 30029.36,
+    "total_units": 22031.414159576747,
+    "total_value_usd": 30030.86,
     "ledgers_processed": 15,
     "managers_count": 43,
     "qr_codes_assigned": 1169
