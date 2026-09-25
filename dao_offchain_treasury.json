@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T14:48:53.436Z",
+  "generated_at": "2026-09-25T15:48:47.336Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 351,
-      "total_value_usd": -526.5,
+      "total_quantity": 350,
+      "total_value_usd": -525,
       "ledgers": {
-        "Main Ledger": 351
+        "Main Ledger": 350
       }
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2690.6167,
+      "unit_cost_usd": 2677.422,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1783,8 +1783,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2690.6167,
-          "total_value_usd": 1.2784741729996493e-10
+          "unit_cost_usd": 2677.422,
+          "total_value_usd": 1.2722045757097496e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2381,6 +2381,12 @@
           "qr_code": "2024OSCAR_20251212_27",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024OSCAR_20260121_1",
+          "status": "ASSIGNED_TO_TREE",
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR | Kirsten 20260121",
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
@@ -9746,10 +9752,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 351,
+          "amount": 350,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -526.5
+          "total_value_usd": -525
         }
       ],
       "qr_codes": []
@@ -10117,10 +10123,10 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22031.414159576747,
-    "total_value_usd": 30030.86,
+    "total_units": 22030.414159576747,
+    "total_value_usd": 30032.36,
     "ledgers_processed": 15,
     "managers_count": 43,
-    "qr_codes_assigned": 1169
+    "qr_codes_assigned": 1170
   }
 }
