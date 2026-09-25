@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T18:48:43.434Z",
+  "generated_at": "2026-09-25T19:48:42.000Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 348,
-      "total_value_usd": -522,
+      "total_quantity": 346,
+      "total_value_usd": -519,
       "ledgers": {
-        "Main Ledger": 348
+        "Main Ledger": 346
       }
     },
     {
@@ -1416,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2691.3634,
+      "unit_cost_usd": 2691.0573,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1783,8 +1783,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2691.3634,
-          "total_value_usd": 1.2788289751775213e-10
+          "unit_cost_usd": 2691.0573,
+          "total_value_usd": 1.2786835286171266e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3600,6 +3600,12 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
+          "qr_code": "2024OSCAR_20251124_13",
+          "status": "ASSIGNED_TO_TREE",
+          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
           "qr_code": "2024OSCAR_20251124_14",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
@@ -4136,6 +4142,12 @@
         {
           "qr_code": "2024OSCAR_20251020_4",
           "status": "ON CONSIGNMENT",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
+          "ledger_shortcut": "https://agroverse.shop/agl4"
+        },
+        {
+          "qr_code": "2024OSCAR_20251020_11",
+          "status": "ASSIGNED_TO_TREE",
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
@@ -9758,10 +9770,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 348,
+          "amount": 346,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -522
+          "total_value_usd": -519
         }
       ],
       "qr_codes": []
@@ -10129,10 +10141,10 @@
   ],
   "totals": {
     "item_types": 101,
-    "total_units": 22028.414159576747,
-    "total_value_usd": 30035.36,
+    "total_units": 22026.414159576747,
+    "total_value_usd": 30038.36,
     "ledgers_processed": 15,
     "managers_count": 43,
-    "qr_codes_assigned": 1171
+    "qr_codes_assigned": 1173
   }
 }
