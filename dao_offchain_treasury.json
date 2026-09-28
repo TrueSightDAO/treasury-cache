@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-28T20:13:48.490Z",
+  "generated_at": "2026-09-28T20:48:39.450Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -1050,6 +1050,20 @@
       }
     },
     {
+      "currency": "Cacao Tree - To Be Paid For",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 2
+      }
+    },
+    {
       "currency": "Foam container box - 120 kraft pouches capacity",
       "unit_weight_g": null,
       "unit_cost_usd": 24.109726042075938,
@@ -1416,7 +1430,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2681.9022,
+      "unit_cost_usd": 2681.8537,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1770,6 +1784,11 @@
           "total_value_usd": 25.758399057471262
         },
         {
+          "currency": "Cacao Tree - To Be Paid For",
+          "amount": 2,
+          "ledger": "Main Ledger"
+        },
+        {
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
           "amount": 74,
           "ledger": "Main Ledger",
@@ -1783,8 +1802,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2681.9022,
-          "total_value_usd": 1.2743333887769818e-10
+          "unit_cost_usd": 2681.8537,
+          "total_value_usd": 1.27431034350361e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10146,8 +10165,8 @@
     }
   ],
   "totals": {
-    "item_types": 101,
-    "total_units": 22139.83415957675,
+    "item_types": 102,
+    "total_units": 22141.83415957675,
     "total_value_usd": 30154.28,
     "ledgers_processed": 15,
     "managers_count": 43,
