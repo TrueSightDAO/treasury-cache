@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T01:48:46.213Z",
+  "generated_at": "2026-09-29T02:49:01.730Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 345,
-      "total_value_usd": -517.5,
+      "total_quantity": 344,
+      "total_value_usd": -516,
       "ledgers": {
-        "Main Ledger": 345
+        "Main Ledger": 344
       }
     },
     {
@@ -1430,7 +1430,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2660.3128,
+      "unit_cost_usd": 2657.3145,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1802,8 +1802,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2660.3128,
-          "total_value_usd": 1.2640749635205868e-10
+          "unit_cost_usd": 2657.3145,
+          "total_value_usd": 1.262650290465928e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -9788,31 +9788,17 @@
       "items": [
         {
           "currency": "Cacao Tree Planted",
-          "amount": 2,
+          "amount": 3,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1.5,
-          "total_value_usd": 3
+          "total_value_usd": 4.5
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 345,
+          "amount": 344,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -517.5
-        }
-      ],
-      "qr_codes": []
-    },
-    {
-      "manager_name": "SunMint Tree Planting Contract - main",
-      "manager_key": "SunMint%20Tree%20Planting%20Contract%20-%20main",
-      "items": [
-        {
-          "currency": "Cacao Tree Planted",
-          "amount": 1,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1.5,
-          "total_value_usd": 1.5
+          "total_value_usd": -516
         }
       ],
       "qr_codes": []
@@ -10166,10 +10152,10 @@
   ],
   "totals": {
     "item_types": 102,
-    "total_units": 22141.83415957675,
-    "total_value_usd": 30154.28,
+    "total_units": 22140.83415957675,
+    "total_value_usd": 30155.78,
     "ledgers_processed": 15,
-    "managers_count": 43,
+    "managers_count": 42,
     "qr_codes_assigned": 1174
   }
 }
