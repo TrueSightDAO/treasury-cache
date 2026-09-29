@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-29T04:48:45.553Z` |
+| Generated at | `2026-09-29T05:48:48.821Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 102 |
-| Total units | 22140.83415957675 |
-| Total value USD | $30155.77 |
+| Total units | 22135.83415957675 |
+| Total value USD | $30144.98 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1174 |
@@ -27,7 +27,7 @@
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 358 | $0.68 | $241.81 | Main Ledger: 358 |
-| Cacao Tree To Be Planted | — | — | 344 | $-1.50 | $-516.00 | Main Ledger: 344 |
+| Cacao Tree To Be Planted | — | — | 345 | $-1.50 | $-517.50 | Main Ledger: 345 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
 | Cacao Almonds (KG) | Cacao Bean | Bulk | 273.585122798 | — | — | AGL8: 273.585122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
@@ -72,7 +72,6 @@
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | Cacao Mass | Retail Ready | 14 | $8.49 | $118.91 | Main Ledger: 14 |
 | 8 Ounce Package Kraft Pouch  CP340992735BR | — | — | 13 | $8.51 | $110.62 | Main Ledger: 13 |
 | 8 Ounce Package Kraft Pouch CP340992687BR | — | — | 10 | $8.88 | $88.79 | Main Ledger: 10 |
-| Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409) | — | — | 10 | $0.93 | $9.29 | Main Ledger: 10 |
 | SunMint Tree Planting Pledge - QR Code | — | — | 10 | $0.00 | $0.00 | PP1: 10 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | Cacao Mass | Retail Ready | 9 | $8.52 | $76.65 | AGL6: 9 |
 | 8 Ounce Package Kraft Pouch - AGL6 | — | — | 9 | $9.21 | $82.93 | AGL6: 9 |
@@ -83,6 +82,7 @@
 | Coopercabruca Cacao Butter (KG) | — | — | 5 | $17.33 | $86.65 | Main Ledger: 5 |
 | Large Cardboard Box for Moving Packaging 60x40x50 | — | — | 5 | $2.65 | $13.27 | Main Ledger: 5 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | Caramelized Cacao Bean | Retail Ready | 5 | $8.09 | $40.43 | AGL10: 5 |
+| Cacao Tree Planted - Unassigned | — | — | 4 | — | — | Main Ledger: 4 |
 | Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409) | — | — | 4 | $10.45 | $41.81 | Main Ledger: 4 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8 | Cacao Mass | Retail Ready | 4 | $9.18 | $36.70 | AGL8: 4 |
 | Cacao Mass Bar (40grams) CP340993869BR - AGL8 | — | — | 3.25 | $1.90 | $6.16 | AGL8: 3.25 |
@@ -120,7 +120,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2665.89 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2664.11 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -133,7 +133,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.3613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 87 | 13562.517500497594 |
+| Main Ledger | 87 | 13557.517500497594 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -165,7 +165,7 @@
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
 | Paloma | 7 | 661.32 | 91 |
-| Paulo Hernandez | 1 | 10 | — |
+| Paulo Hernandez | 2 | 5 | — |
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
 | Rune Shields | 2 | 5 | 5 |
