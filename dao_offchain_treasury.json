@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:48:45.553Z",
+  "generated_at": "2026-09-29T05:48:48.821Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 344,
-      "total_value_usd": -516,
+      "total_quantity": 345,
+      "total_value_usd": -517.5,
       "ledgers": {
-        "Main Ledger": 344
+        "Main Ledger": 345
       }
     },
     {
@@ -756,20 +756,6 @@
       }
     },
     {
-      "currency": "Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.9292,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 10,
-      "total_value_usd": 9.29,
-      "ledgers": {
-        "Main Ledger": 10
-      }
-    },
-    {
       "currency": "SunMint Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 0,
@@ -907,6 +893,20 @@
       "total_value_usd": 40.43,
       "ledgers": {
         "AGL10": 5
+      }
+    },
+    {
+      "currency": "Cacao Tree Planted - Unassigned",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 4,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 4
       }
     },
     {
@@ -1430,7 +1430,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2665.8861,
+      "unit_cost_usd": 2664.1084,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1802,8 +1802,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2665.8861,
-          "total_value_usd": 1.2667231742851965e-10
+          "unit_cost_usd": 2664.1084,
+          "total_value_usd": 1.2658784818630684e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -7304,11 +7304,16 @@
       "manager_key": "Paulo%20Hernandez",
       "items": [
         {
-          "currency": "Cacao tree seedling (per seedling, Amazon reforest Altamira, R$40/10, Paulo Hernandez, 20260409)",
-          "amount": 10,
+          "currency": "Cacao Tree Planted - Unassigned",
+          "amount": 4,
+          "ledger": "Main Ledger"
+        },
+        {
+          "currency": "Cacao Tree To Be Planted",
+          "amount": 1,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 0.9292,
-          "total_value_usd": 9.292
+          "unit_cost_usd": -1.5,
+          "total_value_usd": -1.5
         }
       ],
       "qr_codes": []
@@ -10152,8 +10157,8 @@
   ],
   "totals": {
     "item_types": 102,
-    "total_units": 22140.83415957675,
-    "total_value_usd": 30155.77,
+    "total_units": 22135.83415957675,
+    "total_value_usd": 30144.98,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1174
