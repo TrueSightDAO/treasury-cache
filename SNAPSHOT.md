@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-30T16:02:25.692Z` |
+| Generated at | `2026-09-30T16:02:53.078Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 102 |
-| Total units | 21630.25415957675 |
-| Total value USD | $30019.25 |
+| Total units | 21595.25415957675 |
+| Total value USD | $30011.12 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1174 |
@@ -27,8 +27,8 @@
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 358 | $0.68 | $241.81 | Main Ledger: 358 |
 | Cacao Tree To Be Planted | — | — | 345 | $-1.50 | $-517.50 | Main Ledger: 345 |
-| Brazilian Reis | — | — | 320.0299999999982 | $0.23 | $74.34 | AGL8: 236.89999999999827, Main Ledger: 83.12999999999994 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
+| Brazilian Reis | — | — | 285.02999999999827 | $0.23 | $66.21 | AGL8: 236.89999999999827, Main Ledger: 48.129999999999995 |
 | Cacao Almonds (KG) | Cacao Bean | Bulk | 273.585122798 | — | — | AGL8: 273.585122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Cacao Tea 1g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 229 | $0.11 | $25.76 | Main Ledger: 229 |
@@ -133,7 +133,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.3613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 87 | 13051.937500497595 |
+| Main Ledger | 87 | 13016.937500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -147,7 +147,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 30 | 12978.71903677875 | 241 |
+| Gary Teh | 29 | 12943.71903677875 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
