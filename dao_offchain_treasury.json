@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T13:39:09.726Z",
+  "generated_at": "2026-09-30T13:48:52.809Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -525,10 +525,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 30,
-      "total_value_usd": 38.1,
+      "total_quantity": 32,
+      "total_value_usd": 40.64,
       "ledgers": {
-        "Main Ledger": 30
+        "Main Ledger": 32
       }
     },
     {
@@ -1430,7 +1430,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2731.0877,
+      "unit_cost_usd": 2694.8804,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1585,20 +1585,6 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         }
       ]
-    },
-    {
-      "manager_name": "Elizabeth Wong",
-      "manager_key": "Elizabeth%20Wong",
-      "items": [
-        {
-          "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
-          "amount": 10,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 1.27,
-          "total_value_usd": 12.7
-        }
-      ],
-      "qr_codes": []
     },
     {
       "manager_name": "Elora - Eugene Oregon",
@@ -1802,8 +1788,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2731.0877,
-          "total_value_usd": 1.2977043845178743e-10
+          "unit_cost_usd": 2694.8804,
+          "total_value_usd": 1.2805001138671903e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4487,10 +4473,10 @@
         },
         {
           "currency": "Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd",
-          "amount": 9,
+          "amount": 21,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1.27,
-          "total_value_usd": 11.43
+          "total_value_usd": 26.67
         },
         {
           "currency": "Coopercabruca Cacao Butter (KG)",
@@ -10169,10 +10155,10 @@
   ],
   "totals": {
     "item_types": 102,
-    "total_units": 22033.254159576747,
-    "total_value_usd": 30110.79,
+    "total_units": 22035.254159576747,
+    "total_value_usd": 30113.33,
     "ledgers_processed": 15,
-    "managers_count": 43,
+    "managers_count": 42,
     "qr_codes_assigned": 1174
   }
 }
