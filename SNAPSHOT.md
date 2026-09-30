@@ -5,14 +5,14 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-30T13:39:09.726Z` |
-| Trigger | `movement` |
+| Generated at | `2026-09-30T13:48:52.809Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 102 |
-| Total units | 22033.254159576747 |
-| Total value USD | $30110.79 |
+| Total units | 22035.254159576747 |
+| Total value USD | $30113.33 |
 | Ledgers processed | 15 |
-| Managers | 43 |
+| Managers | 42 |
 | QR codes assigned | 1174 |
 
 ## Items (102, sorted by total quantity)
@@ -55,7 +55,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 38 | $9.02 | $342.73 | Main Ledger: 38 |
 | RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467) | — | — | 35 | $0.55 | $19.39 | Main Ledger: 35 |
 | 1 Gallon Zip Loc Bags | — | — | 34 | $0.14 | $4.78 | Main Ledger: 34 |
-| Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd | — | — | 30 | $1.27 | $38.10 | Main Ledger: 30 |
+| Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd | — | — | 32 | $1.27 | $40.64 | Main Ledger: 32 |
 | Chocolate Mold - 4 X 6 slots | — | — | 26 | $1.19 | $30.94 | Main Ledger: 26 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | — | — | 25 | $8.38 | $209.38 | Main Ledger: 25 |
 | Reinforced Cardboard Boxes - Size 40x30x30 | — | — | 25 | $2.04 | $50.90 | Main Ledger: 25 |
@@ -120,7 +120,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2731.09 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2694.88 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -133,11 +133,11 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.3613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 87 | 13454.937500497595 |
+| Main Ledger | 87 | 13456.937500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (43)
+## Managers (42)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -146,7 +146,6 @@
 | Coopercabruca | 1 | 1706 | — |
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
-| Elizabeth Wong | 1 | 10 | — |
 | Elora - Eugene Oregon | 2 | 9 | — |
 | Gary Teh | 30 | 13383.719036778752 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
@@ -159,7 +158,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1332 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 32 | 2254.215122798 | 327 |
+| Matheus Reis | 32 | 2266.215122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
