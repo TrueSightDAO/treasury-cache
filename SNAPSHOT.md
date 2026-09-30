@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-30T14:51:24.055Z` |
+| Generated at | `2026-09-30T14:51:49.569Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 102 |
-| Total units | 22035.254159576747 |
-| Total value USD | $30113.33 |
+| Total units | 21630.25415957675 |
+| Total value USD | $30019.25 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1174 |
@@ -22,12 +22,12 @@
 | USD | — | — | 12357.541635886975 | $1.00 | $12357.54 | AGL10: 347.83, AGL14: 764.5, AGL15: 4240.749999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4987.810299605818, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2460 | $0.70 | $1730.17 | Main Ledger: 2460 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
-| Brazilian Reis | — | — | 725.0299999999982 | $0.23 | $168.42 | AGL8: 236.89999999999827, Main Ledger: 488.12999999999994 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 358 | $0.68 | $241.81 | Main Ledger: 358 |
 | Cacao Tree To Be Planted | — | — | 345 | $-1.50 | $-517.50 | Main Ledger: 345 |
+| Brazilian Reis | — | — | 320.0299999999982 | $0.23 | $74.34 | AGL8: 236.89999999999827, Main Ledger: 83.12999999999994 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
 | Cacao Almonds (KG) | Cacao Bean | Bulk | 273.585122798 | — | — | AGL8: 273.585122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
@@ -133,7 +133,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.3613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 87 | 13456.937500497595 |
+| Main Ledger | 87 | 13051.937500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -147,7 +147,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 30 | 13383.719036778752 | 241 |
+| Gary Teh | 30 | 12978.71903677875 | 241 |
 | Gergana - The Way Home Shop | 1 | 7 | 7 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
