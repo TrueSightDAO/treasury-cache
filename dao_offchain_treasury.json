@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:51:24.055Z",
+  "generated_at": "2026-09-30T14:51:49.569Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -51,21 +51,6 @@
       "total_value_usd": 294.44,
       "ledgers": {
         "Main Ledger": 866
-      }
-    },
-    {
-      "currency": "Brazilian Reis",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.2323,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 725.0299999999982,
-      "total_value_usd": 168.42,
-      "ledgers": {
-        "Main Ledger": 488.12999999999994,
-        "AGL8": 236.89999999999827
       }
     },
     {
@@ -137,6 +122,21 @@
       "total_value_usd": -517.5,
       "ledgers": {
         "Main Ledger": 345
+      }
+    },
+    {
+      "currency": "Brazilian Reis",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.2323,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 320.0299999999982,
+      "total_value_usd": 74.34,
+      "ledgers": {
+        "Main Ledger": 83.12999999999994,
+        "AGL8": 236.89999999999827
       }
     },
     {
@@ -1724,10 +1724,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 439.99999999999994,
+          "amount": 34.99999999999994,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 102.21199999999999
+          "total_value_usd": 8.130499999999987
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -10155,8 +10155,8 @@
   ],
   "totals": {
     "item_types": 102,
-    "total_units": 22035.254159576747,
-    "total_value_usd": 30113.33,
+    "total_units": 21630.25415957675,
+    "total_value_usd": 30019.25,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1174
