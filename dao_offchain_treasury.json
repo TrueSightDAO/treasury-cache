@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-30T12:48:44.672Z",
+  "generated_at": "2026-09-30T13:39:09.726Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "movement",
   "schema_version": 5,
   "items": [
     {
@@ -61,10 +61,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 843.6099999999982,
-      "total_value_usd": 195.97,
+      "total_quantity": 725.0299999999982,
+      "total_value_usd": 168.42,
       "ledgers": {
-        "Main Ledger": 606.7099999999999,
+        "Main Ledger": 488.12999999999994,
         "AGL8": 236.89999999999827
       }
     },
@@ -245,10 +245,10 @@
       "unit_format": "Retail Ready",
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 135,
-      "total_value_usd": 896.4,
+      "total_quantity": 134,
+      "total_value_usd": 889.76,
       "ledgers": {
-        "Main Ledger": 135
+        "Main Ledger": 134
       }
     },
     {
@@ -588,6 +588,20 @@
       }
     },
     {
+      "currency": "Cacao Tree Planted - Unassigned",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 21,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 21
+      }
+    },
+    {
       "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13",
       "unit_weight_g": 1000,
       "unit_cost_usd": 10.18234711,
@@ -893,20 +907,6 @@
       "total_value_usd": 40.43,
       "ledgers": {
         "AGL10": 5
-      }
-    },
-    {
-      "currency": "Cacao Tree Planted - Unassigned",
-      "unit_weight_g": null,
-      "unit_cost_usd": null,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 4,
-      "total_value_usd": null,
-      "ledgers": {
-        "Main Ledger": 4
       }
     },
     {
@@ -1430,7 +1430,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2728.7324000000003,
+      "unit_cost_usd": 2731.0877,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1738,10 +1738,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 558.5799999999999,
+          "amount": 439.99999999999994,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 129.75813399999998
+          "total_value_usd": 102.21199999999999
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -1802,8 +1802,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2728.7324000000003,
-          "total_value_usd": 1.2965852395204968e-10
+          "unit_cost_usd": 2731.0877,
+          "total_value_usd": 1.2977043845178743e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4414,12 +4414,12 @@
         },
         {
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-          "amount": 135,
+          "amount": 134,
           "ledger": "Main Ledger",
           "inventory_type": "Cacao Nib",
           "unit_format": "Retail Ready",
           "unit_cost_usd": 6.64,
-          "total_value_usd": 896.4
+          "total_value_usd": 889.76
         },
         {
           "currency": "Brazilian Reis",
@@ -7319,6 +7319,18 @@
       "qr_codes": []
     },
     {
+      "manager_name": "pk-qkejKJJW3IAD",
+      "manager_key": "pk-qkejKJJW3IAD",
+      "items": [
+        {
+          "currency": "Cacao Tree Planted - Unassigned",
+          "amount": 17,
+          "ledger": "Main Ledger"
+        }
+      ],
+      "qr_codes": []
+    },
+    {
       "manager_name": "Queen Hippie Gypsy - Lily",
       "manager_key": "Queen%20Hippie%20Gypsy%20-%20Lily",
       "items": [
@@ -10157,10 +10169,10 @@
   ],
   "totals": {
     "item_types": 102,
-    "total_units": 22135.83415957675,
-    "total_value_usd": 30144.98,
+    "total_units": 22033.254159576747,
+    "total_value_usd": 30110.79,
     "ledgers_processed": 15,
-    "managers_count": 42,
+    "managers_count": 43,
     "qr_codes_assigned": 1174
   }
 }
