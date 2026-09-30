@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-09-30T16:02:10.574Z` |
+| Generated at | `2026-09-30T16:02:25.692Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 102 |
