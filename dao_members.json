@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-03T03:24:59.060Z",
+  "generated_at": "2026-10-04T03:25:02.181Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
   "counts": {
-    "contributors": 422,
+    "contributors": 423,
     "active_public_keys": 110,
     "governors": 10,
     "contributors_with_email": 16,
@@ -14,7 +14,7 @@
     "voting_rights_circulated": 2501791.0719001554,
     "total_assets": 17607.20425,
     "asset_per_circulated_voting_right": 0.00704,
-    "usd_provisions_for_cash_out": 55.95705
+    "usd_provisions_for_cash_out": 56.02262
   },
   "unjoined_governor_names": [],
   "contributors": [
@@ -362,7 +362,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20261001 20:24:42"
+          "last_active_at": "20261002 20:24:42"
         }
       ]
     },
@@ -2651,6 +2651,16 @@
       ],
       "voting_rights": 8.33,
       "total_voting_power_pct": "0.0000033296145683633028",
+      "public_keys": []
+    },
+    {
+      "name": "Juliana - Oscar (Bahia)",
+      "email": null,
+      "roles": [
+        "member"
+      ],
+      "voting_rights": 0,
+      "total_voting_power_pct": null,
       "public_keys": []
     },
     {
