@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T14:48:38.556Z",
+  "generated_at": "2026-10-07T15:25:34.615Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "expense_processing",
   "schema_version": 5,
   "items": [
     {
@@ -276,7 +276,7 @@
       "total_quantity": 108,
       "total_value_usd": 1212.97,
       "ledgers": {
-        "Main Ledger": 108
+        "AGL16": 108
       }
     },
     {
@@ -1444,7 +1444,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2558.157,
+      "unit_cost_usd": 2561.1193000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1795,8 +1795,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2558.157,
-          "total_value_usd": 1.2155345854272977e-10
+          "unit_cost_usd": 2561.1193000000003,
+          "total_value_usd": 1.216942152712031e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4364,6 +4364,13 @@
           "total_value_usd": 456.49
         },
         {
+          "currency": "[AGL16] Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
+          "amount": 108,
+          "ledger": "AGL16",
+          "unit_cost_usd": 11.2312,
+          "total_value_usd": 1212.97
+        },
+        {
           "currency": "[AGL8] Cacao Almonds (KG)",
           "amount": 273.585122798,
           "ledger": "AGL8",
@@ -4408,13 +4415,6 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
           "total_value_usd": 11.180598999999999
-        },
-        {
-          "currency": "Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
-          "amount": 108,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 11.2312,
-          "total_value_usd": 1212.9696
         },
         {
           "currency": "Cacao Husk (KG) - Ilheus, Brazil",
