@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-07T13:38:50.498Z` |
-| Trigger | `currency_conversion` |
+| Generated at | `2026-10-07T13:39:10.954Z` |
+| Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 103 |
 | Total units | 21681.254159576747 |
