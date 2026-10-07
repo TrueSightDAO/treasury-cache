@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-07T14:48:38.556Z` |
-| Trigger | `cron` |
+| Generated at | `2026-10-07T15:25:34.615Z` |
+| Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 103 |
 | Total units | 21675.254159576747 |
@@ -37,7 +37,7 @@
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 169 | $0.07 | $11.91 | Main Ledger: 169 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 134 | $6.64 | $889.76 | Main Ledger: 134 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 114 | $0.55 | $63.16 | Main Ledger: 114 |
-| Cacao Almonds KG from Oscar's farm - AGL16 (2026) | — | — | 108 | $11.23 | $1212.97 | Main Ledger: 108 |
+| Cacao Almonds KG from Oscar's farm - AGL16 (2026) | — | — | 108 | $11.23 | $1212.97 | AGL16: 108 |
 | Agroverse Sticker 4x3cm (Founder Haus) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820) | — | — | 100 | $0.81 | $81.31 | Main Ledger: 100 |
 | QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
@@ -121,7 +121,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2558.16 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2561.12 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -131,10 +131,11 @@
 | AGL13 | 3 | 135 |
 | AGL14 | 2 | 804.5 |
 | AGL15 | 1 | 4240.749999999999 |
+| AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.3613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 88 | 13096.937500497595 |
+| Main Ledger | 87 | 12988.937500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
