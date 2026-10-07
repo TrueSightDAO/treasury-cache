@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:34:22.898Z",
+  "generated_at": "2026-10-07T13:34:53.542Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -308,20 +308,6 @@
       }
     },
     {
-      "currency": "Plastic Bag 12cm X 25cm - 500 grams capacity",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.0579,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 100,
-      "total_value_usd": 5.79,
-      "ledgers": {
-        "Main Ledger": 100
-      }
-    },
-    {
       "currency": "Plastic Bag 40cm X 60cm - 10 kilograms capacity",
       "unit_weight_g": null,
       "unit_cost_usd": 0.1047,
@@ -375,6 +361,20 @@
       "total_value_usd": 1008.05,
       "ledgers": {
         "AGL13": 99
+      }
+    },
+    {
+      "currency": "Plastic Bag 12cm X 25cm - 500 grams capacity",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.0579,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 98,
+      "total_value_usd": 5.67,
+      "ledgers": {
+        "Main Ledger": 98
       }
     },
     {
@@ -4553,10 +4553,10 @@
         },
         {
           "currency": "Plastic Bag 12cm X 25cm - 500 grams capacity",
-          "amount": 100,
+          "amount": 98,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.0579,
-          "total_value_usd": 5.79
+          "total_value_usd": 5.6742
         },
         {
           "currency": "Plastic Bag 40cm X 60cm - 10 kilograms capacity",
@@ -10157,8 +10157,8 @@
   ],
   "totals": {
     "item_types": 103,
-    "total_units": 21689.254159576747,
-    "total_value_usd": 31190.11,
+    "total_units": 21687.254159576747,
+    "total_value_usd": 31189.99,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
