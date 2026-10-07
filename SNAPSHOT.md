@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-07T13:34:22.898Z` |
+| Generated at | `2026-10-07T13:34:53.542Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 103 |
-| Total units | 21689.254159576747 |
-| Total value USD | $31190.11 |
+| Total units | 21687.254159576747 |
+| Total value USD | $31189.99 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1172 |
@@ -40,11 +40,11 @@
 | Cacao Almonds KG from Oscar's farm - AGL16 (2026) | — | — | 108 | $11.23 | $1212.97 | Main Ledger: 108 |
 | Agroverse Sticker 4x3cm (Founder Haus) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820) | — | — | 100 | $0.81 | $81.31 | Main Ledger: 100 |
-| Plastic Bag 12cm X 25cm - 500 grams capacity | — | — | 100 | $0.06 | $5.79 | Main Ledger: 100 |
 | Plastic Bag 40cm X 60cm - 10 kilograms capacity | — | — | 100 | $0.10 | $10.47 | Main Ledger: 100 |
 | QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil | — | — | 100 | $0.13 | $13.01 | Main Ledger: 100 |
 | Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 99 | $10.18 | $1008.05 | AGL13: 99 |
+| Plastic Bag 12cm X 25cm - 500 grams capacity | — | — | 98 | $0.06 | $5.67 | Main Ledger: 98 |
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 | Cacao Nib | Bulk | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
@@ -134,7 +134,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1272.3613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 88 | 13110.937500497595 |
+| Main Ledger | 88 | 13108.937500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -159,7 +159,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1332 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 33 | 2374.215122798 | 327 |
+| Matheus Reis | 33 | 2372.215122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
