@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T13:39:10.954Z",
+  "generated_at": "2026-10-07T14:48:38.556Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -308,20 +308,6 @@
       }
     },
     {
-      "currency": "Plastic Bag 40cm X 60cm - 10 kilograms capacity",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.1047,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 100,
-      "total_value_usd": 10.47,
-      "ledgers": {
-        "Main Ledger": 100
-      }
-    },
-    {
       "currency": "QR Code Sticker 4x3cm (Kraft Pouch) - Brazil",
       "unit_weight_g": null,
       "unit_cost_usd": 0.0581,
@@ -375,6 +361,20 @@
       "total_value_usd": 4.16,
       "ledgers": {
         "Main Ledger": 96.57370000000003
+      }
+    },
+    {
+      "currency": "Plastic Bag 40cm X 60cm - 10 kilograms capacity",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.1047,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 94,
+      "total_value_usd": 9.84,
+      "ledgers": {
+        "Main Ledger": 94
       }
     },
     {
@@ -1444,7 +1444,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2566.5370000000003,
+      "unit_cost_usd": 2558.157,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1795,8 +1795,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2566.5370000000003,
-          "total_value_usd": 1.2195164285377404e-10
+          "unit_cost_usd": 2558.157,
+          "total_value_usd": 1.2155345854272977e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4560,10 +4560,10 @@
         },
         {
           "currency": "Plastic Bag 40cm X 60cm - 10 kilograms capacity",
-          "amount": 100,
+          "amount": 94,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.1047,
-          "total_value_usd": 10.47
+          "total_value_usd": 9.841800000000001
         },
         {
           "currency": "Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912)",
@@ -10157,8 +10157,8 @@
   ],
   "totals": {
     "item_types": 103,
-    "total_units": 21681.254159576747,
-    "total_value_usd": 31189.65,
+    "total_units": 21675.254159576747,
+    "total_value_usd": 31189.02,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
