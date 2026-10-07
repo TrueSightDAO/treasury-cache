@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T12:48:44.037Z",
+  "generated_at": "2026-10-07T13:34:00.281Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "expense_processing",
   "schema_version": 5,
   "items": [
     {
@@ -263,6 +263,20 @@
       "total_value_usd": 63.16,
       "ledgers": {
         "Main Ledger": 114
+      }
+    },
+    {
+      "currency": "Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 11.2312,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 108,
+      "total_value_usd": 1212.97,
+      "ledgers": {
+        "Main Ledger": 108
       }
     },
     {
@@ -1430,7 +1444,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2570.168,
+      "unit_cost_usd": 2560.0066,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1781,8 +1795,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2570.168,
-          "total_value_usd": 1.2212417354988404e-10
+          "unit_cost_usd": 2560.0066,
+          "total_value_usd": 1.2164134418732493e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4394,6 +4408,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
           "total_value_usd": 11.180598999999999
+        },
+        {
+          "currency": "Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
+          "amount": 108,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 11.2312,
+          "total_value_usd": 1212.9696
         },
         {
           "currency": "Cacao Husk (KG) - Ilheus, Brazil",
@@ -10135,9 +10156,9 @@
     }
   ],
   "totals": {
-    "item_types": 102,
-    "total_units": 21581.254159576747,
-    "total_value_usd": 29977.14,
+    "item_types": 103,
+    "total_units": 21689.254159576747,
+    "total_value_usd": 31190.11,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
