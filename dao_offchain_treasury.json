@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-07T15:26:24.269Z",
+  "generated_at": "2026-10-07T15:52:11.636Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -268,13 +268,13 @@
     {
       "currency": "Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
       "unit_weight_g": null,
-      "unit_cost_usd": 11.2312,
+      "unit_cost_usd": 12.14,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
       "total_quantity": 108,
-      "total_value_usd": 1212.97,
+      "total_value_usd": 1311.12,
       "ledgers": {
         "AGL16": 108
       }
@@ -1444,7 +1444,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2561.1193000000003,
+      "unit_cost_usd": 2564.617,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1795,8 +1795,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2561.1193000000003,
-          "total_value_usd": 1.216942152712031e-10
+          "unit_cost_usd": 2564.617,
+          "total_value_usd": 1.218604120808379e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4367,8 +4367,8 @@
           "currency": "[AGL16] Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
           "amount": 108,
           "ledger": "AGL16",
-          "unit_cost_usd": 11.2312,
-          "total_value_usd": 1212.97
+          "unit_cost_usd": 12.14,
+          "total_value_usd": 1311.12
         },
         {
           "currency": "[AGL8] Cacao Almonds (KG)",
@@ -10158,7 +10158,7 @@
   "totals": {
     "item_types": 103,
     "total_units": 21675.254159576747,
-    "total_value_usd": 31189.02,
+    "total_value_usd": 31287.17,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
