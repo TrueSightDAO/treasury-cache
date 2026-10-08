@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-08T22:26:12.251Z",
+  "generated_at": "2026-10-08T22:48:44.243Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -459,20 +459,6 @@
       "total_value_usd": 500,
       "ledgers": {
         "Main Ledger": 50
-      }
-    },
-    {
-      "currency": "Cacao Almonds KG from Oscar's farm - AGL14",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 11.41225,
-      "inventory_type": "Cacao Bean",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 40,
-      "total_value_usd": 456.49,
-      "ledgers": {
-        "AGL14": 40
       }
     },
     {
@@ -1444,7 +1430,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2475.8841,
+      "unit_cost_usd": 2475.2848,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1795,8 +1781,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2475.8841,
-          "total_value_usd": 1.1764417715799064e-10
+          "unit_cost_usd": 2475.2848,
+          "total_value_usd": 1.1761570080266735e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4352,16 +4338,6 @@
           "hs_code": "2106.9",
           "unit_cost_usd": 10.18234711,
           "total_value_usd": 213.83
-        },
-        {
-          "currency": "[AGL14] Cacao Almonds KG from Oscar's farm - AGL14",
-          "amount": 40,
-          "ledger": "AGL14",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Bean",
-          "unit_format": "Bulk",
-          "unit_cost_usd": 11.41225,
-          "total_value_usd": 456.49
         },
         {
           "currency": "[AGL16] Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
@@ -10156,9 +10132,9 @@
     }
   ],
   "totals": {
-    "item_types": 103,
-    "total_units": 21579.254159576747,
-    "total_value_usd": 31219.65,
+    "item_types": 102,
+    "total_units": 21539.254159576747,
+    "total_value_usd": 30763.16,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
