@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T22:26:00.202Z",
+  "generated_at": "2026-10-08T22:26:12.251Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
