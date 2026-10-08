@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T15:48:53.581Z",
+  "generated_at": "2026-10-08T16:48:45.919Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -33,10 +33,10 @@
       "unit_format": "Bulk",
       "gtin": null,
       "hs_code": "1801",
-      "total_quantity": 2460,
-      "total_value_usd": 1730.17,
+      "total_quantity": 2364,
+      "total_value_usd": 1662.65,
       "ledgers": {
-        "Main Ledger": 2460
+        "Main Ledger": 2364
       }
     },
     {
@@ -1444,7 +1444,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2448.6482,
+      "unit_cost_usd": 2427.5581,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1795,8 +1795,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2448.6482,
-          "total_value_usd": 1.1635003538267193e-10
+          "unit_cost_usd": 2427.5581,
+          "total_value_usd": 1.1534791760959857e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4455,13 +4455,13 @@
         },
         {
           "currency": "Cacao Nibs Kraft Pouch - V2",
-          "amount": 754,
+          "amount": 658,
           "ledger": "Main Ledger",
           "inventory_type": "Packaging Material",
           "unit_format": "Bulk",
           "hs_code": "1801",
           "unit_cost_usd": 0.7033220365,
-          "total_value_usd": 530.304815521
+          "total_value_usd": 462.785900017
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
@@ -10157,8 +10157,8 @@
   ],
   "totals": {
     "item_types": 103,
-    "total_units": 21675.254159576747,
-    "total_value_usd": 31287.17,
+    "total_units": 21579.254159576747,
+    "total_value_usd": 31219.65,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
