@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-08T22:26:12.251Z` |
-| Trigger | `expense_processing` |
+| Generated at | `2026-10-08T22:48:44.243Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 103 |
-| Total units | 21579.254159576747 |
-| Total value USD | $31219.65 |
+| Item types | 102 |
+| Total units | 21539.254159576747 |
+| Total value USD | $30763.16 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1172 |
 
-## Items (103, sorted by total quantity)
+## Items (102, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -51,7 +51,6 @@
 | USD - provisions for voting rights cash out | — | — | 56.322011113208234 | $1.00 | $56.32 | Main Ledger: 56.322011113208234 |
 | Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
 | Chocolate Mold from Rusty | — | — | 50 | $10.00 | $500.00 | Main Ledger: 50 |
-| Cacao Almonds KG from Oscar's farm - AGL14 | Cacao Bean | Bulk | 40 | $11.41 | $456.49 | AGL14: 40 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | — | — | 38 | $15.70 | $596.41 | Main Ledger: 38 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 38 | $9.02 | $342.73 | Main Ledger: 38 |
 | RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467) | — | — | 35 | $0.55 | $19.39 | Main Ledger: 35 |
@@ -121,7 +120,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2475.88 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2475.28 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -129,7 +128,7 @@
 |---|---:|---:|
 | AGL10 | 4 | 354 |
 | AGL13 | 3 | 135 |
-| AGL14 | 2 | 804.5 |
+| AGL14 | 1 | 764.5 |
 | AGL15 | 1 | 4240.749999999999 |
 | AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
@@ -160,7 +159,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1332 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 33 | 2264.215122798 | 327 |
+| Matheus Reis | 32 | 2224.215122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
