@@ -4,24 +4,28 @@
   "description": "<p class=\"font_8\">Sourced exclusively from Oscar Fazenda in Brazil's vibrant Bahia region, this 40-kilogram shipment captures the essence of Harvest 2025. Nurtured by trees over 70 years old—venerable",
   "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-06-02T20:29:54Z",
+  "generated_at": "2026-10-09T14:11:26Z",
   "source": "snapshot_managed_ledgers.py",
-  "status": "MANUFACTURING",
+  "status": "SALES IN PROGRESS",
   "summary": {
-    "total_transactions": 6,
-    "total_amount": 3352.98,
+    "total_transactions": 12,
+    "total_amount": 4232.98,
     "by_currency": {
       "BRAZILIAN REIS": {
         "count": 2,
         "total": 0.0
       },
       "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14": {
+        "count": 4,
+        "total": 0.0
+      },
+      "CACAO TREE TO BE PLANTED": {
         "count": 1,
         "total": 40.0
       },
       "USD": {
-        "count": 3,
-        "total": 456.49
+        "count": 5,
+        "total": 1220.99
       }
     }
   },
@@ -71,6 +75,54 @@
       "description": "[DAO Inventory Expense Event]\n- DAO Member Name: Gary Teh\n- Latitude: -14.279646\n- Longitude: -38.992388\n- Inventory Type: Brazilian Reis\n- Inventory Quantity: 2400\n- Description: payment to Oscar for Agroverse shipment financing ledger 13. Oscar Fazenda 40 kilograms\n- Attached Filename: image.png\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20250921150058_gary_teh_image.png\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\n\nRequest Transaction ID: pDpF4Fz1rp8TCjZ6aaeSl8hxCaeCC/ALN0d2XgQlK26McN8YTNglwlawVcbOGKyKiSgM2ORRIRUUL2fQ+iAHx65aBDe1/9lQSdD+r/yamEkMNG4n+4DUUGWICacy4zYl/QcC8l2noVgwUthEcqQoH+O7QE44oUsQC6yd1xSxn6rIajttURuHHuNg+4zc+7WM5YfEkMB6r0BLGFp2LdMMLNeNEj5KPiQ3qm8z9+qFLswKZqHnbZfV9uK8ZK0tj3T9ansUpSiukH/+9O68BW8Gd0wZSP7eGnRF0AcAiOs50CK4cWqiiWqqyAIUNZmduKjuHFt8ZErGIip63+FkdaN7yw==\n\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
       "entity": "Matheus Reis",
       "amount": 40.0,
+      "currency": "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14",
+      "type": "Assets"
+    },
+    {
+      "date": "20260911",
+      "description": "[MANAGED LEDGER TRANSACTION EVENT]\nLedger Name: AGL14\nLedger URL: https://docs.google.com/spreadsheets/d/18ZfEddlEwcNYTc6H0FHtfG948yZ8xCWMY_FmSsIv8cc/edit\nTransaction Date: 20260911\nDescription: Wholesale sale of 40 kg Cacao Almonds (Oscar's farm) to BionPact Pte Ltd - Invoice INV-20260911-BP\nRow 1 - Entity: Gary Teh\nRow 1 - Amount: 800.00\nRow 1 - Currency: USD\nRow 1 - Transaction Type: Assets\nRow 2 - Entity: Gary Teh\nRow 2 - Amount: -35.50\nRow 2 - Currency: USD\nRow 2 - Transaction Type: Assets\nRow 3 - Entity: BionPact Pte Ltd\nRow 3 - Amount: 40\nRow 3 - Currency: Cacao Almonds KG from Oscar's farm - AGL14\nRow 3 - Transaction Type: Liability\nRow 4 - Entity: SunMint Tree Planting Contract - agl14\nRow 4 - Amount: 40.0\nRow 4 - Currency: Cacao Tree To Be Planted\nRow 4 - Transaction Type: Liability\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Bt4Nd/16nZ/gzyNboThs3g3mjeAP6eOH9csCXapV8fWfuOt6cnAT3AsDqDL1xbwU5nm4KWFiwwRsaLZmOlspkX9uXWLZPKlN8DxxVSZ8WQHktjUtgW4EjF4lvvTVPRT+wUU2kG54MZDZ0VFustef0f4oalz+DHIlpwbEFtwHaZ1oFgQPkK205KthxEZPSM8hyebwufEHcfNbOFrpK1ftGU66vUdTMgfbY8QgQI22AW8awLmDKd6e0eD/LYgAxFd7VV3h0v1On2u21MlzZK/TJ/3f+iudJ8km4hgHfWU8M4dNoInMXN2MsyddSXT1LeM5Z+SGskBk1thUaV1iKFyIYQ==\n\nThis submission was generated using https://dapp.truesight.me/\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 800.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260911",
+      "description": "[MANAGED LEDGER TRANSACTION EVENT]\nLedger Name: AGL14\nLedger URL: https://docs.google.com/spreadsheets/d/18ZfEddlEwcNYTc6H0FHtfG948yZ8xCWMY_FmSsIv8cc/edit\nTransaction Date: 20260911\nDescription: Wholesale sale of 40 kg Cacao Almonds (Oscar's farm) to BionPact Pte Ltd - Invoice INV-20260911-BP\nRow 1 - Entity: Gary Teh\nRow 1 - Amount: 800.00\nRow 1 - Currency: USD\nRow 1 - Transaction Type: Assets\nRow 2 - Entity: Gary Teh\nRow 2 - Amount: -35.50\nRow 2 - Currency: USD\nRow 2 - Transaction Type: Assets\nRow 3 - Entity: BionPact Pte Ltd\nRow 3 - Amount: 40\nRow 3 - Currency: Cacao Almonds KG from Oscar's farm - AGL14\nRow 3 - Transaction Type: Liability\nRow 4 - Entity: SunMint Tree Planting Contract - agl14\nRow 4 - Amount: 40.0\nRow 4 - Currency: Cacao Tree To Be Planted\nRow 4 - Transaction Type: Liability\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Bt4Nd/16nZ/gzyNboThs3g3mjeAP6eOH9csCXapV8fWfuOt6cnAT3AsDqDL1xbwU5nm4KWFiwwRsaLZmOlspkX9uXWLZPKlN8DxxVSZ8WQHktjUtgW4EjF4lvvTVPRT+wUU2kG54MZDZ0VFustef0f4oalz+DHIlpwbEFtwHaZ1oFgQPkK205KthxEZPSM8hyebwufEHcfNbOFrpK1ftGU66vUdTMgfbY8QgQI22AW8awLmDKd6e0eD/LYgAxFd7VV3h0v1On2u21MlzZK/TJ/3f+iudJ8km4hgHfWU8M4dNoInMXN2MsyddSXT1LeM5Z+SGskBk1thUaV1iKFyIYQ==\n\nThis submission was generated using https://dapp.truesight.me/\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": -35.5,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260911",
+      "description": "[MANAGED LEDGER TRANSACTION EVENT]\nLedger Name: AGL14\nLedger URL: https://docs.google.com/spreadsheets/d/18ZfEddlEwcNYTc6H0FHtfG948yZ8xCWMY_FmSsIv8cc/edit\nTransaction Date: 20260911\nDescription: Wholesale sale of 40 kg Cacao Almonds (Oscar's farm) to BionPact Pte Ltd - Invoice INV-20260911-BP\nRow 1 - Entity: Gary Teh\nRow 1 - Amount: 800.00\nRow 1 - Currency: USD\nRow 1 - Transaction Type: Assets\nRow 2 - Entity: Gary Teh\nRow 2 - Amount: -35.50\nRow 2 - Currency: USD\nRow 2 - Transaction Type: Assets\nRow 3 - Entity: BionPact Pte Ltd\nRow 3 - Amount: 40\nRow 3 - Currency: Cacao Almonds KG from Oscar's farm - AGL14\nRow 3 - Transaction Type: Liability\nRow 4 - Entity: SunMint Tree Planting Contract - agl14\nRow 4 - Amount: 40.0\nRow 4 - Currency: Cacao Tree To Be Planted\nRow 4 - Transaction Type: Liability\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Bt4Nd/16nZ/gzyNboThs3g3mjeAP6eOH9csCXapV8fWfuOt6cnAT3AsDqDL1xbwU5nm4KWFiwwRsaLZmOlspkX9uXWLZPKlN8DxxVSZ8WQHktjUtgW4EjF4lvvTVPRT+wUU2kG54MZDZ0VFustef0f4oalz+DHIlpwbEFtwHaZ1oFgQPkK205KthxEZPSM8hyebwufEHcfNbOFrpK1ftGU66vUdTMgfbY8QgQI22AW8awLmDKd6e0eD/LYgAxFd7VV3h0v1On2u21MlzZK/TJ/3f+iudJ8km4hgHfWU8M4dNoInMXN2MsyddSXT1LeM5Z+SGskBk1thUaV1iKFyIYQ==\n\nThis submission was generated using https://dapp.truesight.me/\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "BionPact Pte Ltd",
+      "amount": 40.0,
+      "currency": "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14",
+      "type": "Liability"
+    },
+    {
+      "date": "20260911",
+      "description": "[MANAGED LEDGER TRANSACTION EVENT]\nLedger Name: AGL14\nLedger URL: https://docs.google.com/spreadsheets/d/18ZfEddlEwcNYTc6H0FHtfG948yZ8xCWMY_FmSsIv8cc/edit\nTransaction Date: 20260911\nDescription: Wholesale sale of 40 kg Cacao Almonds (Oscar's farm) to BionPact Pte Ltd - Invoice INV-20260911-BP\nRow 1 - Entity: Gary Teh\nRow 1 - Amount: 800.00\nRow 1 - Currency: USD\nRow 1 - Transaction Type: Assets\nRow 2 - Entity: Gary Teh\nRow 2 - Amount: -35.50\nRow 2 - Currency: USD\nRow 2 - Transaction Type: Assets\nRow 3 - Entity: BionPact Pte Ltd\nRow 3 - Amount: 40\nRow 3 - Currency: Cacao Almonds KG from Oscar's farm - AGL14\nRow 3 - Transaction Type: Liability\nRow 4 - Entity: SunMint Tree Planting Contract - agl14\nRow 4 - Amount: 40.0\nRow 4 - Currency: Cacao Tree To Be Planted\nRow 4 - Transaction Type: Liability\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: Bt4Nd/16nZ/gzyNboThs3g3mjeAP6eOH9csCXapV8fWfuOt6cnAT3AsDqDL1xbwU5nm4KWFiwwRsaLZmOlspkX9uXWLZPKlN8DxxVSZ8WQHktjUtgW4EjF4lvvTVPRT+wUU2kG54MZDZ0VFustef0f4oalz+DHIlpwbEFtwHaZ1oFgQPkK205KthxEZPSM8hyebwufEHcfNbOFrpK1ftGU66vUdTMgfbY8QgQI22AW8awLmDKd6e0eD/LYgAxFd7VV3h0v1On2u21MlzZK/TJ/3f+iudJ8km4hgHfWU8M4dNoInMXN2MsyddSXT1LeM5Z+SGskBk1thUaV1iKFyIYQ==\n\nThis submission was generated using https://dapp.truesight.me/\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl14",
+      "amount": 40.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20261008",
+      "description": "[MANAGED LEDGER TRANSACTION EVENT]\n- Ledger Name: AGL14\n- Ledger URL: https://docs.google.com/spreadsheets/d/18ZfEddlEwcNYTc6H0FHtfG948yZ8xCWMY_FmSsIv8cc/edit\n- Transaction Date: 20261008\n- Row 1 - Entity: BionPact Pte Ltd\n- Row 1 - Amount: -40\n- Row 1 - Currency: Cacao Almonds KG from Oscar's farm - AGL14\n- Row 1 - Transaction Type: Liability\n- Row 2 - Entity: Matheus Reis\n- Row 2 - Amount: -40\n- Row 2 - Currency: Cacao Almonds KG from Oscar's farm - AGL14\n- Row 2 - Transaction Type: Assets\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: piIy7nNOBKe5Ht611lEfMaLfq33lcYNcOsK6aBcwP6aKVbY2Rl/1rEavP6kGi689CMYuUtOV5I0QAZyYHIZ0y0IED4Ap/sfx6oWl+jb/LIicyOSk9pbafZV1Xrw4JI+xWjuSTHdS8r6HCcmPyn5TfUnCeNfBcoSMzH8dcP0hVxz6mDWnA23RBv3TwFAMHVn/Vyrv9uf4rBCcilSeQy9hU2Bq8uu+ogH6PrGSWEyzqF/jxlPSnNKPgcxZZuNopSOus3+nmU+KgAbzJNS74VjoyggYlvJ8qtfgqM9oc2cS9RDavY5FJt8U+hkbjiSflOIFRdiDivkrdmQijulYUiARdA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "BionPact Pte Ltd",
+      "amount": -40.0,
+      "currency": "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14",
+      "type": "Liability"
+    },
+    {
+      "date": "20261008",
+      "description": "[MANAGED LEDGER TRANSACTION EVENT]\n- Ledger Name: AGL14\n- Ledger URL: https://docs.google.com/spreadsheets/d/18ZfEddlEwcNYTc6H0FHtfG948yZ8xCWMY_FmSsIv8cc/edit\n- Transaction Date: 20261008\n- Row 1 - Entity: BionPact Pte Ltd\n- Row 1 - Amount: -40\n- Row 1 - Currency: Cacao Almonds KG from Oscar's farm - AGL14\n- Row 1 - Transaction Type: Liability\n- Row 2 - Entity: Matheus Reis\n- Row 2 - Amount: -40\n- Row 2 - Currency: Cacao Almonds KG from Oscar's farm - AGL14\n- Row 2 - Transaction Type: Assets\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: piIy7nNOBKe5Ht611lEfMaLfq33lcYNcOsK6aBcwP6aKVbY2Rl/1rEavP6kGi689CMYuUtOV5I0QAZyYHIZ0y0IED4Ap/sfx6oWl+jb/LIicyOSk9pbafZV1Xrw4JI+xWjuSTHdS8r6HCcmPyn5TfUnCeNfBcoSMzH8dcP0hVxz6mDWnA23RBv3TwFAMHVn/Vyrv9uf4rBCcilSeQy9hU2Bq8uu+ogH6PrGSWEyzqF/jxlPSnNKPgcxZZuNopSOus3+nmU+KgAbzJNS74VjoyggYlvJ8qtfgqM9oc2cS9RDavY5FJt8U+hkbjiSflOIFRdiDivkrdmQijulYUiARdA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Matheus Reis",
+      "amount": -40.0,
       "currency": "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14",
       "type": "Assets"
     }
