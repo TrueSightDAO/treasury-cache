@@ -4,20 +4,20 @@
   "description": "<p class=\"font_8\">5kg caramelized cacao beans from Capela Velha Fazenda, a women owned regenerative organic cacao farm</p> <p class=\"font_8\"><br></p>",
   "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-06-02T20:29:52Z",
+  "generated_at": "2026-10-09T14:11:25Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "SALES IN PROGRESS",
   "summary": {
-    "total_transactions": 99,
-    "total_amount": 1705.26,
+    "total_transactions": 120,
+    "total_amount": 1831.26,
     "by_currency": {
       "BRAZILIAN REIS": {
         "count": 4,
         "total": 0.0
       },
       "CACAO TREE TO BE PLANTED": {
-        "count": 11,
-        "total": 11.0
+        "count": 18,
+        "total": 18.0
       },
       "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10": {
         "count": 7,
@@ -28,12 +28,12 @@
         "total": 1.0
       },
       "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10": {
-        "count": 30,
-        "total": 11.0
+        "count": 37,
+        "total": 4.0
       },
       "USD": {
-        "count": 45,
-        "total": 422.74
+        "count": 52,
+        "total": 541.74
       }
     }
   },
@@ -825,6 +825,174 @@
     {
       "date": "20260131",
       "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_7\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: cRbfL+KqwuG7IJNrmRmh04mh8zWI3iIAlT5ub4U4GXgXNZZosTb6cPLDdewP+dYoVPtjFYu5OfWVsaH8zbavWHCYRa/jJM7aS9+il3EsusiXNrsAk3ff8G2/TOZ18KiYY9JC8JYsN5z+dDFieexKExfZ6CGyQT3NF+/Yir4lbfWRvFCuo787BAHQfReaC+ORMqN10aHRSRK3+ei+0VFg2MIYZ6EFXWcg+D2mUQJxQ8E6PfmbKsAnkrSOkb+5kBEI+9EJe4OIpVE0ztoQECuZckjZvaEvvvWPIIm3aiMrUDQOviJwz3fQuKA64NUCH94b2LrRIjMUF1QwC1j3jrqOOQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_2\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: bRCyO3+GWXKORO14s2aasWwv64324KoFTguEv4OxaqonibhwQHIQw3y487HO1XY45tj/g10EsWPXK/fwNVP/ypkV5Y75I+t537fPNc3Qw2aPNfE55tO9pvXRCdz/ae7nOqIAkssnlckVQPk5SaRGvhidjGJ16Jk62BFQASgw/7KyHmRtQwXY92xA12gbJqpYst0MAADZNqF2nUZVESXTOiVPM/vV2h/ZeoHvfA2PtqfScUEhMTWF3+30HJkA+RbNIK7ShNDQUONNO7EIddSmSFHH4Pt632mav1LbjL7OlbSEVqL7380W1lmkr6F48MR9Gi07V4EqrycVCQ9JjppVjQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_2\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: bRCyO3+GWXKORO14s2aasWwv64324KoFTguEv4OxaqonibhwQHIQw3y487HO1XY45tj/g10EsWPXK/fwNVP/ypkV5Y75I+t537fPNc3Qw2aPNfE55tO9pvXRCdz/ae7nOqIAkssnlckVQPk5SaRGvhidjGJ16Jk62BFQASgw/7KyHmRtQwXY92xA12gbJqpYst0MAADZNqF2nUZVESXTOiVPM/vV2h/ZeoHvfA2PtqfScUEhMTWF3+30HJkA+RbNIK7ShNDQUONNO7EIddSmSFHH4Pt632mav1LbjL7OlbSEVqL7380W1lmkr6F48MR9Gi07V4EqrycVCQ9JjppVjQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_2\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: bRCyO3+GWXKORO14s2aasWwv64324KoFTguEv4OxaqonibhwQHIQw3y487HO1XY45tj/g10EsWPXK/fwNVP/ypkV5Y75I+t537fPNc3Qw2aPNfE55tO9pvXRCdz/ae7nOqIAkssnlckVQPk5SaRGvhidjGJ16Jk62BFQASgw/7KyHmRtQwXY92xA12gbJqpYst0MAADZNqF2nUZVESXTOiVPM/vV2h/ZeoHvfA2PtqfScUEhMTWF3+30HJkA+RbNIK7ShNDQUONNO7EIddSmSFHH4Pt632mav1LbjL7OlbSEVqL7380W1lmkr6F48MR9Gi07V4EqrycVCQ9JjppVjQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_3\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: dxXbk52SAVtrs0I8LbMqUOoN23MQdg9bqoRxYZG+VWPDxaecG62MiZHIct9q8KKW2AcVqixxPErDRKcvGZ4Gwv26SYEoso+cuqmIgeblmmFXYgIMPsQsYVnCm/mDpO/A/7X3qvgrSKvZvLeL4nJXD3MBDTEB6b3KPIfuJBMXkTl5FDoEH6cup+nS9DkQKxfMFPW+xf0qrMlCibWI60O0ord8Q3BsbF0Vo2zRAuo8VApOMWK/iWYLsJNqXZj6SUth3pt/lgPeHubqm2YNbg6Ba9I6lJ899yDjlAQLEbyxCZIaFu87Di9SiaFAUEAU6bNT9oz83Duc9ftMFSGKhQ31nQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_3\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: dxXbk52SAVtrs0I8LbMqUOoN23MQdg9bqoRxYZG+VWPDxaecG62MiZHIct9q8KKW2AcVqixxPErDRKcvGZ4Gwv26SYEoso+cuqmIgeblmmFXYgIMPsQsYVnCm/mDpO/A/7X3qvgrSKvZvLeL4nJXD3MBDTEB6b3KPIfuJBMXkTl5FDoEH6cup+nS9DkQKxfMFPW+xf0qrMlCibWI60O0ord8Q3BsbF0Vo2zRAuo8VApOMWK/iWYLsJNqXZj6SUth3pt/lgPeHubqm2YNbg6Ba9I6lJ899yDjlAQLEbyxCZIaFu87Di9SiaFAUEAU6bNT9oz83Duc9ftMFSGKhQ31nQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_3\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: dxXbk52SAVtrs0I8LbMqUOoN23MQdg9bqoRxYZG+VWPDxaecG62MiZHIct9q8KKW2AcVqixxPErDRKcvGZ4Gwv26SYEoso+cuqmIgeblmmFXYgIMPsQsYVnCm/mDpO/A/7X3qvgrSKvZvLeL4nJXD3MBDTEB6b3KPIfuJBMXkTl5FDoEH6cup+nS9DkQKxfMFPW+xf0qrMlCibWI60O0ord8Q3BsbF0Vo2zRAuo8VApOMWK/iWYLsJNqXZj6SUth3pt/lgPeHubqm2YNbg6Ba9I6lJ899yDjlAQLEbyxCZIaFu87Di9SiaFAUEAU6bNT9oz83Duc9ftMFSGKhQ31nQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_4\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: hIQYQXD2f+9QJKtWghGQdFrObVGkg4iRHBdjSsORR0P4Z9cjTQnMRaWOJQTHxpLBymUm/YaBASkfE0EzYebUokQpxPs7bbCDIeC0f87M3M+mn89jr0tQF18KLz1CCjbJ+PBzYLiCbTDG3upYL7+vwrYahlxcPNCtXxy+vQgiAMr0/jH7m9qIUIbhzKUUeQKNfz5OKz0xhjFmXh4dYtL9nLO+NxfBythw1d8o9hbAdy4ZPhiBJTY68gLXTbbzN09PiEZvYlltdKE+VLLpM6G+MYv7biiuPmJhvpwr0q/YLhTjx/s0/iMt83SOYvgQceDJRpJ2Dyb9nst2TnnCYJFAXg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_4\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: hIQYQXD2f+9QJKtWghGQdFrObVGkg4iRHBdjSsORR0P4Z9cjTQnMRaWOJQTHxpLBymUm/YaBASkfE0EzYebUokQpxPs7bbCDIeC0f87M3M+mn89jr0tQF18KLz1CCjbJ+PBzYLiCbTDG3upYL7+vwrYahlxcPNCtXxy+vQgiAMr0/jH7m9qIUIbhzKUUeQKNfz5OKz0xhjFmXh4dYtL9nLO+NxfBythw1d8o9hbAdy4ZPhiBJTY68gLXTbbzN09PiEZvYlltdKE+VLLpM6G+MYv7biiuPmJhvpwr0q/YLhTjx/s0/iMt83SOYvgQceDJRpJ2Dyb9nst2TnnCYJFAXg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_4\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: hIQYQXD2f+9QJKtWghGQdFrObVGkg4iRHBdjSsORR0P4Z9cjTQnMRaWOJQTHxpLBymUm/YaBASkfE0EzYebUokQpxPs7bbCDIeC0f87M3M+mn89jr0tQF18KLz1CCjbJ+PBzYLiCbTDG3upYL7+vwrYahlxcPNCtXxy+vQgiAMr0/jH7m9qIUIbhzKUUeQKNfz5OKz0xhjFmXh4dYtL9nLO+NxfBythw1d8o9hbAdy4ZPhiBJTY68gLXTbbzN09PiEZvYlltdKE+VLLpM6G+MYv7biiuPmJhvpwr0q/YLhTjx/s0/iMt83SOYvgQceDJRpJ2Dyb9nst2TnnCYJFAXg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_5\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: TjZCpNX2HKAUaGbSSz6wyS3vSAiDgE2kh5bUVKTPhIYRKFQdV0DqxXDAB/7tXcWsKZUEf4AdPjQElKGZhwfefWh4nFXjRmBQG5jSSE59IUASDVSDzTGAheIHo8yPwFZqt7aSlCtvCUriIkf6npoZlYtwN6iXqLP17rkpUWACMYmRwR0i4mjo3CEe4HRNtAt7SdxpDpfw/NIopWFwsQFoVrhYMW3CfOOexZLmrq7huWo6w5ecoXv6G2458Yk6236T5xZlj+vWLqJPg5Je6SA0Z2tWdBH/xDW0CKgmmV95YWm4tSnSv782lYzP7dR1UkIlkit1Hq8H9CBOtzyCYRCzyw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_5\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: TjZCpNX2HKAUaGbSSz6wyS3vSAiDgE2kh5bUVKTPhIYRKFQdV0DqxXDAB/7tXcWsKZUEf4AdPjQElKGZhwfefWh4nFXjRmBQG5jSSE59IUASDVSDzTGAheIHo8yPwFZqt7aSlCtvCUriIkf6npoZlYtwN6iXqLP17rkpUWACMYmRwR0i4mjo3CEe4HRNtAt7SdxpDpfw/NIopWFwsQFoVrhYMW3CfOOexZLmrq7huWo6w5ecoXv6G2458Yk6236T5xZlj+vWLqJPg5Je6SA0Z2tWdBH/xDW0CKgmmV95YWm4tSnSv782lYzP7dR1UkIlkit1Hq8H9CBOtzyCYRCzyw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_5\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: TjZCpNX2HKAUaGbSSz6wyS3vSAiDgE2kh5bUVKTPhIYRKFQdV0DqxXDAB/7tXcWsKZUEf4AdPjQElKGZhwfefWh4nFXjRmBQG5jSSE59IUASDVSDzTGAheIHo8yPwFZqt7aSlCtvCUriIkf6npoZlYtwN6iXqLP17rkpUWACMYmRwR0i4mjo3CEe4HRNtAt7SdxpDpfw/NIopWFwsQFoVrhYMW3CfOOexZLmrq7huWo6w5ecoXv6G2458Yk6236T5xZlj+vWLqJPg5Je6SA0Z2tWdBH/xDW0CKgmmV95YWm4tSnSv782lYzP7dR1UkIlkit1Hq8H9CBOtzyCYRCzyw==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_12\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: VUyMs2JHmYSJ7j2r13JhE/GPLcdl0aOjaEH0cKtE+lLSNIPekfYQeAUqVOQbyvsLY0CyN7ruIkul6+rlNNdbCG2ErM+S5/wethKP+70cfnQp1yjsq3d+JxZWrjLvi6jHuY+OLuZ4xpSGEuErwgRiG3fvFdrr5UkYxnGytkyzWmdURaf4ZbFBmKeTMYvQCRs0haQSdXb5CGDxVjqeKa1eZfuFldxaYksfNHfHKyLxhxafOZuSJy9+aBd9cVshI5FR46s/MZWZscvQAWlEBdLzjHCodQhP+jllZP+fFqfCOXXx99mv/F+j7kocAkN2z/DuAMoW2CIBPdVj5qHRJePEHA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_12\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: VUyMs2JHmYSJ7j2r13JhE/GPLcdl0aOjaEH0cKtE+lLSNIPekfYQeAUqVOQbyvsLY0CyN7ruIkul6+rlNNdbCG2ErM+S5/wethKP+70cfnQp1yjsq3d+JxZWrjLvi6jHuY+OLuZ4xpSGEuErwgRiG3fvFdrr5UkYxnGytkyzWmdURaf4ZbFBmKeTMYvQCRs0haQSdXb5CGDxVjqeKa1eZfuFldxaYksfNHfHKyLxhxafOZuSJy9+aBd9cVshI5FR46s/MZWZscvQAWlEBdLzjHCodQhP+jllZP+fFqfCOXXx99mv/F+j7kocAkN2z/DuAMoW2CIBPdVj5qHRJePEHA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_12\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: VUyMs2JHmYSJ7j2r13JhE/GPLcdl0aOjaEH0cKtE+lLSNIPekfYQeAUqVOQbyvsLY0CyN7ruIkul6+rlNNdbCG2ErM+S5/wethKP+70cfnQp1yjsq3d+JxZWrjLvi6jHuY+OLuZ4xpSGEuErwgRiG3fvFdrr5UkYxnGytkyzWmdURaf4ZbFBmKeTMYvQCRs0haQSdXb5CGDxVjqeKa1eZfuFldxaYksfNHfHKyLxhxafOZuSJy9+aBd9cVshI5FR46s/MZWZscvQAWlEBdLzjHCodQhP+jllZP+fFqfCOXXx99mv/F+j7kocAkN2z/DuAMoW2CIBPdVj5qHRJePEHA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_15\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: YpvvqK2l9Cgxn9LYpkw5Yjbl3G2IyaFZQUAdKUGumMQaVqE3uS3bRsSOTmWRQDGkE3RtUVkP4KkIf8xlWathjKvfXm29J59jMzpfwrzBujvy6zZs1rzFG68lzp/FgOuPpSkYB0LNGDV4K7z6tIscy9vOiJ4GRAb7st+F36lv+HLCOwW7mfVyo7Ym5np93WWlLBGSgl3Wocii+7y446LE/COfZQ+8Zu7aEgvWVqplCR1HiTXcQVuLeJA30IyRFUYsW271WCUYFs1rv6Y19fdh8FfVgCC3mWYmQn35Xhtrfgntz0Va+IuMlk1f+z/tn6Ko5hOsFd9vAX9uoUvIn/sOBg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_15\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: YpvvqK2l9Cgxn9LYpkw5Yjbl3G2IyaFZQUAdKUGumMQaVqE3uS3bRsSOTmWRQDGkE3RtUVkP4KkIf8xlWathjKvfXm29J59jMzpfwrzBujvy6zZs1rzFG68lzp/FgOuPpSkYB0LNGDV4K7z6tIscy9vOiJ4GRAb7st+F36lv+HLCOwW7mfVyo7Ym5np93WWlLBGSgl3Wocii+7y446LE/COfZQ+8Zu7aEgvWVqplCR1HiTXcQVuLeJA30IyRFUYsW271WCUYFs1rv6Y19fdh8FfVgCC3mWYmQn35Xhtrfgntz0Va+IuMlk1f+z/tn6Ko5hOsFd9vAX9uoUvIn/sOBg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2025CAPELAVELHA_20250809_15\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: YpvvqK2l9Cgxn9LYpkw5Yjbl3G2IyaFZQUAdKUGumMQaVqE3uS3bRsSOTmWRQDGkE3RtUVkP4KkIf8xlWathjKvfXm29J59jMzpfwrzBujvy6zZs1rzFG68lzp/FgOuPpSkYB0LNGDV4K7z6tIscy9vOiJ4GRAb7st+F36lv+HLCOwW7mfVyo7Ym5np93WWlLBGSgl3Wocii+7y446LE/COfZQ+8Zu7aEgvWVqplCR1HiTXcQVuLeJA30IyRFUYsW271WCUYFs1rv6Y19fdh8FfVgCC3mWYmQn35Xhtrfgntz0Va+IuMlk1f+z/tn6Ko5hOsFd9vAX9uoUvIn/sOBg==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl10",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260705",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_14\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Cash proceeds collected by: Micheal Johnson\r\n- Owner email: (none)\r\n- Stripe Session ID: (none)\r\n- Shipping Provider: (none)\r\n- Tracking number: (none)\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Bf1maReFi432RlD8X9fW748Jx1FqYcL7mTaHtGIBBao8dwUagBsnbipD/kiUFmQHYewclajogYXgDH1DbzZgCi0nnKI/XxuRz2IlMJ4ga6zEjVKRaeHFpA/jlWWcZHo7BTW67d2cb1CuUPiWdeRtTOmsb6xPh364hBsUArumNz559SVVm/G/0E2Nut5b21IejWh6aZhb6HDoa+PUSuGANoZlmuiXIhTeTqcGjaND/5LXqei6iTrtk6XpwEV0vsz1JtfrWIvwGm0ctrbGLfuXSuhH/Wk4B0spgeNIHj6LwjUkCFQbRmU+eEPgZI8xNl2HqWR9qgpy+7OK+oQICz0jjQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": -1.0,
+      "currency": "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10",
+      "type": "Assets"
+    },
+    {
+      "date": "20260705",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_14\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Cash proceeds collected by: Micheal Johnson\r\n- Owner email: (none)\r\n- Stripe Session ID: (none)\r\n- Shipping Provider: (none)\r\n- Tracking number: (none)\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Bf1maReFi432RlD8X9fW748Jx1FqYcL7mTaHtGIBBao8dwUagBsnbipD/kiUFmQHYewclajogYXgDH1DbzZgCi0nnKI/XxuRz2IlMJ4ga6zEjVKRaeHFpA/jlWWcZHo7BTW67d2cb1CuUPiWdeRtTOmsb6xPh364hBsUArumNz559SVVm/G/0E2Nut5b21IejWh6aZhb6HDoa+PUSuGANoZlmuiXIhTeTqcGjaND/5LXqei6iTrtk6XpwEV0vsz1JtfrWIvwGm0ctrbGLfuXSuhH/Wk4B0spgeNIHj6LwjUkCFQbRmU+eEPgZI8xNl2HqWR9qgpy+7OK+oQICz0jjQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Micheal Johnson",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260705",
+      "description": "[SALES EVENT]\r\n- Item: 2025CAPELAVELHA_20250809_14\r\n- Sales price: $17\r\n- Sold by: Micheal Johnson\r\n- Cash proceeds collected by: Micheal Johnson\r\n- Owner email: (none)\r\n- Stripe Session ID: (none)\r\n- Shipping Provider: (none)\r\n- Tracking number: (none)\r\n- Attached Filename: None\r\n- Submission Source: https://dapp.truesight.me/report_sales.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA54jNZdN4xkaPDI9TB/RwuicbbUMvttOWSTVRfvZxiHWeIoqTHRz2WJdoGsuW9rz9QPbpz6T9zQZu3RNzsSF216U3aCd89R2g7qhOMh9VC+7+sNJnI6H4qPPKFbndxQD8262Q+zqYQR6r0k89mud1sYbla/DCtKAcGZsALihVyl8tF2v1rUzfPU9FHpi5ow2kOEpVxnhe6xEY1HDU/zuFRt707WzkG1zit4AWEBXyBd3YLyinPNAb2aBA6dSPnPAQ4aB46Dtis3p5DgkLeO7E4gh/E0BqViDkkB1tLy1dgy9Kjv+5zxo1yTxkBKACjqqo69Q0VrUfkXgegWmXBAu04wIDAQAB\r\n\r\nRequest Transaction ID: Bf1maReFi432RlD8X9fW748Jx1FqYcL7mTaHtGIBBao8dwUagBsnbipD/kiUFmQHYewclajogYXgDH1DbzZgCi0nnKI/XxuRz2IlMJ4ga6zEjVKRaeHFpA/jlWWcZHo7BTW67d2cb1CuUPiWdeRtTOmsb6xPh364hBsUArumNz559SVVm/G/0E2Nut5b21IejWh6aZhb6HDoa+PUSuGANoZlmuiXIhTeTqcGjaND/5LXqei6iTrtk6XpwEV0vsz1JtfrWIvwGm0ctrbGLfuXSuhH/Wk4B0spgeNIHj6LwjUkCFQbRmU+eEPgZI8xNl2HqWR9qgpy+7OK+oQICz0jjQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_sales.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
       "entity": "SunMint Tree Planting Contract - agl10",
       "amount": 1.0,
       "currency": "CACAO TREE TO BE PLANTED",
