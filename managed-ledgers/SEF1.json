@@ -4,16 +4,20 @@
   "description": "<p class=\"font_8\">1-year membership to Stewards of NovaGaia Private Membership Association. Includes access to regenerative initiatives (cacao tree planting, carbon credits), DAO-style Member Assembly",
   "program": "sunmint",
   "schema_version": 1,
-  "generated_at": "2026-06-02T20:29:55Z",
+  "generated_at": "2026-10-09T14:11:27Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "SALES IN PROGRESS",
   "summary": {
-    "total_transactions": 19,
-    "total_amount": 326.0,
+    "total_transactions": 21,
+    "total_amount": 327.0,
     "by_currency": {
+      "CACAO TREE PLANTED": {
+        "count": 1,
+        "total": 1.0
+      },
       "CACAO TREE TO BE PLANTED": {
-        "count": 4,
-        "total": 3.0
+        "count": 5,
+        "total": 2.0
       },
       "NOVAGAIA TREE PLANTING PLEDGE - QR CODE": {
         "count": 8,
@@ -177,6 +181,22 @@
       "amount": 5.0,
       "currency": "USD",
       "type": "Assets"
+    },
+    {
+      "date": "8/22/2026",
+      "description": "[TREE PLANTING LINK EVENT]\n- QR Code: 20260821_E2ETEST_SEF_1\n- SunMint Submission Message ID: TEST-001\n- Updated by: Sophia Truesight\n- Submission Source: SYNTHETIC E2E TEST (PART 4/4 Task 3) - no real trees/customers\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: da5e7a1e9372485ca64df3885279a331\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Sophia Truesight",
+      "amount": -1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "8/22/2026",
+      "description": "[TREE PLANTING LINK EVENT]\n- QR Code: 20260821_E2ETEST_SEF_1\n- SunMint Submission Message ID: TEST-001\n- Updated by: Sophia Truesight\n- Submission Source: SYNTHETIC E2E TEST (PART 4/4 Task 3) - no real trees/customers\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyrjcz4Y9pI9wXFCr7DifXpMM8KSj7bRhQa3j7ndLZQwSiKKhYTaJ/NLAdygvDKAsDlP5oob98xdPfkFNi8XVZ1hzDSZqraeG9Zg763xh94rIHHRxxkqUt8PkroGuAXehKGQNM8X6SSZc9B/1ubSnZwt27BslentuLm/Qaxe1SgdFpJDpP9QJKa4j5FirNK3FN3KdByx/8zu2sVtrQFQgF3BqiDOXv/m740zHxpltQ8Pbw7JcqDFlVk93bq51gLjE9rQrEUrC1K2uHMozww3+Ud7DwMQvnnnteyTSdVnSufJROyH28aiANivsvPjlm+fweuwFpkPuHttUWsb6EfdMsQIDAQAB\n\nRequest Transaction ID: da5e7a1e9372485ca64df3885279a331\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Sophia Truesight",
+      "amount": 1.0,
+      "currency": "CACAO TREE PLANTED",
+      "type": ""
     }
   ]
 }
