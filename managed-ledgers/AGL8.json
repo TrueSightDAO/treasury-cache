@@ -4,20 +4,20 @@
   "description": "<p class=\"font_8\">330 kg of cacao almonds from Para Small Scale Farmers</p>",
   "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-06-02T20:29:47Z",
+  "generated_at": "2026-10-09T14:11:23Z",
   "source": "snapshot_managed_ledgers.py",
-  "status": "MANUFACTURING",
+  "status": "SALES IN PROGRESS",
   "summary": {
-    "total_transactions": 168,
-    "total_amount": 52303.83,
+    "total_transactions": 181,
+    "total_amount": 52357.83,
     "by_currency": {
       "BRAZILIAN REIS": {
         "count": 14,
         "total": 236.9
       },
       "CACAO ALMONDS (KG)": {
-        "count": 5,
-        "total": 274.09
+        "count": 6,
+        "total": 273.59
       },
       "CACAO HUSK (LOOSE GRAMS) 20250530 - MARTINUS AGL8 BRAZIL": {
         "count": 2,
@@ -36,28 +36,28 @@
         "total": 0.0
       },
       "CACAO TEA - 20250219006 | CACAO TEA | KILOGRAM | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8": {
-        "count": 5,
-        "total": 14.68
+        "count": 6,
+        "total": 2.18
       },
       "CACAO TREE TO BE PLANTED": {
-        "count": 25,
-        "total": 25.0
+        "count": 29,
+        "total": 27.0
       },
       "CEREMONIAL CACAO KRAFT POUCH - 20250219006": {
         "count": 2,
         "total": 0.0
       },
       "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP340993869BR SAN FRANCISCO - AGL8": {
-        "count": 26,
-        "total": 5.0
+        "count": 27,
+        "total": 4.0
       },
       "CEREMONIAL CACAO KRAFT POUCH - 20250219006 | CACAO MASS | 200 GRAMS | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8": {
-        "count": 15,
-        "total": 172.0
+        "count": 17,
+        "total": 170.0
       },
       "USD": {
-        "count": 58,
-        "total": 7333.2
+        "count": 62,
+        "total": 7379.2
       }
     }
   },
@@ -1404,6 +1404,110 @@
       "entity": "Gary Teh",
       "amount": -0.5,
       "currency": "CACAO MASS BAR (40GRAMS) CP340993869BR - AGL8",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20250804_15\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: JQ5r4HGh20uvaEQwTZItDna6/7ZuogefpcF2v4MWqo2e2KloRY0hys39CLRs0/pN7VLc8zLi2PE6BG76PnNXTxZao62y905qUCrjLSkDhp9cOAqE9uZz0Zdg2oX70Pj8u0I+rmOANgkrEnCqIYxVd9EMqQXdrbaF0yGBY71+x5QLi+GT4FP/vq13d/tm9RxFemAv5D0B5rNDP62AoqPTjGCjINXrDyebRsjXLdcmz15k48j8VqQRv/pCm9qPHdEovaJZJ4k05UM4GbCnQ/pnB5F0aSXfnRf4sRf4MT3kW8cPdUhxcLX932P59dfe7FtaXd4MC6Oz/R5zBaJv9HB1CA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP340993869BR SAN FRANCISCO - AGL8",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20250804_15\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: JQ5r4HGh20uvaEQwTZItDna6/7ZuogefpcF2v4MWqo2e2KloRY0hys39CLRs0/pN7VLc8zLi2PE6BG76PnNXTxZao62y905qUCrjLSkDhp9cOAqE9uZz0Zdg2oX70Pj8u0I+rmOANgkrEnCqIYxVd9EMqQXdrbaF0yGBY71+x5QLi+GT4FP/vq13d/tm9RxFemAv5D0B5rNDP62AoqPTjGCjINXrDyebRsjXLdcmz15k48j8VqQRv/pCm9qPHdEovaJZJ4k05UM4GbCnQ/pnB5F0aSXfnRf4sRf4MT3kW8cPdUhxcLX932P59dfe7FtaXd4MC6Oz/R5zBaJv9HB1CA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20250804_15\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: JQ5r4HGh20uvaEQwTZItDna6/7ZuogefpcF2v4MWqo2e2KloRY0hys39CLRs0/pN7VLc8zLi2PE6BG76PnNXTxZao62y905qUCrjLSkDhp9cOAqE9uZz0Zdg2oX70Pj8u0I+rmOANgkrEnCqIYxVd9EMqQXdrbaF0yGBY71+x5QLi+GT4FP/vq13d/tm9RxFemAv5D0B5rNDP62AoqPTjGCjINXrDyebRsjXLdcmz15k48j8VqQRv/pCm9qPHdEovaJZJ4k05UM4GbCnQ/pnB5F0aSXfnRf4sRf4MT3kW8cPdUhxcLX932P59dfe7FtaXd4MC6Oz/R5zBaJv9HB1CA==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl8",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20251013_6\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: i/bFDCgcsXPO27iDph9pCp/UJniIjp4UO2ZmUwv4wHz1ye7r7oq8hHYcLOs3hZ1YFzfyoGVRdp0JZ150ZyWWMQN2DK5iCb/YhWXC42WtSpX6gXLarG7/Eq8dzCYv5UKH57IzBrgHa3FAjLk/8IzLyKlg5Uwu4DY8kiuj6kY+sEEyRCU3uNO1THuK4M4v8noVSLBdshuRPcS/eh01Ao6V2im7Mn9cJrpmVJ8EbFYMtRuszYwgvMeUp1WijjjGRr3EMHN+nMg/ii/HthMgRmqX7K3ebxGaY36HrfWW4RC5Vf7QQwhiJa7F7EhVngxYoMcUxFholg6NHS98w4UgP4ZYFQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CEREMONIAL CACAO KRAFT POUCH - 20250219006 | CACAO MASS | 200 GRAMS | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20251013_6\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: i/bFDCgcsXPO27iDph9pCp/UJniIjp4UO2ZmUwv4wHz1ye7r7oq8hHYcLOs3hZ1YFzfyoGVRdp0JZ150ZyWWMQN2DK5iCb/YhWXC42WtSpX6gXLarG7/Eq8dzCYv5UKH57IzBrgHa3FAjLk/8IzLyKlg5Uwu4DY8kiuj6kY+sEEyRCU3uNO1THuK4M4v8noVSLBdshuRPcS/eh01Ao6V2im7Mn9cJrpmVJ8EbFYMtRuszYwgvMeUp1WijjjGRr3EMHN+nMg/ii/HthMgRmqX7K3ebxGaY36HrfWW4RC5Vf7QQwhiJa7F7EhVngxYoMcUxFholg6NHS98w4UgP4ZYFQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20251013_6\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: i/bFDCgcsXPO27iDph9pCp/UJniIjp4UO2ZmUwv4wHz1ye7r7oq8hHYcLOs3hZ1YFzfyoGVRdp0JZ150ZyWWMQN2DK5iCb/YhWXC42WtSpX6gXLarG7/Eq8dzCYv5UKH57IzBrgHa3FAjLk/8IzLyKlg5Uwu4DY8kiuj6kY+sEEyRCU3uNO1THuK4M4v8noVSLBdshuRPcS/eh01Ao6V2im7Mn9cJrpmVJ8EbFYMtRuszYwgvMeUp1WijjjGRr3EMHN+nMg/ii/HthMgRmqX7K3ebxGaY36HrfWW4RC5Vf7QQwhiJa7F7EhVngxYoMcUxFholg6NHS98w4UgP4ZYFQ==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl8",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20251013_7\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: nsdIF4/6oEf0JRqcOa//AEarzT0zWxW97Xig5dyRAc08KPUA2AtPf2E2MwX+VFBZ7IrHYV97bMD6oqk1C9rfh0/1HckE04nVriLPteD5R0KS542m2RgfMmAYmPcxgKmoaONDw3YvGqoDa7ok6+Xejpg8q5Q0f5JrZykZStTgkCa3SVdP/Ojqmz0gLye7ilAa+HzNg4q007mIRzqBVvpGvM4w03yr7oTtYvYvZJq5CtO20RdNr29liVpjU44jTZeqwwtIaKdrwe83Kva06NF2jSjKNj/B4T5ZLtkgQP4z52vprGPJHAz10MjWyiJfsDExYIsHD72WU4n3Uz2cu8t+9g==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Green Gulch Zen Monastery",
+      "amount": -1.0,
+      "currency": "CEREMONIAL CACAO KRAFT POUCH - 20250219006 | CACAO MASS | 200 GRAMS | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20251013_7\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: nsdIF4/6oEf0JRqcOa//AEarzT0zWxW97Xig5dyRAc08KPUA2AtPf2E2MwX+VFBZ7IrHYV97bMD6oqk1C9rfh0/1HckE04nVriLPteD5R0KS542m2RgfMmAYmPcxgKmoaONDw3YvGqoDa7ok6+Xejpg8q5Q0f5JrZykZStTgkCa3SVdP/Ojqmz0gLye7ilAa+HzNg4q007mIRzqBVvpGvM4w03yr7oTtYvYvZJq5CtO20RdNr29liVpjU44jTZeqwwtIaKdrwe83Kva06NF2jSjKNj/B4T5ZLtkgQP4z52vprGPJHAz10MjWyiJfsDExYIsHD72WU4n3Uz2cu8t+9g==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Gary Teh",
+      "amount": 17.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20260613",
+      "description": "[SALES EVENT]\n- Item: 2024PAULO_20251013_7\n- Sales price: 17\n- Sold by: Green Gulch Zen Monastery\n- Cash proceeds collected by: Gary Teh\n- Owner email: ggfguest@sfzc.org\n- Stripe Session ID: (none)\n- Tracking number: N/A\n- Attached Filename: green_gulch_payments.jpeg\n- Submission Source: dao_client\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArMTOvEfgsbXd0hrcsROPv87Q6TWmqSb4+ZT0f9jzY9sxLUt9R0t/2yv1tcbquNlhHJdqMrZOOT7Ffcc1tTpb9TkWAYEUHGO++Lt1ZO7xciMKKR1sPPoAxgP1ro9xqg9l7rB/f1xuMUDQ4RBOK+aMn/8o7q4nYiGggmwJOZ1NwIkvY1Zs3PIVX8Xqc/jNKdMQR2r8Z7bZRb7LjY9Qgv9+fXwb9SVrxWKjT0E5ofBLw2G/6+fasSSPwpNUqaFpZr/WuI52Mc9dqTmYl2AtP09mgZ6DklKf09BiX3BMAKc0poTQqTLFhPGzeH+KlmaVuhHlYsy+/KyiHU8Hz6B7z9nkewIDAQAB\n\nRequest Transaction ID: nsdIF4/6oEf0JRqcOa//AEarzT0zWxW97Xig5dyRAc08KPUA2AtPf2E2MwX+VFBZ7IrHYV97bMD6oqk1C9rfh0/1HckE04nVriLPteD5R0KS542m2RgfMmAYmPcxgKmoaONDw3YvGqoDa7ok6+Xejpg8q5Q0f5JrZykZStTgkCa3SVdP/Ojqmz0gLye7ilAa+HzNg4q007mIRzqBVvpGvM4w03yr7oTtYvYvZJq5CtO20RdNr29liVpjU44jTZeqwwtIaKdrwe83Kva06NF2jSjKNj/B4T5ZLtkgQP4z52vprGPJHAz10MjWyiJfsDExYIsHD72WU4n3Uz2cu8t+9g==\n\nThis submission was generated using https://dapp.truesight.me/create_signature.html\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "SunMint Tree Planting Contract - agl8",
+      "amount": 1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "20260915",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Matheus Reis\r\n- Target Ledger: AGL8\r\n- Latitude: -14.799648\r\n- Longitude: -39.034259\r\n- Inventory Type: Cacao Almonds (KG)\r\n- Inventory Quantity: 0.5\r\n- Description: As samples to bring back to the USA\r\n- Attached Filename: IMG_0114.jpeg\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260915053001_gary_teh_img_0114.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: RkEqf/YQnb/1l1IBVqtsXgpZCQeKtlYig7LIxNyQX1v50knCnz4hWpaR/jQ53JdbtiZ91huoGbtmP+cY/mqlKIBEdJNgcdUp571xC5v6hqHi96fR0JtgGF62OFOQoC3DLvgIg44vS+hjjyLcP7AMUEzafoPzf3FRZ5EjCdUqbfJxCPrIcCMurwmOPGwEcHLEomrr3rmdgKKmyb0jmzPp3mgRV8Vw6MZIdgaM7WE1GcaHoldMvPw39ykY/9cJeLwChcPw5BUDpxbZse9X/ddXN1IYQXOKyHP2xfm8N1yyK0Xd/F5xA2bwii9SX5uv9ydjE1E1L6qvPUcJFMfvGyqEgQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: 6a899cfff7f4cddb",
+      "entity": "Matheus Reis",
+      "amount": -0.5,
+      "currency": "CACAO ALMONDS (KG)",
+      "type": "Assets"
+    },
+    {
+      "date": "9/24/2026 17:08:16",
+      "description": "[TREE PLANTING LINK EVENT]\n- QR Code: 2024PAULO_20250804_20\n- SunMint Submission Message ID: Edgar_20260908011432_245\n- Updated by: Sophia Truesight\n- Submission Source: https://dapp.truesight.me/link_tree_planting.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: dYrf6tLP/LUNS2HfRj0JCgftMKNHBf/ccX/fkSnCJsbLRfZOlbdbDx1nrDSg0Of0EehbAeHYqQt/H4cyxH6Y2UpM8z3usaWwgKPxn8DbCHcMXjZHSkqumfLBHktIfoPAvvOS4/8ew8d5tHJPoFTNWx87zb+eMQyPmQ3Pn9zkI4xOgJ2nwx3GX6AQID8SmAjlvMc8rdj3RkTalj0axfjUyNof373iVW9M5kYj/vqxcYANFbjdGKZe4huw/xQJeg4tM8zIQMwOowjtlfPg8AJq3co/TVpgu/ojy4IVaRHcNN8tJ4We7GfY1WPyYBCyF/gmEFrTXL9lWVluitHowX6nhA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Sophia Truesight",
+      "amount": -1.0,
+      "currency": "CACAO TREE TO BE PLANTED",
+      "type": "Liability"
+    },
+    {
+      "date": "9/24/2026 17:08:16",
+      "description": "[TREE PLANTING LINK EVENT]\n- QR Code: 2024PAULO_20250804_20\n- SunMint Submission Message ID: Edgar_20260908011432_245\n- Updated by: Sophia Truesight\n- Submission Source: https://dapp.truesight.me/link_tree_planting.html\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: dYrf6tLP/LUNS2HfRj0JCgftMKNHBf/ccX/fkSnCJsbLRfZOlbdbDx1nrDSg0Of0EehbAeHYqQt/H4cyxH6Y2UpM8z3usaWwgKPxn8DbCHcMXjZHSkqumfLBHktIfoPAvvOS4/8ew8d5tHJPoFTNWx87zb+eMQyPmQ3Pn9zkI4xOgJ2nwx3GX6AQID8SmAjlvMc8rdj3RkTalj0axfjUyNof373iVW9M5kYj/vqxcYANFbjdGKZe4huw/xQJeg4tM8zIQMwOowjtlfPg8AJq3co/TVpgu/ojy4IVaRHcNN8tJ4We7GfY1WPyYBCyF/gmEFrTXL9lWVluitHowX6nhA==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html",
+      "entity": "Sophia Truesight",
+      "amount": -5.0,
+      "currency": "USD",
+      "type": "Assets"
+    },
+    {
+      "date": "20261009",
+      "description": "[DAO Inventory Expense Event]\n- DAO Member Name: Matheus Reis\n- Description: Reason: Mold infestation discarded. Matheus's holding of the AGL8 cacao tea - expensed off per Gary Teh, reconciled 2026-10-08. (Aggregate line total in JSON cache is 14.6802; Matheus's verified holding is 12.5, the remaining 2.1802 being Gary Teh's.) Re-filed 2026-10-09 under sentinel authorization (@17).\n- Inventory Quantity: 12.5\n- Inventory Type: Cacao Tea - 20250219006 | Cacao Tea | Kilogram | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8\n- Submission Source: Sophia Truesight (admin+sophia@truesight.me)\n- Target Ledger: AGL8\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: e5sLqud3A7tYfdTTaG44aD96N470YJ5ApbYWIRNBCnDZERpEHHdEdWHthTOkoM4WT+oo7f3acBhSgqvqEaNI59Fw2UgERtEbVE26ReU6+sGj/QrddXDLPqgaRRK3+yW4lbkJ2I6eHg/4a5wyxaxUBBzkYTOUT6XX3Y30e5T9KTojHUknJyKb8GFLOK3l90u8WXm23MUpSCLsiEkYT0KsnKiQN4xWB0JNZB4vX2bwls/yKUEuwFavaEjS68STvEPMbwpUaPwrD4b9VyeNtlJydQDbxyQG+Jkresl6T/gwFfODWPkyGq/DXKntZ70WHPFia/iSBQW7nVly+AW6Vg8Z3g==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: e54d24e8a0a32015",
+      "entity": "Matheus Reis",
+      "amount": -12.5,
+      "currency": "CACAO TEA - 20250219006 | CACAO TEA | KILOGRAM | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8",
       "type": "Assets"
     }
   ]
