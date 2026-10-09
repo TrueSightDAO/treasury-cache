@@ -4,11 +4,11 @@
   "description": "<p class=\"font_8\">Agroverse is thrilled to announce a new batch of 150 kilograms of top-grade, organically grown cacao beans sourced from Vivi's Farm in Jeribucuacu, located near the stunning beaches",
   "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-06-02T20:29:48Z",
+  "generated_at": "2026-10-09T14:11:24Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "MANUFACTURING",
   "summary": {
-    "total_transactions": 20,
+    "total_transactions": 23,
     "total_amount": 5365.44,
     "by_currency": {
       "BRAZILIAN REIS": {
@@ -16,12 +16,12 @@
         "total": 0.0
       },
       "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13": {
-        "count": 4,
-        "total": 15.0
+        "count": 5,
+        "total": 0.0
       },
       "CACAO NIBS (KILOGRAMS) SANTOS 20260213 - AGL13": {
-        "count": 1,
-        "total": 100.0
+        "count": 3,
+        "total": 99.0
       },
       "CACAO TEA (KILOGRAMS) SANTOS 20260213 - AGL13": {
         "count": 1,
@@ -192,6 +192,30 @@
       "entity": "Matheus Reis",
       "amount": 100.0,
       "currency": "CACAO NIBS (KILOGRAMS) SANTOS 20260213 - AGL13",
+      "type": "Assets"
+    },
+    {
+      "date": "20260913",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Matheus Reis\r\n- Target Ledger: AGL13\r\n- Latitude: -14.795556\r\n- Longitude: -39.031391\r\n- Inventory Type: Cacao Nibs (Kilograms) Santos 20260213 - AGL13\r\n- Inventory Quantity: 0.5\r\n- Description: Lab test for heavy metal\r\n- Attached Filename: IMG_9976.jpeg\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260913200148_gary_teh_img_9976.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: CTCjR5LUXswDQCI2A9Tyb8lA01A/n1Ci3vqpR2RkQL7fXIWvl5kHt8ty/j6j4d5ZxY0IvvqSvlMk2PScg0Wtv8K6Vz7pdog5zMdsvDw7rrfAxsQIDoQxVHek5Br9Fbrevpr75pVX+wxXdNZjOaYi7IV3zWqTF6F0s0Eop2g6+d1IinhyowYcQ21h2s5dNXmeI78emzm87S6wpdAor83vWmLhuMUMcuksGvZWHm3gLgy2Z/HBthhSPlqwzTBst6WtkTomyqFYxIJzCT+ArrRvJdI+llCSrO0Ks4J1/NTqqZQgs26Hdamk4uGEa/+pmvVaO5q3K7+bt2b7lg+Dv914yQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: 8760ed6f331a5f35",
+      "entity": "Matheus Reis",
+      "amount": -0.5,
+      "currency": "CACAO NIBS (KILOGRAMS) SANTOS 20260213 - AGL13",
+      "type": "Assets"
+    },
+    {
+      "date": "20260913",
+      "description": "[DAO Inventory Expense Event]\r\n- DAO Member Name: Matheus Reis\r\n- Target Ledger: AGL13\r\n- Latitude: -14.795556\r\n- Longitude: -39.031391\r\n- Inventory Type: Cacao Nibs (Kilograms) Santos 20260213 - AGL13\r\n- Inventory Quantity: 0.5\r\n- Description: Lab test for heavy metal\r\n- Attached Filename: IMG_9976.jpeg\r\n- Destination Expense File Location: https://github.com/TrueSightDAO/.github/tree/main/assets/expense_20260913200148_gary_teh_img_9976.jpeg\r\n- Submission Source: https://dapp.truesight.me/report_dao_expenses.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA7jvV6Lf1huIZKJ6lgdcyI5od7ZXVDOXWTZBabST4ByKoyl5tPdDeg9cOSTFqalHqUtXZ0SNyZyLAGpQ3RXZwvRnfIQiQLbXLhKmOsG22fG3yM+D1ccvJ7zI+G6I0/F0NcQ0QAkjWyPqqulveWXuhjRmf+mTIAQ/Rkwzq3OD2M7TVRmf0CWXhdxG7gDA1HhklZoMAKo3O1z1P4qenBtrojxA+U/z9VvlYzZBG5biYQEck5afV/GXdgf3iOJ4F7MNLHnHkYG7P64j3ggBF3A9vHEmf6+xt86nrFpWSU8NmbWf7z7mWRz3gSF6uhW0RSG3p/BfbjDOCO9G/NcNzlFTHxQIDAQAB\r\n\r\nRequest Transaction ID: CTCjR5LUXswDQCI2A9Tyb8lA01A/n1Ci3vqpR2RkQL7fXIWvl5kHt8ty/j6j4d5ZxY0IvvqSvlMk2PScg0Wtv8K6Vz7pdog5zMdsvDw7rrfAxsQIDoQxVHek5Br9Fbrevpr75pVX+wxXdNZjOaYi7IV3zWqTF6F0s0Eop2g6+d1IinhyowYcQ21h2s5dNXmeI78emzm87S6wpdAor83vWmLhuMUMcuksGvZWHm3gLgy2Z/HBthhSPlqwzTBst6WtkTomyqFYxIJzCT+ArrRvJdI+llCSrO0Ks4J1/NTqqZQgs26Hdamk4uGEa/+pmvVaO5q3K7+bt2b7lg+Dv914yQ==\r\n\r\nThis submission was generated using https://dapp.truesight.me/report_dao_expenses.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: 8760ed6f331a5f35",
+      "entity": "Matheus Reis",
+      "amount": -0.5,
+      "currency": "CACAO NIBS (KILOGRAMS) SANTOS 20260213 - AGL13",
+      "type": "Assets"
+    },
+    {
+      "date": "20261009",
+      "description": "[DAO Inventory Expense Event]\n- DAO Member Name: Matheus Reis\n- Description: Reason: Missing - not found in Matheus Reis's holdings during inventory reconciliation on 2026-10-08 (reported missing by Gary Teh). Expensing off. Re-filed 2026-10-09 under sentinel authorization (@17).\n- Inventory Quantity: 15\n- Inventory Type: Cacao Almonds KG from Vivi's farm - AGL13\n- Submission Source: Sophia Truesight (admin+sophia@truesight.me)\n- Target Ledger: AGL13\n--------\n\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAutpNWeD7oBIPwH2aZeCnc5zOVUlI3I4wgPcpmGpxJPV3zUg7lQmy+IZ0V8iaWSLgCmmBLcR0Oc3j+vEKuLIZKcTzOLYj04gQHnRmKte4PNz5bSFuGq/F0/wJhCu/dAEZOMN6HWczHq1hZtCEBUr/LAQDTuVRMUVrgWhQP4QxEbyZ9mF1ilREcR66jiLZ075E2RXnlqHDxqjmlxi95GhY4iVn4gvbjDp2YFq3kKwLlDkZKtR3Y8AkusY9ZPXlcKhGjVLCneb/SxmjIXdeLO/0FPGuxCdMbTMwwrBiwERtmYCXo3+a9fWIMEF1vksict6NjI5S57K4FE7dqdFPHwmlQwIDAQAB\n\nRequest Transaction ID: I934JDEbgzbPYx0RAhtUaEewur5CLM8zrwNs8iPB3KkOr89Tgz4fI//P+nq7QCBAOzTUxbaL9Eyz5iN5qzU5Nnr3YDEXCXMxYI51JHqDaHshqRRgSPoVRsglioS9y4gL8Ksxxi30yQ1P6wIDNcykWIWy6MWTPfH46mn5FmG7hd8GyDjLee9U5ANQ5U45YhD5cIlJkK1hTDY783A2wlJWjkuUl/51nkYXiHh5AnShamZ001yXjhpVoUK0xjgag+lN5o/pKK0e+89yVQnbhQKXH2Qx09LA5rfbLjnJpSF/q94D6qtgpclkvoR7MnhGt9Dn/jcWx99Ulmey0hYnRBnfMQ==\n\nThis submission was generated using https://github.com/TrueSightDAO/truesight_autopilot\n\nVerify submission here: https://dapp.truesight.me/verify_request.html reported by Edgar Direct \n\n\nAutomated processing by Edgar via script: https://github.com/TrueSightDAO/tokenomics/blob/main/google_app_scripts/tdg_asset_management/tdg_expenses_processing.gs\n\nEdgar Scoring Hash Key: 63b55165ef69fc04",
+      "entity": "Matheus Reis",
+      "amount": -15.0,
+      "currency": "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13",
       "type": "Assets"
     }
   ]
