@@ -4,16 +4,16 @@
   "description": "<p class=\"font_8\">10 bars of 500gram cacao mass&nbsp;</p> <p class=\"font_8\">125 bars of⁠ 40 gram cacao mass bars&nbsp;</p> <p class=\"font_8\">44 bags of&nbsp;⁠⁠8 ounce cacao nibs kraft&nbsp;pouches</p>",
   "program": "agroverse",
   "schema_version": 1,
-  "generated_at": "2026-06-02T20:29:43Z",
+  "generated_at": "2026-10-09T14:11:22Z",
   "source": "snapshot_managed_ledgers.py",
   "status": "SALES IN PROGRESS",
   "summary": {
-    "total_transactions": 302,
-    "total_amount": 6698.79,
+    "total_transactions": 308,
+    "total_amount": 6701.79,
     "by_currency": {
       "8 OUNCE PACKAGE KRAFT POUCH - AGL6": {
-        "count": 51,
-        "total": 7.0
+        "count": 55,
+        "total": 9.0
       },
       "CACAO MASS BAR (40GRAMS)": {
         "count": 20,
@@ -40,8 +40,8 @@
         "total": 0.0
       },
       "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP327946643BR - AGL6": {
-        "count": 63,
-        "total": 11.0
+        "count": 65,
+        "total": 9.0
       },
       "KRAFT POUCHES": {
         "count": 2,
@@ -2466,6 +2466,54 @@
       "date": "20260509",
       "description": "[INVENTORY MOVEMENT]\r\n- Manager Name: Kirsten Ritschel\r\n- Recipient Name: Gary Teh\r\n- Inventory Item: 8 Ounce Package Kraft Pouch - AGL6\r\n- QR Code: 2024SJ_20250710_NIBS_2\r\n- Quantity: 1\r\n- Latitude: 37.742634\r\n- Longitude: -122.507076\r\n- Attached Filename: None\r\n- Destination Inventory File Location: No file attached\r\n- Submission Source: http://127.0.0.1:8081/report_inventory_movement.html\r\n--------\r\n\r\nMy Digital Signature: MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvN4eInWIprua9s3AkbBabArFllfrK4dM4WKSPHva8bN0U5UIsytnM4C8OOEV4d+2i+O7vN3uKLrTf7WwWKUPzyIuXm4W9dQgrahwF3y7kaQXuuVT/GB9/sKbQdo6aKQNk2Wy05fxknW8eR4gM63ZRygQvmgZSL60/zXFZ7+If846MSocsuAsWSb93SrPy53YjJgFB2tiBknZla7CBRO+l36t7xkfk/1h9dQf7/siBm4olXG4pCPCsbh38CzIuk5iqc2oUdpOIkk8lpYzyZKaAziLWPt1t9/81IT3axnzjdpE9yH1ymFpUamsdnf2tsFd2wLIk8UuYV30hbxP4jayuQIDAQAB\r\n\r\nRequest Transaction ID: ljnHJda6yfZ7X3GJhC6vBLBopXskbwWVtd1aGY/99xHCdayPSZql0N5jjUMjTriFv2pKkfNfQZ4d+YEd5kX9qt1OvoAJC7hbNG8AE3gqxTpsVo0JuCR+PQPSGd71frT2e6jpi2HUQ4iCoxmVsHseKj3cnpQa/1JuU6kWcPnC41g9Da2WwjNp3190IgplJLRBT+/z35HcTYrlzyEhoZnCnpMbLpmcMp/XuB9Hl5U3e3lkTvAsOUnM/83fRl6B6Yp/2jRepLJCbUgtE0njEaNCdKoQv4kCEfULDLWIO3cAMIz5u/A7l0KE8L/KD6ryub2EcCSbeLdfOpVND+F3r74PTQ==\r\n\r\nThis submission was generated using http://127.0.0.1:8081/report_inventory_movement.html\r\n\r\nVerify submission here: https://dapp.truesight.me/verify_request.html",
       "entity": "Gary Teh",
+      "amount": 1.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH - AGL6",
+      "type": "Assets"
+    },
+    {
+      "date": "20260618",
+      "description": "Balance readjustment",
+      "entity": "Jenifer Runnion",
+      "amount": 1.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH - AGL6",
+      "type": "Assets"
+    },
+    {
+      "date": "20260618",
+      "description": "Balance readjustment",
+      "entity": "Jenifer Runnion",
+      "amount": -1.0,
+      "currency": "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP327946643BR - AGL6",
+      "type": "Assets"
+    },
+    {
+      "date": "20260618",
+      "description": "Balance readjustment",
+      "entity": "Kirsten Ritschel",
+      "amount": 1.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH - AGL6",
+      "type": "Assets"
+    },
+    {
+      "date": "20260618",
+      "description": "Balance readjustment",
+      "entity": "Kirsten Ritschel",
+      "amount": -1.0,
+      "currency": "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP327946643BR - AGL6",
+      "type": "Assets"
+    },
+    {
+      "date": "20260618",
+      "description": "Balance readjustment",
+      "entity": "Gary Teh",
+      "amount": -1.0,
+      "currency": "8 OUNCE PACKAGE KRAFT POUCH - AGL6",
+      "type": "Assets"
+    },
+    {
+      "date": "20260618",
+      "description": "Balance readjustment",
+      "entity": "Kirsten Ritschel",
       "amount": 1.0,
       "currency": "8 OUNCE PACKAGE KRAFT POUCH - AGL6",
       "type": "Assets"
