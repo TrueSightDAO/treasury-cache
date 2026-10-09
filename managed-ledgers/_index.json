@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-06-02T20:30:03Z",
+  "generated_at": "2026-10-09T14:11:32Z",
   "source": "snapshot_managed_ledgers.py",
   "ledgers": [
     {
@@ -24,12 +24,12 @@
       "ledger_url": "https://agroverse.shop/agl6",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL6.json",
       "summary": {
-        "total_transactions": 302,
-        "total_amount": 6698.79,
+        "total_transactions": 308,
+        "total_amount": 6701.79,
         "by_currency": {
           "8 OUNCE PACKAGE KRAFT POUCH - AGL6": {
-            "count": 51,
-            "total": 7.0
+            "count": 55,
+            "total": 9.0
           },
           "CACAO MASS BAR (40GRAMS)": {
             "count": 20,
@@ -56,8 +56,8 @@
             "total": 0.0
           },
           "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP327946643BR - AGL6": {
-            "count": 63,
-            "total": 11.0
+            "count": 65,
+            "total": 9.0
           },
           "KRAFT POUCHES": {
             "count": 2,
@@ -71,101 +71,23 @@
       }
     },
     {
-      "ledger_id": "AGL4",
-      "program": "agroverse",
-      "status": "SALES IN PROGRESS",
-      "description": "<p class=\"font_8\">300KG organic cacao nibs from Bahia Small Scale Farmers&nbsp;</p> <p class=\"font_8\">Commercial import via air freight</p> <p class=\"font_8\"><br></p> <p class=\"font_8\"><br></p>",
-      "ledger_url": "https://agroverse.shop/agl4",
-      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL4.json",
-      "summary": {
-        "total_transactions": 148,
-        "total_amount": 100606.45,
-        "by_currency": {
-          "8 OUNCE PACKAGE KRAFT POUCH": {
-            "count": 7,
-            "total": 0.0
-          },
-          "8 OUNCE PACKAGE KRAFT POUCH CP340992687BR": {
-            "count": 2,
-            "total": 0.0
-          },
-          "BRAZILIAN REIS": {
-            "count": 38,
-            "total": 0.0
-          },
-          "CACAO ALMONDS (KG)": {
-            "count": 6,
-            "total": -0.0
-          },
-          "CACAO HUSK (KG)": {
-            "count": 6,
-            "total": 0.0
-          },
-          "CACAO HUSK BAG (WEIGHT UNKNOWN)": {
-            "count": 2,
-            "total": 0.0
-          },
-          "CACAO MASS BAR (500GRAMS)": {
-            "count": 5,
-            "total": 0.0
-          },
-          "CACAO MASS BAR CP340992687BR (500GRAMS)": {
-            "count": 2,
-            "total": 0.0
-          },
-          "CACAO NIBS (KG)": {
-            "count": 16,
-            "total": -1.4
-          },
-          "CACAO NIBS CP340992695BR (KG)": {
-            "count": 2,
-            "total": 0.0
-          },
-          "CORREIOS PACKING BOX TO HOLD CACAO NIBS 20KG": {
-            "count": 4,
-            "total": 0.0
-          },
-          "FOAM CONTAINER BOX - 120 KRAFT POUCHES CAPACITY": {
-            "count": 4,
-            "total": 0.0
-          },
-          "FOAM CONTAINER BOX - 46 CACAO BAR CAPACITY (36CM X 40CM X 61CM)": {
-            "count": 5,
-            "total": 0.0
-          },
-          "KRAFT POUCHES": {
-            "count": 4,
-            "total": 0.0
-          },
-          "LARGE CARDBOARD BOX FOR MOVING PACKAGING 60X40X50": {
-            "count": 4,
-            "total": 0.0
-          },
-          "USD": {
-            "count": 41,
-            "total": 9033.35
-          }
-        }
-      }
-    },
-    {
       "ledger_id": "AGL8",
       "program": "agroverse",
-      "status": "MANUFACTURING",
+      "status": "SALES IN PROGRESS",
       "description": "<p class=\"font_8\">330 kg of cacao almonds from Para Small Scale Farmers</p>",
       "ledger_url": "https://agroverse.shop/agl8",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL8.json",
       "summary": {
-        "total_transactions": 168,
-        "total_amount": 52303.83,
+        "total_transactions": 181,
+        "total_amount": 52357.83,
         "by_currency": {
           "BRAZILIAN REIS": {
             "count": 14,
             "total": 236.9
           },
           "CACAO ALMONDS (KG)": {
-            "count": 5,
-            "total": 274.09
+            "count": 6,
+            "total": 273.59
           },
           "CACAO HUSK (LOOSE GRAMS) 20250530 - MARTINUS AGL8 BRAZIL": {
             "count": 2,
@@ -184,28 +106,28 @@
             "total": 0.0
           },
           "CACAO TEA - 20250219006 | CACAO TEA | KILOGRAM | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8": {
-            "count": 5,
-            "total": 14.68
+            "count": 6,
+            "total": 2.18
           },
           "CACAO TREE TO BE PLANTED": {
-            "count": 25,
-            "total": 25.0
+            "count": 29,
+            "total": 27.0
           },
           "CEREMONIAL CACAO KRAFT POUCH - 20250219006": {
             "count": 2,
             "total": 0.0
           },
           "CEREMONIAL CACAO KRAFT POUCH - 20250219006 + CACAO MASS BAR CP340993869BR SAN FRANCISCO - AGL8": {
-            "count": 26,
-            "total": 5.0
+            "count": 27,
+            "total": 4.0
           },
           "CEREMONIAL CACAO KRAFT POUCH - 20250219006 | CACAO MASS | 200 GRAMS | PAULO 2024 | SANTOS 018-2025 016-2025 || ILHEUS - AGL8": {
-            "count": 15,
-            "total": 172.0
+            "count": 17,
+            "total": 170.0
           },
           "USD": {
-            "count": 58,
-            "total": 7333.2
+            "count": 62,
+            "total": 7379.2
           }
         }
       }
@@ -218,7 +140,7 @@
       "ledger_url": "https://agroverse.shop/agl13",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL13.json",
       "summary": {
-        "total_transactions": 20,
+        "total_transactions": 23,
         "total_amount": 5365.44,
         "by_currency": {
           "BRAZILIAN REIS": {
@@ -226,12 +148,12 @@
             "total": 0.0
           },
           "CACAO ALMONDS KG FROM VIVI'S FARM - AGL13": {
-            "count": 4,
-            "total": 15.0
+            "count": 5,
+            "total": 0.0
           },
           "CACAO NIBS (KILOGRAMS) SANTOS 20260213 - AGL13": {
-            "count": 1,
-            "total": 100.0
+            "count": 3,
+            "total": 99.0
           },
           "CACAO TEA (KILOGRAMS) SANTOS 20260213 - AGL13": {
             "count": 1,
@@ -245,36 +167,6 @@
       }
     },
     {
-      "ledger_id": "AGL7",
-      "program": "agroverse",
-      "status": "FREIGHTING IN PROGRESS",
-      "description": "<p class=\"font_8\">20 bottles of 250grams cacao molasses from Bahia Small Scale Farmers</p>",
-      "ledger_url": "https://agroverse.shop/agl7",
-      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL7.json",
-      "summary": {
-        "total_transactions": 10,
-        "total_amount": 1673.86,
-        "by_currency": {
-          "BRAZILIAN REIS": {
-            "count": 4,
-            "total": 0.0
-          },
-          "CACAO MOLASSES 250ML": {
-            "count": 2,
-            "total": 0.0
-          },
-          "CACAO MOLASSES 250ML + 74 4476 6210 SAN FRANCISCO": {
-            "count": 2,
-            "total": 0.0
-          },
-          "USD": {
-            "count": 2,
-            "total": 242.86
-          }
-        }
-      }
-    },
-    {
       "ledger_id": "AGL10",
       "program": "agroverse",
       "status": "SALES IN PROGRESS",
@@ -282,16 +174,16 @@
       "ledger_url": "https://agroverse.shop/agl10",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL10.json",
       "summary": {
-        "total_transactions": 99,
-        "total_amount": 1705.26,
+        "total_transactions": 120,
+        "total_amount": 1831.26,
         "by_currency": {
           "BRAZILIAN REIS": {
             "count": 4,
             "total": 0.0
           },
           "CACAO TREE TO BE PLANTED": {
-            "count": 11,
-            "total": 11.0
+            "count": 18,
+            "total": 18.0
           },
           "CARAMELIZED CACAO BEANS (KG) + CP340993299BR SAN FRANCISCO AGL10": {
             "count": 7,
@@ -302,12 +194,12 @@
             "total": 1.0
           },
           "CARAMELIZED CACAO KRAFT POUCH - ALIBABA:269035810001023771 + CARAMELIZED CACAO BEANS CP340993299BR SAN FRANCISCO AGL10": {
-            "count": 30,
-            "total": 11.0
+            "count": 37,
+            "total": 4.0
           },
           "USD": {
-            "count": 45,
-            "total": 422.74
+            "count": 52,
+            "total": 541.74
           }
         }
       }
@@ -315,25 +207,29 @@
     {
       "ledger_id": "AGL14",
       "program": "agroverse",
-      "status": "MANUFACTURING",
+      "status": "SALES IN PROGRESS",
       "description": "<p class=\"font_8\">Sourced exclusively from Oscar Fazenda in Brazil's vibrant Bahia region, this 40-kilogram shipment captures the essence of Harvest 2025. Nurtured by trees over 70 years old—venerable",
       "ledger_url": "https://agroverse.shop/agl14",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL14.json",
       "summary": {
-        "total_transactions": 6,
-        "total_amount": 3352.98,
+        "total_transactions": 12,
+        "total_amount": 4232.98,
         "by_currency": {
           "BRAZILIAN REIS": {
             "count": 2,
             "total": 0.0
           },
           "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL14": {
+            "count": 4,
+            "total": 0.0
+          },
+          "CACAO TREE TO BE PLANTED": {
             "count": 1,
             "total": 40.0
           },
           "USD": {
-            "count": 3,
-            "total": 456.49
+            "count": 5,
+            "total": 1220.99
           }
         }
       }
@@ -346,12 +242,16 @@
       "ledger_url": "https://truesight.me/sunmint/sef1",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/SEF1.json",
       "summary": {
-        "total_transactions": 19,
-        "total_amount": 326.0,
+        "total_transactions": 21,
+        "total_amount": 327.0,
         "by_currency": {
+          "CACAO TREE PLANTED": {
+            "count": 1,
+            "total": 1.0
+          },
           "CACAO TREE TO BE PLANTED": {
-            "count": 4,
-            "total": 3.0
+            "count": 5,
+            "total": 2.0
           },
           "NOVAGAIA TREE PLANTING PLEDGE - QR CODE": {
             "count": 8,
@@ -398,7 +298,7 @@
       "ledger_url": "https://agroverse.shop/agl15",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL15.json",
       "summary": {
-        "total_transactions": 44,
+        "total_transactions": 62,
         "total_amount": 27907.97,
         "by_currency": {
           "SINGAPOREAN SGD": {
@@ -406,8 +306,8 @@
             "total": 10000.0
           },
           "USD": {
-            "count": 41,
-            "total": 5279.73
+            "count": 59,
+            "total": 4240.75
           }
         }
       }
@@ -433,9 +333,48 @@
       "ledger_url": "https://truesight.me/sunmint/bec",
       "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/BEC.json",
       "summary": {
-        "total_transactions": 0,
-        "total_amount": 0,
-        "by_currency": {}
+        "total_transactions": 384,
+        "total_amount": 289.0,
+        "by_currency": {
+          "BUTTERFLY EFFECT CLUB TREE PLANTING PLEDGE - QR CODE": {
+            "count": 191,
+            "total": 0.0
+          },
+          "CACAO TREE TO BE PLANTED": {
+            "count": 95,
+            "total": 95.0
+          },
+          "USD": {
+            "count": 98,
+            "total": 95.12
+          }
+        }
+      }
+    },
+    {
+      "ledger_id": "AGL16",
+      "program": "agroverse",
+      "status": "ACTIVE",
+      "description": "Wholesale purchase agreement (terms TBD)",
+      "ledger_url": "https://docs.google.com/spreadsheets/d/1xesQdwcNt9lBxAUgtdqNwHE83n13wDyRxZIN4Ae6ijg/edit",
+      "snapshot_url": "https://raw.githubusercontent.com/TrueSightDAO/treasury-cache/main/managed-ledgers/AGL16.json",
+      "summary": {
+        "total_transactions": 55,
+        "total_amount": 7347.74,
+        "by_currency": {
+          "BRAZILIAN REIS": {
+            "count": 38,
+            "total": -532.77
+          },
+          "CACAO ALMONDS KG FROM OSCAR'S FARM - AGL16 (2026)": {
+            "count": 1,
+            "total": 108.0
+          },
+          "USD": {
+            "count": 16,
+            "total": -1868.92
+          }
+        }
       }
     }
   ]
