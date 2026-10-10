@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-10T03:45:17.587Z` |
+| Generated at | `2026-10-10T03:45:32.772Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
-| Item types | 101 |
-| Total units | 21492.754159576747 |
-| Total value USD | $30414.06 |
+| Item types | 103 |
+| Total units | 21495.754159576747 |
+| Total value USD | $30520.50 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1172 |
 
-## Items (101, sorted by total quantity)
+## Items (103, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -93,12 +93,14 @@
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
 | Cacao Tree - To Be Paid For | — | — | 2 | — | — | Main Ledger: 2 |
 | Foam container box - 120 kraft pouches capacity | — | — | 2 | $24.11 | $48.22 | Main Ledger: 2 |
+| Kala Professional Insect Killer 16W (Mercado Livre MLB20684318) | — | — | 2 | $44.11 | $88.22 | Main Ledger: 2 |
 | Kala Professional Insect Killer 16W - Mercado Livre MLB20684318 - Ilheus Warehouse | — | — | 2 | $44.11 | $88.22 | Main Ledger: 2 |
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
 | Agroverse Retractable Banner | — | — | 1 | $72.57 | $72.57 | Main Ledger: 1 |
 | Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600) | — | — | 1 | $9.17 | $9.17 | Main Ledger: 1 |
 | ATOLOMOTOR Coffee Bean Roaster | — | — | 1 | $86.89 | $86.89 | Main Ledger: 1 |
+| Axial Exhaust Fan 100mm High-Velocity 220V (Mercado Livre MLBU4320471013) | — | — | 1 | $18.22 | $18.22 | Main Ledger: 1 |
 | Bialetti Moka Express 18 Cup (ASIN B0000AN3QK, order 111-9241674-1033036) | — | — | 1 | $116.91 | $116.91 | Main Ledger: 1 |
 | Bluetooth Label Printer w/20 Label Rolls - Brazil | — | — | 1 | $58.07 | $58.07 | Main Ledger: 1 |
 | Cacao Mass Bar CP340992687BR (500grams) | — | — | 1 | $21.54 | $21.54 | Main Ledger: 1 |
@@ -133,7 +135,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1259.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 87 | 12873.937500497594 |
+| Main Ledger | 89 | 12876.937500497594 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -158,7 +160,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1332 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 30 | 2177.715122798 | 327 |
+| Matheus Reis | 32 | 2180.715122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
