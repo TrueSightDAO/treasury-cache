@@ -5,21 +5,21 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-10T16:48:42.024Z` |
+| Generated at | `2026-10-10T17:56:49.405Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 102 |
-| Total units | 21394.864159576744 |
-| Total value USD | $30379.71 |
-| Ledgers processed | 15 |
+| Item types | 103 |
+| Total units | 20631.364159576744 |
+| Total value USD | $29673.29 |
+| Ledgers processed | 14 |
 | Managers | 42 |
 | QR codes assigned | 1172 |
 
-## Items (102, sorted by total quantity)
+## Items (103, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 12288.184865778947 | $1.00 | $12288.18 | AGL10: 347.83, AGL14: 764.5, AGL15: 4240.749999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4918.4535294977895, SEF1: 16 |
+| USD | — | — | 11523.684865778947 | $1.00 | $11523.68 | AGL10: 347.83, AGL15: 4240.749999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4918.4535294977895, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
@@ -116,11 +116,12 @@
 | Kala Professional Insect Killer 16W - Mercado Livre MLB20684318 - Ilheus Warehouse | — | — | 1 | $44.11 | $44.11 | Main Ledger: 1 |
 | Label Maker - Brazil | — | — | 1 | $35.03 | $35.03 | Main Ledger: 1 |
 | Mercado Libre 80Kg Hand Truck | — | — | 1 | $38.35 | $38.35 | Main Ledger: 1 |
+| Showcase display cabinet (per cabinet, Matheus Ilheus warehouse, R$250 receipt 20261010) | — | — | 1 | $58.08 | $58.08 | Main Ledger: 1 |
 | Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus | — | — | 1 | $4.78 | $4.78 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2505.65 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2505.75 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -128,13 +129,12 @@
 |---|---:|---:|
 | AGL10 | 4 | 354 |
 | AGL13 | 2 | 120 |
-| AGL14 | 1 | 764.5 |
 | AGL15 | 1 | 4240.749999999999 |
 | AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1259.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 87 | 12776.047500497596 |
+| Main Ledger | 88 | 12777.047500497596 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -148,7 +148,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 29 | 12874.95903677875 | 241 |
+| Gary Teh | 28 | 12110.45903677875 | 241 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -159,7 +159,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1332 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 30 | 2134.585122798 | 327 |
+| Matheus Reis | 31 | 2135.585122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
