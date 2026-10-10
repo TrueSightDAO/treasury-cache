@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T19:56:40.816Z",
+  "generated_at": "2026-10-10T20:48:41.367Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,13 +12,14 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 11523.684865778947,
-      "total_value_usd": 11523.68,
+      "total_quantity": 12288.184865778947,
+      "total_value_usd": 12288.18,
       "ledgers": {
         "Main Ledger": 4918.4535294977895,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
+        "AGL14": 764.5,
         "SEF1": 16,
         "AGL15": 4240.749999999999,
         "BEC": 93.12
@@ -1442,7 +1443,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2515.4729,
+      "unit_cost_usd": 2506.3814,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1645,6 +1646,13 @@
           "total_value_usd": 296.83
         },
         {
+          "currency": "[AGL14] USD",
+          "amount": 764.5,
+          "ledger": "AGL14",
+          "unit_cost_usd": 1,
+          "total_value_usd": 764.5
+        },
+        {
           "currency": "[AGL15] USD",
           "amount": 4240.749999999999,
           "ledger": "AGL15",
@@ -1786,8 +1794,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2515.4729,
-          "total_value_usd": 1.1952527967029006e-10
+          "unit_cost_usd": 2506.3814,
+          "total_value_usd": 1.190932877056291e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10121,9 +10129,9 @@
   ],
   "totals": {
     "item_types": 103,
-    "total_units": 20631.364159576744,
-    "total_value_usd": 29673.29,
-    "ledgers_processed": 14,
+    "total_units": 21395.864159576744,
+    "total_value_usd": 30437.79,
+    "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
   }
