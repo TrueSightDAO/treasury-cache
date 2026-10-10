@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-10T02:48:57.368Z",
+  "generated_at": "2026-10-10T03:45:17.587Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "expense_processing",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 12343.003200272246,
-      "total_value_usd": 12343,
+      "total_quantity": 12342.944865778947,
+      "total_value_usd": 12342.94,
       "ledgers": {
-        "Main Ledger": 4973.271863991088,
+        "Main Ledger": 4973.21352949779,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
@@ -427,10 +427,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 56.38034560650659,
-      "total_value_usd": 56.38,
+      "total_quantity": 56.43868009980494,
+      "total_value_usd": 56.44,
       "ledgers": {
-        "Main Ledger": 56.38034560650659
+        "Main Ledger": 56.43868009980494
       }
     },
     {
@@ -994,6 +994,20 @@
       }
     },
     {
+      "currency": "Axial Exhaust Fan 100mm Turbo 220V - Mercado Livre MLBU4320471013 - Ilheus Warehouse",
+      "unit_weight_g": null,
+      "unit_cost_usd": 18.22,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2,
+      "total_value_usd": 36.44,
+      "ledgers": {
+        "Main Ledger": 2
+      }
+    },
+    {
       "currency": "Cacao Molasses 250ml + 74 4476 6210 San Francisco",
       "unit_weight_g": 250,
       "unit_cost_usd": 12.143,
@@ -1031,6 +1045,20 @@
       "hs_code": null,
       "total_quantity": 2,
       "total_value_usd": 48.22,
+      "ledgers": {
+        "Main Ledger": 2
+      }
+    },
+    {
+      "currency": "Kala Professional Insect Killer 16W - Mercado Livre MLB20684318 - Ilheus Warehouse",
+      "unit_weight_g": null,
+      "unit_cost_usd": 44.11,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2,
+      "total_value_usd": 88.22,
       "ledgers": {
         "Main Ledger": 2
       }
@@ -1388,7 +1416,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2492.1811000000002,
+      "unit_cost_usd": 2488.0715,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1739,8 +1767,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2492.1811000000002,
-          "total_value_usd": 1.1841854585931384e-10
+          "unit_cost_usd": 2488.0715,
+          "total_value_usd": 1.182232739924084e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1765,17 +1793,17 @@
         },
         {
           "currency": "USD",
-          "amount": 4764.951863991088,
+          "amount": 4764.89352949779,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 4764.951863991088
+          "total_value_usd": 4764.89352949779
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 56.38034560650659,
+          "amount": 56.43868009980494,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 56.38034560650659
+          "total_value_usd": 56.43868009980494
         },
         {
           "currency": "USDT",
@@ -4323,6 +4351,13 @@
           "total_value_usd": 889.76
         },
         {
+          "currency": "Axial Exhaust Fan 100mm Turbo 220V - Mercado Livre MLBU4320471013 - Ilheus Warehouse",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 18.22,
+          "total_value_usd": 36.44
+        },
+        {
           "currency": "Brazilian Reis",
           "amount": 48.129999999999995,
           "ledger": "Main Ledger",
@@ -4418,6 +4453,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 24.7,
           "total_value_usd": 24.7
+        },
+        {
+          "currency": "Kala Professional Insect Killer 16W - Mercado Livre MLB20684318 - Ilheus Warehouse",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 44.11,
+          "total_value_usd": 88.22
         },
         {
           "currency": "Keys to Ilheus warehouse (outer door and inner door)",
@@ -10052,9 +10094,9 @@
     }
   ],
   "totals": {
-    "item_types": 99,
-    "total_units": 21488.754159576747,
-    "total_value_usd": 30289.4,
+    "item_types": 101,
+    "total_units": 21492.754159576747,
+    "total_value_usd": 30414.06,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
