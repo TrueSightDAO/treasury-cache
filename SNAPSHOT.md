@@ -5,21 +5,21 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-10T02:48:57.368Z` |
-| Trigger | `cron` |
+| Generated at | `2026-10-10T03:45:17.587Z` |
+| Trigger | `expense_processing` |
 | Schema version | `5` |
-| Item types | 99 |
-| Total units | 21488.754159576747 |
-| Total value USD | $30289.40 |
+| Item types | 101 |
+| Total units | 21492.754159576747 |
+| Total value USD | $30414.06 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1172 |
 
-## Items (99, sorted by total quantity)
+## Items (101, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 12343.003200272246 | $1.00 | $12343.00 | AGL10: 347.83, AGL14: 764.5, AGL15: 4240.749999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4973.271863991088, SEF1: 16 |
+| USD | — | — | 12342.944865778947 | $1.00 | $12342.94 | AGL10: 347.83, AGL14: 764.5, AGL15: 4240.749999999999, AGL6: 1337.5853362811577, AGL8: 569.946, BEC: 93.12, Main Ledger: 4973.21352949779, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
@@ -48,7 +48,7 @@
 | Plastic Bag 12cm X 25cm - 500 grams capacity | — | — | 92 | $0.06 | $5.33 | Main Ledger: 92 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 | Cacao Nib | Bulk | 80 | $24.62 | $1969.48 | Main Ledger: 80 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
-| USD - provisions for voting rights cash out | — | — | 56.38034560650659 | $1.00 | $56.38 | Main Ledger: 56.38034560650659 |
+| USD - provisions for voting rights cash out | — | — | 56.43868009980494 | $1.00 | $56.44 | Main Ledger: 56.43868009980494 |
 | Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
 | Chocolate Mold from Rusty | — | — | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 | — | — | 38 | $15.70 | $596.41 | Main Ledger: 38 |
@@ -89,9 +89,11 @@
 | Keys to Ilheus warehouse (outer door and inner door) | — | — | 3 | $3.15 | $9.45 | Main Ledger: 3 |
 | Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912) | — | — | 3 | $18.76 | $56.27 | Main Ledger: 3 |
 | Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Tea | Bulk | 2.1802 | $0.00 | $0.00 | AGL8: 2.1802 |
+| Axial Exhaust Fan 100mm Turbo 220V - Mercado Livre MLBU4320471013 - Ilheus Warehouse | — | — | 2 | $18.22 | $36.44 | Main Ledger: 2 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
 | Cacao Tree - To Be Paid For | — | — | 2 | — | — | Main Ledger: 2 |
 | Foam container box - 120 kraft pouches capacity | — | — | 2 | $24.11 | $48.22 | Main Ledger: 2 |
+| Kala Professional Insect Killer 16W - Mercado Livre MLB20684318 - Ilheus Warehouse | — | — | 2 | $44.11 | $88.22 | Main Ledger: 2 |
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
 | Agroverse Retractable Banner | — | — | 1 | $72.57 | $72.57 | Main Ledger: 1 |
@@ -117,7 +119,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2492.18 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2488.07 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -131,7 +133,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1259.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 85 | 12869.937500497595 |
+| Main Ledger | 87 | 12873.937500497594 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -156,7 +158,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 16 | 1332 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 28 | 2173.715122798 | 327 |
+| Matheus Reis | 30 | 2177.715122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
