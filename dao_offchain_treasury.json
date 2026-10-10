@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:48:42.024Z",
+  "generated_at": "2026-10-10T17:56:49.405Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,14 +12,13 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 12288.184865778947,
-      "total_value_usd": 12288.18,
+      "total_quantity": 11523.684865778947,
+      "total_value_usd": 11523.68,
       "ledgers": {
         "Main Ledger": 4918.4535294977895,
         "AGL6": 1337.5853362811577,
         "AGL8": 569.946,
         "AGL10": 347.83,
-        "AGL14": 764.5,
         "SEF1": 16,
         "AGL15": 4240.749999999999,
         "BEC": 93.12
@@ -1371,6 +1370,20 @@
       }
     },
     {
+      "currency": "Showcase display cabinet (per cabinet, Matheus Ilheus warehouse, R$250 receipt 20261010)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 58.08,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 1,
+      "total_value_usd": 58.08,
+      "ledgers": {
+        "Main Ledger": 1
+      }
+    },
+    {
       "currency": "Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus",
       "unit_weight_g": null,
       "unit_cost_usd": 4.78,
@@ -1429,7 +1442,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2505.6491,
+      "unit_cost_usd": 2505.7462,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1632,13 +1645,6 @@
           "total_value_usd": 296.83
         },
         {
-          "currency": "[AGL14] USD",
-          "amount": 764.5,
-          "ledger": "AGL14",
-          "unit_cost_usd": 1,
-          "total_value_usd": 764.5
-        },
-        {
           "currency": "[AGL15] USD",
           "amount": 4240.749999999999,
           "ledger": "AGL15",
@@ -1780,8 +1786,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2505.6491,
-          "total_value_usd": 1.1905849171863892e-10
+          "unit_cost_usd": 2505.7462,
+          "total_value_usd": 1.1906310552491605e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4537,6 +4543,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.036,
           "total_value_usd": 50.9
+        },
+        {
+          "currency": "Showcase display cabinet (per cabinet, Matheus Ilheus warehouse, R$250 receipt 20261010)",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 58.08,
+          "total_value_usd": 58.08
         },
         {
           "currency": "Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus",
@@ -10107,10 +10120,10 @@
     }
   ],
   "totals": {
-    "item_types": 102,
-    "total_units": 21394.864159576744,
-    "total_value_usd": 30379.71,
-    "ledgers_processed": 15,
+    "item_types": 103,
+    "total_units": 20631.364159576744,
+    "total_value_usd": 29673.29,
+    "ledgers_processed": 14,
     "managers_count": 42,
     "qr_codes_assigned": 1172
   }
