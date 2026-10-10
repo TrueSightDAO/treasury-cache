@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T03:45:17.587Z",
+  "generated_at": "2026-10-10T03:45:32.772Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -1050,6 +1050,20 @@
       }
     },
     {
+      "currency": "Kala Professional Insect Killer 16W (Mercado Livre MLB20684318)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 44.11,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2,
+      "total_value_usd": 88.22,
+      "ledgers": {
+        "Main Ledger": 2
+      }
+    },
+    {
       "currency": "Kala Professional Insect Killer 16W - Mercado Livre MLB20684318 - Ilheus Warehouse",
       "unit_weight_g": null,
       "unit_cost_usd": 44.11,
@@ -1129,6 +1143,20 @@
       "hs_code": null,
       "total_quantity": 1,
       "total_value_usd": 86.89,
+      "ledgers": {
+        "Main Ledger": 1
+      }
+    },
+    {
+      "currency": "Axial Exhaust Fan 100mm High-Velocity 220V (Mercado Livre MLBU4320471013)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 18.22,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 1,
+      "total_value_usd": 18.22,
       "ledgers": {
         "Main Ledger": 1
       }
@@ -4351,6 +4379,13 @@
           "total_value_usd": 889.76
         },
         {
+          "currency": "Axial Exhaust Fan 100mm High-Velocity 220V (Mercado Livre MLBU4320471013)",
+          "amount": 1,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 18.22,
+          "total_value_usd": 18.22
+        },
+        {
           "currency": "Axial Exhaust Fan 100mm Turbo 220V - Mercado Livre MLBU4320471013 - Ilheus Warehouse",
           "amount": 2,
           "ledger": "Main Ledger",
@@ -4453,6 +4488,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 24.7,
           "total_value_usd": 24.7
+        },
+        {
+          "currency": "Kala Professional Insect Killer 16W (Mercado Livre MLB20684318)",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 44.11,
+          "total_value_usd": 88.22
         },
         {
           "currency": "Kala Professional Insect Killer 16W - Mercado Livre MLB20684318 - Ilheus Warehouse",
@@ -10094,9 +10136,9 @@
     }
   ],
   "totals": {
-    "item_types": 101,
-    "total_units": 21492.754159576747,
-    "total_value_usd": 30414.06,
+    "item_types": 103,
+    "total_units": 21495.754159576747,
+    "total_value_usd": 30520.5,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
