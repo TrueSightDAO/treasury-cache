@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:48:41.907Z",
+  "generated_at": "2026-10-10T14:48:58.867Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -139,21 +139,6 @@
       }
     },
     {
-      "currency": "Brazilian Reis",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.2323,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 285.02999999999827,
-      "total_value_usd": 66.21,
-      "ledgers": {
-        "Main Ledger": 48.129999999999995,
-        "AGL8": 236.89999999999827
-      }
-    },
-    {
       "currency": "Cacao Almonds (KG)",
       "unit_weight_g": 1000,
       "unit_cost_usd": null,
@@ -179,6 +164,20 @@
       "total_value_usd": 11.51,
       "ledgers": {
         "Main Ledger": 240
+      }
+    },
+    {
+      "currency": "Brazilian Reis",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.2323,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 236.89999999999827,
+      "total_value_usd": 55.03,
+      "ledgers": {
+        "AGL8": 236.89999999999827
       }
     },
     {
@@ -793,6 +792,20 @@
       "hs_code": "1803.1",
       "total_quantity": 7,
       "total_value_usd": 167.83,
+      "ledgers": {
+        "Main Ledger": 7
+      }
+    },
+    {
+      "currency": "Cacao Tea (Kilograms) Santos 20261007 - AGL14",
+      "unit_weight_g": null,
+      "unit_cost_usd": 13.41775,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 7,
+      "total_value_usd": 93.92,
       "ledgers": {
         "Main Ledger": 7
       }
@@ -1416,7 +1429,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2495.2083000000002,
+      "unit_cost_usd": 2508.8567000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1767,8 +1780,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2495.2083000000002,
-          "total_value_usd": 1.185623863779765e-10
+          "unit_cost_usd": 2508.8567000000003,
+          "total_value_usd": 1.192109041286754e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4358,13 +4371,6 @@
           "total_value_usd": 18.22
         },
         {
-          "currency": "Brazilian Reis",
-          "amount": 48.129999999999995,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 0.2323,
-          "total_value_usd": 11.180598999999999
-        },
-        {
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024",
           "amount": 38,
           "ledger": "Main Ledger",
@@ -4393,6 +4399,13 @@
           "hs_code": "1801",
           "unit_cost_usd": 0.7033220365,
           "total_value_usd": 462.785900017
+        },
+        {
+          "currency": "Cacao Tea (Kilograms) Santos 20261007 - AGL14",
+          "amount": 7,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 13.41775,
+          "total_value_usd": 93.92425
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
@@ -10094,9 +10107,9 @@
     }
   ],
   "totals": {
-    "item_types": 101,
-    "total_units": 21435.994159576745,
-    "total_value_usd": 30296.97,
+    "item_types": 102,
+    "total_units": 21394.864159576744,
+    "total_value_usd": 30379.71,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
