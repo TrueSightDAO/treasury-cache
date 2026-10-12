@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T22:48:55.373Z",
+  "generated_at": "2026-10-12T23:49:43.350Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -139,15 +139,15 @@
       }
     },
     {
-      "currency": "Cacao Almonds (KG)",
+      "currency": "Cacao Almonds KG from Paulo's farm - AGL8",
       "unit_weight_g": 1000,
-      "unit_cost_usd": null,
-      "inventory_type": "Cacao Bean",
-      "unit_format": "Bulk",
+      "unit_cost_usd": 18.212,
+      "inventory_type": null,
+      "unit_format": null,
       "gtin": null,
       "hs_code": null,
       "total_quantity": 273.585122798,
-      "total_value_usd": null,
+      "total_value_usd": 4982.53,
       "ledgers": {
         "AGL8": 273.585122798
       }
@@ -1443,7 +1443,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2484.7923,
+      "unit_cost_usd": 2446.1336,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1794,8 +1794,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2484.7923,
-          "total_value_usd": 1.1806745943479785e-10
+          "unit_cost_usd": 2446.1336,
+          "total_value_usd": 1.162305515797421e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4350,12 +4350,12 @@
           "total_value_usd": 1311.12
         },
         {
-          "currency": "[AGL8] Cacao Almonds (KG)",
+          "currency": "[AGL8] Cacao Almonds KG from Paulo's farm - AGL8",
           "amount": 273.585122798,
           "ledger": "AGL8",
           "unit_weight_g": 1000,
-          "inventory_type": "Cacao Bean",
-          "unit_format": "Bulk"
+          "unit_cost_usd": 18.212,
+          "total_value_usd": 4982.53
         },
         {
           "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
@@ -10130,7 +10130,7 @@
   "totals": {
     "item_types": 103,
     "total_units": 21395.864159576748,
-    "total_value_usd": 30437.79,
+    "total_value_usd": 35420.32,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
