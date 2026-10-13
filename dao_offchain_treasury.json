@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T00:48:41.339Z",
+  "generated_at": "2026-10-13T01:48:39.396Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -338,7 +338,7 @@
       "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13",
       "unit_weight_g": 1000,
       "unit_cost_usd": 10.18234711,
-      "inventory_type": "Cacao Tea",
+      "inventory_type": "Cacao Nib",
       "unit_format": "Bulk",
       "gtin": null,
       "hs_code": "1801",
@@ -1443,7 +1443,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2425.7716,
+      "unit_cost_usd": 2455.5851000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1794,8 +1794,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2425.7716,
-          "total_value_usd": 1.1526303022634313e-10
+          "unit_cost_usd": 2455.5851000000002,
+          "total_value_usd": 1.166796493143286e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4325,7 +4325,7 @@
           "amount": 99,
           "ledger": "AGL13",
           "unit_weight_g": 1000,
-          "inventory_type": "Cacao Tea",
+          "inventory_type": "Cacao Nib",
           "unit_format": "Bulk",
           "hs_code": "1801",
           "unit_cost_usd": 10.18234711,
