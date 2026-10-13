@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-13T00:48:41.339Z` |
+| Generated at | `2026-10-13T01:48:39.396Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 103 |
@@ -42,7 +42,7 @@
 | Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820) | — | — | 100 | $0.81 | $81.31 | Main Ledger: 100 |
 | QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil | — | — | 100 | $0.13 | $13.01 | Main Ledger: 100 |
-| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Tea | Bulk | 99 | $10.18 | $1008.05 | AGL13: 99 |
+| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 | Cacao Nib | Bulk | 99 | $10.18 | $1008.05 | AGL13: 99 |
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
 | Plastic Bag 40cm X 60cm - 10 kilograms capacity | — | — | 94 | $0.10 | $9.84 | Main Ledger: 94 |
 | Plastic Bag 12cm X 25cm - 500 grams capacity | — | — | 92 | $0.06 | $5.33 | Main Ledger: 92 |
@@ -121,7 +121,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2425.77 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2455.59 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
