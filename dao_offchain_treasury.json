@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-14T21:11:29.121Z",
+  "generated_at": "2026-10-14T21:12:29.816Z",
   "source": "treasury-cache-publisher",
-  "trigger": "currency_conversion",
+  "trigger": "movement",
   "schema_version": 5,
   "items": [
     {
