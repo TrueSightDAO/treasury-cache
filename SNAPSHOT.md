@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-14T21:05:39.521Z` |
+| Generated at | `2026-10-14T21:06:12.793Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 102 |
-| Total units | 21276.84415957675 |
-| Total value USD | $35309.73 |
+| Total units | 21455.84415957675 |
+| Total value USD | $37244.38 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1172 |
@@ -28,11 +28,11 @@
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 358 | $0.68 | $241.81 | Main Ledger: 358 |
 | Cacao Tree To Be Planted | — | — | 347 | $-1.50 | $-520.50 | Main Ledger: 347 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 339 | $10.37 | $3515.43 | AGL8: 170, Main Ledger: 169 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
-| Cacao Almonds KG from Paulo's farm - AGL8 | — | — | 273.585122798 | $18.21 | $4982.53 | AGL8: 273.585122798 |
+| Cacao Almonds KG from Paulo's farm - AGL8 | — | — | 283.585122798 | $18.21 | $5164.65 | AGL8: 273.585122798, Main Ledger: 10 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Cacao Tea 1g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 229 | $0.11 | $25.76 | Main Ledger: 229 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 170 | $10.37 | $1762.90 | AGL8: 170 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 169 | $0.07 | $11.91 | Main Ledger: 169 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 134 | $6.64 | $889.76 | Main Ledger: 134 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 114 | $0.55 | $63.16 | Main Ledger: 114 |
@@ -134,7 +134,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1259.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 88 | 12658.027500497594 |
+| Main Ledger | 90 | 12837.027500497594 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -157,9 +157,9 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 18 | 1498 | 51 |
+| Kirsten Ritschel | 21 | 1757 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 31 | 1969.585122798 | 327 |
+| Matheus Reis | 30 | 1889.585122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
