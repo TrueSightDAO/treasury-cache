@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:05:39.521Z",
+  "generated_at": "2026-10-14T21:06:12.793Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -140,6 +140,21 @@
       }
     },
     {
+      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 10.37,
+      "inventory_type": "Cacao Mass",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 339,
+      "total_value_usd": 3515.43,
+      "ledgers": {
+        "Main Ledger": 169,
+        "AGL8": 170
+      }
+    },
+    {
       "currency": "NovaGaia Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 7,
@@ -161,9 +176,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 273.585122798,
-      "total_value_usd": 4982.53,
+      "total_quantity": 283.585122798,
+      "total_value_usd": 5164.65,
       "ledgers": {
+        "Main Ledger": 10,
         "AGL8": 273.585122798
       }
     },
@@ -193,20 +209,6 @@
       "total_value_usd": 25.76,
       "ledgers": {
         "Main Ledger": 229
-      }
-    },
-    {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 10.37,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 170,
-      "total_value_usd": 1762.9,
-      "ledgers": {
-        "AGL8": 170
       }
     },
     {
@@ -3861,6 +3863,14 @@
           "total_value_usd": 33.744627586206896
         },
         {
+          "currency": "Cacao Almonds KG from Paulo's farm - AGL8",
+          "amount": 10,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 1000,
+          "unit_cost_usd": 18.212,
+          "total_value_usd": 182.12
+        },
+        {
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024",
           "amount": 37,
           "ledger": "Main Ledger",
@@ -3878,6 +3888,17 @@
           "hs_code": "1803.1",
           "unit_cost_usd": 0.03098228205128205,
           "total_value_usd": 1.5491141025641026
+        },
+        {
+          "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024",
+          "amount": 80,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 1000,
+          "inventory_type": "Cacao Nib",
+          "unit_format": "Bulk",
+          "hs_code": "1801",
+          "unit_cost_usd": 24.61847089,
+          "total_value_usd": 1969.4776712
         },
         {
           "currency": "Cacao Nibs Kraft Pouch - 20250219006",
@@ -3899,6 +3920,17 @@
           "hs_code": "1806.9",
           "unit_cost_usd": 0.73529,
           "total_value_usd": 313.23354
+        },
+        {
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "amount": 169,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 200,
+          "inventory_type": "Cacao Mass",
+          "unit_format": "Retail Ready",
+          "hs_code": "1803.1",
+          "unit_cost_usd": 10.37,
+          "total_value_usd": 1752.53
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771",
@@ -4397,17 +4429,6 @@
           "hs_code": "1803.1",
           "unit_cost_usd": 15.695100595,
           "total_value_usd": 15.695100595
-        },
-        {
-          "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024",
-          "amount": 80,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Nib",
-          "unit_format": "Bulk",
-          "hs_code": "1801",
-          "unit_cost_usd": 24.61847089,
-          "total_value_usd": 1969.4776712
         },
         {
           "currency": "Cacao Nibs Kraft Pouch - V2",
@@ -10134,8 +10155,8 @@
   ],
   "totals": {
     "item_types": 102,
-    "total_units": 21276.84415957675,
-    "total_value_usd": 35309.73,
+    "total_units": 21455.84415957675,
+    "total_value_usd": 37244.38,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
