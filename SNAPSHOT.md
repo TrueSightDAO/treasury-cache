@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-14T21:11:29.121Z` |
-| Trigger | `currency_conversion` |
+| Generated at | `2026-10-14T21:12:29.816Z` |
+| Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 107 |
 | Total units | 21476.84415957675 |
