@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T21:05:13.429Z",
+  "generated_at": "2026-10-14T21:05:39.521Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -3861,6 +3861,15 @@
           "total_value_usd": 33.744627586206896
         },
         {
+          "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024",
+          "amount": 37,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 500,
+          "hs_code": "1803.1",
+          "unit_cost_usd": 15.695100595,
+          "total_value_usd": 580.718722015
+        },
+        {
           "currency": "Cacao Mass Bar (loose grams) - AGL2",
           "amount": 50,
           "ledger": "Main Ledger",
@@ -4382,12 +4391,12 @@
         },
         {
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024",
-          "amount": 38,
+          "amount": 1,
           "ledger": "Main Ledger",
           "unit_weight_g": 500,
           "hs_code": "1803.1",
           "unit_cost_usd": 15.695100595,
-          "total_value_usd": 596.41382261
+          "total_value_usd": 15.695100595
         },
         {
           "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024",
