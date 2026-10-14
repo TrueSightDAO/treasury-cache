@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T00:21:27.382Z",
+  "generated_at": "2026-10-14T00:31:10.140Z",
   "source": "treasury-cache-publisher",
   "trigger": "currency_conversion",
   "schema_version": 5,
@@ -65,6 +65,21 @@
       "total_value_usd": 357.99,
       "ledgers": {
         "Main Ledger": 530
+      }
+    },
+    {
+      "currency": "Brazilian Reis",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.2323,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 456.8999999999983,
+      "total_value_usd": 106.14,
+      "ledgers": {
+        "Main Ledger": 220,
+        "AGL8": 236.89999999999827
       }
     },
     {
@@ -167,20 +182,6 @@
       }
     },
     {
-      "currency": "Brazilian Reis",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.2323,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 236.89999999999827,
-      "total_value_usd": 55.03,
-      "ledgers": {
-        "AGL8": 236.89999999999827
-      }
-    },
-    {
       "currency": "Cacao Tea 1g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
       "unit_weight_g": null,
       "unit_cost_usd": 0.11248209195402298,
@@ -192,20 +193,6 @@
       "total_value_usd": 25.76,
       "ledgers": {
         "Main Ledger": 229
-      }
-    },
-    {
-      "currency": "BRL",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.19405,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 220,
-      "total_value_usd": 42.69,
-      "ledgers": {
-        "Main Ledger": 220
       }
     },
     {
@@ -1443,7 +1430,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2503.9033,
+      "unit_cost_usd": 2506.7749000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1794,8 +1781,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2503.9033,
-          "total_value_usd": 1.189755382377056e-10
+          "unit_cost_usd": 2506.7749000000003,
+          "total_value_usd": 1.1911198526247826e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -6668,18 +6655,18 @@
           "total_value_usd": 5.81
         },
         {
-          "currency": "BRL",
-          "amount": 220,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 0.19405,
-          "total_value_usd": 42.691
-        },
-        {
           "currency": "Bluetooth Label Printer w/20 Label Rolls - Brazil",
           "amount": 1,
           "ledger": "Main Ledger",
           "unit_cost_usd": 58.07,
           "total_value_usd": 58.07
+        },
+        {
+          "currency": "Brazilian Reis",
+          "amount": 220,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.2323,
+          "total_value_usd": 51.106
         },
         {
           "currency": "Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)",
@@ -10128,9 +10115,9 @@
     }
   ],
   "totals": {
-    "item_types": 103,
+    "item_types": 102,
     "total_units": 21276.844159576747,
-    "total_value_usd": 35301.3,
+    "total_value_usd": 35309.72,
     "ledgers_processed": 15,
     "managers_count": 42,
     "qr_codes_assigned": 1172
