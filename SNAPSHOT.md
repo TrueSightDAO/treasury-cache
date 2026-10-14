@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-14T21:12:29.816Z` |
-| Trigger | `movement` |
+| Generated at | `2026-10-14T21:21:44.733Z` |
+| Trigger | `currency_conversion` |
 | Schema version | `5` |
-| Item types | 107 |
-| Total units | 21476.84415957675 |
-| Total value USD | $40829.70 |
+| Item types | 108 |
+| Total units | 21675.84415957675 |
+| Total value USD | $46252.45 |
 | Ledgers processed | 15 |
 | Managers | 42 |
 | QR codes assigned | 1172 |
 
-## Items (107, sorted by total quantity)
+## Items (108, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -32,6 +32,7 @@
 | Cacao Almonds KG from Paulo's farm - AGL8 | — | — | 273.585122798 | $18.21 | $4982.53 | AGL8: 273.585122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Cacao Tea 1g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 229 | $0.11 | $25.76 | Main Ledger: 229 |
+| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco | Cacao Nib | Bulk | 199 | $27.25 | $5422.75 | Main Ledger: 199 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 170 | $10.37 | $1762.90 | AGL8: 170 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 + 047-3175-3223 - San Francisco | Cacao Mass | Retail Ready | 169 | $13.78 | $2328.82 | Main Ledger: 169 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 169 | $0.07 | $11.91 | Main Ledger: 169 |
@@ -125,7 +126,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2408.72 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2415.14 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -139,7 +140,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 1259.8613227979984 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 93 | 12858.027500497594 |
+| Main Ledger | 94 | 13057.027500497594 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -162,7 +163,7 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 23 | 1783 | 51 |
+| Kirsten Ritschel | 24 | 1982 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 29 | 1884.585122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
