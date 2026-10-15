@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T17:48:48.922Z",
+  "generated_at": "2026-10-15T20:07:40.117Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "manual",
   "schema_version": 5,
   "items": [
     {
@@ -1023,6 +1023,20 @@
       }
     },
     {
+      "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 5.185489499999999,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 3,
+      "total_value_usd": 15.56,
+      "ledgers": {
+        "Main Ledger": 3
+      }
+    },
+    {
       "currency": "Keys to Ilheus warehouse (outer door and inner door)",
       "unit_weight_g": null,
       "unit_cost_usd": 3.15,
@@ -1102,6 +1116,20 @@
       "hs_code": null,
       "total_quantity": 2,
       "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 2
+      }
+    },
+    {
+      "currency": "Foam container box - 120 kraft pouches capacity",
+      "unit_weight_g": null,
+      "unit_cost_usd": 24.109726042075938,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2,
+      "total_value_usd": 48.22,
       "ledgers": {
         "Main Ledger": 2
       }
@@ -1331,20 +1359,6 @@
       }
     },
     {
-      "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 5.185489499999999,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 1,
-      "total_value_usd": 5.19,
-      "ledgers": {
-        "Main Ledger": 1
-      }
-    },
-    {
       "currency": "FounderHaus Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 1.5,
@@ -1529,7 +1543,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2447.9633,
+      "unit_cost_usd": 2451.1777,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1922,8 +1936,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2447.9633,
-          "total_value_usd": 1.163174916553886e-10
+          "unit_cost_usd": 2451.1777,
+          "total_value_usd": 1.1647022717441258e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4656,6 +4670,20 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.01,
           "total_value_usd": 5.01
+        },
+        {
+          "currency": "Foam container box - 120 kraft pouches capacity",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 24.109726042075938,
+          "total_value_usd": 48.219452084151875
+        },
+        {
+          "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 5.185489499999999,
+          "total_value_usd": 10.370978999999998
         },
         {
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
@@ -10318,9 +10346,9 @@
     }
   ],
   "totals": {
-    "item_types": 109,
-    "total_units": 20845.722159576744,
-    "total_value_usd": 42733.07,
+    "item_types": 110,
+    "total_units": 20849.722159576744,
+    "total_value_usd": 42791.66,
     "ledgers_processed": 15,
     "managers_count": 45,
     "qr_codes_assigned": 1172
