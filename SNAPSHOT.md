@@ -5,22 +5,23 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-15T17:26:41.339Z` |
+| Generated at | `2026-10-15T17:26:58.332Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
-| Item types | 107 |
+| Item types | 109 |
 | Total units | 18747.36815957675 |
 | Total value USD | $40634.72 |
 | Ledgers processed | 15 |
-| Managers | 42 |
+| Managers | 44 |
 | QR codes assigned | 1172 |
 
-## Items (107, sorted by total quantity)
+## Items (109, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 9365.930378741594 | $1.00 | $9365.93 | AGL10: 347.83, AGL14: 764.5, AGL15: 4240.749999999999, AGL6: 1337.5853362811577, BEC: 93.12, Main Ledger: 2566.1450424604363, SEF1: 16 |
+| USD | — | — | 7267.5763787415935 | $1.00 | $7267.58 | AGL10: 347.83, AGL14: 764.5, AGL15: 2142.3959999999993, AGL6: 1337.5853362811577, BEC: 93.12, Main Ledger: 2566.1450424604363, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
+| AGL13 equity holdings | — | — | 1953.3 | $1.00 | $1953.30 | AGL15: 1953.3 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
 | Brazilian Reis | — | — | 456.8999999999983 | $0.23 | $106.14 | AGL8: 236.89999999999827, Main Ledger: 220 |
@@ -35,6 +36,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 170 | $10.37 | $1762.90 | AGL8: 170 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 + 047-3175-3223 - San Francisco | Cacao Mass | Retail Ready | 169 | $13.78 | $2328.82 | Main Ledger: 169 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 169 | $0.07 | $11.91 | Main Ledger: 169 |
+| AGL8 equity holdings | — | — | 145.054 | $1.00 | $145.05 | AGL15: 145.054 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Nib | Retail Ready | 129 | $10.51 | $1355.79 | Main Ledger: 129 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 114 | $0.55 | $63.16 | Main Ledger: 114 |
 | Cacao Almonds KG from Oscar's farm - AGL16 (2026) | — | — | 108 | $12.14 | $1311.12 | AGL16: 108 |
@@ -125,7 +127,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2448.47 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2454.12 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -134,7 +136,7 @@
 | AGL10 | 4 | 354 |
 | AGL13 | 2 | 120 |
 | AGL14 | 1 | 764.5 |
-| AGL15 | 1 | 4240.749999999999 |
+| AGL15 | 3 | 4240.749999999999 |
 | AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 6 | 689.9153227979982 |
@@ -143,17 +145,19 @@
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (42)
+## Managers (44)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
 | Aga Marecka | 1 | 20 | — |
+| AGL13 | 1 | 1953.3 | — |
+| AGL8 | 1 | 145.054 | — |
 | Andrea Catalina Falcon Rios De Pabst | 3 | 223 | — |
 | Coopercabruca | 1 | 1706 | — |
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 28 | 9952.96303677875 | 241 |
+| Gary Teh | 28 | 7854.609036778749 | 241 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
