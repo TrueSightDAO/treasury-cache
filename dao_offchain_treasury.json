@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T20:08:33.190Z",
+  "generated_at": "2026-10-15T20:09:04.131Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -1543,7 +1543,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2451.1777,
+      "unit_cost_usd": 2453.1082,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1936,8 +1936,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2451.1777,
-          "total_value_usd": 1.1647022717441258e-10
+          "unit_cost_usd": 2453.1082,
+          "total_value_usd": 1.165619568656382e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4156,6 +4156,13 @@
           "total_value_usd": 172
         },
         {
+          "currency": "Foam container box - 120 kraft pouches capacity",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 24.109726042075938,
+          "total_value_usd": 48.219452084151875
+        },
+        {
           "currency": "Hastings Serving Kettle Black - 1.5L",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -4670,13 +4677,6 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.01,
           "total_value_usd": 5.01
-        },
-        {
-          "currency": "Foam container box - 120 kraft pouches capacity",
-          "amount": 2,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 24.109726042075938,
-          "total_value_usd": 48.219452084151875
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
