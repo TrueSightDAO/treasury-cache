@@ -5,23 +5,23 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-15T20:09:04.131Z` |
-| Trigger | `movement` |
+| Generated at | `2026-10-15T21:48:39.626Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 110 |
-| Total units | 20849.722159576744 |
-| Total value USD | $42791.66 |
+| Total units | 18968.138159576745 |
+| Total value USD | $40910.08 |
 | Ledgers processed | 15 |
-| Managers | 45 |
+| Managers | 44 |
 | QR codes assigned | 1172 |
 
 ## Items (110, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 9365.930378741594 | $1.00 | $9365.93 | AGL10: 347.83, AGL13: 1953.3, AGL14: 764.5, AGL15: 2142.3959999999993, AGL6: 1337.5853362811577, AGL8: 145.054, BEC: 93.12, Main Ledger: 2566.1450424604363, SEF1: 16 |
+| USD | — | — | 7272.5763787415935 | $1.00 | $7272.58 | AGL10: 347.83, AGL14: 764.5, AGL15: 2142.3959999999993, AGL6: 1337.5853362811577, AGL8: 5.000000000000028, BEC: 93.12, Main Ledger: 2566.1450424604363, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
-| AGL13 equity holdings | — | — | 1953.3 | $1.00 | $1953.30 | AGL15: 1953.3 |
+| AGL13 equity holdings | — | — | 2165.07 | $1.00 | $2165.07 | AGL15: 2165.07 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
 | Brazilian Reis | — | — | 456.8999999999983 | $0.23 | $106.14 | AGL8: 236.89999999999827, Main Ledger: 220 |
@@ -128,38 +128,37 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2453.11 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2458.63 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
 | Ledger | Distinct items | Total units |
 |---|---:|---:|
 | AGL10 | 4 | 354 |
-| AGL13 | 3 | 2073.3 |
+| AGL13 | 2 | 120 |
 | AGL14 | 1 | 764.5 |
-| AGL15 | 3 | 4240.749999999999 |
+| AGL15 | 3 | 4452.5199999999995 |
 | AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
-| AGL8 | 7 | 834.9693227979983 |
+| AGL8 | 7 | 694.9153227979983 |
 | BEC | 1 | 93.12 |
 | Main Ledger | 94 | 10702.497500497597 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (45)
+## Managers (44)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
 | Aga Marecka | 1 | 20 | — |
-| AGL13 | 1 | 1953.3 | — |
-| AGL15 | 2 | 2098.354 | — |
+| AGL13 | 1 | 2165.07 | — |
 | AGL8 | 1 | 145.054 | — |
 | Andrea Catalina Falcon Rios De Pabst | 3 | 223 | — |
 | Coopercabruca | 1 | 1706 | — |
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 28 | 7854.609036778749 | 241 |
+| Gary Teh | 29 | 7859.609036778749 | 241 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -168,9 +167,9 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 26 | 1886.5 | 51 |
+| Kirsten Ritschel | 27 | 1888.5 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 28 | 1858.585122798 | 327 |
+| Matheus Reis | 27 | 1856.585122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
