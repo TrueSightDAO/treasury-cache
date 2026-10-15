@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-15T17:27:52.487Z` |
+| Generated at | `2026-10-15T17:28:42.246Z` |
 | Trigger | `expense_processing` |
 | Schema version | `5` |
 | Item types | 109 |
-| Total units | 18892.422159576745 |
-| Total value USD | $40779.77 |
+| Total units | 20845.722159576744 |
+| Total value USD | $42733.07 |
 | Ledgers processed | 15 |
 | Managers | 45 |
 | QR codes assigned | 1172 |
@@ -19,7 +19,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 7412.630378741594 | $1.00 | $7412.63 | AGL10: 347.83, AGL14: 764.5, AGL15: 2142.3959999999993, AGL6: 1337.5853362811577, AGL8: 145.054, BEC: 93.12, Main Ledger: 2566.1450424604363, SEF1: 16 |
+| USD | — | — | 9365.930378741594 | $1.00 | $9365.93 | AGL10: 347.83, AGL13: 1953.3, AGL14: 764.5, AGL15: 2142.3959999999993, AGL6: 1337.5853362811577, AGL8: 145.054, BEC: 93.12, Main Ledger: 2566.1450424604363, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 1953.3 | $1.00 | $1953.30 | AGL15: 1953.3 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -134,7 +134,7 @@
 | Ledger | Distinct items | Total units |
 |---|---:|---:|
 | AGL10 | 4 | 354 |
-| AGL13 | 2 | 120 |
+| AGL13 | 3 | 2073.3 |
 | AGL14 | 1 | 764.5 |
 | AGL15 | 3 | 4240.749999999999 |
 | AGL16 | 1 | 108 |
@@ -151,7 +151,7 @@
 |---|---:|---:|---:|
 | Aga Marecka | 1 | 20 | — |
 | AGL13 | 1 | 1953.3 | — |
-| AGL15 | 1 | 145.054 | — |
+| AGL15 | 2 | 2098.354 | — |
 | AGL8 | 1 | 145.054 | — |
 | Andrea Catalina Falcon Rios De Pabst | 3 | 223 | — |
 | Coopercabruca | 1 | 1706 | — |
