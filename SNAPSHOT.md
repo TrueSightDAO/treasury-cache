@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-15T17:48:48.922Z` |
-| Trigger | `cron` |
+| Generated at | `2026-10-15T20:07:40.117Z` |
+| Trigger | `manual` |
 | Schema version | `5` |
-| Item types | 109 |
-| Total units | 20845.722159576744 |
-| Total value USD | $42733.07 |
+| Item types | 110 |
+| Total units | 20849.722159576744 |
+| Total value USD | $42791.66 |
 | Ledgers processed | 15 |
 | Managers | 45 |
 | QR codes assigned | 1172 |
 
-## Items (109, sorted by total quantity)
+## Items (110, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -91,12 +91,14 @@
 | Cacao Mass Bar (40grams) CP340993869BR - AGL8 | — | — | 3.25 | $1.90 | $6.16 | AGL8: 3.25 |
 | 8 Ounce Package Kraft Pouch QN226716310BR - FounderHaus Brazil | — | — | 3 | $8.59 | $25.78 | Main Ledger: 3 |
 | Cacao Tree Planted | — | — | 3 | $1.50 | $4.50 | Main Ledger: 3 |
+| Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | — | — | 3 | $5.19 | $15.56 | Main Ledger: 3 |
 | Keys to Ilheus warehouse (outer door and inner door) | — | — | 3 | $3.15 | $9.45 | Main Ledger: 3 |
 | Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912) | — | — | 3 | $18.76 | $56.27 | Main Ledger: 3 |
 | Reinforced Cardboard Boxes - Size 40x30x30 | — | — | 3 | $2.04 | $6.11 | Main Ledger: 3 |
 | Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Tea | Bulk | 2.1802 | $0.00 | $0.00 | AGL8: 2.1802 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
 | Cacao Tree - To Be Paid For | — | — | 2 | — | — | Main Ledger: 2 |
+| Foam container box - 120 kraft pouches capacity | — | — | 2 | $24.11 | $48.22 | Main Ledger: 2 |
 | Label Maker | — | — | 2 | $44.99 | $89.98 | Main Ledger: 2 |
 | 22 Litres Insulated Box | — | — | 1 | $6.26 | $6.26 | Main Ledger: 1 |
 | Agroverse Retractable Banner | — | — | 1 | $72.57 | $72.57 | Main Ledger: 1 |
@@ -113,7 +115,6 @@
 | Collapsible Foldable Wagon Beach Cart | — | — | 1 | $54.30 | $54.30 | Main Ledger: 1 |
 | CRYBY Coffee Bean Roaster, 14.5L/3.83 with 3 year warranty starting 20251027 | — | — | 1 | $162.37 | $162.37 | Main Ledger: 1 |
 | Digital Kitchen Scale, 10kg Capacity | — | — | 1 | $5.01 | $5.01 | Main Ledger: 1 |
-| Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | — | — | 1 | $5.19 | $5.19 | Main Ledger: 1 |
 | FounderHaus Tree Planting Pledge - QR Code | — | — | 1 | $1.50 | $1.50 | Main Ledger: 1 |
 | Hastings Serving Kettle Black - 1.5L | — | — | 1 | $47.99 | $47.99 | Main Ledger: 1 |
 | Hastings Serving Kettle White - 1.5L | — | — | 1 | $47.99 | $47.99 | Main Ledger: 1 |
@@ -127,7 +128,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2447.96 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2451.18 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -141,7 +142,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 7 | 834.9693227979983 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 93 | 10698.497500497597 |
+| Main Ledger | 94 | 10702.497500497597 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -169,7 +170,7 @@
 | Kelly Springer | 2 | 16 | 15 |
 | Kirsten Ritschel | 25 | 1884.5 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 27 | 1856.585122798 | 327 |
+| Matheus Reis | 29 | 1860.585122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
