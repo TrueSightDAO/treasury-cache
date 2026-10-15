@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T17:27:52.487Z",
+  "generated_at": "2026-10-15T17:28:42.246Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -12,12 +12,13 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7412.630378741594,
-      "total_value_usd": 7412.63,
+      "total_quantity": 9365.930378741594,
+      "total_value_usd": 9365.93,
       "ledgers": {
         "Main Ledger": 2566.1450424604363,
         "AGL6": 1337.5853362811577,
         "AGL8": 145.054,
+        "AGL13": 1953.3,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
@@ -1575,6 +1576,13 @@
       "manager_name": "AGL15",
       "manager_key": "AGL15",
       "items": [
+        {
+          "currency": "[AGL13] USD",
+          "amount": 1953.3,
+          "ledger": "AGL13",
+          "unit_cost_usd": 1,
+          "total_value_usd": 1953.3
+        },
         {
           "currency": "[AGL8] USD",
           "amount": 145.054,
@@ -10311,8 +10319,8 @@
   ],
   "totals": {
     "item_types": 109,
-    "total_units": 18892.422159576745,
-    "total_value_usd": 40779.77,
+    "total_units": 20845.722159576744,
+    "total_value_usd": 42733.07,
     "ledgers_processed": 15,
     "managers_count": 45,
     "qr_codes_assigned": 1172
