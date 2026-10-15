@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T20:09:04.131Z",
+  "generated_at": "2026-10-15T21:48:39.626Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -12,13 +12,12 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 9365.930378741594,
-      "total_value_usd": 9365.93,
+      "total_quantity": 7272.5763787415935,
+      "total_value_usd": 7272.58,
       "ledgers": {
         "Main Ledger": 2566.1450424604363,
         "AGL6": 1337.5853362811577,
-        "AGL8": 145.054,
-        "AGL13": 1953.3,
+        "AGL8": 5.000000000000028,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
@@ -48,10 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 1953.3,
-      "total_value_usd": 1953.3,
+      "total_quantity": 2165.07,
+      "total_value_usd": 2165.07,
       "ledgers": {
-        "AGL15": 1953.3
+        "AGL15": 2165.07
       }
     },
     {
@@ -1543,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2453.1082,
+      "unit_cost_usd": 2458.6344,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1578,31 +1577,10 @@
       "items": [
         {
           "currency": "[AGL15] AGL13 equity holdings",
-          "amount": 1953.3,
+          "amount": 2165.07,
           "ledger": "AGL15",
           "unit_cost_usd": 1,
-          "total_value_usd": 1953.3
-        }
-      ],
-      "qr_codes": []
-    },
-    {
-      "manager_name": "AGL15",
-      "manager_key": "AGL15",
-      "items": [
-        {
-          "currency": "[AGL13] USD",
-          "amount": 1953.3,
-          "ledger": "AGL13",
-          "unit_cost_usd": 1,
-          "total_value_usd": 1953.3
-        },
-        {
-          "currency": "[AGL8] USD",
-          "amount": 145.054,
-          "ledger": "AGL8",
-          "unit_cost_usd": 1,
-          "total_value_usd": 145.05
+          "total_value_usd": 2165.07
         }
       ],
       "qr_codes": []
@@ -1850,6 +1828,13 @@
           "total_value_usd": 0
         },
         {
+          "currency": "[AGL8] USD",
+          "amount": 5.000000000000028,
+          "ledger": "AGL8",
+          "unit_cost_usd": 1,
+          "total_value_usd": 5
+        },
+        {
           "currency": "[BEC] USD",
           "amount": 93.12,
           "ledger": "BEC",
@@ -1936,8 +1921,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2453.1082,
-          "total_value_usd": 1.165619568656382e-10
+          "unit_cost_usd": 2458.6344,
+          "total_value_usd": 1.168245399372006e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4163,6 +4148,13 @@
           "total_value_usd": 48.219452084151875
         },
         {
+          "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 5.185489499999999,
+          "total_value_usd": 10.370978999999998
+        },
+        {
           "currency": "Hastings Serving Kettle Black - 1.5L",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -4677,13 +4669,6 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.01,
           "total_value_usd": 5.01
-        },
-        {
-          "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
-          "amount": 2,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 5.185489499999999,
-          "total_value_usd": 10.370978999999998
         },
         {
           "currency": "FounderHaus Tree Planting Pledge - QR Code",
@@ -10347,10 +10332,10 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 20849.722159576744,
-    "total_value_usd": 42791.66,
+    "total_units": 18968.138159576745,
+    "total_value_usd": 40910.08,
     "ledgers_processed": 15,
-    "managers_count": 45,
+    "managers_count": 44,
     "qr_codes_assigned": 1172
   }
 }
