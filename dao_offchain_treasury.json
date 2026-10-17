@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T00:21:54.642Z",
+  "generated_at": "2026-10-17T05:48:34.159Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,16 +12,16 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7675.875896681614,
-      "total_value_usd": 7675.88,
+      "total_quantity": 7648.125585347579,
+      "total_value_usd": 7648.13,
       "ledgers": {
-        "Main Ledger": 2566.094560400457,
+        "Main Ledger": 2566.0442490664204,
         "AGL6": 1337.5853362811577,
         "AGL8": 5.000000000000028,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
-        "AGL15": 2545.7459999999996,
+        "AGL15": 2518.046,
         "BEC": 93.12
       }
     },
@@ -294,6 +294,20 @@
       }
     },
     {
+      "currency": "Cacao Tree Planted - Unassigned",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 107,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 107
+      }
+    },
+    {
       "currency": "Agroverse Sticker 4x3cm (Founder Haus) - Brazil",
       "unit_weight_g": null,
       "unit_cost_usd": 0.0581,
@@ -441,10 +455,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 56.747649197138045,
-      "total_value_usd": 56.75,
+      "total_quantity": 56.7979605311747,
+      "total_value_usd": 56.8,
       "ledgers": {
-        "Main Ledger": 56.747649197138045
+        "Main Ledger": 56.7979605311747
       }
     },
     {
@@ -585,20 +599,6 @@
       "total_value_usd": 238.87,
       "ledgers": {
         "Main Ledger": 24
-      }
-    },
-    {
-      "currency": "Cacao Tree Planted - Unassigned",
-      "unit_weight_g": null,
-      "unit_cost_usd": null,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 21,
-      "total_value_usd": null,
-      "ledgers": {
-        "Main Ledger": 21
       }
     },
     {
@@ -812,8 +812,8 @@
       }
     },
     {
-      "currency": "Cacao Tea (Kilograms) Santos 20261007 - AGL14",
-      "unit_weight_g": null,
+      "currency": "Cacao Tea (Kilograms) Santos 20261007 AP623350200BR - FounderHaus Brazil",
+      "unit_weight_g": 1000,
       "unit_cost_usd": 13.41775,
       "inventory_type": null,
       "unit_format": null,
@@ -1528,7 +1528,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2420.5260000000003,
+      "unit_cost_usd": 2424.2874,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1767,10 +1767,10 @@
         },
         {
           "currency": "[AGL15] USD",
-          "amount": 2545.7459999999996,
+          "amount": 2518.046,
           "ledger": "AGL15",
           "unit_cost_usd": 1,
-          "total_value_usd": 2545.75
+          "total_value_usd": 2518.05
         },
         {
           "currency": "[AGL6] 8 Ounce Package Kraft Pouch - AGL6",
@@ -1914,8 +1914,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2420.5260000000003,
-          "total_value_usd": 1.1501378015211715e-10
+          "unit_cost_usd": 2424.2874,
+          "total_value_usd": 1.1519250693822239e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1940,17 +1940,17 @@
         },
         {
           "currency": "USD",
-          "amount": 2357.7745604004567,
+          "amount": 2357.7242490664203,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2357.7745604004567
+          "total_value_usd": 2357.7242490664203
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 56.747649197138045,
+          "amount": 56.7979605311747,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 56.747649197138045
+          "total_value_usd": 56.7979605311747
         },
         {
           "currency": "USDT",
@@ -4611,13 +4611,6 @@
           "total_value_usd": 462.785900017
         },
         {
-          "currency": "Cacao Tea (Kilograms) Santos 20261007 - AGL14",
-          "amount": 7,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 13.41775,
-          "total_value_usd": 93.92425
-        },
-        {
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
           "amount": 115,
           "ledger": "Main Ledger",
@@ -6856,6 +6849,14 @@
           "total_value_usd": 51.106
         },
         {
+          "currency": "Cacao Tea (Kilograms) Santos 20261007 AP623350200BR - FounderHaus Brazil",
+          "amount": 7,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 1000,
+          "unit_cost_usd": 13.41775,
+          "total_value_usd": 93.92425
+        },
+        {
           "currency": "Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820)",
           "amount": 100,
           "ledger": "Main Ledger",
@@ -7458,7 +7459,7 @@
       "items": [
         {
           "currency": "Cacao Tree Planted - Unassigned",
-          "amount": 17,
+          "amount": 103,
           "ledger": "Main Ledger"
         }
       ],
@@ -10303,8 +10304,8 @@
   ],
   "totals": {
     "item_types": 109,
-    "total_units": 18903.48815957675,
-    "total_value_usd": 38042.75,
+    "total_units": 18961.78815957675,
+    "total_value_usd": 38015.05,
     "ledgers_processed": 16,
     "managers_count": 44,
     "qr_codes_assigned": 1172
