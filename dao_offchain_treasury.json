@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T21:33:04.698Z",
+  "generated_at": "2026-10-17T00:11:28.417Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "manual",
   "schema_version": 5,
   "items": [
     {
@@ -1528,7 +1528,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2416.164,
+      "unit_cost_usd": 2418.6101000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1914,8 +1914,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2416.164,
-          "total_value_usd": 1.148065152398528e-10
+          "unit_cost_usd": 2418.6101000000003,
+          "total_value_usd": 1.1492274419489404e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10286,7 +10286,7 @@
     },
     {
       "ledger_name": "TBM",
-      "ledger_url": "https://docs.google.com/spreadsheets/d/1rNwXIpARVb06Opn5gYuiNTG6ZSdA-8AgANt0Mm39oX4"
+      "ledger_url": "https://docs.google.com/spreadsheets/d/1rNwXIpARVb06Opn5gYuiNTG6ZSdA-8AgANt0Mm39oX4/edit"
     },
     {
       "ledger_name": "BEC",
@@ -10305,7 +10305,7 @@
     "item_types": 109,
     "total_units": 18903.48815957675,
     "total_value_usd": 38042.75,
-    "ledgers_processed": 15,
+    "ledgers_processed": 16,
     "managers_count": 44,
     "qr_codes_assigned": 1172
   }
