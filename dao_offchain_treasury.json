@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:40:56.082Z",
+  "generated_at": "2026-10-19T20:41:38.492Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -1528,7 +1528,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2399.2086,
+      "unit_cost_usd": 2399.5996,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1914,8 +1914,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2399.2086,
-          "total_value_usd": 1.140008619859769e-10
+          "unit_cost_usd": 2399.5996,
+          "total_value_usd": 1.1401944075275713e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4061,14 +4061,14 @@
         },
         {
           "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
-          "amount": 80,
+          "amount": 10,
           "ledger": "Main Ledger",
           "unit_weight_g": 1000,
           "inventory_type": "Cacao Nib",
           "unit_format": "Bulk",
           "hs_code": "1801",
           "unit_cost_usd": 41.69,
-          "total_value_usd": 3335.2
+          "total_value_usd": 416.9
         },
         {
           "currency": "Cacao Nibs Kraft Pouch - 20250219006",
@@ -10150,6 +10150,17 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 162.37,
           "total_value_usd": 162.37
+        },
+        {
+          "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
+          "amount": 70,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 1000,
+          "inventory_type": "Cacao Nib",
+          "unit_format": "Bulk",
+          "hs_code": "1801",
+          "unit_cost_usd": 41.69,
+          "total_value_usd": 2918.2999999999997
         },
         {
           "currency": "Cacao Nibs Kraft Pouch",
