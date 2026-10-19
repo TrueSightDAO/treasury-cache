@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T20:45:18.288Z",
+  "generated_at": "2026-10-19T20:48:58.571Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -491,6 +491,21 @@
       }
     },
     {
+      "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
+      "unit_weight_g": 1000,
+      "unit_cost_usd": 27.25,
+      "inventory_type": "Cacao Tea",
+      "unit_format": "Bulk",
+      "gtin": null,
+      "hs_code": "2106.9",
+      "total_quantity": 42,
+      "total_value_usd": 1144.5,
+      "ledgers": {
+        "Main Ledger": 21,
+        "AGL13": 21
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
       "unit_weight_g": 200,
       "unit_cost_usd": 9.019327088499999,
@@ -603,17 +618,18 @@
       }
     },
     {
-      "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
+      "currency": "Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco",
       "unit_weight_g": 1000,
-      "unit_cost_usd": 27.25,
-      "inventory_type": "Cacao Tea",
+      "unit_cost_usd": 35.28,
+      "inventory_type": "Cacao Bean",
       "unit_format": "Bulk",
       "gtin": null,
-      "hs_code": "2106.9",
-      "total_quantity": 21,
-      "total_value_usd": 572.25,
+      "hs_code": "1801",
+      "total_quantity": 20,
+      "total_value_usd": 705.6,
       "ledgers": {
-        "AGL13": 21
+        "Main Ledger": 10,
+        "AGL8": 10
       }
     },
     {
@@ -726,20 +742,6 @@
       "total_value_usd": 88.79,
       "ledgers": {
         "Main Ledger": 10
-      }
-    },
-    {
-      "currency": "Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 35.28,
-      "inventory_type": "Cacao Bean",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": "1801",
-      "total_quantity": 10,
-      "total_value_usd": 352.8,
-      "ledgers": {
-        "AGL8": 10
       }
     },
     {
@@ -1529,7 +1531,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2399.8474,
+      "unit_cost_usd": 2400.1267000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1915,8 +1917,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2399.6229000000003,
-          "total_value_usd": 1.1402054787619955e-10
+          "unit_cost_usd": 2400.1267000000003,
+          "total_value_usd": 1.1404448645088977e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10146,6 +10148,17 @@
           "total_value_usd": 162.37
         },
         {
+          "currency": "Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco",
+          "amount": 10,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 1000,
+          "inventory_type": "Cacao Bean",
+          "unit_format": "Bulk",
+          "hs_code": "1801",
+          "unit_cost_usd": 35.28,
+          "total_value_usd": 352.8
+        },
+        {
           "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
           "amount": 70,
           "ledger": "Main Ledger",
@@ -10184,6 +10197,17 @@
           "hs_code": "1801",
           "unit_cost_usd": 0.6754468485418627,
           "total_value_usd": 290.4421448730009
+        },
+        {
+          "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
+          "amount": 21,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 1000,
+          "inventory_type": "Cacao Tea",
+          "unit_format": "Bulk",
+          "hs_code": "2106.9",
+          "unit_cost_usd": 27.25,
+          "total_value_usd": 572.25
         },
         {
           "currency": "Canopy 4ft X 6ft with 2 years warranty",
@@ -10327,8 +10351,8 @@
   ],
   "totals": {
     "item_types": 109,
-    "total_units": 19051.788159576747,
-    "total_value_usd": 40467.55,
+    "total_units": 19082.788159576747,
+    "total_value_usd": 41392.6,
     "ledgers_processed": 16,
     "managers_count": 44,
     "qr_codes_assigned": 1172
