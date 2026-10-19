@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:42:14.226Z",
+  "generated_at": "2026-10-19T20:44:41.987Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -1528,7 +1528,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2399.5996,
+      "unit_cost_usd": 2399.8474,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1914,8 +1914,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2399.5996,
-          "total_value_usd": 1.1401944075275713e-10
+          "unit_cost_usd": 2399.8474,
+          "total_value_usd": 1.1403121522438921e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4135,10 +4135,10 @@
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
-          "amount": 2,
+          "amount": 1,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.185489499999999,
-          "total_value_usd": 10.370978999999998
+          "total_value_usd": 5.185489499999999
         },
         {
           "currency": "Hastings Serving Kettle Black - 1.5L",
@@ -10203,10 +10203,10 @@
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
-          "amount": 1,
+          "amount": 2,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.185489499999999,
-          "total_value_usd": 5.185489499999999
+          "total_value_usd": 10.370978999999998
         },
         {
           "currency": "Winnowing and Cracking Machine from Rusty",
