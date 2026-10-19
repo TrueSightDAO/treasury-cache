@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:41:38.492Z",
+  "generated_at": "2026-10-19T20:42:14.226Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -4132,13 +4132,6 @@
           "hs_code": "1804",
           "unit_cost_usd": 34.4,
           "total_value_usd": 172
-        },
-        {
-          "currency": "Foam container box - 120 kraft pouches capacity",
-          "amount": 2,
-          "ledger": "Main Ledger",
-          "unit_cost_usd": 24.109726042075938,
-          "total_value_usd": 48.219452084151875
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
@@ -10200,6 +10193,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 54.3,
           "total_value_usd": 54.3
+        },
+        {
+          "currency": "Foam container box - 120 kraft pouches capacity",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 24.109726042075938,
+          "total_value_usd": 48.219452084151875
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
