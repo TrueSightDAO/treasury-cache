@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-19T20:59:47.345Z` |
+| Generated at | `2026-10-19T21:00:29.756Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 109 |
-| Total units | 19082.788159576747 |
-| Total value USD | $41392.60 |
+| Total units | 18992.788159576747 |
+| Total value USD | $38940.10 |
 | Ledgers processed | 16 |
 | Managers | 44 |
 | QR codes assigned | 1172 |
@@ -32,7 +32,6 @@
 | Cacao Almonds KG from Paulo's farm - AGL8 | — | — | 263.585122798 | $18.21 | $4800.41 | AGL8: 263.585122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Cacao Tea 1g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 229 | $0.11 | $25.76 | Main Ledger: 229 |
-| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco | Cacao Nib | Bulk | 189.5 | $27.25 | $5163.88 | AGL13: 99.5, Main Ledger: 90 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 189 | $0.68 | $127.66 | Main Ledger: 189 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 169 | $0.07 | $11.91 | Main Ledger: 169 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 + 047-3175-3223 - San Francisco | Cacao Mass | Retail Ready | 169 | $13.78 | $2328.82 | AGL8: 169 |
@@ -45,6 +44,7 @@
 | Cacao Tea 50g QR code labels (batch 2024OSCAR_CT_20260820) | — | — | 100 | $0.81 | $81.31 | Main Ledger: 100 |
 | QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil | — | — | 100 | $0.13 | $13.01 | Main Ledger: 100 |
+| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco | Cacao Nib | Bulk | 99.5 | $27.25 | $2711.38 | AGL13: 99.5 |
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
 | Plastic Bag 40cm X 60cm - 10 kilograms capacity | — | — | 94 | $0.10 | $9.84 | Main Ledger: 94 |
 | Plastic Bag 12cm X 25cm - 500 grams capacity | — | — | 92 | $0.06 | $5.33 | Main Ledger: 92 |
@@ -141,7 +141,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 9 | 694.9153227979983 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 94 | 10440.997500497595 |
+| Main Ledger | 93 | 10350.997500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -191,7 +191,7 @@
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 | 5 |
 | USPS | 1 | 49.09 | — |
-| Val Lapidus | 16 | 1464 | — |
+| Val Lapidus | 15 | 1374 | — |
 | Yasmin | 1 | 40 | — |
 
 ---
