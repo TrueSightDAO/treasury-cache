@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-19T20:41:38.492Z` |
+| Generated at | `2026-10-19T20:42:14.226Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 109 |
@@ -166,7 +166,7 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 27 | 1818.5 | 51 |
+| Kirsten Ritschel | 26 | 1816.5 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 24 | 1380.585122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
@@ -191,7 +191,7 @@
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 | 5 |
 | USPS | 1 | 49.09 | — |
-| Val Lapidus | 12 | 1340 | — |
+| Val Lapidus | 13 | 1342 | — |
 | Yasmin | 1 | 40 | — |
 
 ---
