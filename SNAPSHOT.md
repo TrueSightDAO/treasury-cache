@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-19T20:40:56.082Z` |
+| Generated at | `2026-10-19T20:41:38.492Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 109 |
@@ -127,7 +127,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2399.21 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2399.60 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -166,7 +166,7 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 16 | 15 |
-| Kirsten Ritschel | 27 | 1888.5 | 51 |
+| Kirsten Ritschel | 27 | 1818.5 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 24 | 1380.585122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
@@ -191,7 +191,7 @@
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 | 5 |
 | USPS | 1 | 49.09 | — |
-| Val Lapidus | 11 | 1270 | — |
+| Val Lapidus | 12 | 1340 | — |
 | Yasmin | 1 | 40 | — |
 
 ---
