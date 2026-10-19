@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T21:00:29.756Z",
+  "generated_at": "2026-10-19T21:01:27.746Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -196,6 +196,21 @@
       }
     },
     {
+      "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
+      "unit_weight_g": 1000,
+      "unit_cost_usd": 27.25,
+      "inventory_type": "Cacao Nib",
+      "unit_format": "Bulk",
+      "gtin": null,
+      "hs_code": "1801",
+      "total_quantity": 189.5,
+      "total_value_usd": 5163.88,
+      "ledgers": {
+        "Main Ledger": 90,
+        "AGL13": 99.5
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
       "unit_weight_g": null,
       "unit_cost_usd": 0.6754468485418627,
@@ -364,20 +379,6 @@
       }
     },
     {
-      "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 27.25,
-      "inventory_type": "Cacao Nib",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": "1801",
-      "total_quantity": 99.5,
-      "total_value_usd": 2711.38,
-      "ledgers": {
-        "AGL13": 99.5
-      }
-    },
-    {
       "currency": "Cacao Mass Bar CP340992687BR (loose grams)",
       "unit_weight_g": 1,
       "unit_cost_usd": 0.04308051948,
@@ -487,21 +488,6 @@
       "total_value_usd": 500,
       "ledgers": {
         "Main Ledger": 50
-      }
-    },
-    {
-      "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 27.25,
-      "inventory_type": "Cacao Tea",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": "2106.9",
-      "total_quantity": 42,
-      "total_value_usd": 1144.5,
-      "ledgers": {
-        "Main Ledger": 21,
-        "AGL13": 21
       }
     },
     {
@@ -617,18 +603,17 @@
       }
     },
     {
-      "currency": "Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco",
+      "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
       "unit_weight_g": 1000,
-      "unit_cost_usd": 35.28,
-      "inventory_type": "Cacao Bean",
+      "unit_cost_usd": 27.25,
+      "inventory_type": "Cacao Tea",
       "unit_format": "Bulk",
       "gtin": null,
-      "hs_code": "1801",
-      "total_quantity": 20,
-      "total_value_usd": 705.6,
+      "hs_code": "2106.9",
+      "total_quantity": 21,
+      "total_value_usd": 572.25,
       "ledgers": {
-        "Main Ledger": 10,
-        "AGL8": 10
+        "AGL13": 21
       }
     },
     {
@@ -741,6 +726,20 @@
       "total_value_usd": 88.79,
       "ledgers": {
         "Main Ledger": 10
+      }
+    },
+    {
+      "currency": "Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco",
+      "unit_weight_g": 1000,
+      "unit_cost_usd": 35.28,
+      "inventory_type": "Cacao Bean",
+      "unit_format": "Bulk",
+      "gtin": null,
+      "hs_code": "1801",
+      "total_quantity": 10,
+      "total_value_usd": 352.8,
+      "ledgers": {
+        "AGL8": 10
       }
     },
     {
@@ -1530,7 +1529,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2396.7466,
+      "unit_cost_usd": 2398.6713,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1916,8 +1915,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2396.7466,
-          "total_value_usd": 1.1388387752609731e-10
+          "unit_cost_usd": 2398.6713,
+          "total_value_usd": 1.1397533162436305e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10147,17 +10146,6 @@
           "total_value_usd": 162.37
         },
         {
-          "currency": "Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco",
-          "amount": 10,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Bean",
-          "unit_format": "Bulk",
-          "hs_code": "1801",
-          "unit_cost_usd": 35.28,
-          "total_value_usd": 352.8
-        },
-        {
           "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
           "amount": 70,
           "ledger": "Main Ledger",
@@ -10167,6 +10155,17 @@
           "hs_code": "1801",
           "unit_cost_usd": 41.69,
           "total_value_usd": 2918.2999999999997
+        },
+        {
+          "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
+          "amount": 90,
+          "ledger": "Main Ledger",
+          "unit_weight_g": 1000,
+          "inventory_type": "Cacao Nib",
+          "unit_format": "Bulk",
+          "hs_code": "1801",
+          "unit_cost_usd": 27.25,
+          "total_value_usd": 2452.5
         },
         {
           "currency": "Cacao Nibs Kraft Pouch",
@@ -10185,17 +10184,6 @@
           "hs_code": "1801",
           "unit_cost_usd": 0.6754468485418627,
           "total_value_usd": 290.4421448730009
-        },
-        {
-          "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
-          "amount": 21,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Tea",
-          "unit_format": "Bulk",
-          "hs_code": "2106.9",
-          "unit_cost_usd": 27.25,
-          "total_value_usd": 572.25
         },
         {
           "currency": "Canopy 4ft X 6ft with 2 years warranty",
@@ -10339,8 +10327,8 @@
   ],
   "totals": {
     "item_types": 109,
-    "total_units": 18992.788159576747,
-    "total_value_usd": 38940.1,
+    "total_units": 19051.788159576747,
+    "total_value_usd": 40467.55,
     "ledgers_processed": 16,
     "managers_count": 44,
     "qr_codes_assigned": 1172
