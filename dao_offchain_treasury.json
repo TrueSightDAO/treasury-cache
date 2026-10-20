@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T08:53:46.884Z",
+  "generated_at": "2026-10-20T08:54:11.736Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7648.021977501568,
-      "total_value_usd": 7648.02,
+      "total_quantity": 7665.021977501568,
+      "total_value_usd": 7665.02,
       "ledgers": {
-        "Main Ledger": 2565.94064122041,
+        "Main Ledger": 2582.94064122041,
         "AGL6": 1337.5853362811577,
         "AGL8": 5.000000000000028,
         "AGL10": 347.83,
@@ -133,10 +133,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 347,
-      "total_value_usd": -520.5,
+      "total_quantity": 348,
+      "total_value_usd": -522,
       "ledgers": {
-        "Main Ledger": 347
+        "Main Ledger": 348
       }
     },
     {
@@ -680,10 +680,10 @@
       "unit_format": "Retail Ready",
       "gtin": null,
       "hs_code": "1803.1",
-      "total_quantity": 15,
-      "total_value_usd": 36.07,
+      "total_quantity": 14,
+      "total_value_usd": 33.66,
       "ledgers": {
-        "Main Ledger": 15
+        "Main Ledger": 14
       }
     },
     {
@@ -1941,10 +1941,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2357.6206412204097,
+          "amount": 2374.6206412204097,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2357.6206412204097
+          "total_value_usd": 2374.6206412204097
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -3853,14 +3853,14 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "amount": 15,
+          "amount": 14,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 2.4043643608428553,
-          "total_value_usd": 36.06546541264283
+          "total_value_usd": 33.661101051799974
         }
       ],
       "qr_codes": [
@@ -3878,18 +3878,6 @@
         },
         {
           "qr_code": "2024SA_20251227_14",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024SA_20251227_18",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024SA_20251227_19",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -9895,10 +9883,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 346,
+          "amount": 347,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -519
+          "total_value_usd": -520.5
         }
       ],
       "qr_codes": []
@@ -10314,10 +10302,10 @@
   ],
   "totals": {
     "item_types": 109,
-    "total_units": 19051.788159576754,
-    "total_value_usd": 40467.54,
+    "total_units": 19068.788159576754,
+    "total_value_usd": 40480.63,
     "ledgers_processed": 16,
     "managers_count": 44,
-    "qr_codes_assigned": 1168
+    "qr_codes_assigned": 1166
   }
 }
