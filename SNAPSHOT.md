@@ -5,15 +5,15 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-20T08:53:19.007Z` |
-| Trigger | `process_sales` |
+| Generated at | `2026-10-20T08:53:46.884Z` |
+| Trigger | `sales_update_main` |
 | Schema version | `5` |
 | Item types | 109 |
 | Total units | 19051.788159576754 |
 | Total value USD | $40467.54 |
 | Ledgers processed | 16 |
 | Managers | 44 |
-| QR codes assigned | 1171 |
+| QR codes assigned | 1168 |
 
 ## Items (109, sorted by total quantity)
 
@@ -165,7 +165,7 @@
 | iChakras Smart Healing Center - Crystal via Chloe | 1 | 5 | 5 |
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
-| Kelly Springer | 2 | 16 | 14 |
+| Kelly Springer | 2 | 16 | 11 |
 | Kirsten Ritschel | 24 | 1694.5 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 24 | 1380.585122798 | 327 |
