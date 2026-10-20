@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-20T20:48:36.785Z",
+  "generated_at": "2026-10-20T21:49:16.699Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,12 +12,12 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7750.021977501568,
-      "total_value_usd": 7750.02,
+      "total_quantity": 7745.021977501568,
+      "total_value_usd": 7745.02,
       "ledgers": {
         "Main Ledger": 2667.94064122041,
         "AGL6": 1337.5853362811577,
-        "AGL8": 5.000000000000028,
+        "AGL8": 2.842170943040401e-14,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
@@ -196,21 +196,6 @@
       }
     },
     {
-      "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 27.25,
-      "inventory_type": "Cacao Nib",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": "1801",
-      "total_quantity": 189.5,
-      "total_value_usd": 5163.88,
-      "ledgers": {
-        "Main Ledger": 90,
-        "AGL13": 99.5
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
       "unit_weight_g": null,
       "unit_cost_usd": 0.6754468485418627,
@@ -376,6 +361,20 @@
       "total_value_usd": 13.01,
       "ledgers": {
         "Main Ledger": 100
+      }
+    },
+    {
+      "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
+      "unit_weight_g": 1000,
+      "unit_cost_usd": 27.25,
+      "inventory_type": "Cacao Nib",
+      "unit_format": "Bulk",
+      "gtin": null,
+      "hs_code": "1801",
+      "total_quantity": 99.5,
+      "total_value_usd": 2711.38,
+      "ledgers": {
+        "AGL13": 99.5
       }
     },
     {
@@ -1529,7 +1528,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2440.8893000000003,
+      "unit_cost_usd": 2449.215,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1816,10 +1815,10 @@
         },
         {
           "currency": "[AGL8] USD",
-          "amount": 5.000000000000028,
+          "amount": 2.842170943040401e-14,
           "ledger": "AGL8",
           "unit_cost_usd": 1,
-          "total_value_usd": 5
+          "total_value_usd": 0
         },
         {
           "currency": "[BEC] USD",
@@ -1915,8 +1914,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2440.8893000000003,
-          "total_value_usd": 1.1598136327635197e-10
+          "unit_cost_usd": 2449.215,
+          "total_value_usd": 1.1637696746709912e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10132,17 +10131,6 @@
           "total_value_usd": 2918.2999999999997
         },
         {
-          "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
-          "amount": 90,
-          "ledger": "Main Ledger",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Nib",
-          "unit_format": "Bulk",
-          "hs_code": "1801",
-          "unit_cost_usd": 27.25,
-          "total_value_usd": 2452.5
-        },
-        {
           "currency": "Cacao Nibs Kraft Pouch",
           "amount": 806,
           "ledger": "Main Ledger",
@@ -10302,8 +10290,8 @@
   ],
   "totals": {
     "item_types": 109,
-    "total_units": 19153.788159576754,
-    "total_value_usd": 40546.11,
+    "total_units": 19058.788159576754,
+    "total_value_usd": 38088.61,
     "ledgers_processed": 16,
     "managers_count": 44,
     "qr_codes_assigned": 1166
