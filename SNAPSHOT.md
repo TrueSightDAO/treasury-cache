@@ -5,15 +5,15 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-20T08:48:55.087Z` |
-| Trigger | `cron` |
+| Generated at | `2026-10-20T08:53:19.007Z` |
+| Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 109 |
 | Total units | 19051.788159576754 |
 | Total value USD | $40467.54 |
 | Ledgers processed | 16 |
 | Managers | 44 |
-| QR codes assigned | 1172 |
+| QR codes assigned | 1171 |
 
 ## Items (109, sorted by total quantity)
 
@@ -127,7 +127,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2385.59 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2384.86 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -165,7 +165,7 @@
 | iChakras Smart Healing Center - Crystal via Chloe | 1 | 5 | 5 |
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
-| Kelly Springer | 2 | 16 | 15 |
+| Kelly Springer | 2 | 16 | 14 |
 | Kirsten Ritschel | 24 | 1694.5 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 24 | 1380.585122798 | 327 |
