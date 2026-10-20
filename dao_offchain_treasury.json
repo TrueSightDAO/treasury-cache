@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T08:53:19.007Z",
+  "generated_at": "2026-10-20T08:53:46.884Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 5,
   "items": [
     {
@@ -3926,24 +3926,6 @@
         },
         {
           "qr_code": "2024SA_20251227_27",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024SA_20251227_28",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024SA_20251227_29",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024SA_20251227_30",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Santa Ana 2023 | Kirsten 20251227 | San Francisco - AGL2",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -10336,6 +10318,6 @@
     "total_value_usd": 40467.54,
     "ledgers_processed": 16,
     "managers_count": 44,
-    "qr_codes_assigned": 1171
+    "qr_codes_assigned": 1168
   }
 }
