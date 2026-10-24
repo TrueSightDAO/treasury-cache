@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T03:48:38.543Z",
+  "generated_at": "2026-10-24T00:48:36.714Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,16 +12,16 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7744.875671876079,
-      "total_value_usd": 7744.88,
+      "total_quantity": 7620.68567187608,
+      "total_value_usd": 7620.69,
       "ledgers": {
-        "Main Ledger": 2667.794335594922,
+        "Main Ledger": 2611.154335594922,
         "AGL6": 1337.5853362811577,
         "AGL8": 2.842170943040401e-14,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
-        "AGL15": 2518.046,
+        "AGL15": 2450.4959999999996,
         "BEC": 93.12
       }
     },
@@ -47,10 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 2165.07,
-      "total_value_usd": 2165.07,
+      "total_quantity": 2214.61,
+      "total_value_usd": 2214.61,
       "ledgers": {
-        "AGL15": 2165.07
+        "AGL15": 2214.61
       }
     },
     {
@@ -245,10 +245,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 145.054,
-      "total_value_usd": 145.05,
+      "total_quantity": 163.064,
+      "total_value_usd": 163.06,
       "ledgers": {
-        "AGL15": 145.054
+        "AGL15": 163.064
       }
     },
     {
@@ -1528,7 +1528,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2406.3453,
+      "unit_cost_usd": 2367.4428000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1563,10 +1563,10 @@
       "items": [
         {
           "currency": "[AGL15] AGL13 equity holdings",
-          "amount": 2165.07,
+          "amount": 2214.61,
           "ledger": "AGL15",
           "unit_cost_usd": 1,
-          "total_value_usd": 2165.07
+          "total_value_usd": 2214.61
         }
       ],
       "qr_codes": []
@@ -1577,10 +1577,10 @@
       "items": [
         {
           "currency": "[AGL15] AGL8 equity holdings",
-          "amount": 145.054,
+          "amount": 163.064,
           "ledger": "AGL15",
           "unit_cost_usd": 1,
-          "total_value_usd": 145.05
+          "total_value_usd": 163.06
         }
       ],
       "qr_codes": []
@@ -1767,10 +1767,10 @@
         },
         {
           "currency": "[AGL15] USD",
-          "amount": 2518.046,
+          "amount": 2450.4959999999996,
           "ledger": "AGL15",
           "unit_cost_usd": 1,
-          "total_value_usd": 2518.05
+          "total_value_usd": 2450.5
         },
         {
           "currency": "[AGL6] 8 Ounce Package Kraft Pouch - AGL6",
@@ -1914,8 +1914,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2406.3453,
-          "total_value_usd": 1.1433996961994225e-10
+          "unit_cost_usd": 2367.4428000000003,
+          "total_value_usd": 1.1249147735736474e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1940,10 +1940,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2459.4743355949217,
+          "amount": 2402.834335594922,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2459.4743355949217
+          "total_value_usd": 2402.834335594922
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -10290,8 +10290,8 @@
   ],
   "totals": {
     "item_types": 109,
-    "total_units": 19056.788159576747,
-    "total_value_usd": 38077.37,
+    "total_units": 19000.14815957675,
+    "total_value_usd": 38020.73,
     "ledgers_processed": 16,
     "managers_count": 44,
     "qr_codes_assigned": 1166
