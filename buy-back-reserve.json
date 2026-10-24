@@ -1,16 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-23T10:36:41Z",
+  "generated_at": "2026-10-24T09:54:58Z",
   "source": "update_buy_back_reserve_cache.py",
   "reserve": {
-    "total_usd": 57.05,
+    "total_usd": 57.1,
     "label": "Accumulated Buy-Back Reserve",
     "description": "Total USD provisions set aside for buy-back and voting rights cash-out. Funded by daily allocations from DAO treasury revenue."
   },
   "daily_buy_back_budget": null,
   "summary": {
-    "total_provisions_count": 397,
-    "total_provisions_amount": 57.19
+    "total_provisions_count": 398,
+    "total_provisions_amount": 57.24
   },
   "provisions": [
     {
@@ -1995,6 +1995,11 @@
     },
     {
       "date": "20261023",
+      "description": "[DAILY BUYBACK PROVISION]",
+      "amount": 0.05
+    },
+    {
+      "date": "20261024",
       "description": "[DAILY BUYBACK PROVISION]",
       "amount": 0.05
     }
