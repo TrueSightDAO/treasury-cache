@@ -5,11 +5,11 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-24T00:48:36.714Z` |
+| Generated at | `2026-10-24T03:48:37.707Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 109 |
-| Total units | 19000.14815957675 |
+| Total units | 19000.148159576744 |
 | Total value USD | $38020.73 |
 | Ledgers processed | 16 |
 | Managers | 44 |
@@ -19,7 +19,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 7620.68567187608 | $1.00 | $7620.69 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 2.842170943040401e-14, BEC: 93.12, Main Ledger: 2611.154335594922, SEF1: 16 |
+| USD | — | — | 7620.63690333425 | $1.00 | $7620.64 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 2.842170943040401e-14, BEC: 93.12, Main Ledger: 2611.1055670530927, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 2214.61 | $1.00 | $2214.61 | AGL15: 2214.61 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -50,7 +50,7 @@
 | Plastic Bag 12cm X 25cm - 500 grams capacity | — | — | 92 | $0.06 | $5.33 | Main Ledger: 92 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Nib | Bulk | 80 | $41.69 | $3335.20 | Main Ledger: 80 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
-| USD - provisions for voting rights cash out | — | — | 57.04787400267284 | $1.00 | $57.05 | Main Ledger: 57.04787400267284 |
+| USD - provisions for voting rights cash out | — | — | 57.09664254450199 | $1.00 | $57.10 | Main Ledger: 57.09664254450199 |
 | Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
 | Chocolate Mold from Rusty | — | — | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 38 | $9.02 | $342.73 | Main Ledger: 38 |
@@ -127,7 +127,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2367.44 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2381.28 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -141,7 +141,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 9 | 689.9153227979983 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 91 | 10363.357500497594 |
+| Main Ledger | 91 | 10363.357500497596 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
