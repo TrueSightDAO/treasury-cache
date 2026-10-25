@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T23:48:40.750Z",
+  "generated_at": "2026-10-25T00:48:43.831Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -1528,7 +1528,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2354.8307,
+      "unit_cost_usd": 2357.3521,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1914,8 +1914,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2354.8307,
-          "total_value_usd": 1.1189220046603758e-10
+          "unit_cost_usd": 2357.3521,
+          "total_value_usd": 1.120120073779549e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4485,13 +4485,6 @@
       "manager_key": "Matheus%20Reis",
       "items": [
         {
-          "currency": "[AGL16] Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
-          "amount": 108,
-          "ledger": "AGL16",
-          "unit_cost_usd": 12.14,
-          "total_value_usd": 1311.12
-        },
-        {
           "currency": "[AGL8] Cacao Almonds KG from Paulo's farm - AGL8",
           "amount": 263.585122798,
           "ledger": "AGL8",
@@ -6754,6 +6747,20 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 8.591999999999999,
           "total_value_usd": 25.775999999999996
+        }
+      ],
+      "qr_codes": []
+    },
+    {
+      "manager_name": "Orlantildes",
+      "manager_key": "Orlantildes",
+      "items": [
+        {
+          "currency": "[AGL16] Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
+          "amount": 108,
+          "ledger": "AGL16",
+          "unit_cost_usd": 12.14,
+          "total_value_usd": 1311.12
         }
       ],
       "qr_codes": []
@@ -10293,7 +10300,7 @@
     "total_units": 19000.148159576744,
     "total_value_usd": 38020.73,
     "ledgers_processed": 16,
-    "managers_count": 44,
+    "managers_count": 45,
     "qr_codes_assigned": 1166
   }
 }
