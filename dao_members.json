@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T03:25:03.519Z",
+  "generated_at": "2026-10-25T03:25:06.349Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
   "trigger": "cron",
@@ -12,9 +12,9 @@
   },
   "dao_totals": {
     "voting_rights_circulated": 2501791.0719001554,
-    "total_assets": 14242.261,
+    "total_assets": 14243.761,
     "asset_per_circulated_voting_right": 0.00569,
-    "usd_provisions_for_cash_out": 57.04787
+    "usd_provisions_for_cash_out": 57.09664
   },
   "unjoined_governor_names": [],
   "contributors": [
@@ -362,7 +362,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAxtYZCQNxGqMPbmsslkC7T5g/aLx31+7iYSvxPbmH8kbk0E1wWYW0u2+wDMBwlJbkTIxKf+hNBIlnS6aFslmUeyaCJ9j54L9DEDFafIuxss+N/DUCZRevFq+x++fB3IdX3AaDHm3ZFBonfOdKbxMUOsmWZAxmN+9LVRTbnMAg8foVrmu1EoTxT3WO/U5aGPmfCsD4YVrxkU1wZObqw/0vV/1xdcki7Pvx9B6Y6tmhXauUq7MEK4WvBq3xdlRohoZVxVe3zsDErMUT9do4evjD4oia3qebsd0xQmdW8HLSgFv2wNEaHVvr3VyErOmanjpkST8eQmrDur66g0c1tnXTdQIDAQAB",
           "status": "ACTIVE",
           "created_at": "2025-08-27T16:02:14.000Z",
-          "last_active_at": "20261022 20:24:44"
+          "last_active_at": "20261023 20:24:45"
         }
       ]
     },
@@ -1737,7 +1737,7 @@
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyC5HgVLODmtFQZiM91XKoZTPuaaOW8EWPf6Sv+0a74Ji7cSAjZEsYbHSKbg6k2qb8gWzxX3KuDZVTgjytbeM/P40k6b5Px3PcBbNXmMzznxG6UaiskP8dGp/bZMmygXFq9MbQ9vsGJ9AS2XtngSlJ9BEMxZo4/fKvxco+8fGTt02BIyqhJQ2KW/jHro0W8/nyhtY/2KcOKWjedt1MqVWMzKotXpPFVPfimAmsRqdFHKlyGzlTPALF1iBA7Zee1zfxeZWHYegADhTivp0Xf3gytcSZcAwGGRbOuCS69NT6G4P5YiZ/lw4a1DM1b22I0TY92dMlEI7wOQNmi0I2+iFpQIDAQAB",
           "status": "ACTIVE",
           "created_at": "",
-          "last_active_at": "20260416 23:10:41"
+          "last_active_at": "20261024 06:31:25"
         },
         {
           "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzxcTlwzjiiTKlaiAqnDTRgaCGcu0lHvft7vwMA7lTGmlu4GaLx6j/I5PiLf4gPPEPx/zQ0J4AlTpSofV+BQy9iVSJpFWp7OGlAFwIkIR3se72axZq/l8rkp7dN40DL1psu+AicgaRrThHZIHln83VkVNYNVtnzz4XK+Jn4y1J3O2oqWQhtxQuDUaZ3kLXA9WyrLdoyoNBb5qXrC/XrG962Mg0KuJPX2b0BjlAPMSl0BgRWXMl3Ak3cGt9q96XctUVdR/jYvuKQMzXIz3UcoZsk/eAJHrgDLilwxeEi9GGl8WYLKc2GpM1JOdd5GR1XvyEtPWwJ43LoXvCulc34JvcwIDAQAB",
