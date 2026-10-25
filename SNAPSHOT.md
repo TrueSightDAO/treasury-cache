@@ -5,14 +5,14 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-24T23:48:40.750Z` |
+| Generated at | `2026-10-25T00:48:43.831Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 109 |
 | Total units | 19000.148159576744 |
 | Total value USD | $38020.73 |
 | Ledgers processed | 16 |
-| Managers | 44 |
+| Managers | 45 |
 | QR codes assigned | 1166 |
 
 ## Items (109, sorted by total quantity)
@@ -127,7 +127,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2354.83 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2357.35 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -145,7 +145,7 @@
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
-## Managers (44)
+## Managers (45)
 
 | Manager | Line items | Total units | QR codes |
 |---|---:|---:|---:|
@@ -168,11 +168,12 @@
 | Kelly Springer | 2 | 10 | 9 |
 | Kirsten Ritschel | 24 | 1692.5 | 51 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 24 | 1380.585122798 | 327 |
+| Matheus Reis | 23 | 1272.585122798 | 327 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
 | Nima Kaz | 1 | 3 | — |
+| Orlantildes | 1 | 108 | — |
 | Paloma | 8 | 668.32 | 91 |
 | Paulo Hernandez | 2 | 5 | — |
 | pk-qkejKJJW3IAD | 1 | 103 | — |
