@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T10:25:09.607Z",
+  "generated_at": "2026-10-27T11:48:39.532Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7595.510582299802,
-      "total_value_usd": 7595.51,
+      "total_quantity": 7757.010582299802,
+      "total_value_usd": 7757.01,
       "ledgers": {
-        "Main Ledger": 2585.979246018645,
+        "Main Ledger": 2747.479246018645,
         "AGL6": 1337.5853362811577,
         "AGL8": 2.842170943040401e-14,
         "AGL10": 347.83,
@@ -1556,7 +1556,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2298.4680000000003,
+      "unit_cost_usd": 2310.9309000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1942,8 +1942,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2298.4680000000003,
-          "total_value_usd": 1.0921406885886637e-10
+          "unit_cost_usd": 2310.9309000000003,
+          "total_value_usd": 1.0980625635887994e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1968,10 +1968,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2377.659246018645,
+          "amount": 2539.159246018645,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2377.659246018645
+          "total_value_usd": 2539.159246018645
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -10580,8 +10580,8 @@
   ],
   "totals": {
     "item_types": 111,
-    "total_units": 18890.168159576744,
-    "total_value_usd": 37997.24,
+    "total_units": 19051.668159576744,
+    "total_value_usd": 38158.74,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1206
