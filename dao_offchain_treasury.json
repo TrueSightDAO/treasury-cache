@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T11:48:39.532Z",
+  "generated_at": "2026-10-27T13:48:42.986Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,12 +12,12 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7757.010582299802,
-      "total_value_usd": 7757.01,
+      "total_quantity": 7774.010582299802,
+      "total_value_usd": 7774.01,
       "ledgers": {
         "Main Ledger": 2747.479246018645,
         "AGL6": 1337.5853362811577,
-        "AGL8": 2.842170943040401e-14,
+        "AGL8": 17.00000000000003,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
@@ -952,20 +952,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 9.1754468485,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 4,
-      "total_value_usd": 36.7,
-      "ledgers": {
-        "AGL8": 4
-      }
-    },
-    {
       "currency": "Cacao Mass Bar (40grams) CP340993869BR - AGL8",
       "unit_weight_g": 40,
       "unit_cost_usd": 1.896747446,
@@ -1061,6 +1047,20 @@
       "total_value_usd": 6.11,
       "ledgers": {
         "Main Ledger": 3
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 9.1754468485,
+      "inventory_type": "Cacao Mass",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 3,
+      "total_value_usd": 27.53,
+      "ledgers": {
+        "AGL8": 3
       }
     },
     {
@@ -1556,7 +1556,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2310.9309000000003,
+      "unit_cost_usd": 2326.7394,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1942,8 +1942,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2310.9309000000003,
-          "total_value_usd": 1.0980625635887994e-10
+          "unit_cost_usd": 2326.7394,
+          "total_value_usd": 1.1055741348073473e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -7599,14 +7599,21 @@
       "items": [
         {
           "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-          "amount": 4,
+          "amount": 3,
           "ledger": "AGL8",
           "unit_weight_g": 200,
           "inventory_type": "Cacao Mass",
           "unit_format": "Retail Ready",
           "hs_code": "1803.1",
           "unit_cost_usd": 9.1754468485,
-          "total_value_usd": 36.7
+          "total_value_usd": 27.53
+        },
+        {
+          "currency": "[AGL8] USD",
+          "amount": 17,
+          "ledger": "AGL8",
+          "unit_cost_usd": 1,
+          "total_value_usd": 17
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
@@ -10580,8 +10587,8 @@
   ],
   "totals": {
     "item_types": 111,
-    "total_units": 19051.668159576744,
-    "total_value_usd": 38158.74,
+    "total_units": 19067.668159576744,
+    "total_value_usd": 38166.57,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1206
