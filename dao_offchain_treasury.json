@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-27T13:48:42.986Z",
+  "generated_at": "2026-10-27T17:48:45.196Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7774.010582299802,
-      "total_value_usd": 7774.01,
+      "total_quantity": 8029.010582299802,
+      "total_value_usd": 8029.01,
       "ledgers": {
-        "Main Ledger": 2747.479246018645,
+        "Main Ledger": 3002.479246018645,
         "AGL6": 1337.5853362811577,
         "AGL8": 17.00000000000003,
         "AGL10": 347.83,
@@ -112,6 +112,20 @@
       }
     },
     {
+      "currency": "Cacao Tree To Be Planted",
+      "unit_weight_g": null,
+      "unit_cost_usd": -1.5,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 367,
+      "total_value_usd": -550.5,
+      "ledgers": {
+        "Main Ledger": 367
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771",
       "unit_weight_g": null,
       "unit_cost_usd": 0.73529,
@@ -123,20 +137,6 @@
       "total_value_usd": 268.38,
       "ledgers": {
         "Main Ledger": 365
-      }
-    },
-    {
-      "currency": "Cacao Tree To Be Planted",
-      "unit_weight_g": null,
-      "unit_cost_usd": -1.5,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 352,
-      "total_value_usd": -528,
-      "ledgers": {
-        "Main Ledger": 352
       }
     },
     {
@@ -602,20 +602,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 8.375283531111112,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 25,
-      "total_value_usd": 209.38,
-      "ledgers": {
-        "Main Ledger": 25
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch CP340993268BR - Switzerland",
       "unit_weight_g": null,
       "unit_cost_usd": 9.9529856456974,
@@ -725,6 +711,20 @@
       "total_value_usd": 101.93,
       "ledgers": {
         "Main Ledger": 12
+      }
+    },
+    {
+      "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
+      "unit_weight_g": 200,
+      "unit_cost_usd": 8.375283531111112,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": "1803.1",
+      "total_quantity": 11,
+      "total_value_usd": 92.13,
+      "ledgers": {
+        "Main Ledger": 11
       }
     },
     {
@@ -1556,7 +1556,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2326.7394,
+      "unit_cost_usd": 2348.8742,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1942,8 +1942,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2326.7394,
-          "total_value_usd": 1.1055741348073473e-10
+          "unit_cost_usd": 2348.8742,
+          "total_value_usd": 1.1160917124781144e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -7617,12 +7617,19 @@
         },
         {
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "amount": 15,
+          "amount": 1,
           "ledger": "Main Ledger",
           "unit_weight_g": 200,
           "hs_code": "1803.1",
           "unit_cost_usd": 8.375283531111112,
-          "total_value_usd": 125.62925296666668
+          "total_value_usd": 8.375283531111112
+        },
+        {
+          "currency": "USD",
+          "amount": 255,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 255
         },
         {
           "currency": "[SEF1] NovaGaia Tree Planting Pledge - QR Code",
@@ -7633,30 +7640,6 @@
         }
       ],
       "qr_codes": [
-        {
-          "qr_code": "2024OSCAR_20250728_25",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024PAULO_20250804_19",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20250804_21",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20250804_22",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
         {
           "qr_code": "20250716_SEF_4",
           "status": "MINTED",
@@ -9438,90 +9421,6 @@
           "status": "MINTED",
           "currency": "NovaGaia Tree Planting Pledge - QR Code",
           "ledger_shortcut": "https://truesight.me/sunmint/sef1"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_1",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_2",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_3",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_4",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_5",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_6",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_7",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_8",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_9",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_10",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_11",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_12",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_13",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20251211_14",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251211 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
         }
       ]
     },
@@ -10163,6 +10062,18 @@
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
           "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2024_20261027_1",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_2",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         }
       ]
     },
@@ -10179,10 +10090,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 351,
+          "amount": 366,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -526.5
+          "total_value_usd": -549
         }
       ],
       "qr_codes": []
@@ -10587,10 +10498,10 @@
   ],
   "totals": {
     "item_types": 111,
-    "total_units": 19067.668159576744,
-    "total_value_usd": 38166.57,
+    "total_units": 19323.668159576744,
+    "total_value_usd": 38281.82,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1206
+    "qr_codes_assigned": 1190
   }
 }
