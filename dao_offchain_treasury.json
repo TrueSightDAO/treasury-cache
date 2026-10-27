@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T07:48:36.569Z",
+  "generated_at": "2026-10-27T10:11:22.631Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -252,20 +252,6 @@
       }
     },
     {
-      "currency": "Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.0705,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 129,
-      "total_value_usd": 9.09,
-      "ledgers": {
-        "Main Ledger": 129
-      }
-    },
-    {
       "currency": "Cacao Almonds KG from Oscar's farm - AGL16 (2026)",
       "unit_weight_g": null,
       "unit_cost_usd": 12.14,
@@ -406,6 +392,20 @@
       }
     },
     {
+      "currency": "Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.0705,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 89,
+      "total_value_usd": 6.27,
+      "ledgers": {
+        "Main Ledger": 89
+      }
+    },
+    {
       "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
       "unit_weight_g": 1000,
       "unit_cost_usd": 41.69,
@@ -413,24 +413,10 @@
       "unit_format": "Bulk",
       "gtin": null,
       "hs_code": "1801",
-      "total_quantity": 80,
-      "total_value_usd": 3335.2,
+      "total_quantity": 78,
+      "total_value_usd": 3251.82,
       "ledgers": {
-        "Main Ledger": 80
-      }
-    },
-    {
-      "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.554,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 74,
-      "total_value_usd": 41,
-      "ledgers": {
-        "Main Ledger": 74
+        "Main Ledger": 78
       }
     },
     {
@@ -487,6 +473,20 @@
       "total_value_usd": 500,
       "ledgers": {
         "Main Ledger": 50
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+      "unit_weight_g": null,
+      "unit_cost_usd": 2.709,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 40,
+      "total_value_usd": 108.36,
+      "ledgers": {
+        "Main Ledger": 40
       }
     },
     {
@@ -555,6 +555,20 @@
       "hs_code": null,
       "total_quantity": 34,
       "total_value_usd": 4.78,
+      "ledgers": {
+        "Main Ledger": 34
+      }
+    },
+    {
+      "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.554,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 34,
+      "total_value_usd": 18.84,
       "ledgers": {
         "Main Ledger": 34
       }
@@ -1542,7 +1556,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2304.6152,
+      "unit_cost_usd": 2303.9205,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1928,8 +1942,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2304.6152,
-          "total_value_usd": 1.095061593835503e-10
+          "unit_cost_usd": 2303.9205,
+          "total_value_usd": 1.0947314999919679e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4003,6 +4017,13 @@
           "total_value_usd": 22.496418390804596
         },
         {
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "amount": 40,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 2.709,
+          "total_value_usd": 108.36
+        },
+        {
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
           "amount": 37,
           "ledger": "Main Ledger",
@@ -4025,14 +4046,14 @@
         },
         {
           "currency": "Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
-          "amount": 10,
+          "amount": 8,
           "ledger": "Main Ledger",
           "unit_weight_g": 1000,
           "inventory_type": "Cacao Nib",
           "unit_format": "Bulk",
           "hs_code": "1801",
           "unit_cost_usd": 41.69,
-          "total_value_usd": 416.9
+          "total_value_usd": 333.52
         },
         {
           "currency": "Cacao Nibs Kraft Pouch - 20250219006",
@@ -4120,10 +4141,10 @@
         },
         {
           "currency": "Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033)",
-          "amount": 129,
+          "amount": 89,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.0705,
-          "total_value_usd": 9.094499999999998
+          "total_value_usd": 6.2745
         },
         {
           "currency": "Label Maker",
@@ -4149,10 +4170,10 @@
         },
         {
           "currency": "Sticker Mule 4x2in custom rectangle label (per piece, order R384751187)",
-          "amount": 74,
+          "amount": 34,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.554,
-          "total_value_usd": 40.996
+          "total_value_usd": 18.836000000000002
         }
       ],
       "qr_codes": [
@@ -7612,12 +7633,6 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
-          "qr_code": "2024PAULO_20250804_18",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
           "qr_code": "2024PAULO_20250804_19",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
@@ -10564,11 +10579,11 @@
     }
   ],
   "totals": {
-    "item_types": 110,
-    "total_units": 18932.168159576744,
+    "item_types": 111,
+    "total_units": 18890.168159576744,
     "total_value_usd": 37997.24,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1207
+    "qr_codes_assigned": 1206
   }
 }
