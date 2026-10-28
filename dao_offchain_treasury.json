@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T01:49:18.755Z",
+  "generated_at": "2026-10-28T13:48:59.882Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 8029.010582299802,
-      "total_value_usd": 8029.01,
+      "total_quantity": 8028.914429403802,
+      "total_value_usd": 8028.91,
       "ledgers": {
-        "Main Ledger": 3002.479246018645,
+        "Main Ledger": 3002.3830931226457,
         "AGL6": 1337.5853362811577,
         "AGL8": 17.00000000000003,
         "AGL10": 347.83,
@@ -441,10 +441,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 57.242963578950025,
-      "total_value_usd": 57.24,
+      "total_quantity": 57.33911647494933,
+      "total_value_usd": 57.34,
       "ledgers": {
-        "Main Ledger": 57.242963578950025
+        "Main Ledger": 57.33911647494933
       }
     },
     {
@@ -1556,7 +1556,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2350.3219,
+      "unit_cost_usd": 2337.2136,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1942,8 +1942,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2350.3219,
-          "total_value_usd": 1.1167796020092584e-10
+          "unit_cost_usd": 2337.2136,
+          "total_value_usd": 1.1105510585671802e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1968,17 +1968,17 @@
         },
         {
           "currency": "USD",
-          "amount": 2539.159246018645,
+          "amount": 2539.0630931226456,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2539.159246018645
+          "total_value_usd": 2539.0630931226456
         },
         {
           "currency": "USD - provisions for voting rights cash out",
-          "amount": 57.242963578950025,
+          "amount": 57.33911647494933,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 57.242963578950025
+          "total_value_usd": 57.33911647494933
         },
         {
           "currency": "USDT",
@@ -2366,7 +2366,7 @@
           "qr_code": "2024_20250901_41",
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch - AGL6",
-          "ledger_shortcut": "https://www.agroverse.shop/shipments/agl6"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl6"
         },
         {
           "qr_code": "2024_20250902_1",
@@ -3206,7 +3206,7 @@
           "qr_code": "2024_20260622_22",
           "status": "MINTED",
           "currency": "Cacao Tea 1LB - Oscar Fazenda 2024",
-          "ledger_shortcut": "https://www.agroverse.shop/shipments/agl4"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "DTS_FR_20260624_2",
@@ -10498,7 +10498,7 @@
   ],
   "totals": {
     "item_types": 111,
-    "total_units": 19323.668159576744,
+    "total_units": 19323.668159576748,
     "total_value_usd": 38281.82,
     "ledgers_processed": 16,
     "managers_count": 45,
