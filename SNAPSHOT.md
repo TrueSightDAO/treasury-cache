@@ -5,21 +5,21 @@
 
 | | |
 |---|---|
-| Generated at | `2026-10-29T05:43:52.571Z` |
-| Trigger | `sales_update_agl` |
+| Generated at | `2026-10-29T05:48:32.755Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 111 |
-| Total units | 19193.168159576744 |
-| Total value USD | $38127.59 |
+| Item types | 110 |
+| Total units | 19209.168159576744 |
+| Total value USD | $38135.41 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1190 |
 
-## Items (111, sorted by total quantity)
+## Items (110, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 7901.340812342803 | $1.00 | $7901.34 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 51.00000000000003, BEC: 93.12, Main Ledger: 2840.8094760616464, SEF1: 16 |
+| USD | — | — | 7918.340812342803 | $1.00 | $7918.34 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 2840.8094760616464, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 2214.61 | $1.00 | $2214.61 | AGL15: 2214.61 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
@@ -126,10 +126,9 @@
 | Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus | — | — | 1 | $4.78 | $4.78 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8 | Cacao Mass | Retail Ready | 1 | $9.18 | $9.18 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2325.53 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2324.02 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -141,7 +140,7 @@
 | AGL15 | 3 | 4828.17 |
 | AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
-| AGL8 | 9 | 737.9153227979982 |
+| AGL8 | 8 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
 | Main Ledger | 92 | 10470.377500497594 |
 | PP1 | 1 | 10 |
@@ -182,7 +181,7 @@
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
 | Rune Shields | 2 | 5 | 5 |
-| Sacred Earth Farms | 4 | 442.5 | 297 |
+| Sacred Earth Farms | 3 | 458.5 | 297 |
 | Sammi Whitchurch | 1 | 5 | 5 |
 | Santos José Carlos | 1 | 1 | — |
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
