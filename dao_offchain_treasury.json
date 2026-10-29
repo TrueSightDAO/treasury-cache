@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T05:43:52.571Z",
+  "generated_at": "2026-10-29T05:48:32.755Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_agl",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -12,12 +12,12 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7901.340812342803,
-      "total_value_usd": 7901.34,
+      "total_quantity": 7918.340812342803,
+      "total_value_usd": 7918.34,
       "ledgers": {
         "Main Ledger": 2840.8094760616464,
         "AGL6": 1337.5853362811577,
-        "AGL8": 51.00000000000003,
+        "AGL8": 68.00000000000003,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
@@ -1512,20 +1512,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 9.1754468485,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 1,
-      "total_value_usd": 9.18,
-      "ledgers": {
-        "AGL8": 1
-      }
-    },
-    {
       "currency": "Cacao Almonds KG - Organic",
       "unit_weight_g": 1000,
       "unit_cost_usd": 100.886,
@@ -1556,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2325.532,
+      "unit_cost_usd": 2324.0202,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1942,8 +1928,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2325.532,
-          "total_value_usd": 1.1050004262904562e-10
+          "unit_cost_usd": 2324.0202,
+          "total_value_usd": 1.104282078985639e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -7598,22 +7584,11 @@
       "manager_key": "Sacred%20Earth%20Farms",
       "items": [
         {
-          "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993869BR San Francisco - AGL8",
-          "amount": 1,
-          "ledger": "AGL8",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
-          "unit_cost_usd": 9.1754468485,
-          "total_value_usd": 9.18
-        },
-        {
           "currency": "[AGL8] USD",
-          "amount": 51,
+          "amount": 68,
           "ledger": "AGL8",
           "unit_cost_usd": 1,
-          "total_value_usd": 51
+          "total_value_usd": 68
         },
         {
           "currency": "USD",
@@ -10488,9 +10463,9 @@
     }
   ],
   "totals": {
-    "item_types": 111,
-    "total_units": 19193.168159576744,
-    "total_value_usd": 38127.59,
+    "item_types": 110,
+    "total_units": 19209.168159576744,
+    "total_value_usd": 38135.41,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1190
