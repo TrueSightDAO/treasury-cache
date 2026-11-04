@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "sha256": "f319905d5d5dd85f5899b9f1e465fc9d149ad10de2f9a7a1c1df3378734bd993",
+  "public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA6owTwrPjyqz1ZS/TkLogP2YTQ51ESUwsdpU7YRKD+J60FGSZYmxbLx5/nrjXuJeqzez54tubq49vkdiSrJzPCsjtP6D/nPJKki3dJnx/9hFWVu6NgmqlKvXQecAxd/0EhuMw2iEzCfZUr7vz5DOA/Hzd7V/VQCKhBYwD23+H+XqRDYzEwwOqnmaLLNj8sNh0GpCxz1CtdLSB6tm8x0aJkcjfx5A7M407ZccL3FrdHM26eI7R5v5kS4uOrYJBj27GmtAHRZOp4or9LLX991l6/7HHOhluXwpqmg2b1Rlww7gbriL66+dZbW5rpuo7PdDc6DJe4Ij4dJULqfBx0aI4UQIDAQAB",
+  "contributor": "Deep Seek",
+  "roles": [
+    "member",
+    "sentinel"
+  ],
+  "status": "ACTIVE",
+  "created_at": "2026-06-19T10:32:54.000Z",
+  "last_active_at": "2026-06-19T10:37:17.000Z",
+  "generated_at": "2026-11-04T10:49:49.000Z"
+}
