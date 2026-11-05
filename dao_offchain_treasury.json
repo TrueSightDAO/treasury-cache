@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-05T08:48:47.306Z",
+  "generated_at": "2026-11-05T09:39:34.177Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "currency_conversion",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7917.845189125909,
-      "total_value_usd": 7917.85,
+      "total_quantity": 6986.36518912591,
+      "total_value_usd": 6986.37,
       "ledgers": {
-        "Main Ledger": 2840.313852844753,
+        "Main Ledger": 1908.8338528447528,
         "AGL6": 1337.5853362811577,
         "AGL8": 68.00000000000003,
         "AGL10": 347.83,
@@ -23,6 +23,21 @@
         "SEF1": 16,
         "AGL15": 2450.4959999999996,
         "BEC": 93.12
+      }
+    },
+    {
+      "currency": "Brazilian Reis",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.2323,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 5484.5999999999985,
+      "total_value_usd": 1274.07,
+      "ledgers": {
+        "Main Ledger": 5247.7,
+        "AGL8": 236.89999999999827
       }
     },
     {
@@ -79,21 +94,6 @@
       "total_value_usd": 357.99,
       "ledgers": {
         "Main Ledger": 530
-      }
-    },
-    {
-      "currency": "Brazilian Reis",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.2323,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 456.8999999999983,
-      "total_value_usd": 106.14,
-      "ledgers": {
-        "Main Ledger": 220,
-        "AGL8": 236.89999999999827
       }
     },
     {
@@ -1542,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2421.1515,
+      "unit_cost_usd": 2413.4409,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1863,6 +1863,13 @@
           "total_value_usd": 9.17
         },
         {
+          "currency": "Brazilian Reis",
+          "amount": 5027.7,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.2323,
+          "total_value_usd": 1167.93471
+        },
+        {
           "currency": "Cacao Almonds KG - Organic",
           "amount": 0.6535149999999996,
           "ledger": "Main Ledger",
@@ -1928,8 +1935,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2421.1515,
-          "total_value_usd": 1.1504350142736274e-10
+          "unit_cost_usd": 2413.4409,
+          "total_value_usd": 1.1467712434517445e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1954,10 +1961,10 @@
         },
         {
           "currency": "USD",
-          "amount": 2538.493852844753,
+          "amount": 1607.0138528447528,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 2538.493852844753
+          "total_value_usd": 1607.0138528447528
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -10716,8 +10723,8 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 19209.168159576748,
-    "total_value_usd": 38135.42,
+    "total_units": 23305.38815957675,
+    "total_value_usd": 38371.87,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1232
