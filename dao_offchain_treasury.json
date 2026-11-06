@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T09:49:17.098Z",
+  "generated_at": "2026-11-06T10:08:36.096Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -1542,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2237.1945,
+      "unit_cost_usd": 2235.7036000000003,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1928,8 +1928,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2237.1945,
-          "total_value_usd": 1.0630259554349989e-10
+          "unit_cost_usd": 2235.7036000000003,
+          "total_value_usd": 1.0623175389799442e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10030,12 +10030,6 @@
           "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
         },
         {
-          "qr_code": "2024_20261027_1",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
-        },
-        {
           "qr_code": "2024_20261027_2",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
@@ -10720,6 +10714,6 @@
     "total_value_usd": 37365.44,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1232
+    "qr_codes_assigned": 1231
   }
 }
