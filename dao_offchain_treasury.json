@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:08:36.096Z",
+  "generated_at": "2026-11-06T10:09:59.316Z",
   "source": "treasury-cache-publisher",
   "trigger": "process_sales",
   "schema_version": 5,
@@ -1542,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2235.7036000000003,
+      "unit_cost_usd": 2234.8796,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1928,8 +1928,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2235.7036000000003,
-          "total_value_usd": 1.0623175389799442e-10
+          "unit_cost_usd": 2234.8796,
+          "total_value_usd": 1.0619260069127599e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4459,18 +4459,6 @@
         },
         {
           "qr_code": "2024_20260710_23",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_25",
-          "status": "MINTED",
-          "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024_20260710_26",
           "status": "MINTED",
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -9790,18 +9778,6 @@
           "ledger_shortcut": "https://truesight.me/shop/test"
         },
         {
-          "qr_code": "2025_20261025_1",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_2",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
           "qr_code": "2025_20261025_3",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
@@ -10028,12 +10004,6 @@
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
           "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2024_20261027_2",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20261104_1",
@@ -10714,6 +10684,6 @@
     "total_value_usd": 37365.44,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1231
+    "qr_codes_assigned": 1226
   }
 }
