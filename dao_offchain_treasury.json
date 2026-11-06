@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T10:11:39.592Z",
+  "generated_at": "2026-11-06T10:12:09.950Z",
   "source": "treasury-cache-publisher",
   "trigger": "process_sales",
   "schema_version": 5,
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7159.598141953332,
-      "total_value_usd": 7159.6,
+      "total_quantity": 7171.398141953333,
+      "total_value_usd": 7171.4,
       "ledgers": {
-        "Main Ledger": 2082.0668056721756,
+        "Main Ledger": 2093.866805672176,
         "AGL6": 1337.5853362811577,
         "AGL8": 68.00000000000003,
         "AGL10": 347.83,
@@ -119,10 +119,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 368,
-      "total_value_usd": -552,
+      "total_quantity": 369,
+      "total_value_usd": -553.5,
       "ledgers": {
-        "Main Ledger": 368
+        "Main Ledger": 369
       }
     },
     {
@@ -693,10 +693,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 13,
-      "total_value_usd": 73.11,
+      "total_quantity": 12,
+      "total_value_usd": 67.49,
       "ledgers": {
-        "Main Ledger": 13
+        "Main Ledger": 12
       }
     },
     {
@@ -1954,10 +1954,10 @@
         },
         {
           "currency": "USD",
-          "amount": 1780.2468056721757,
+          "amount": 1792.0468056721757,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 1780.2468056721757
+          "total_value_usd": 1792.0468056721757
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -3997,10 +3997,10 @@
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
-          "amount": 3,
+          "amount": 2,
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
-          "total_value_usd": 16.872313793103448
+          "total_value_usd": 11.248209195402298
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
@@ -10272,10 +10272,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 367,
+          "amount": 368,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -550.5
+          "total_value_usd": -552
         }
       ],
       "qr_codes": []
@@ -10680,8 +10680,8 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 18450.988159576747,
-    "total_value_usd": 37370.11,
+    "total_units": 18462.78815957675,
+    "total_value_usd": 37374.79,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1226
