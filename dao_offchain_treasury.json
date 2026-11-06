@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T12:33:06.234Z",
+  "generated_at": "2026-11-06T12:48:40.230Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7171.398141953333,
-      "total_value_usd": 7171.4,
+      "total_quantity": 7203.048141953333,
+      "total_value_usd": 7203.05,
       "ledgers": {
-        "Main Ledger": 2093.866805672176,
+        "Main Ledger": 2125.516805672176,
         "AGL6": 1337.5853362811577,
         "AGL8": 68.00000000000003,
         "AGL10": 347.83,
@@ -119,10 +119,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 369,
-      "total_value_usd": -553.5,
+      "total_quantity": 370,
+      "total_value_usd": -555,
       "ledgers": {
-        "Main Ledger": 369
+        "Main Ledger": 370
       }
     },
     {
@@ -1542,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2245.8695000000002,
+      "unit_cost_usd": 2240.5057,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1928,8 +1928,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2245.8695000000002,
-          "total_value_usd": 1.0671479708267759e-10
+          "unit_cost_usd": 2240.5057,
+          "total_value_usd": 1.0645993061399271e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1954,10 +1954,10 @@
         },
         {
           "currency": "USD",
-          "amount": 1792.0468056721757,
+          "amount": 1823.6968056721757,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 1792.0468056721757
+          "total_value_usd": 1823.6968056721757
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -10266,10 +10266,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 368,
+          "amount": 369,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -552
+          "total_value_usd": -553.5
         }
       ],
       "qr_codes": []
@@ -10674,8 +10674,8 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 18462.78815957675,
-    "total_value_usd": 37374.79,
+    "total_units": 18495.438159576748,
+    "total_value_usd": 37404.94,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1225
