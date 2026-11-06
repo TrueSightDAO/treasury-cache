@@ -5,15 +5,15 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-06T09:49:17.098Z` |
-| Trigger | `cron` |
+| Generated at | `2026-11-06T10:08:36.096Z` |
+| Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 110 |
 | Total units | 18439.188159576748 |
 | Total value USD | $37365.44 |
 | Ledgers processed | 16 |
 | Managers | 45 |
-| QR codes assigned | 1232 |
+| QR codes assigned | 1231 |
 
 ## Items (110, sorted by total quantity)
 
@@ -128,7 +128,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2237.19 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2235.70 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -187,7 +187,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
-| Sophia Truesight | 1 | 5 | 85 |
+| Sophia Truesight | 1 | 5 | 84 |
 | SunMint Tree Planting Contract - agl4 | 2 | 369 | — |
 | Tess Walkowski | 2 | 13 | 9 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
