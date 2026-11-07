@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-07T20:48:36.289Z",
+  "generated_at": "2026-11-07T22:09:16.133Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -12,12 +12,11 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 7202.970841405041,
-      "total_value_usd": 7202.97,
+      "total_quantity": 7134.970841405041,
+      "total_value_usd": 7134.97,
       "ledgers": {
         "Main Ledger": 2125.4395051238844,
         "AGL6": 1337.5853362811577,
-        "AGL8": 68.00000000000003,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
@@ -82,21 +81,6 @@
       }
     },
     {
-      "currency": "Brazilian Reis",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.2323,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 456.8999999999983,
-      "total_value_usd": 106.14,
-      "ledgers": {
-        "Main Ledger": 220,
-        "AGL8": 236.89999999999827
-      }
-    },
-    {
       "currency": "Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771",
       "unit_weight_g": null,
       "unit_cost_usd": 0.73529,
@@ -154,20 +138,6 @@
       }
     },
     {
-      "currency": "Cacao Almonds KG from Paulo's farm - AGL8",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 18.212,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 263.585122798,
-      "total_value_usd": 4800.41,
-      "ledgers": {
-        "AGL8": 263.585122798
-      }
-    },
-    {
       "currency": "Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich",
       "unit_weight_g": 1,
       "unit_cost_usd": 0.047950970600000004,
@@ -196,6 +166,20 @@
       }
     },
     {
+      "currency": "Brazilian Reis",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.2323,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 220,
+      "total_value_usd": 51.11,
+      "ledgers": {
+        "Main Ledger": 220
+      }
+    },
+    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006",
       "unit_weight_g": null,
       "unit_cost_usd": 0.6754468485418627,
@@ -207,20 +191,6 @@
       "total_value_usd": 127.66,
       "ledgers": {
         "Main Ledger": 189
-      }
-    },
-    {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8 + 047-3175-3223 - San Francisco",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 13.78,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 169,
-      "total_value_usd": 2328.82,
-      "ledgers": {
-        "AGL8": 169
       }
     },
     {
@@ -742,20 +712,6 @@
       }
     },
     {
-      "currency": "Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 35.28,
-      "inventory_type": "Cacao Bean",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": "1801",
-      "total_quantity": 10,
-      "total_value_usd": 352.8,
-      "ledgers": {
-        "AGL8": 10
-      }
-    },
-    {
       "currency": "SunMint Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 0,
@@ -952,20 +908,6 @@
       }
     },
     {
-      "currency": "Cacao Mass Bar (40grams) CP340993869BR - AGL8",
-      "unit_weight_g": 40,
-      "unit_cost_usd": 1.896747446,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 3.25,
-      "total_value_usd": 6.16,
-      "ledgers": {
-        "AGL8": 3.25
-      }
-    },
-    {
       "currency": "8 Ounce Package Kraft Pouch QN226716310BR - FounderHaus Brazil",
       "unit_weight_g": null,
       "unit_cost_usd": 8.591999999999999,
@@ -1047,20 +989,6 @@
       "total_value_usd": 6.11,
       "ledgers": {
         "Main Ledger": 3
-      }
-    },
-    {
-      "currency": "Cacao Tea - 20250219006 | Cacao Tea | Kilogram | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-      "unit_weight_g": 1,
-      "unit_cost_usd": 0,
-      "inventory_type": "Cacao Tea",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": "2106.9",
-      "total_quantity": 2.1802,
-      "total_value_usd": 0,
-      "ledgers": {
-        "AGL8": 2.1802
       }
     },
     {
@@ -1498,20 +1426,6 @@
       }
     },
     {
-      "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-      "unit_weight_g": 200,
-      "unit_cost_usd": 10.37,
-      "inventory_type": "Cacao Mass",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": "1803.1",
-      "total_quantity": 1,
-      "total_value_usd": 10.37,
-      "ledgers": {
-        "AGL8": 1
-      }
-    },
-    {
       "currency": "Cacao Almonds KG - Organic",
       "unit_weight_g": 1000,
       "unit_cost_usd": 100.886,
@@ -1542,7 +1456,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2228.6455,
+      "unit_cost_usd": 2226.7763,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1801,40 +1715,6 @@
           "total_value_usd": 1312.59
         },
         {
-          "currency": "[AGL8] Brazilian Reis",
-          "amount": 236.89999999999827,
-          "ledger": "AGL8",
-          "unit_cost_usd": 0.2323,
-          "total_value_usd": 55.03
-        },
-        {
-          "currency": "[AGL8] Cacao Mass Bar (40grams) CP340993869BR - AGL8",
-          "amount": 3.25,
-          "ledger": "AGL8",
-          "unit_weight_g": 40,
-          "hs_code": "1803.1",
-          "unit_cost_usd": 1.896747446,
-          "total_value_usd": 6.16
-        },
-        {
-          "currency": "[AGL8] Cacao Tea - 20250219006 | Cacao Tea | Kilogram | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "amount": 2.1802,
-          "ledger": "AGL8",
-          "unit_weight_g": 1,
-          "inventory_type": "Cacao Tea",
-          "unit_format": "Bulk",
-          "hs_code": "2106.9",
-          "unit_cost_usd": 0,
-          "total_value_usd": 0
-        },
-        {
-          "currency": "[AGL8] USD",
-          "amount": 2.842170943040401e-14,
-          "ledger": "AGL8",
-          "unit_cost_usd": 1,
-          "total_value_usd": 0
-        },
-        {
           "currency": "[BEC] USD",
           "amount": 93.12,
           "ledger": "BEC",
@@ -1928,8 +1808,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2228.6455,
-          "total_value_usd": 1.0589638102379614e-10
+          "unit_cost_usd": 2226.7763,
+          "total_value_usd": 1.0580756406506058e-10
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3968,17 +3848,6 @@
           "total_value_usd": 204.38
         },
         {
-          "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8 + 047-3175-3223 - San Francisco",
-          "amount": 169,
-          "ledger": "AGL8",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
-          "unit_cost_usd": 13.78,
-          "total_value_usd": 2328.82
-        },
-        {
           "currency": "8 Ounce Package Kraft Pouch  CP340992735BR",
           "amount": 2,
           "ledger": "Main Ledger",
@@ -4507,25 +4376,6 @@
       "manager_name": "Matheus Reis",
       "manager_key": "Matheus%20Reis",
       "items": [
-        {
-          "currency": "[AGL8] Cacao Almonds KG from Paulo's farm - AGL8",
-          "amount": 263.585122798,
-          "ledger": "AGL8",
-          "unit_weight_g": 1000,
-          "unit_cost_usd": 18.212,
-          "total_value_usd": 4800.41
-        },
-        {
-          "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "amount": 1,
-          "ledger": "AGL8",
-          "unit_weight_g": 200,
-          "inventory_type": "Cacao Mass",
-          "unit_format": "Retail Ready",
-          "hs_code": "1803.1",
-          "unit_cost_usd": 10.37,
-          "total_value_usd": 10.37
-        },
         {
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
           "amount": 5,
@@ -7566,13 +7416,6 @@
       "manager_key": "Sacred%20Earth%20Farms",
       "items": [
         {
-          "currency": "[AGL8] USD",
-          "amount": 68,
-          "ledger": "AGL8",
-          "unit_cost_usd": 1,
-          "total_value_usd": 68
-        },
-        {
           "currency": "USD",
           "amount": 93.5,
           "ledger": "Main Ledger",
@@ -10465,17 +10308,6 @@
           "total_value_usd": 572.25
         },
         {
-          "currency": "[AGL8] Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco",
-          "amount": 10,
-          "ledger": "AGL8",
-          "unit_weight_g": 1000,
-          "inventory_type": "Cacao Bean",
-          "unit_format": "Bulk",
-          "hs_code": "1801",
-          "unit_cost_usd": 35.28,
-          "total_value_usd": 352.8
-        },
-        {
           "currency": "22 Litres Insulated Box",
           "amount": 1,
           "ledger": "Main Ledger",
@@ -10673,10 +10505,10 @@
     }
   ],
   "totals": {
-    "item_types": 110,
-    "total_units": 18495.438159576748,
-    "total_value_usd": 37404.93,
-    "ledgers_processed": 16,
+    "item_types": 104,
+    "total_units": 17741.52283677875,
+    "total_value_usd": 29783.34,
+    "ledgers_processed": 15,
     "managers_count": 45,
     "qr_codes_assigned": 1225
   }
