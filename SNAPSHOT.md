@@ -5,35 +5,33 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-07T20:48:36.289Z` |
+| Generated at | `2026-11-07T22:09:16.133Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 110 |
-| Total units | 18495.438159576748 |
-| Total value USD | $37404.93 |
-| Ledgers processed | 16 |
+| Item types | 104 |
+| Total units | 17741.52283677875 |
+| Total value USD | $29783.34 |
+| Ledgers processed | 15 |
 | Managers | 45 |
 | QR codes assigned | 1225 |
 
-## Items (110, sorted by total quantity)
+## Items (104, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 7202.970841405041 | $1.00 | $7202.97 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 2125.4395051238844, SEF1: 16 |
+| USD | — | — | 7134.970841405041 | $1.00 | $7134.97 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, BEC: 93.12, Main Ledger: 2125.4395051238844, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 2214.61 | $1.00 | $2214.61 | AGL15: 2214.61 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
-| Brazilian Reis | — | — | 456.8999999999983 | $0.23 | $106.14 | AGL8: 236.89999999999827, Main Ledger: 220 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
 | Cacao Tree To Be Planted | — | — | 370 | $-1.50 | $-555.00 | Main Ledger: 370 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
-| Cacao Almonds KG from Paulo's farm - AGL8 | — | — | 263.585122798 | $18.21 | $4800.41 | AGL8: 263.585122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Cacao Tea 1g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 229 | $0.11 | $25.76 | Main Ledger: 229 |
+| Brazilian Reis | — | — | 220 | $0.23 | $51.11 | Main Ledger: 220 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 189 | $0.68 | $127.66 | Main Ledger: 189 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 + 047-3175-3223 - San Francisco | Cacao Mass | Retail Ready | 169 | $13.78 | $2328.82 | AGL8: 169 |
 | AGL8 equity holdings | — | — | 163.064 | $1.00 | $163.06 | AGL15: 163.064 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Nib | Retail Ready | 129 | $10.51 | $1355.79 | Main Ledger: 129 |
 | Cacao Almonds KG from Oscar's farm - AGL16 (2026) | — | — | 108 | $12.14 | $1311.12 | AGL16: 108 |
@@ -71,7 +69,6 @@
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 + 8 Ounce Package Kraft Pouch CP340992735BR \| Kirsten 20260121 | Cacao Mass | Retail Ready | 12 | $8.49 | $101.93 | Main Ledger: 12 |
 | 8 Ounce Package Kraft Pouch CP340992687BR | — | — | 10 | $8.88 | $88.79 | Main Ledger: 10 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251211 \| San Francisco - AGL4 | — | — | 10 | $8.38 | $83.75 | Main Ledger: 10 |
-| Cacao Almonds KG from Paulo's farm - AGL8 + 047-3175-3223 - San Francisco | Cacao Bean | Bulk | 10 | $35.28 | $352.80 | AGL8: 10 |
 | SunMint Tree Planting Pledge - QR Code | — | — | 10 | $0.00 | $0.00 | PP1: 10 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Santa Ana 2023 \| Kirsten 20251227 \| San Francisco - AGL2 | Cacao Mass | Retail Ready | 9 | $2.40 | $21.64 | Main Ledger: 9 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP327946643BR - AGL6 | Cacao Mass | Retail Ready | 9 | $8.52 | $76.65 | AGL6: 9 |
@@ -86,14 +83,12 @@
 | Large Cardboard Box for Moving Packaging 60x40x50 | — | — | 5 | $2.65 | $13.27 | Main Ledger: 5 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | Caramelized Cacao Bean | Retail Ready | 5 | $8.09 | $40.43 | AGL10: 5 |
 | Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409) | — | — | 4 | $10.45 | $41.81 | Main Ledger: 4 |
-| Cacao Mass Bar (40grams) CP340993869BR - AGL8 | — | — | 3.25 | $1.90 | $6.16 | AGL8: 3.25 |
 | 8 Ounce Package Kraft Pouch QN226716310BR - FounderHaus Brazil | — | — | 3 | $8.59 | $25.78 | Main Ledger: 3 |
 | Cacao Tree Planted | — | — | 3 | $1.50 | $4.50 | Main Ledger: 3 |
 | Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm) | — | — | 3 | $5.19 | $15.56 | Main Ledger: 3 |
 | Keys to Ilheus warehouse (outer door and inner door) | — | — | 3 | $3.15 | $9.45 | Main Ledger: 3 |
 | Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912) | — | — | 3 | $18.76 | $56.27 | Main Ledger: 3 |
 | Reinforced Cardboard Boxes - Size 40x30x30 | — | — | 3 | $2.04 | $6.11 | Main Ledger: 3 |
-| Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Tea | Bulk | 2.1802 | $0.00 | $0.00 | AGL8: 2.1802 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
 | Cacao Tree - To Be Paid For | — | — | 2 | — | — | Main Ledger: 2 |
 | Chocolate Mold - 40 g bar (Medalha) | — | — | 2 | $1.27 | $2.54 | Main Ledger: 2 |
@@ -125,10 +120,9 @@
 | Showcase display cabinet (per cabinet, Matheus Ilheus warehouse, R$250 receipt 20261010) | — | — | 1 | $58.08 | $58.08 | Main Ledger: 1 |
 | Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus | — | — | 1 | $4.78 | $4.78 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2228.65 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2226.78 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -140,7 +134,6 @@
 | AGL15 | 3 | 4828.17 |
 | AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
-| AGL8 | 8 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
 | Main Ledger | 92 | 9756.647500497596 |
 | PP1 | 1 | 10 |
@@ -158,7 +151,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 30 | 7630.859036778749 | 241 |
+| Gary Teh | 26 | 7388.528836778752 | 241 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -167,9 +160,9 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 10 | 9 |
-| Kirsten Ritschel | 26 | 1606.5 | 50 |
+| Kirsten Ritschel | 25 | 1437.5 | 50 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 23 | 1272.585122798 | 326 |
+| Matheus Reis | 21 | 1008 | 326 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
@@ -181,7 +174,7 @@
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
 | Rune Shields | 2 | 5 | 5 |
-| Sacred Earth Farms | 3 | 458.5 | 297 |
+| Sacred Earth Farms | 2 | 390.5 | 297 |
 | Sammi Whitchurch | 1 | 5 | 5 |
 | Santos José Carlos | 1 | 1 | — |
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
@@ -193,7 +186,7 @@
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 | 5 |
 | USPS | 1 | 49.09 | — |
-| Val Lapidus | 16 | 1464 | — |
+| Val Lapidus | 15 | 1454 | — |
 | Yasmin | 1 | 40 | — |
 
 ---
