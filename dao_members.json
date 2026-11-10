@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-09T07:59:53.089Z",
+  "generated_at": "2026-11-10T03:25:13.330Z",
   "schema_version": 3,
   "source": "dao_members_cache_publisher",
-  "trigger": "contributor_add",
+  "trigger": "cron",
   "counts": {
     "contributors": 429,
     "active_public_keys": 114,
@@ -10,7 +10,12 @@
     "contributors_with_email": 17,
     "sentinels": 7
   },
-  "dao_totals": null,
+  "dao_totals": {
+    "voting_rights_circulated": 2501791.0719001554,
+    "total_assets": 14073.24354,
+    "asset_per_circulated_voting_right": 0.00563,
+    "usd_provisions_for_cash_out": 58.20731
+  },
   "unjoined_governor_names": [],
   "contributors": [
     {
