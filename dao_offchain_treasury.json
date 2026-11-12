@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:22:22.962Z",
+  "generated_at": "2026-11-12T12:22:40.085Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -23,21 +23,6 @@
         "SEF1": 16,
         "AGL15": 2450.4959999999996,
         "BEC": 93.12
-      }
-    },
-    {
-      "currency": "Brazilian Reis",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.2323,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 2541.8999999999983,
-      "total_value_usd": 590.48,
-      "ledgers": {
-        "Main Ledger": 2305,
-        "AGL8": 236.89999999999827
       }
     },
     {
@@ -66,6 +51,21 @@
       "total_value_usd": 2214.61,
       "ledgers": {
         "AGL15": 2214.61
+      }
+    },
+    {
+      "currency": "Brazilian Reis",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.2323,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2041.8999999999983,
+      "total_value_usd": 474.33,
+      "ledgers": {
+        "Main Ledger": 1805,
+        "AGL8": 236.89999999999827
       }
     },
     {
@@ -1864,10 +1864,10 @@
         },
         {
           "currency": "Brazilian Reis",
-          "amount": 2085,
+          "amount": 1585,
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.2323,
-          "total_value_usd": 484.3455
+          "total_value_usd": 368.19550000000004
         },
         {
           "currency": "Cacao Almonds KG - Organic",
@@ -1935,8 +1935,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2022.8835000000001,
-          "total_value_usd": 9.611938815874949e-11
+          "unit_cost_usd": 2026.0924,
+          "total_value_usd": 9.627186233962178e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10681,8 +10681,8 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 20202.38815957675,
-    "total_value_usd": 37511.22,
+    "total_units": 19702.38815957675,
+    "total_value_usd": 37395.07,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1225
