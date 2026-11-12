@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T12:23:09.952Z",
+  "generated_at": "2026-11-12T12:27:25.277Z",
   "source": "treasury-cache-publisher",
   "trigger": "expense_processing",
   "schema_version": 5,
@@ -238,6 +238,20 @@
       }
     },
     {
+      "currency": "Cacao Tree Planted - Unassigned",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 159,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 159
+      }
+    },
+    {
       "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
       "unit_weight_g": null,
       "unit_cost_usd": 10.51,
@@ -263,20 +277,6 @@
       "total_value_usd": 1311.12,
       "ledgers": {
         "AGL16": 108
-      }
-    },
-    {
-      "currency": "Cacao Tree Planted - Unassigned",
-      "unit_weight_g": null,
-      "unit_cost_usd": null,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 107,
-      "total_value_usd": null,
-      "ledgers": {
-        "Main Ledger": 107
       }
     },
     {
@@ -1542,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2026.0924,
+      "unit_cost_usd": 2021.6141,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1935,8 +1935,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2026.0924,
-          "total_value_usd": 9.627186233962178e-11
+          "unit_cost_usd": 2021.6141,
+          "total_value_usd": 9.605907131335096e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -7425,7 +7425,7 @@
       "items": [
         {
           "currency": "Cacao Tree Planted - Unassigned",
-          "amount": 103,
+          "amount": 155,
           "ledger": "Main Ledger"
         }
       ],
@@ -10681,7 +10681,7 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 19202.388159576753,
+    "total_units": 19254.388159576753,
     "total_value_usd": 37278.92,
     "ledgers_processed": 16,
     "managers_count": 45,
