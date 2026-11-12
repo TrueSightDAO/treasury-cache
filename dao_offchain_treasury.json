@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-12T12:28:14.758Z",
+  "generated_at": "2026-11-12T12:45:32.562Z",
   "source": "treasury-cache-publisher",
-  "trigger": "expense_processing",
+  "trigger": "manual",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 6645.454338663582,
-      "total_value_usd": 6645.45,
+      "total_quantity": 6824.534338663582,
+      "total_value_usd": 6824.53,
       "ledgers": {
-        "Main Ledger": 1567.9230023824252,
+        "Main Ledger": 1747.0030023824252,
         "AGL6": 1337.5853362811577,
         "AGL8": 68.00000000000003,
         "AGL10": 347.83,
@@ -140,6 +140,20 @@
       }
     },
     {
+      "currency": "Cacao Tree Planted - Unassigned",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 324,
+      "total_value_usd": null,
+      "ledgers": {
+        "Main Ledger": 324
+      }
+    },
+    {
       "currency": "NovaGaia Tree Planting Pledge - QR Code",
       "unit_weight_g": null,
       "unit_cost_usd": 7,
@@ -235,20 +249,6 @@
       "total_value_usd": 163.06,
       "ledgers": {
         "AGL15": 163.064
-      }
-    },
-    {
-      "currency": "Cacao Tree Planted - Unassigned",
-      "unit_weight_g": null,
-      "unit_cost_usd": null,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 159,
-      "total_value_usd": null,
-      "ledgers": {
-        "Main Ledger": 159
       }
     },
     {
@@ -1542,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 2021.6141,
+      "unit_cost_usd": 2020.0517000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1935,8 +1935,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2021.6141,
-          "total_value_usd": 9.605907131335096e-11
+          "unit_cost_usd": 2020.0517000000002,
+          "total_value_usd": 9.598483227187417e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -1961,10 +1961,10 @@
         },
         {
           "currency": "USD",
-          "amount": 1266.1030023824253,
+          "amount": 1445.1830023824252,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 1266.1030023824253
+          "total_value_usd": 1445.1830023824252
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -7425,7 +7425,7 @@
       "items": [
         {
           "currency": "Cacao Tree Planted - Unassigned",
-          "amount": 155,
+          "amount": 320,
           "ledger": "Main Ledger"
         }
       ],
@@ -10681,8 +10681,8 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 19075.30815957675,
-    "total_value_usd": 37099.84,
+    "total_units": 19419.38815957675,
+    "total_value_usd": 37278.92,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1225
