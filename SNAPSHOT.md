@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-12T12:28:14.758Z` |
-| Trigger | `expense_processing` |
+| Generated at | `2026-11-12T12:45:32.562Z` |
+| Trigger | `manual` |
 | Schema version | `5` |
 | Item types | 110 |
-| Total units | 19075.30815957675 |
-| Total value USD | $37099.84 |
+| Total units | 19419.38815957675 |
+| Total value USD | $37278.92 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1225 |
@@ -19,7 +19,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 6645.454338663582 | $1.00 | $6645.45 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1567.9230023824252, SEF1: 16 |
+| USD | — | — | 6824.534338663582 | $1.00 | $6824.53 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1747.0030023824252, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 2214.61 | $1.00 | $2214.61 | AGL15: 2214.61 |
 | Brazilian Reis | — | — | 1541.8999999999983 | $0.23 | $358.18 | AGL8: 236.89999999999827, Main Ledger: 1305 |
@@ -28,6 +28,7 @@
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
 | Cacao Tree To Be Planted | — | — | 370 | $-1.50 | $-555.00 | Main Ledger: 370 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
+| Cacao Tree Planted - Unassigned | — | — | 324 | — | — | Main Ledger: 324 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
 | Cacao Almonds KG from Paulo's farm - AGL8 | — | — | 263.585122798 | $18.21 | $4800.41 | AGL8: 263.585122798 |
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
@@ -35,7 +36,6 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 189 | $0.68 | $127.66 | Main Ledger: 189 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 + 047-3175-3223 - San Francisco | Cacao Mass | Retail Ready | 169 | $13.78 | $2328.82 | AGL8: 169 |
 | AGL8 equity holdings | — | — | 163.064 | $1.00 | $163.06 | AGL15: 163.064 |
-| Cacao Tree Planted - Unassigned | — | — | 159 | — | — | Main Ledger: 159 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Nib | Retail Ready | 129 | $10.51 | $1355.79 | Main Ledger: 129 |
 | Cacao Almonds KG from Oscar's farm - AGL16 (2026) | — | — | 108 | $12.14 | $1311.12 | AGL16: 108 |
 | Agroverse Sticker 4x3cm (Founder Haus) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
@@ -128,7 +128,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $2021.61 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $2020.05 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -142,7 +142,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 8 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 92 | 10336.517500497595 |
+| Main Ledger | 92 | 10680.597500497595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -158,7 +158,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 31 | 8158.72903677875 | 241 |
+| Gary Teh | 31 | 8337.809036778748 | 241 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -177,7 +177,7 @@
 | Orlantildes | 1 | 108 | — |
 | Paloma | 8 | 668.32 | 91 |
 | Paulo Hernandez | 2 | 5 | — |
-| pk-qkejKJJW3IAD | 1 | 155 | — |
+| pk-qkejKJJW3IAD | 1 | 320 | — |
 | Queen Hippie Gypsy - Lily | 1 | 8 | 8 |
 | RAVEN things collected | 1 | 1 | — |
 | Rune Shields | 2 | 5 | 5 |
