@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T02:02:44.284Z",
+  "generated_at": "2026-11-14T02:48:35.755Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -47,10 +47,9 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 2326.4100000000003,
-      "total_value_usd": 2326.41,
+      "total_quantity": 2214.61,
+      "total_value_usd": 2214.61,
       "ledgers": {
-        "Main Ledger": 111.8,
         "AGL15": 2214.61
       }
     },
@@ -477,17 +476,17 @@
       }
     },
     {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - AGL13",
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
       "unit_weight_g": null,
-      "unit_cost_usd": 2.795,
+      "unit_cost_usd": 2.709,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
       "total_quantity": 40,
-      "total_value_usd": 111.8,
+      "total_value_usd": 108.36,
       "ledgers": {
-        "AGL13": 40
+        "Main Ledger": 40
       }
     },
     {
@@ -1543,7 +1542,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1925.1843000000001,
+      "unit_cost_usd": 1903.3412,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1936,8 +1935,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1925.1843000000001,
-          "total_value_usd": 9.147711027789313e-11
+          "unit_cost_usd": 1903.3412,
+          "total_value_usd": 9.043921293605887e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3957,13 +3956,6 @@
           "total_value_usd": 0.74
         },
         {
-          "currency": "[AGL13] Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - AGL13",
-          "amount": 40,
-          "ledger": "AGL13",
-          "unit_cost_usd": 2.795,
-          "total_value_usd": 111.8
-        },
-        {
           "currency": "[AGL13] Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
           "amount": 40,
           "ledger": "AGL13",
@@ -4018,11 +4010,11 @@
           "total_value_usd": 11.248209195402298
         },
         {
-          "currency": "AGL13 equity holdings",
-          "amount": 111.8,
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "amount": 40,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1,
-          "total_value_usd": 111.8
+          "unit_cost_usd": 2.709,
+          "total_value_usd": 108.36
         },
         {
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
@@ -10677,8 +10669,8 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 19593.238159576747,
-    "total_value_usd": 37447.88,
+    "total_units": 19481.438159576748,
+    "total_value_usd": 37332.64,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1223
