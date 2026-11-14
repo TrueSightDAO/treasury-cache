@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T04:48:35.987Z",
+  "generated_at": "2026-11-14T05:48:38.598Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -47,9 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 2214.61,
-      "total_value_usd": 2214.61,
+      "total_quantity": 2217.07035884,
+      "total_value_usd": 2217.07,
       "ledgers": {
+        "Main Ledger": 2.46035884,
         "AGL15": 2214.61
       }
     },
@@ -336,20 +337,6 @@
       }
     },
     {
-      "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 27.25,
-      "inventory_type": "Cacao Nib",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": "1801",
-      "total_quantity": 97.5,
-      "total_value_usd": 2656.88,
-      "ledgers": {
-        "AGL13": 97.5
-      }
-    },
-    {
       "currency": "Cacao Mass Bar CP340992687BR (loose grams)",
       "unit_weight_g": 1,
       "unit_cost_usd": 0.04308051948,
@@ -361,6 +348,20 @@
       "total_value_usd": 4.16,
       "ledgers": {
         "Main Ledger": 96.57370000000003
+      }
+    },
+    {
+      "currency": "Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
+      "unit_weight_g": 1000,
+      "unit_cost_usd": 27.25,
+      "inventory_type": "Cacao Nib",
+      "unit_format": "Bulk",
+      "gtin": null,
+      "hs_code": "1801",
+      "total_quantity": 95.5,
+      "total_value_usd": 2602.38,
+      "ledgers": {
+        "AGL13": 95.5
       }
     },
     {
@@ -931,10 +932,10 @@
       "unit_format": "Bulk",
       "gtin": null,
       "hs_code": "1804",
-      "total_quantity": 4.9,
-      "total_value_usd": 168.56,
+      "total_quantity": 4.800000000000001,
+      "total_value_usd": 165.12,
       "ledgers": {
-        "Main Ledger": 4.9
+        "Main Ledger": 4.800000000000001
       }
     },
     {
@@ -1047,6 +1048,20 @@
       "total_value_usd": 6.11,
       "ledgers": {
         "Main Ledger": 3
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Block 2.5kg #1 | Vivi Cacao Nibs | Kirsten 20261114 | San Francisco - AGL13",
+      "unit_weight_g": 2500,
+      "unit_cost_usd": 24.160143536,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 2.5,
+      "total_value_usd": 60.4,
+      "ledgers": {
+        "AGL13": 2.5
       }
     },
     {
@@ -1542,7 +1557,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1898.364,
+      "unit_cost_usd": 1894.1380000000001,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1935,8 +1950,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1898.364,
-          "total_value_usd": 9.020271616363291e-11
+          "unit_cost_usd": 1894.1380000000001,
+          "total_value_usd": 9.000191343111822e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3964,15 +3979,23 @@
           "total_value_usd": 79.48
         },
         {
+          "currency": "[AGL13] Agroverse 81% Cacao Chocolate Block 2.5kg #1 | Vivi Cacao Nibs | Kirsten 20261114 | San Francisco - AGL13",
+          "amount": 2.5,
+          "ledger": "AGL13",
+          "unit_weight_g": 2500,
+          "unit_cost_usd": 24.160143536,
+          "total_value_usd": 60.4
+        },
+        {
           "currency": "[AGL13] Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
-          "amount": 7.5,
+          "amount": 5.5,
           "ledger": "AGL13",
           "unit_weight_g": 1000,
           "inventory_type": "Cacao Nib",
           "unit_format": "Bulk",
           "hs_code": "1801",
           "unit_cost_usd": 27.25,
-          "total_value_usd": 204.38
+          "total_value_usd": 149.88
         },
         {
           "currency": "[AGL8] Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8 + 047-3175-3223 - San Francisco",
@@ -4008,6 +4031,13 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 5.624104597701149,
           "total_value_usd": 11.248209195402298
+        },
+        {
+          "currency": "AGL13 equity holdings",
+          "amount": 2.46035884,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 1,
+          "total_value_usd": 2.46035884
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
@@ -4102,14 +4132,14 @@
         },
         {
           "currency": "Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco",
-          "amount": 4.9,
+          "amount": 4.800000000000001,
           "ledger": "Main Ledger",
           "unit_weight_g": 1000,
           "inventory_type": "Cacao Butter",
           "unit_format": "Bulk",
           "hs_code": "1804",
           "unit_cost_usd": 34.4,
-          "total_value_usd": 168.56
+          "total_value_usd": 165.12
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
@@ -10668,9 +10698,9 @@
     }
   ],
   "totals": {
-    "item_types": 110,
-    "total_units": 19481.438159576748,
-    "total_value_usd": 37332.63,
+    "item_types": 111,
+    "total_units": 19484.298518416745,
+    "total_value_usd": 37337.55,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1223
