@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T01:48:37.353Z",
+  "generated_at": "2026-11-14T01:59:03.887Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -1543,7 +1543,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1930.0826000000002,
+      "unit_cost_usd": 1927.1548,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1936,8 +1936,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1930.0826000000002,
-          "total_value_usd": 9.170985803574374e-11
+          "unit_cost_usd": 1926.6334000000002,
+          "total_value_usd": 9.154596575344613e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4715,12 +4715,6 @@
         },
         {
           "qr_code": "2024OSCAR_20250826_NIBS_4",
-          "status": "MINTED",
-          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20250826_NIBS_5",
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -10693,6 +10687,6 @@
     "total_value_usd": 37390.73,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1225
+    "qr_codes_assigned": 1224
   }
 }
