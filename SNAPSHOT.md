@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-14T02:01:19.041Z` |
+| Generated at | `2026-11-14T02:01:50.304Z` |
 | Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 110 |
-| Total units | 19562.163159576747 |
-| Total value USD | $37419.30 |
+| Total units | 19593.238159576747 |
+| Total value USD | $37447.88 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1223 |
@@ -19,14 +19,14 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 6854.53203811529 | $1.00 | $6854.53 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1777.0007018341335, SEF1: 16 |
+| USD | — | — | 6884.60703811529 | $1.00 | $6884.61 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1807.0757018341335, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 2326.4100000000003 | $1.00 | $2326.41 | AGL15: 2214.61, Main Ledger: 111.8 |
 | Brazilian Reis | — | — | 1541.8999999999983 | $0.23 | $358.18 | AGL8: 236.89999999999827, Main Ledger: 1305 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
-| Cacao Tree To Be Planted | — | — | 371 | $-1.50 | $-556.50 | Main Ledger: 371 |
+| Cacao Tree To Be Planted | — | — | 372 | $-1.50 | $-558.00 | Main Ledger: 372 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
 | Cacao Tree Planted - Unassigned | — | — | 324 | — | — | Main Ledger: 324 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
@@ -142,7 +142,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 8 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 92 | 10783.372500497597 |
+| Main Ledger | 92 | 10814.447500497598 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -158,7 +158,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 31 | 8367.88403677875 | 241 |
+| Gary Teh | 31 | 8397.95903677875 | 241 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -188,7 +188,7 @@
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
 | Sophia Truesight | 1 | 5 | 81 |
-| SunMint Tree Planting Contract - agl4 | 2 | 373 | — |
+| SunMint Tree Planting Contract - agl4 | 2 | 374 | — |
 | Tess Walkowski | 2 | 13 | 9 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 | 5 |
