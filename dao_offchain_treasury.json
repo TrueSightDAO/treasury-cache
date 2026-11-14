@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T01:59:03.887Z",
+  "generated_at": "2026-11-14T01:59:26.495Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_main",
   "schema_version": 5,
   "items": [
     {
@@ -1543,7 +1543,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1927.1548,
+      "unit_cost_usd": 1926.6334000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -4715,12 +4715,6 @@
         },
         {
           "qr_code": "2024OSCAR_20250826_NIBS_4",
-          "status": "MINTED",
-          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20250826_NIBS_6",
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -10687,6 +10681,6 @@
     "total_value_usd": 37390.73,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1224
+    "qr_codes_assigned": 1223
   }
 }
