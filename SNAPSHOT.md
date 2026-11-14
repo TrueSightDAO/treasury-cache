@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-14T05:48:38.598Z` |
+| Generated at | `2026-11-14T06:48:36.512Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 111 |
@@ -93,7 +93,7 @@
 | Keys to Ilheus warehouse (outer door and inner door) | — | — | 3 | $3.15 | $9.45 | Main Ledger: 3 |
 | Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912) | — | — | 3 | $18.76 | $56.27 | Main Ledger: 3 |
 | Reinforced Cardboard Boxes - Size 40x30x30 | — | — | 3 | $2.04 | $6.11 | Main Ledger: 3 |
-| Agroverse 81% Cacao Chocolate Block 2.5kg #1 \| Vivi Cacao Nibs \| Kirsten 20261114 \| San Francisco - AGL13 | — | — | 2.5 | $24.16 | $60.40 | AGL13: 2.5 |
+| Agroverse 81% Cacao Chocolate Block (Kilograms) #1 \| Vivi Cacao Nibs \| Kirsten 20261114 \| San Francisco - AGL13 | — | — | 2.5 | $24.16 | $60.40 | AGL13: 2.5 |
 | Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Tea | Bulk | 2.1802 | $0.00 | $0.00 | AGL8: 2.1802 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
 | Cacao Tree - To Be Paid For | — | — | 2 | — | — | Main Ledger: 2 |
@@ -129,7 +129,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1894.14 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1901.11 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
