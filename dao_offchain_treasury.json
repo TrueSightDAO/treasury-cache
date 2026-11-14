@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T00:48:42.116Z",
+  "generated_at": "2026-11-14T01:48:37.353Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -47,9 +47,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 2214.61,
-      "total_value_usd": 2214.61,
+      "total_quantity": 2326.4100000000003,
+      "total_value_usd": 2326.41,
       "ledgers": {
+        "Main Ledger": 111.8,
         "AGL15": 2214.61
       }
     },
@@ -476,17 +477,17 @@
       }
     },
     {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - AGL13",
       "unit_weight_g": null,
-      "unit_cost_usd": 2.709,
+      "unit_cost_usd": 2.795,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
       "total_quantity": 40,
-      "total_value_usd": 108.36,
+      "total_value_usd": 111.8,
       "ledgers": {
-        "Main Ledger": 40
+        "AGL13": 40
       }
     },
     {
@@ -896,20 +897,6 @@
       }
     },
     {
-      "currency": "Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco",
-      "unit_weight_g": 1000,
-      "unit_cost_usd": 34.4,
-      "inventory_type": "Cacao Butter",
-      "unit_format": "Bulk",
-      "gtin": null,
-      "hs_code": "1804",
-      "total_quantity": 5,
-      "total_value_usd": 172,
-      "ledgers": {
-        "Main Ledger": 5
-      }
-    },
-    {
       "currency": "Large Cardboard Box for Moving Packaging 60x40x50",
       "unit_weight_g": null,
       "unit_cost_usd": 2.6549706239999997,
@@ -935,6 +922,20 @@
       "total_value_usd": 40.43,
       "ledgers": {
         "AGL10": 5
+      }
+    },
+    {
+      "currency": "Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco",
+      "unit_weight_g": 1000,
+      "unit_cost_usd": 34.4,
+      "inventory_type": "Cacao Butter",
+      "unit_format": "Bulk",
+      "gtin": null,
+      "hs_code": "1804",
+      "total_quantity": 4.9,
+      "total_value_usd": 168.56,
+      "ledgers": {
+        "Main Ledger": 4.9
       }
     },
     {
@@ -1542,7 +1543,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1928.9192,
+      "unit_cost_usd": 1930.0826000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1935,8 +1936,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1928.9192,
-          "total_value_usd": 9.165457788926773e-11
+          "unit_cost_usd": 1930.0826000000002,
+          "total_value_usd": 9.170985803574374e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3956,6 +3957,13 @@
           "total_value_usd": 0.74
         },
         {
+          "currency": "[AGL13] Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - AGL13",
+          "amount": 40,
+          "ledger": "AGL13",
+          "unit_cost_usd": 2.795,
+          "total_value_usd": 111.8
+        },
+        {
           "currency": "[AGL13] Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
           "amount": 40,
           "ledger": "AGL13",
@@ -4010,11 +4018,11 @@
           "total_value_usd": 11.248209195402298
         },
         {
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "amount": 40,
+          "currency": "AGL13 equity holdings",
+          "amount": 111.8,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 2.709,
-          "total_value_usd": 108.36
+          "unit_cost_usd": 1,
+          "total_value_usd": 111.8
         },
         {
           "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
@@ -4102,14 +4110,14 @@
         },
         {
           "currency": "Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco",
-          "amount": 5,
+          "amount": 4.9,
           "ledger": "Main Ledger",
           "unit_weight_g": 1000,
           "inventory_type": "Cacao Butter",
           "unit_format": "Bulk",
           "hs_code": "1804",
           "unit_cost_usd": 34.4,
-          "total_value_usd": 172
+          "total_value_usd": 168.56
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
@@ -10681,8 +10689,8 @@
   ],
   "totals": {
     "item_types": 110,
-    "total_units": 19419.38815957675,
-    "total_value_usd": 37278.93,
+    "total_units": 19531.08815957675,
+    "total_value_usd": 37390.73,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1225
