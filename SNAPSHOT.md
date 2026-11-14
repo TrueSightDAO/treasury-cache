@@ -5,23 +5,23 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-14T08:48:38.747Z` |
+| Generated at | `2026-11-14T09:48:45.762Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 111 |
-| Total units | 19484.298518416745 |
-| Total value USD | $37337.55 |
+| Item types | 112 |
+| Total units | 19489.157918814246 |
+| Total value USD | $37337.50 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1223 |
 
-## Items (111, sorted by total quantity)
+## Items (112, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
 | USD | — | — | 6884.518583026825 | $1.00 | $6884.52 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1806.987246745667, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
-| AGL13 equity holdings | — | — | 2217.07035884 | $1.00 | $2217.07 | AGL15: 2214.61, Main Ledger: 2.46035884 |
+| AGL13 equity holdings | — | — | 2221.5297592375 | $1.00 | $2221.53 | AGL15: 2214.61, Main Ledger: 6.919759237499999 |
 | Brazilian Reis | — | — | 1541.8999999999983 | $0.23 | $358.18 | AGL8: 236.89999999999827, Main Ledger: 1305 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
@@ -43,8 +43,8 @@
 | QR Code Sticker 4x3cm (Kraft Pouch) - Brazil | — | — | 100 | $0.06 | $5.81 | Main Ledger: 100 |
 | Stand-Up Pouch Kraft w/Zip 10x15cm (per unit) - Brazil | — | — | 100 | $0.13 | $13.01 | Main Ledger: 100 |
 | Cacao Mass Bar CP340992687BR (loose grams) | — | — | 96.57370000000003 | $0.04 | $4.16 | Main Ledger: 96.57370000000003 |
-| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco | Cacao Nib | Bulk | 95.5 | $27.25 | $2602.38 | AGL13: 95.5 |
 | Plastic Bag 40cm X 60cm - 10 kilograms capacity | — | — | 94 | $0.10 | $9.84 | Main Ledger: 94 |
+| Cacao Nibs (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco | Cacao Nib | Bulk | 93.5 | $27.25 | $2547.88 | AGL13: 93.5 |
 | Plastic Bag 12cm X 25cm - 500 grams capacity | — | — | 92 | $0.06 | $5.33 | Main Ledger: 92 |
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 89 | $0.07 | $6.27 | Main Ledger: 89 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Nib | Bulk | 78 | $41.69 | $3251.82 | Main Ledger: 78 |
@@ -84,7 +84,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 5 | $8.32 | $41.58 | Main Ledger: 5 |
 | Large Cardboard Box for Moving Packaging 60x40x50 | — | — | 5 | $2.65 | $13.27 | Main Ledger: 5 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | Caramelized Cacao Bean | Retail Ready | 5 | $8.09 | $40.43 | AGL10: 5 |
-| Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco | Cacao Butter | Bulk | 4.800000000000001 | $34.40 | $165.12 | Main Ledger: 4.800000000000001 |
+| Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco | Cacao Butter | Bulk | 4.700000000000001 | $34.40 | $161.68 | Main Ledger: 4.700000000000001 |
 | Refurbished wood pallet (per pallet, Matheus Ilheus, R$180/4 receipt 20260409) | — | — | 4 | $10.45 | $41.81 | Main Ledger: 4 |
 | Cacao Mass Bar (40grams) CP340993869BR - AGL8 | — | — | 3.25 | $1.90 | $6.16 | AGL8: 3.25 |
 | 8 Ounce Package Kraft Pouch QN226716310BR - FounderHaus Brazil | — | — | 3 | $8.59 | $25.78 | Main Ledger: 3 |
@@ -93,6 +93,7 @@
 | Keys to Ilheus warehouse (outer door and inner door) | — | — | 3 | $3.15 | $9.45 | Main Ledger: 3 |
 | Plastic Pallet (per pallet, FBN Tambores Ilheus, R$240/3 receipt 20260912) | — | — | 3 | $18.76 | $56.27 | Main Ledger: 3 |
 | Reinforced Cardboard Boxes - Size 40x30x30 | — | — | 3 | $2.04 | $6.11 | Main Ledger: 3 |
+| Agroverse 71% Cacao Chocolate Block (Kilograms) #2 \| Vivi Cacao Nibs \| Kirsten 20261114 \| San Francisco - AGL13 | — | Bulk | 2.5 | $21.37 | $53.43 | AGL13: 2.5 |
 | Agroverse 81% Cacao Chocolate Block (Kilograms) #1 \| Vivi Cacao Nibs \| Kirsten 20261114 \| San Francisco - AGL13 | — | — | 2.5 | $24.16 | $60.40 | AGL13: 2.5 |
 | Cacao Tea - 20250219006 \| Cacao Tea \| Kilogram \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Tea | Bulk | 2.1802 | $0.00 | $0.00 | AGL8: 2.1802 |
 | Cacao Molasses 250ml + 74 4476 6210 San Francisco | — | — | 2 | $12.14 | $24.29 | Main Ledger: 2 |
@@ -129,21 +130,21 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1898.76 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1907.16 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
 | Ledger | Distinct items | Total units |
 |---|---:|---:|
 | AGL10 | 4 | 354 |
-| AGL13 | 4 | 159 |
+| AGL13 | 5 | 159.5 |
 | AGL14 | 1 | 764.5 |
 | AGL15 | 3 | 4828.17 |
 | AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 8 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 93 | 10745.007859337595 |
+| Main Ledger | 93 | 10749.367259735098 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -168,7 +169,7 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 10 | 9 |
-| Kirsten Ritschel | 28 | 1609.26035884 | 50 |
+| Kirsten Ritschel | 29 | 1614.1197592375 | 50 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 23 | 1272.585122798 | 324 |
 | Melinda Larios | 1 | 10 | 10 |
