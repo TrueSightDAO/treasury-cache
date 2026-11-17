@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-17T11:48:37.516Z",
+  "generated_at": "2026-11-17T12:17:37.637Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "currency_conversion",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 6884.253825140647,
-      "total_value_usd": 6884.25,
+      "total_quantity": 6765.553825140646,
+      "total_value_usd": 6765.55,
       "ledgers": {
-        "Main Ledger": 1806.7224888594892,
+        "Main Ledger": 1688.0224888594892,
         "AGL6": 1337.5853362811577,
         "AGL8": 68.00000000000003,
         "AGL10": 347.83,
@@ -55,6 +55,21 @@
       }
     },
     {
+      "currency": "Brazilian Reis",
+      "unit_weight_g": null,
+      "unit_cost_usd": 0.2323,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 1131.2699999999982,
+      "total_value_usd": 262.79,
+      "ledgers": {
+        "Main Ledger": 894.37,
+        "AGL8": 236.89999999999827
+      }
+    },
+    {
       "currency": "Cacao Nibs Kraft Pouch",
       "unit_weight_g": null,
       "unit_cost_usd": 0.34,
@@ -80,21 +95,6 @@
       "total_value_usd": 357.99,
       "ledgers": {
         "Main Ledger": 530
-      }
-    },
-    {
-      "currency": "Brazilian Reis",
-      "unit_weight_g": null,
-      "unit_cost_usd": 0.2323,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 456.8999999999983,
-      "total_value_usd": 106.14,
-      "ledgers": {
-        "Main Ledger": 220,
-        "AGL8": 236.89999999999827
       }
     },
     {
@@ -1613,7 +1613,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1815.5806,
+      "unit_cost_usd": 1810.8671000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1934,6 +1934,13 @@
           "total_value_usd": 9.17
         },
         {
+          "currency": "Brazilian Reis",
+          "amount": 674.37,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 0.2323,
+          "total_value_usd": 156.656151
+        },
+        {
           "currency": "Cacao Almonds KG - Organic",
           "amount": 0.6535149999999996,
           "ledger": "Main Ledger",
@@ -1999,8 +2006,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1815.5806,
-          "total_value_usd": 8.62691778468188e-11
+          "unit_cost_usd": 1810.8671000000002,
+          "total_value_usd": 8.60452110508633e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2025,10 +2032,10 @@
         },
         {
           "currency": "USD",
-          "amount": 1504.9024888594893,
+          "amount": 1386.2024888594892,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 1504.9024888594893
+          "total_value_usd": 1386.2024888594892
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -11412,8 +11419,8 @@
   ],
   "totals": {
     "item_types": 115,
-    "total_units": 18412.49276776175,
-    "total_value_usd": 37082.95,
+    "total_units": 18968.162767761747,
+    "total_value_usd": 37120.9,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1328
