@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T01:48:41.361Z",
+  "generated_at": "2026-11-17T02:48:38.960Z",
   "source": "treasury-cache-publisher",
   "trigger": "cron",
   "schema_version": 5,
@@ -1613,7 +1613,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1821.2085000000002,
+      "unit_cost_usd": 1815.2982000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -2006,8 +2006,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1821.2085000000002,
-          "total_value_usd": 8.653659329838516e-11
+          "unit_cost_usd": 1815.2982000000002,
+          "total_value_usd": 8.625575932063278e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -10365,6 +10365,636 @@
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261104 | San Francisco - MAIN",
           "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_1",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_2",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_3",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_4",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_5",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_6",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_7",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_8",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_9",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_10",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_11",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_12",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_13",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_14",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_15",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_16",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_17",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_18",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_19",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_20",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_21",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_22",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_23",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_24",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_25",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_26",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_27",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_28",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_29",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_30",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_31",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_32",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_34",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_35",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_36",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_37",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_39",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_40",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_41",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_42",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_43",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_44",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_45",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_46",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_47",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_48",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_49",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_50",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_51",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_52",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_53",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_54",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_55",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_56",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_57",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_58",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_59",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_60",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_61",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_62",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_63",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_64",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_65",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_66",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_67",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_68",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261116_69",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_3",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_4",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_5",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_6",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_7",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_8",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_9",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_10",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_11",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_12",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_13",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_14",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_15",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_16",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_17",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_18",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_19",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_20",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_21",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_22",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_23",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_24",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_25",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_26",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_27",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_28",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_29",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_30",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_31",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_32",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_33",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_34",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_35",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_36",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_37",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_38",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_39",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_40",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         }
       ]
     },
@@ -10793,6 +11423,6 @@
     "total_value_usd": 37334.99,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1223
+    "qr_codes_assigned": 1328
   }
 }
