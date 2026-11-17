@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-17T03:29:35.479Z` |
-| Trigger | `expense_processing` |
+| Generated at | `2026-11-17T03:48:37.194Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 115 |
-| Total units | 19497.492767761745 |
-| Total value USD | $37334.99 |
+| Total units | 18412.49276776175 |
+| Total value USD | $37082.95 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1328 |
@@ -19,12 +19,12 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 6884.342077769373 | $1.00 | $6884.34 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1806.8107414882152, SEF1: 16 |
+| USD | — | — | 6884.253825140647 | $1.00 | $6884.25 | AGL10: 347.83, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1337.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1806.7224888594892, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 2221.5297592375 | $1.00 | $2221.53 | AGL15: 2214.61, Main Ledger: 6.919759237499999 |
-| Brazilian Reis | — | — | 1541.8999999999983 | $0.23 | $358.18 | AGL8: 236.89999999999827, Main Ledger: 1305 |
 | Cacao Nibs Kraft Pouch | — | — | 866 | $0.34 | $294.44 | Main Ledger: 866 |
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
+| Brazilian Reis | — | — | 456.8999999999983 | $0.23 | $106.14 | AGL8: 236.89999999999827, Main Ledger: 220 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
 | Cacao Tree To Be Planted | — | — | 372 | $-1.50 | $-558.00 | Main Ledger: 372 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
@@ -49,7 +49,7 @@
 | Joyberg kraft cash envelope 6.5x3.2in (per piece, Amazon 111-2611520-6121033) | — | — | 89 | $0.07 | $6.27 | Main Ledger: 89 |
 | Cacao Nibs (KG) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Nib | Bulk | 74 | $41.69 | $3085.06 | Main Ledger: 74 |
 | USDT | — | — | 66.9280758999999 | $1.00 | $66.93 | Main Ledger: 66.9280758999999 |
-| USD - provisions for voting rights cash out | — | — | 58.78146810938015 | $1.00 | $58.78 | Main Ledger: 58.78146810938015 |
+| USD - provisions for voting rights cash out | — | — | 58.86972073810605 | $1.00 | $58.87 | Main Ledger: 58.86972073810605 |
 | Cacao Mass Bar (loose grams) - AGL2 | Cacao Mass | Bulk | 50 | $0.03 | $1.55 | Main Ledger: 50 |
 | Chocolate Mold from Rusty | — | — | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | Agroverse 81% Cacao Chocolate Bar 50g \| Oscar Cacao Nibs \| Kirsten 20261027 \| San Francisco - MAIN | — | — | 40 | $2.71 | $108.36 | Main Ledger: 40 |
@@ -133,7 +133,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1823.96 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1830.06 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -147,7 +147,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 8 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 96 | 10757.702108682597 |
+| Main Ledger | 96 | 9672.702108682595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -163,7 +163,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 31 | 8397.95903677875 | 241 |
+| Gary Teh | 30 | 7312.9590367787505 | 241 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
