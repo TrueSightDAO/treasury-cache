@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T17:36:57.783Z",
+  "generated_at": "2026-11-26T17:37:12.826Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
