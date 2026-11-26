@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-26T21:52:42.165Z` |
+| Generated at | `2026-11-26T21:53:17.787Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 117 |
-| Total units | 19358.892767761743 |
-| Total value USD | $37380.55 |
+| Total units | 19340.892767761743 |
+| Total value USD | $37261.03 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1325 |
@@ -63,7 +63,6 @@
 | Chocolate Mold MHC-CL082 (58 x 125 mm) - Dongguan MHC Industrial Co Ltd | — | — | 30 | $1.27 | $38.10 | Main Ledger: 30 |
 | Chocolate Mold - 4 X 6 slots | — | — | 26 | $1.19 | $30.94 | Main Ledger: 26 |
 | 8 Ounce Package Kraft Pouch CP340993268BR - Switzerland | — | — | 24 | $9.95 | $238.87 | Main Ledger: 24 |
-| 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 23 | $6.64 | $152.72 | Main Ledger: 23 |
 | Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco | Cacao Tea | Bulk | 21 | $27.64 | $580.50 | AGL13: 21 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993237BR Poland | — | — | 20 | $26.87 | $537.46 | Main Ledger: 20 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 17 | $8.38 | $142.38 | Main Ledger: 17 |
@@ -84,6 +83,7 @@
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 7 | $23.98 | $167.83 | Main Ledger: 7 |
 | Cacao Tea (Kilograms) Santos 20261007 AP623350200BR - FounderHaus Brazil | — | — | 7 | $13.42 | $93.92 | Main Ledger: 7 |
 | 8 Ounce Package Kraft Pouch - AGL2 + V2 bags | — | — | 5 | $7.49 | $37.47 | Main Ledger: 5 |
+| 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 | Cacao Nib | Retail Ready | 5 | $6.64 | $33.20 | Main Ledger: 5 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Oscar 2024 \| CP340993988BR San Francisco \| Kirsten 20251124 \| San Francisco - AGL4 | — | — | 5 | $8.32 | $41.58 | Main Ledger: 5 |
 | Large Cardboard Box for Moving Packaging 60x40x50 | — | — | 5 | $2.65 | $13.27 | Main Ledger: 5 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 + Caramelized Cacao Beans CP340993299BR San Francisco AGL10 | Caramelized Cacao Bean | Retail Ready | 5 | $8.09 | $40.43 | AGL10: 5 |
@@ -149,7 +149,7 @@
 | AGL6 | 3 | 1355.5853362811577 |
 | AGL8 | 8 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 98 | 10610.102108682595 |
+| Main Ledger | 98 | 10592.102108682595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -165,7 +165,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 35 | 8285.259036778749 | 280 |
+| Gary Teh | 34 | 8267.259036778749 | 280 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
