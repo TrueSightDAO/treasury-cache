@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:52:42.165Z",
+  "generated_at": "2026-11-26T21:53:17.787Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -632,20 +632,6 @@
       }
     },
     {
-      "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-      "unit_weight_g": null,
-      "unit_cost_usd": 6.64,
-      "inventory_type": "Cacao Nib",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 23,
-      "total_value_usd": 152.72,
-      "ledgers": {
-        "Main Ledger": 23
-      }
-    },
-    {
       "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
       "unit_weight_g": 1000,
       "unit_cost_usd": 27.6428499,
@@ -921,6 +907,20 @@
       "hs_code": null,
       "total_quantity": 5,
       "total_value_usd": 37.47,
+      "ledgers": {
+        "Main Ledger": 5
+      }
+    },
+    {
+      "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
+      "unit_weight_g": null,
+      "unit_cost_usd": 6.64,
+      "inventory_type": "Cacao Nib",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 5,
+      "total_value_usd": 33.2,
       "ledgers": {
         "Main Ledger": 5
       }
@@ -1962,15 +1962,6 @@
           "ledger": "Main Ledger",
           "unit_cost_usd": 0.1405,
           "total_value_usd": 4.777
-        },
-        {
-          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-          "amount": 18,
-          "ledger": "Main Ledger",
-          "inventory_type": "Cacao Nib",
-          "unit_format": "Retail Ready",
-          "unit_cost_usd": 6.64,
-          "total_value_usd": 119.52
         },
         {
           "currency": "ATOLOMOTOR Coffee Bean Roaster",
@@ -11466,8 +11457,8 @@
   ],
   "totals": {
     "item_types": 117,
-    "total_units": 19358.892767761743,
-    "total_value_usd": 37380.55,
+    "total_units": 19340.892767761743,
+    "total_value_usd": 37261.03,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1325
