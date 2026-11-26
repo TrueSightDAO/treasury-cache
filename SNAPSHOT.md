@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-26T21:53:17.787Z` |
-| Trigger | `movement` |
+| Generated at | `2026-11-26T22:48:39.211Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 117 |
 | Total units | 19340.892767761743 |
@@ -135,7 +135,7 @@
 | Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1707.54 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1695.81 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -165,7 +165,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 34 | 8267.259036778749 | 280 |
+| Gary Teh | 36 | 8298.259036778749 | 280 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -174,7 +174,7 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 10 | 9 |
-| Kirsten Ritschel | 33 | 1595.5546081849998 | 103 |
+| Kirsten Ritschel | 32 | 1564.5546081849998 | 103 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 23 | 1272.585122798 | 270 |
 | Melinda Larios | 1 | 10 | 10 |
