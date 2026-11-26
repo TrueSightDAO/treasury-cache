@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T17:34:50.078Z",
+  "generated_at": "2026-11-26T17:35:20.591Z",
   "source": "treasury-cache-publisher",
   "trigger": "process_sales",
   "schema_version": 5,
@@ -4931,12 +4931,6 @@
         },
         {
           "qr_code": "2024OSCAR_20250826_NIBS_21",
-          "status": "MINTED",
-          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20250826_NIBS_22",
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -10849,12 +10843,6 @@
           "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
-          "qr_code": "2024_20261027_15",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
-        },
-        {
           "qr_code": "2024_20261027_16",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
@@ -11431,6 +11419,6 @@
     "total_value_usd": 37226.04,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1327
+    "qr_codes_assigned": 1325
   }
 }
