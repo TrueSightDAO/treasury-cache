@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:37:47.802Z",
+  "generated_at": "2026-11-26T21:38:27.127Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -1856,6 +1856,14 @@
           "ledger": "AGL10",
           "unit_cost_usd": 1,
           "total_value_usd": 296.83
+        },
+        {
+          "currency": "[AGL13] Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "amount": 37,
+          "ledger": "AGL13",
+          "unit_weight_g": 50,
+          "unit_cost_usd": 1.987,
+          "total_value_usd": 73.52
         },
         {
           "currency": "[AGL14] USD",
@@ -4051,11 +4059,11 @@
         },
         {
           "currency": "[AGL13] Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "amount": 40,
+          "amount": 3,
           "ledger": "AGL13",
           "unit_weight_g": 50,
           "unit_cost_usd": 1.987,
-          "total_value_usd": 79.48
+          "total_value_usd": 5.96
         },
         {
           "currency": "[AGL13] Agroverse 81% Cacao Chocolate Block (Kilograms) #1 | Vivi Cacao Nibs | Kirsten 20261114 | San Francisco - AGL13",
