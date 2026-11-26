@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T21:38:27.127Z",
+  "generated_at": "2026-11-26T21:46:17.890Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "sales_update_agl",
   "schema_version": 5,
   "items": [
     {
@@ -631,6 +631,20 @@
       }
     },
     {
+      "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
+      "unit_weight_g": null,
+      "unit_cost_usd": 6.64,
+      "inventory_type": "Cacao Nib",
+      "unit_format": "Retail Ready",
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 23,
+      "total_value_usd": 152.72,
+      "ledgers": {
+        "Main Ledger": 23
+      }
+    },
+    {
       "currency": "Cacao Tea (Kilograms) Santos 20260213 - AGL13 + 047-3175-3223 - San Francisco",
       "unit_weight_g": 1000,
       "unit_cost_usd": 27.6428499,
@@ -897,20 +911,6 @@
       }
     },
     {
-      "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-      "unit_weight_g": null,
-      "unit_cost_usd": 6.64,
-      "inventory_type": "Cacao Nib",
-      "unit_format": "Retail Ready",
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 5,
-      "total_value_usd": 33.2,
-      "ledgers": {
-        "Main Ledger": 5
-      }
-    },
-    {
       "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Oscar 2024 | CP340993988BR San Francisco | Kirsten 20251124 | San Francisco - AGL4",
       "unit_weight_g": 200,
       "unit_cost_usd": 8.315440379611111,
@@ -960,10 +960,10 @@
       "unit_format": "Bulk",
       "gtin": null,
       "hs_code": "1804",
-      "total_quantity": 4.500000000000002,
-      "total_value_usd": 156.57,
+      "total_quantity": 4.600000000000001,
+      "total_value_usd": 160.05,
       "ledgers": {
-        "Main Ledger": 4.500000000000002
+        "Main Ledger": 4.600000000000001
       }
     },
     {
@@ -1627,7 +1627,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1706.5102000000002,
+      "unit_cost_usd": 1705.7176000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1942,11 +1942,27 @@
           "total_value_usd": 4.777
         },
         {
+          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
+          "amount": 18,
+          "ledger": "Main Ledger",
+          "inventory_type": "Cacao Nib",
+          "unit_format": "Retail Ready",
+          "unit_cost_usd": 6.64,
+          "total_value_usd": 119.52
+        },
+        {
           "currency": "ATOLOMOTOR Coffee Bean Roaster",
           "amount": 1,
           "ledger": "Main Ledger",
           "unit_cost_usd": 86.89,
           "total_value_usd": 86.89
+        },
+        {
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "amount": 2,
+          "ledger": "Main Ledger",
+          "unit_cost_usd": 2.709,
+          "total_value_usd": 5.418
         },
         {
           "currency": "Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600)",
@@ -2021,8 +2037,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1706.5102000000002,
-          "total_value_usd": 8.108658571324805e-11
+          "unit_cost_usd": 1705.7176000000002,
+          "total_value_usd": 8.104892450979535e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4137,10 +4153,10 @@
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "amount": 40,
+          "amount": 38,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.709,
-          "total_value_usd": 108.36
+          "total_value_usd": 102.94200000000001
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Block (Kilograms) #1 | Oscar Cacao Nibs | Kirsten 20261114 | San Francisco - MAIN",
@@ -4237,14 +4253,14 @@
         },
         {
           "currency": "Coopercabruca Cacao Butter (KG) + 047-3175-3223 - San Francisco",
-          "amount": 4.500000000000002,
+          "amount": 4.600000000000001,
           "ledger": "Main Ledger",
           "unit_weight_g": 1000,
           "inventory_type": "Cacao Butter",
           "unit_format": "Bulk",
           "hs_code": "1804",
           "unit_cost_usd": 34.7928499,
-          "total_value_usd": 156.56782455000007
+          "total_value_usd": 160.04710954000004
         },
         {
           "currency": "Foam container box - 46 cacao bar capacity (36cm X 40cm X 61cm)",
@@ -4557,6 +4573,210 @@
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
           "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024PAULO_20251001",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251002",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251003",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251004",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251005",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251006",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251007",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251008",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251009",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251010",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251011",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251012",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251013",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251014",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251015",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251016",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251018",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251019",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251020",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251021",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251022",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251023",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251024",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251025",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251026",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251027",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251028",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251029",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251030",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251031",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251032",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251033",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251034",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
+        },
+        {
+          "qr_code": "2024PAULO_20251035",
+          "status": "MINTED",
+          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
+          "ledger_shortcut": "https://agroverse.shop/agl8"
         },
         {
           "qr_code": "2024OSCAR_20251011_3",
@@ -5808,211 +6028,7 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
-          "qr_code": "2024PAULO_20251001",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251002",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251003",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251004",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251005",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251006",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251007",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251008",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251009",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251010",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251011",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251012",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251013",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251014",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251015",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251016",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
           "qr_code": "2024PAULO_20251017",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251018",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251019",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251020",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251021",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251022",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251023",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251024",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251025",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251026",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251027",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251028",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251029",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251030",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251031",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251032",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251033",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251034",
-          "status": "MINTED",
-          "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
-          "ledger_shortcut": "https://agroverse.shop/agl8"
-        },
-        {
-          "qr_code": "2024PAULO_20251035",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - 20250219006 | Cacao Mass | 200 grams | Paulo 2024 | Santos 018-2025 016-2025 || Ilheus - AGL8",
           "ledger_shortcut": "https://agroverse.shop/agl8"
@@ -11423,8 +11439,8 @@
   ],
   "totals": {
     "item_types": 116,
-    "total_units": 19319.792767761744,
-    "total_value_usd": 37249.54,
+    "total_units": 19337.892767761743,
+    "total_value_usd": 37372.54,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1325
