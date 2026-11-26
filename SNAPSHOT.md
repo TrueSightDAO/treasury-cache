@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-26T21:37:47.802Z` |
+| Generated at | `2026-11-26T21:38:27.127Z` |
 | Trigger | `movement` |
 | Schema version | `5` |
 | Item types | 116 |
@@ -164,7 +164,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 31 | 8219.259036778749 | 241 |
+| Gary Teh | 32 | 8256.259036778749 | 241 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -173,7 +173,7 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 10 | 9 |
-| Kirsten Ritschel | 32 | 1622.4546081849999 | 108 |
+| Kirsten Ritschel | 32 | 1585.4546081849999 | 108 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 23 | 1272.585122798 | 304 |
 | Melinda Larios | 1 | 10 | 10 |
