@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T21:53:17.787Z",
+  "generated_at": "2026-11-26T22:48:39.211Z",
   "source": "treasury-cache-publisher",
-  "trigger": "movement",
+  "trigger": "cron",
   "schema_version": 5,
   "items": [
     {
@@ -1642,7 +1642,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1707.5405,
+      "unit_cost_usd": 1695.8072000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1964,11 +1964,26 @@
           "total_value_usd": 4.777
         },
         {
+          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
+          "amount": 19,
+          "ledger": "Main Ledger",
+          "inventory_type": "Cacao Nib",
+          "unit_format": "Retail Ready",
+          "hs_code": "1801",
+          "unit_cost_usd": 10.5990984,
+          "total_value_usd": 201.38286960000002
+        },
+        {
           "currency": "ATOLOMOTOR Coffee Bean Roaster",
           "amount": 1,
           "ledger": "Main Ledger",
           "unit_cost_usd": 86.89,
           "total_value_usd": 86.89
+        },
+        {
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g",
+          "amount": 12,
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
@@ -2050,8 +2065,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1707.5405,
-          "total_value_usd": 8.113554147645436e-11
+          "unit_cost_usd": 1695.8072000000002,
+          "total_value_usd": 8.057802167015655e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4367,13 +4382,13 @@
         },
         {
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
-          "amount": 129,
+          "amount": 110,
           "ledger": "Main Ledger",
           "inventory_type": "Cacao Nib",
           "unit_format": "Retail Ready",
           "hs_code": "1801",
           "unit_cost_usd": 10.5990984,
-          "total_value_usd": 1367.2836936
+          "total_value_usd": 1165.900824
         },
         {
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
@@ -4397,11 +4412,6 @@
           "unit_format": "Bulk",
           "unit_cost_usd": 30.785269129999996,
           "total_value_usd": 76.96317282499999
-        },
-        {
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g",
-          "amount": 12,
-          "ledger": "Main Ledger"
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
