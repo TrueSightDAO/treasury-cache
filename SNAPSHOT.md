@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-26T17:34:50.078Z` |
+| Generated at | `2026-11-26T17:35:20.591Z` |
 | Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 116 |
@@ -13,7 +13,7 @@
 | Total value USD | $37226.04 |
 | Ledgers processed | 16 |
 | Managers | 45 |
-| QR codes assigned | 1327 |
+| QR codes assigned | 1325 |
 
 ## Items (116, sorted by total quantity)
 
@@ -175,7 +175,7 @@
 | Kelly Springer | 2 | 10 | 9 |
 | Kirsten Ritschel | 32 | 1622.4546081849999 | 50 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 23 | 1272.585122798 | 324 |
+| Matheus Reis | 23 | 1272.585122798 | 323 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
@@ -193,7 +193,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
-| Sophia Truesight | 1 | 5 | 185 |
+| Sophia Truesight | 1 | 5 | 184 |
 | SunMint Tree Planting Contract - agl4 | 2 | 374 | — |
 | Tess Walkowski | 2 | 13 | 9 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
