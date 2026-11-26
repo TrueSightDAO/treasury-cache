@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T16:48:36.456Z",
+  "generated_at": "2026-11-26T17:34:50.078Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -1627,7 +1627,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1689.8804,
+      "unit_cost_usd": 1689.8311,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -2013,8 +2013,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1689.8804,
-          "total_value_usd": 8.029640367794924e-11
+          "unit_cost_usd": 1689.8311,
+          "total_value_usd": 8.029406113779e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -9925,12 +9925,6 @@
           "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
         },
         {
-          "qr_code": "2025_20261025_7",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
           "qr_code": "2025_20261025_8",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
@@ -11437,6 +11431,6 @@
     "total_value_usd": 37226.04,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1328
+    "qr_codes_assigned": 1327
   }
 }
