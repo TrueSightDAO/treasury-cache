@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T21:48:59.888Z",
+  "generated_at": "2026-11-26T21:52:42.165Z",
   "source": "treasury-cache-publisher",
   "trigger": "movement",
   "schema_version": 5,
@@ -725,6 +725,20 @@
       "hs_code": null,
       "total_quantity": 12,
       "total_value_usd": 67.49,
+      "ledgers": {
+        "Main Ledger": 12
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g",
+      "unit_weight_g": null,
+      "unit_cost_usd": null,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 12,
+      "total_value_usd": null,
       "ledgers": {
         "Main Ledger": 12
       }
@@ -1628,7 +1642,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1706.0836000000002,
+      "unit_cost_usd": 1707.5405,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -2045,8 +2059,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1706.0836000000002,
-          "total_value_usd": 8.10663153758863e-11
+          "unit_cost_usd": 1707.5405,
+          "total_value_usd": 8.113554147645436e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3551,6 +3565,240 @@
           "status": "ASSIGNED_TO_TREE",
           "currency": "SunMint Tree Planting Pledge - QR Code",
           "ledger_shortcut": "https://truesight.me/sunmint/main"
+        },
+        {
+          "qr_code": "2025_20261025_3",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_4",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_5",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_6",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_8",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_9",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_10",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_11",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_12",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_13",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_14",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_15",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_17",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_19",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_21",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_23",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_24",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_25",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_26",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_27",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_28",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_30",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_31",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_32",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_34",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_36",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_38",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_40",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_41",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_42",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_43",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_44",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_46",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_47",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_48",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_49",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2025_20261025_50",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
+        },
+        {
+          "qr_code": "2024_20261027_39",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
+        },
+        {
+          "qr_code": "2024_20261027_40",
+          "status": "MINTED",
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         }
       ]
     },
@@ -4158,6 +4406,11 @@
           "unit_format": "Bulk",
           "unit_cost_usd": 30.785269129999996,
           "total_value_usd": 76.96317282499999
+        },
+        {
+          "currency": "Agroverse 81% Cacao Chocolate Bar 50g",
+          "amount": 12,
+          "ledger": "Main Ledger"
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
@@ -4953,240 +5206,6 @@
           "status": "MINTED",
           "currency": "81% Dark Chocolate Bar 50g | Cacao Almonds KG - Organic (Fazenda São Jorge) | Gary Teh 20260710 | San Francisco",
           "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2025_20261025_3",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_4",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_5",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_6",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_8",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_9",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_10",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_11",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_12",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_13",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_14",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_15",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_17",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_19",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_21",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_23",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_24",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_25",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_26",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_27",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_28",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_30",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_31",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_32",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_34",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_36",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_38",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_40",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_41",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_42",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_43",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_44",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_46",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_47",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_48",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_49",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2025_20261025_50",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl13/index.html"
-        },
-        {
-          "qr_code": "2024_20261027_39",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
-        },
-        {
-          "qr_code": "2024_20261027_40",
-          "status": "MINTED",
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         }
       ]
     },
@@ -11446,8 +11465,8 @@
     }
   ],
   "totals": {
-    "item_types": 116,
-    "total_units": 19346.892767761743,
+    "item_types": 117,
+    "total_units": 19358.892767761743,
     "total_value_usd": 37380.55,
     "ledgers_processed": 16,
     "managers_count": 45,
