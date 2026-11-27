@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T22:18:36.618Z",
+  "generated_at": "2026-11-27T22:25:14.678Z",
   "source": "treasury-cache-publisher",
   "trigger": "manual",
   "schema_version": 5,
@@ -1614,7 +1614,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1655.8880000000001,
+      "unit_cost_usd": 1656.3154000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -2025,8 +2025,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1655.8880000000001,
-          "total_value_usd": 7.868121986234767e-11
+          "unit_cost_usd": 1656.3154000000002,
+          "total_value_usd": 7.870152821253148e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -3260,127 +3260,127 @@
           "qr_code": "2024_20260622_1",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_2",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_3",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_4",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_5",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_6",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_7",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_8",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_9",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_10",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_11",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_12",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_13",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_14",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_15",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_16",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_17",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_18",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_19",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_20",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_21",
           "status": "MINTED",
           "currency": "Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Cacao Mass | 200 grams | 8 Ounce Nibs CP340992735BR | Kirsten 20260620 | San Francisco - AGL4",
-          "ledger_shortcut": "https://agroverse.shop/farms/oscar-bahia/index.html"
+          "ledger_shortcut": "https://agroverse.shop/shipments/agl4"
         },
         {
           "qr_code": "2024_20260622_22",
@@ -10268,12 +10268,6 @@
       ],
       "qr_codes": [
         {
-          "qr_code": "2024_20260913_1",
-          "status": "MINTED",
-          "currency": "TEST QR Currency 2026-09-13",
-          "ledger_shortcut": "https://truesight.me/shop/test"
-        },
-        {
           "qr_code": "2024_20261104_1",
           "status": "MINTED",
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261104 | San Francisco - MAIN",
@@ -11354,6 +11348,6 @@
     "total_value_usd": 37337.57,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1314
+    "qr_codes_assigned": 1313
   }
 }
