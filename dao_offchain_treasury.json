@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T16:48:37.275Z",
+  "generated_at": "2026-11-27T17:29:09.718Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "process_sales",
   "schema_version": 5,
   "items": [
     {
@@ -1614,7 +1614,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1680.2064,
+      "unit_cost_usd": 1668.6288000000002,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -2032,8 +2032,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1680.2064,
-          "total_value_usd": 7.983673362722821e-11
+          "unit_cost_usd": 1668.6288000000002,
+          "total_value_usd": 7.928661206642319e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2122,12 +2122,6 @@
           "status": "MINTED",
           "currency": "Propane Tank - 16 oz",
           "ledger_shortcut": "https://agroverse.shop/agl9"
-        },
-        {
-          "qr_code": "2024SJ_20250710_NIBS_2",
-          "status": "MINTED",
-          "currency": "8 Ounce Package Kraft Pouch - AGL6",
-          "ledger_shortcut": "https://agroverse.shop/agl6"
         },
         {
           "qr_code": "2024OSCAR_20250711_NIBS_2",
@@ -11415,6 +11409,6 @@
     "total_value_usd": 37291.29,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1323
+    "qr_codes_assigned": 1322
   }
 }
