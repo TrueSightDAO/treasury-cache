@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-27T11:27:57.944Z` |
-| Trigger | `movement` |
+| Generated at | `2026-11-27T11:48:37.858Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 115 |
 | Total units | 19338.892767761743 |
@@ -133,7 +133,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1726.69 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1723.69 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -163,7 +163,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 35 | 8307.259036778749 | 279 |
+| Gary Teh | 35 | 8330.259036778749 | 313 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -172,7 +172,7 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 10 | 9 |
-| Kirsten Ritschel | 32 | 1553.5546081849998 | 104 |
+| Kirsten Ritschel | 32 | 1530.5546081849998 | 104 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
 | Matheus Reis | 22 | 1271.585122798 | 269 |
 | Melinda Larios | 1 | 10 | 10 |
@@ -192,7 +192,7 @@
 | Secrets of the Garden - Kirstin | 5 | 10 | 6 |
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
-| Sophia Truesight | 1 | 5 | 144 |
+| Sophia Truesight | 1 | 5 | 110 |
 | SunMint Tree Planting Contract - agl4 | 2 | 376 | — |
 | Tess Walkowski | 2 | 13 | 9 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
