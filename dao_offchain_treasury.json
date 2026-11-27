@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T10:48:39.205Z",
+  "generated_at": "2026-11-27T11:27:57.944Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "movement",
   "schema_version": 5,
   "items": [
     {
@@ -711,20 +711,6 @@
       "hs_code": null,
       "total_quantity": 12,
       "total_value_usd": 67.49,
-      "ledgers": {
-        "Main Ledger": 12
-      }
-    },
-    {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g",
-      "unit_weight_g": null,
-      "unit_cost_usd": null,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 12,
-      "total_value_usd": null,
       "ledgers": {
         "Main Ledger": 12
       }
@@ -1628,7 +1614,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1726.6338,
+      "unit_cost_usd": 1726.6929,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1967,16 +1953,11 @@
           "total_value_usd": 86.89
         },
         {
-          "currency": "Agroverse 81% Cacao Chocolate Bar 50g",
-          "amount": 12,
-          "ledger": "Main Ledger"
-        },
-        {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "amount": 1,
+          "amount": 13,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.709,
-          "total_value_usd": 2.709
+          "total_value_usd": 35.217
         },
         {
           "currency": "Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600)",
@@ -2051,8 +2032,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1726.6338,
-          "total_value_usd": 8.204277924567412e-11
+          "unit_cost_usd": 1726.6929,
+          "total_value_usd": 8.204558744290355e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -4395,10 +4376,10 @@
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "amount": 38,
+          "amount": 26,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.709,
-          "total_value_usd": 102.94200000000001
+          "total_value_usd": 70.434
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Block (Kilograms) #1 | Oscar Cacao Nibs | Kirsten 20261114 | San Francisco - MAIN",
@@ -11429,8 +11410,8 @@
     }
   ],
   "totals": {
-    "item_types": 116,
-    "total_units": 19350.892767761743,
+    "item_types": 115,
+    "total_units": 19338.892767761743,
     "total_value_usd": 37270.32,
     "ledgers_processed": 16,
     "managers_count": 45,
