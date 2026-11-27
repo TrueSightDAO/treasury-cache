@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-27T23:00:41.912Z` |
-| Trigger | `manual` |
+| Generated at | `2026-11-27T23:01:12.138Z` |
+| Trigger | `sales_update_main` |
 | Schema version | `5` |
 | Item types | 115 |
-| Total units | 19434.49276776174 |
-| Total value USD | $37337.57 |
+| Total units | 19444.49276776174 |
+| Total value USD | $37343.37 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1313 |
@@ -19,7 +19,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 6903.4070795618545 | $1.00 | $6903.41 | AGL10: 347.83, AGL13: 10, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1352.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1800.8757432806974, SEF1: 16 |
+| USD | — | — | 6913.4070795618545 | $1.00 | $6913.41 | AGL10: 347.83, AGL13: 10, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1352.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1810.8757432806974, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 2221.5297592375 | $1.00 | $2221.53 | AGL15: 2214.61, Main Ledger: 6.919759237499999 |
 | RMB (CNY, ¥) | — | — | 1000 | $0.15 | $150.00 | Main Ledger: 1000 |
@@ -27,7 +27,7 @@
 | Cacao Nibs Kraft Pouch - 20250219006 | Packaging Material | Bulk | 530 | $0.68 | $357.99 | Main Ledger: 530 |
 | Brazilian Reis | — | — | 456.8999999999983 | $0.23 | $106.14 | AGL8: 236.89999999999827, Main Ledger: 220 |
 | Caramelized Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 427 | $0.74 | $313.97 | AGL10: 1, Main Ledger: 426 |
-| Cacao Tree To Be Planted | — | — | 380 | $-1.50 | $-570.00 | Main Ledger: 380 |
+| Cacao Tree To Be Planted | — | — | 381 | $-1.50 | $-571.50 | Main Ledger: 381 |
 | Ceremonial Cacao Kraft Pouch - Alibaba:269035810001023771 | Packaging Material | Bulk | 365 | $0.74 | $268.38 | Main Ledger: 365 |
 | Cacao Tree Planted - Unassigned | — | — | 324 | — | — | Main Ledger: 324 |
 | NovaGaia Tree Planting Pledge - QR Code | — | — | 297 | $7.00 | $2079.00 | SEF1: 297 |
@@ -56,7 +56,7 @@
 | Agroverse 81% Cacao Chocolate Bar 50g \| Vivi Cacao Nibs \| Kirsten 20261025 \| San Francisco - AGL13 | — | — | 39 | $1.99 | $77.49 | AGL13: 39 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 38 | $9.02 | $342.73 | Main Ledger: 38 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Mass | Bulk | 37 | $24.43 | $903.78 | Main Ledger: 37 |
-| Agroverse 81% Cacao Chocolate Bar 50g \| Oscar Cacao Nibs \| Kirsten 20261027 \| San Francisco - MAIN | — | — | 36 | $2.71 | $97.52 | Main Ledger: 36 |
+| Agroverse 81% Cacao Chocolate Bar 50g \| Oscar Cacao Nibs \| Kirsten 20261027 \| San Francisco - MAIN | — | — | 35 | $2.71 | $94.82 | Main Ledger: 35 |
 | RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467) | — | — | 35 | $0.55 | $19.39 | Main Ledger: 35 |
 | 1 Gallon Zip Loc Bags | — | — | 34 | $0.14 | $4.78 | Main Ledger: 34 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 34 | $0.55 | $18.84 | Main Ledger: 34 |
@@ -147,7 +147,7 @@
 | AGL6 | 3 | 1369.5853362811577 |
 | AGL8 | 7 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
-| Main Ledger | 97 | 10671.702108682595 |
+| Main Ledger | 97 | 10681.702108682595 |
 | PP1 | 1 | 10 |
 | SEF1 | 2 | 313 |
 
@@ -163,7 +163,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 34 | 8421.859036778747 | 323 |
+| Gary Teh | 34 | 8430.859036778747 | 323 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
@@ -193,7 +193,7 @@
 | Shannon Barlow - Ponderosa | 2 | 6 | — |
 | Shuar Design Boutique | 3 | 37 | 29 |
 | Sophia Truesight | 1 | 5 | 109 |
-| SunMint Tree Planting Contract - agl4 | 2 | 382 | — |
+| SunMint Tree Planting Contract - agl4 | 2 | 383 | — |
 | Tess Walkowski | 2 | 13 | 9 |
 | The Enchanted Forest Boutique - Chris and Monique | 1 | 10 | — |
 | The Whole Body Repair Clinic - Andrea / Leesa | 2 | 6 | 5 |
