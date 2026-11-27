@@ -5,17 +5,17 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-27T00:48:37.284Z` |
+| Generated at | `2026-11-27T01:48:38.806Z` |
 | Trigger | `cron` |
 | Schema version | `5` |
-| Item types | 117 |
+| Item types | 116 |
 | Total units | 19340.892767761743 |
-| Total value USD | $37261.03 |
+| Total value USD | $37264.52 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1325 |
 
-## Items (117, sorted by total quantity)
+## Items (116, sorted by total quantity)
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
@@ -35,7 +35,7 @@
 | Cacao Mass Bar (loose grams) - Ilheus, Brazil 2024 + CP340993838BR - Zurich | — | — | 240 | $0.05 | $11.51 | Main Ledger: 240 |
 | Cacao Tea 1g \| Cacao Almonds KG - Organic (Fazenda São Jorge) \| Gary Teh 20260710 \| San Francisco | — | — | 229 | $0.11 | $25.76 | Main Ledger: 229 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 | Packaging Material | Bulk | 189 | $0.68 | $127.66 | Main Ledger: 189 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 + 047-3175-3223 - San Francisco | Cacao Mass | Retail Ready | 169 | $13.86 | $2342.10 | AGL8: 169 |
+| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 + 047-3175-3223 - San Francisco | Cacao Mass | Retail Ready | 170 | $13.86 | $2355.96 | AGL8: 170 |
 | AGL8 equity holdings | — | — | 163.064 | $1.00 | $163.06 | AGL15: 163.064 |
 | 8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Nib | Retail Ready | 129 | $10.60 | $1367.28 | Main Ledger: 129 |
 | Cacao Almonds KG from Oscar's farm - AGL16 (2026) | — | — | 108 | $12.14 | $1311.12 | AGL16: 108 |
@@ -132,10 +132,9 @@
 | Showcase display cabinet (per cabinet, Matheus Ilheus warehouse, R$250 receipt 20261010) | — | — | 1 | $58.08 | $58.08 | Main Ledger: 1 |
 | Steel Tape Measure 5m x 19mm Self-Locking Vonder Plus | — | — | 1 | $4.78 | $4.78 | Main Ledger: 1 |
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
-| Ceremonial Cacao Kraft Pouch - 20250219006 \| Cacao Mass \| 200 grams \| Paulo 2024 \| Santos 018-2025 016-2025 \|\| Ilheus - AGL8 | Cacao Mass | Retail Ready | 1 | $10.37 | $10.37 | AGL8: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1696.94 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1698.49 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -147,7 +146,7 @@
 | AGL15 | 3 | 4828.17 |
 | AGL16 | 1 | 108 |
 | AGL6 | 3 | 1355.5853362811577 |
-| AGL8 | 8 | 753.9153227979982 |
+| AGL8 | 7 | 753.9153227979982 |
 | BEC | 1 | 93.12 |
 | Main Ledger | 98 | 10592.102108682595 |
 | PP1 | 1 | 10 |
@@ -174,9 +173,9 @@
 | Jae Nice | 1 | 7 | 8 |
 | Jenifer Runnion | 1 | 10 | 10 |
 | Kelly Springer | 2 | 10 | 9 |
-| Kirsten Ritschel | 32 | 1564.5546081849998 | 104 |
+| Kirsten Ritschel | 32 | 1565.5546081849998 | 104 |
 | Lumin Earth Apothecary - Summer and Sierra | 2 | 72.91 | 2 |
-| Matheus Reis | 23 | 1272.585122798 | 269 |
+| Matheus Reis | 22 | 1271.585122798 | 269 |
 | Melinda Larios | 1 | 10 | 10 |
 | Micheal Johnson | 2 | 85 | — |
 | Miss Tomato - Asad | 1 | 10 | — |
