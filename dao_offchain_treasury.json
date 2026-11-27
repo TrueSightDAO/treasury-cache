@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T17:29:09.718Z",
+  "generated_at": "2026-11-27T17:29:43.951Z",
   "source": "treasury-cache-publisher",
-  "trigger": "process_sales",
+  "trigger": "sales_update_agl",
   "schema_version": 5,
   "items": [
     {
@@ -2148,18 +2148,6 @@
           "ledger_shortcut": "https://agroverse.shop/agl4"
         },
         {
-          "qr_code": "2024OSCAR_20250826_NIBS_14",
-          "status": "MINTED",
-          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20250826_NIBS_15",
-          "status": "MINTED",
-          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
           "qr_code": "2024OSCAR_20250826_NIBS_16",
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
@@ -2167,12 +2155,6 @@
         },
         {
           "qr_code": "2024OSCAR_20250826_NIBS_17",
-          "status": "MINTED",
-          "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
-          "ledger_shortcut": "https://agroverse.shop/agl4"
-        },
-        {
-          "qr_code": "2024OSCAR_20250826_NIBS_18",
           "status": "MINTED",
           "currency": "8 Ounce Package Kraft Pouch - Ilheus, Brazil 2024",
           "ledger_shortcut": "https://agroverse.shop/agl4"
@@ -11409,6 +11391,6 @@
     "total_value_usd": 37291.29,
     "ledgers_processed": 16,
     "managers_count": 45,
-    "qr_codes_assigned": 1322
+    "qr_codes_assigned": 1319
   }
 }
