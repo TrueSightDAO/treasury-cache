@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-27T12:12:34.405Z",
+  "generated_at": "2026-11-27T12:35:57.431Z",
   "source": "treasury-cache-publisher",
-  "trigger": "sales_update_main",
+  "trigger": "manual",
   "schema_version": 5,
   "items": [
     {
@@ -12,10 +12,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 6833.4070795618545,
-      "total_value_usd": 6833.41,
+      "total_quantity": 6843.4070795618545,
+      "total_value_usd": 6843.41,
       "ledgers": {
-        "Main Ledger": 1745.8757432806974,
+        "Main Ledger": 1755.8757432806974,
         "AGL6": 1337.5853362811577,
         "AGL8": 68.00000000000003,
         "AGL13": 10,
@@ -135,10 +135,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 376,
-      "total_value_usd": -564,
+      "total_quantity": 377,
+      "total_value_usd": -565.5,
       "ledgers": {
-        "Main Ledger": 376
+        "Main Ledger": 377
       }
     },
     {
@@ -520,20 +520,6 @@
       }
     },
     {
-      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-      "unit_weight_g": null,
-      "unit_cost_usd": 2.709,
-      "inventory_type": null,
-      "unit_format": null,
-      "gtin": null,
-      "hs_code": null,
-      "total_quantity": 37,
-      "total_value_usd": 100.23,
-      "ledgers": {
-        "Main Ledger": 37
-      }
-    },
-    {
       "currency": "Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco",
       "unit_weight_g": 500,
       "unit_cost_usd": 24.426425,
@@ -545,6 +531,20 @@
       "total_value_usd": 903.78,
       "ledgers": {
         "Main Ledger": 37
+      }
+    },
+    {
+      "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
+      "unit_weight_g": null,
+      "unit_cost_usd": 2.709,
+      "inventory_type": null,
+      "unit_format": null,
+      "gtin": null,
+      "hs_code": null,
+      "total_quantity": 36,
+      "total_value_usd": 97.52,
+      "ledgers": {
+        "Main Ledger": 36
       }
     },
     {
@@ -1614,7 +1614,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1722.3893,
+      "unit_cost_usd": 1718.112,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1954,10 +1954,10 @@
         },
         {
           "currency": "Agroverse 81% Cacao Chocolate Bar 50g | Oscar Cacao Nibs | Kirsten 20261027 | San Francisco - MAIN",
-          "amount": 36,
+          "amount": 35,
           "ledger": "Main Ledger",
           "unit_cost_usd": 2.709,
-          "total_value_usd": 97.524
+          "total_value_usd": 94.815
         },
         {
           "currency": "Amazon LFSEMINI camping stove windscreen 16 plates + drawstring bag (per unit, order 111-8445495-0894600)",
@@ -2032,8 +2032,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1722.3893,
-          "total_value_usd": 8.184109746664937e-11
+          "unit_cost_usd": 1718.112,
+          "total_value_usd": 8.16378571619203e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -2065,10 +2065,10 @@
         },
         {
           "currency": "USD",
-          "amount": 1444.0557432806975,
+          "amount": 1454.0557432806975,
           "ledger": "Main Ledger",
           "unit_cost_usd": 1,
-          "total_value_usd": 1444.0557432806975
+          "total_value_usd": 1454.0557432806975
         },
         {
           "currency": "USD - provisions for voting rights cash out",
@@ -11003,10 +11003,10 @@
         },
         {
           "currency": "Cacao Tree To Be Planted",
-          "amount": 375,
+          "amount": 376,
           "ledger": "Main Ledger",
           "unit_cost_usd": -1.5,
-          "total_value_usd": -562.5
+          "total_value_usd": -564
         }
       ],
       "qr_codes": []
@@ -11411,8 +11411,8 @@
   ],
   "totals": {
     "item_types": 115,
-    "total_units": 19362.49276776174,
-    "total_value_usd": 37285.5,
+    "total_units": 19372.49276776174,
+    "total_value_usd": 37291.29,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1323
