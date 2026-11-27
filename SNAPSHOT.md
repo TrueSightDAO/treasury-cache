@@ -5,15 +5,15 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-27T17:29:09.718Z` |
-| Trigger | `process_sales` |
+| Generated at | `2026-11-27T17:29:43.951Z` |
+| Trigger | `sales_update_agl` |
 | Schema version | `5` |
 | Item types | 115 |
 | Total units | 19372.49276776174 |
 | Total value USD | $37291.29 |
 | Ledgers processed | 16 |
 | Managers | 45 |
-| QR codes assigned | 1322 |
+| QR codes assigned | 1319 |
 
 ## Items (115, sorted by total quantity)
 
@@ -163,7 +163,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 35 | 8362.859036778747 | 331 |
+| Gary Teh | 35 | 8362.859036778747 | 328 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
