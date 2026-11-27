@@ -5,15 +5,15 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-27T03:48:34.876Z` |
-| Trigger | `cron` |
+| Generated at | `2026-11-27T04:45:15.283Z` |
+| Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 116 |
 | Total units | 19340.892767761743 |
 | Total value USD | $37264.53 |
 | Ledgers processed | 16 |
 | Managers | 45 |
-| QR codes assigned | 1325 |
+| QR codes assigned | 1324 |
 
 ## Items (116, sorted by total quantity)
 
@@ -134,7 +134,7 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1726.80 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1735.54 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
@@ -164,7 +164,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 36 | 8298.259036778749 | 280 |
+| Gary Teh | 36 | 8298.259036778749 | 279 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
