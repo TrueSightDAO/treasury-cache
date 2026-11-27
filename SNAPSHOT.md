@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-27T17:29:43.951Z` |
-| Trigger | `sales_update_agl` |
+| Generated at | `2026-11-27T17:30:01.122Z` |
+| Trigger | `process_sales` |
 | Schema version | `5` |
 | Item types | 115 |
 | Total units | 19372.49276776174 |
