@@ -5,12 +5,12 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-28T01:46:20.687Z` |
-| Trigger | `sales_update_agl` |
+| Generated at | `2026-11-28T01:48:32.817Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 115 |
-| Total units | 19485.092767761744 |
-| Total value USD | $37376.80 |
+| Total units | 19494.092767761744 |
+| Total value USD | $37384.82 |
 | Ledgers processed | 16 |
 | Managers | 45 |
 | QR codes assigned | 1313 |
@@ -19,7 +19,7 @@
 
 | Currency | Inventory type | Unit format | Units | Unit cost USD | Total value USD | Ledgers |
 |---|---|---|---:|---:|---:|---|
-| USD | — | — | 6957.007079561855 | $1.00 | $6957.01 | AGL10: 347.83, AGL13: 43.6, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1352.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1820.8757432806974, SEF1: 16 |
+| USD | — | — | 6967.007079561855 | $1.00 | $6967.01 | AGL10: 347.83, AGL13: 53.6, AGL14: 764.5, AGL15: 2450.4959999999996, AGL6: 1352.5853362811577, AGL8: 68.00000000000003, BEC: 93.12, Main Ledger: 1820.8757432806974, SEF1: 16 |
 | Cacao Nibs Kraft Pouch - V2 | Packaging Material | Bulk | 2364 | $0.70 | $1662.65 | Main Ledger: 2364 |
 | AGL13 equity holdings | — | — | 2221.5297592375 | $1.00 | $2221.53 | AGL15: 2214.61, Main Ledger: 6.919759237499999 |
 | RMB (CNY, ¥) | — | — | 1000 | $0.15 | $150.00 | Main Ledger: 1000 |
@@ -55,8 +55,8 @@
 | Chocolate Mold from Rusty | — | — | 50 | $10.00 | $500.00 | Main Ledger: 50 |
 | Ceremonial Cacao Kraft Pouch - 20250219006 + Cacao Mass Bar CP340993299BR  San Francisco | — | — | 38 | $9.02 | $342.73 | Main Ledger: 38 |
 | Cacao Mass Bar (500grams) - Ilheus, Brazil 2024 + 047-3175-3223 - San Francisco | Cacao Mass | Bulk | 37 | $24.43 | $903.78 | Main Ledger: 37 |
-| Agroverse 81% Cacao Chocolate Bar 50g \| Vivi Cacao Nibs \| Kirsten 20261025 \| San Francisco - AGL13 | — | — | 36 | $1.99 | $71.53 | AGL13: 36 |
 | RLAVBL 7x5x4 corrugated ship box (50ct, Amazon 111-6184462-4075467) | — | — | 35 | $0.55 | $19.39 | Main Ledger: 35 |
+| Agroverse 81% Cacao Chocolate Bar 50g \| Vivi Cacao Nibs \| Kirsten 20261025 \| San Francisco - AGL13 | — | — | 35 | $1.99 | $69.55 | AGL13: 35 |
 | 1 Gallon Zip Loc Bags | — | — | 34 | $0.14 | $4.78 | Main Ledger: 34 |
 | Agroverse 81% Cacao Chocolate Bar 50g \| Oscar Cacao Nibs \| Kirsten 20261027 \| San Francisco - MAIN | — | — | 34 | $2.71 | $92.11 | Main Ledger: 34 |
 | Sticker Mule 4x2in custom rectangle label (per piece, order R384751187) | — | — | 34 | $0.55 | $18.84 | Main Ledger: 34 |
@@ -133,14 +133,14 @@
 | Winnowing and Cracking Machine from Rusty | — | — | 1 | $400.00 | $400.00 | Main Ledger: 1 |
 | Cacao Almonds KG - Organic | — | — | 0.6535149999999996 | $100.89 | $65.93 | Main Ledger: 0.6535149999999996 |
 | Caramelized Cacao Beans (KG) + CP340993299BR San Francisco AGL10 | — | — | 0.17 | $36.75 | $6.25 | AGL10: 0.17 |
-| ETH | — | — | 4.751602757091522e-14 | $1667.85 | $0.00 | Main Ledger: 4.751602757091522e-14 |
+| ETH | — | — | 4.751602757091522e-14 | $1667.73 | $0.00 | Main Ledger: 4.751602757091522e-14 |
 
 ## Per-ledger totals
 
 | Ledger | Distinct items | Total units |
 |---|---:|---:|
 | AGL10 | 4 | 354 |
-| AGL13 | 6 | 199.1 |
+| AGL13 | 6 | 208.1 |
 | AGL14 | 1 | 764.5 |
 | AGL15 | 3 | 4828.17 |
 | AGL16 | 1 | 108 |
@@ -163,7 +163,7 @@
 | Edge and Node | 4 | 31 | — |
 | Elinor Janelle | 1 | 1 | 4 |
 | Elora - Eugene Oregon | 2 | 9 | — |
-| Gary Teh | 34 | 8472.459036778748 | 323 |
+| Gary Teh | 34 | 8481.459036778748 | 323 |
 | Gergana - The Way Home Shop | 1 | 5 | 5 |
 | Go Ask Alice - Niccolina Ammerman | 2 | 14 | 14 |
 | HackerDojo | 1 | 5 | 5 |
