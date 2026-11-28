@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-28T10:39:35.370Z` |
+| Generated at | `2026-11-28T10:39:51.212Z` |
 | Trigger | `manual` |
 | Schema version | `5` |
 | Item types | 115 |
