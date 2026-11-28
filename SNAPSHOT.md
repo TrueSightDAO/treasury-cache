@@ -5,8 +5,8 @@
 
 | | |
 |---|---|
-| Generated at | `2026-11-28T10:48:29.399Z` |
-| Trigger | `manual` |
+| Generated at | `2026-11-28T10:48:53.029Z` |
+| Trigger | `cron` |
 | Schema version | `5` |
 | Item types | 115 |
 | Total units | 19512.09276776174 |
