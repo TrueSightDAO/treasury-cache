@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-28T08:48:33.124Z",
+  "generated_at": "2026-11-28T09:26:42.622Z",
   "source": "treasury-cache-publisher",
-  "trigger": "cron",
+  "trigger": "manual",
   "schema_version": 5,
   "items": [
     {
@@ -12,13 +12,13 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 6976.96103349569,
-      "total_value_usd": 6976.96,
+      "total_quantity": 6986.96103349569,
+      "total_value_usd": 6986.96,
       "ledgers": {
         "Main Ledger": 1820.8296972145333,
         "AGL6": 1352.5853362811577,
         "AGL8": 68.00000000000003,
-        "AGL13": 63.6,
+        "AGL13": 73.6,
         "AGL10": 347.83,
         "AGL14": 764.5,
         "SEF1": 16,
@@ -583,10 +583,10 @@
       "unit_format": null,
       "gtin": null,
       "hs_code": null,
-      "total_quantity": 34,
-      "total_value_usd": 67.56,
+      "total_quantity": 33,
+      "total_value_usd": 65.57,
       "ledgers": {
-        "AGL13": 34
+        "AGL13": 33
       }
     },
     {
@@ -1614,7 +1614,7 @@
     {
       "currency": "ETH",
       "unit_weight_g": null,
-      "unit_cost_usd": 1651.1711,
+      "unit_cost_usd": 1649.3672000000001,
       "inventory_type": null,
       "unit_format": null,
       "gtin": null,
@@ -1846,18 +1846,18 @@
         },
         {
           "currency": "[AGL13] Agroverse 81% Cacao Chocolate Bar 50g | Vivi Cacao Nibs | Kirsten 20261025 | San Francisco - AGL13",
-          "amount": 33,
+          "amount": 32,
           "ledger": "AGL13",
           "unit_weight_g": 50,
           "unit_cost_usd": 1.987,
-          "total_value_usd": 65.57
+          "total_value_usd": 63.58
         },
         {
           "currency": "[AGL13] USD",
-          "amount": 63.6,
+          "amount": 73.6,
           "ledger": "AGL13",
           "unit_cost_usd": 1,
-          "total_value_usd": 63.6
+          "total_value_usd": 73.6
         },
         {
           "currency": "[AGL14] USD",
@@ -2025,8 +2025,8 @@
           "currency": "ETH",
           "amount": 4.751602757091522e-14,
           "ledger": "Main Ledger",
-          "unit_cost_usd": 1651.1711,
-          "total_value_usd": 7.845709151189841e-11
+          "unit_cost_usd": 1649.3672000000001,
+          "total_value_usd": 7.837137734976325e-11
         },
         {
           "currency": "Heat Sealer for Kraft Pouch",
@@ -11344,8 +11344,8 @@
   ],
   "totals": {
     "item_types": 115,
-    "total_units": 19503.09276776174,
-    "total_value_usd": 37392.82,
+    "total_units": 19512.09276776174,
+    "total_value_usd": 37400.83,
     "ledgers_processed": 16,
     "managers_count": 45,
     "qr_codes_assigned": 1313
